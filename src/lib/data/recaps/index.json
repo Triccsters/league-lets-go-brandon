@@ -1,0 +1,30 @@
+[
+ {
+  "slug": "2026-w04",
+  "season": 2026,
+  "week": 4,
+  "title": "Week 4 recap",
+  "video": false
+ },
+ {
+  "slug": "2026-w03",
+  "season": 2026,
+  "week": 3,
+  "title": "Week 3 recap",
+  "video": false
+ },
+ {
+  "slug": "2026-w02",
+  "season": 2026,
+  "week": 2,
+  "title": "Week 2 recap",
+  "video": false
+ },
+ {
+  "slug": "2026-w01",
+  "season": 2026,
+  "week": 1,
+  "title": "Week 1 recap",
+  "video": false
+ }
+]

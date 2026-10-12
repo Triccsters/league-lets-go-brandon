@@ -1,0 +1,314 @@
+{
+ "generated": "2026-10-12T01:08:38+00:00",
+ "season": 2026,
+ "week": 5,
+ "playoff": false,
+ "games": [
+  {
+   "a": "BROCKSTARxD",
+   "b": "Colt45Johnson",
+   "a_win": 28.2,
+   "rec": {
+    "BROCKSTARxD": [
+     1,
+     3
+    ],
+    "Colt45Johnson": [
+     3,
+     1
+    ]
+   },
+   "avg": {
+    "BROCKSTARxD": 122.72,
+    "Colt45Johnson": 165.88
+   },
+   "last3": {
+    "BROCKSTARxD": [
+     135.98,
+     129.36,
+     115.62
+    ],
+    "Colt45Johnson": [
+     173.44,
+     187.08,
+     152.92
+    ]
+   },
+   "proj": {
+    "BROCKSTARxD": 130.69,
+    "Colt45Johnson": 156.82
+   },
+   "h2h": {
+    "BROCKSTARxD": 4,
+    "Colt45Johnson": 2,
+    "games": 6
+   },
+   "streak": [
+    "Colt45Johnson",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 12,
+    "label": null,
+    "score": {
+     "BROCKSTARxD": 98.66,
+     "Colt45Johnson": 199.3
+    }
+   },
+   "flags": [
+    "Rematch of the 2022 final",
+    "Upset watch: {BROCKSTARxD} is the underdog"
+   ]
+  },
+  {
+   "a": "butterygoop",
+   "b": "YoungBuck04",
+   "a_win": 86.9,
+   "rec": {
+    "butterygoop": [
+     4,
+     0
+    ],
+    "YoungBuck04": [
+     2,
+     2
+    ]
+   },
+   "avg": {
+    "butterygoop": 192.59,
+    "YoungBuck04": 107.77
+   },
+   "last3": {
+    "butterygoop": [
+     191.64,
+     175.24,
+     209.4
+    ],
+    "YoungBuck04": [
+     72.98,
+     95.08,
+     116.08
+    ]
+   },
+   "proj": {
+    "butterygoop": 172.71,
+    "YoungBuck04": 121.78
+   },
+   "h2h": {
+    "butterygoop": 0,
+    "YoungBuck04": 0,
+    "games": 0
+   },
+   "streak": null,
+   "last": null,
+   "flags": [
+    "First ever meeting",
+    "Upset watch: {YoungBuck04} is the underdog"
+   ]
+  },
+  {
+   "a": "TuanonStan",
+   "b": "Thnu",
+   "a_win": 56.9,
+   "rec": {
+    "TuanonStan": [
+     2,
+     2
+    ],
+    "Thnu": [
+     3,
+     1
+    ]
+   },
+   "avg": {
+    "TuanonStan": 134.25,
+    "Thnu": 118.02
+   },
+   "last3": {
+    "TuanonStan": [
+     102.64,
+     151.42,
+     153.7
+    ],
+    "Thnu": [
+     119.32,
+     132.56,
+     121.16
+    ]
+   },
+   "proj": {
+    "TuanonStan": 134.77,
+    "Thnu": 126.9
+   },
+   "h2h": {
+    "TuanonStan": 0,
+    "Thnu": 0,
+    "games": 0
+   },
+   "streak": null,
+   "last": null,
+   "flags": [
+    "First ever meeting"
+   ]
+  },
+  {
+   "a": "brettmn13",
+   "b": "DMsourbeer",
+   "a_win": 37.5,
+   "rec": {
+    "brettmn13": [
+     0,
+     4
+    ],
+    "DMsourbeer": [
+     2,
+     2
+    ]
+   },
+   "avg": {
+    "brettmn13": 124.98,
+    "DMsourbeer": 141.43
+   },
+   "last3": {
+    "brettmn13": [
+     109.16,
+     117.46,
+     141.16
+    ],
+    "DMsourbeer": [
+     179.28,
+     105.42,
+     116.58
+    ]
+   },
+   "proj": {
+    "brettmn13": 129.45,
+    "DMsourbeer": 143.93
+   },
+   "h2h": {
+    "brettmn13": 4,
+    "DMsourbeer": 4,
+    "games": 8
+   },
+   "streak": [
+    "brettmn13",
+    2
+   ],
+   "last": {
+    "season": 2025,
+    "week": 15,
+    "label": "Quarterfinal",
+    "score": {
+     "brettmn13": 169.12,
+     "DMsourbeer": 168.2
+    }
+   },
+   "flags": [
+    "Playoff rematch: {DMsourbeer} lost the 2025 quarterfinal"
+   ]
+  },
+  {
+   "a": "Wallner",
+   "b": "HillBillyWorm",
+   "a_win": 46.3,
+   "rec": {
+    "Wallner": [
+     3,
+     1
+    ],
+    "HillBillyWorm": [
+     3,
+     1
+    ]
+   },
+   "avg": {
+    "Wallner": 139.13,
+    "HillBillyWorm": 150.03
+   },
+   "last3": {
+    "Wallner": [
+     142.32,
+     150.78,
+     113.74
+    ],
+    "HillBillyWorm": [
+     110.78,
+     162.82,
+     179.7
+    ]
+   },
+   "proj": {
+    "Wallner": 138.65,
+    "HillBillyWorm": 142.91
+   },
+   "h2h": {
+    "Wallner": 0,
+    "HillBillyWorm": 0,
+    "games": 0
+   },
+   "streak": null,
+   "last": null,
+   "flags": [
+    "First ever meeting"
+   ]
+  },
+  {
+   "a": "Jbird531",
+   "b": "triccster",
+   "a_win": 44.0,
+   "rec": {
+    "Jbird531": [
+     0,
+     4
+    ],
+    "triccster": [
+     1,
+     3
+    ]
+   },
+   "avg": {
+    "Jbird531": 107.99,
+    "triccster": 124.72
+   },
+   "last3": {
+    "Jbird531": [
+     108.84,
+     101.52,
+     137.88
+    ],
+    "triccster": [
+     110.46,
+     136.16,
+     117.92
+    ]
+   },
+   "proj": {
+    "Jbird531": 119.62,
+    "triccster": 126.45
+   },
+   "h2h": {
+    "Jbird531": 0,
+    "triccster": 1,
+    "games": 1
+   },
+   "streak": [
+    "triccster",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 4,
+    "label": null,
+    "score": {
+     "Jbird531": 165.96,
+     "triccster": 168.44
+    }
+   },
+   "flags": []
+  }
+ ],
+ "league_note": "",
+ "byline": "",
+ "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small."
+}

@@ -1,0 +1,5 @@
+{
+ "_readme": "Hand-written prose. The weekly build never touches this file. managers is keyed by site handle, seasons by year. Blank line between paragraphs.",
+ "managers": {},
+ "seasons": {}
+}

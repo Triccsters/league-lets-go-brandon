@@ -1,0 +1,682 @@
+{
+ "generated": "2026-10-12T01:08:38+00:00",
+ "season": 2026,
+ "through_week": 4,
+ "sims": 10000,
+ "prior": "last_season",
+ "playoff_teams": 6,
+ "playoff_start": 15,
+ "median": false,
+ "sd": 30.2,
+ "remaining_weeks": [
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "teams": [
+  {
+   "h": "butterygoop",
+   "w": 4,
+   "l": 0,
+   "pf": 770.34,
+   "mu": 172.71,
+   "proj_w": 12.0,
+   "playoff": 99.9,
+   "bye": 94.6,
+   "seed1": 81.6,
+   "title": 49.9,
+   "last": 0.0,
+   "sos_faced": 130.77,
+   "sos_rest": 133.33,
+   "rest_opponents": [
+    "YoungBuck04",
+    "HillBillyWorm",
+    "DMsourbeer",
+    "Jbird531",
+    "Thnu",
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "TuanonStan",
+    "triccster",
+    "brettmn13"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "Colt45Johnson",
+   "w": 3,
+   "l": 1,
+   "pf": 663.5,
+   "mu": 156.82,
+   "proj_w": 9.7,
+   "playoff": 96.6,
+   "bye": 52.8,
+   "seed1": 11.5,
+   "title": 21.8,
+   "last": 0.0,
+   "sos_faced": 129.37,
+   "sos_rest": 136.1,
+   "rest_opponents": [
+    "BROCKSTARxD",
+    "YoungBuck04",
+    "TuanonStan",
+    "triccster",
+    "brettmn13",
+    "Wallner",
+    "butterygoop",
+    "HillBillyWorm",
+    "DMsourbeer",
+    "Jbird531"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "HillBillyWorm",
+   "w": 3,
+   "l": 1,
+   "pf": 600.12,
+   "mu": 142.91,
+   "proj_w": 8.5,
+   "playoff": 84.1,
+   "bye": 19.3,
+   "seed1": 3.1,
+   "title": 8.4,
+   "last": 0.1,
+   "sos_faced": 137.46,
+   "sos_rest": 137.23,
+   "rest_opponents": [
+    "Wallner",
+    "butterygoop",
+    "YoungBuck04",
+    "DMsourbeer",
+    "Jbird531",
+    "Thnu",
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "TuanonStan",
+    "triccster"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "Wallner",
+   "w": 3,
+   "l": 1,
+   "pf": 556.54,
+   "mu": 138.65,
+   "proj_w": 8.4,
+   "playoff": 80.0,
+   "bye": 15.7,
+   "seed1": 2.0,
+   "title": 6.1,
+   "last": 0.3,
+   "sos_faced": 137.51,
+   "sos_rest": 133.33,
+   "rest_opponents": [
+    "HillBillyWorm",
+    "DMsourbeer",
+    "Jbird531",
+    "Thnu",
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "TuanonStan",
+    "triccster",
+    "brettmn13",
+    "YoungBuck04"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "DMsourbeer",
+   "w": 2,
+   "l": 2,
+   "pf": 565.72,
+   "mu": 143.93,
+   "proj_w": 7.5,
+   "playoff": 70.2,
+   "bye": 8.8,
+   "seed1": 0.9,
+   "title": 6.6,
+   "last": 0.5,
+   "sos_faced": 136.89,
+   "sos_rest": 137.43,
+   "rest_opponents": [
+    "brettmn13",
+    "Wallner",
+    "butterygoop",
+    "HillBillyWorm",
+    "YoungBuck04",
+    "Jbird531",
+    "Thnu",
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "TuanonStan"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "Thnu",
+   "w": 3,
+   "l": 1,
+   "pf": 472.06,
+   "mu": 126.9,
+   "proj_w": 7.3,
+   "playoff": 51.8,
+   "bye": 3.9,
+   "seed1": 0.5,
+   "title": 1.8,
+   "last": 1.6,
+   "sos_faced": 126.09,
+   "sos_rest": 136.1,
+   "rest_opponents": [
+    "TuanonStan",
+    "triccster",
+    "brettmn13",
+    "Wallner",
+    "butterygoop",
+    "HillBillyWorm",
+    "DMsourbeer",
+    "Jbird531",
+    "YoungBuck04",
+    "BROCKSTARxD"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "TuanonStan",
+   "w": 2,
+   "l": 2,
+   "pf": 536.98,
+   "mu": 134.77,
+   "proj_w": 6.7,
+   "playoff": 47.6,
+   "bye": 3.3,
+   "seed1": 0.3,
+   "title": 2.8,
+   "last": 1.7,
+   "sos_faced": 148.01,
+   "sos_rest": 139.03,
+   "rest_opponents": [
+    "Thnu",
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "YoungBuck04",
+    "triccster",
+    "brettmn13",
+    "Wallner",
+    "butterygoop",
+    "HillBillyWorm",
+    "DMsourbeer"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "BROCKSTARxD",
+   "w": 1,
+   "l": 3,
+   "pf": 490.9,
+   "mu": 130.69,
+   "proj_w": 5.3,
+   "playoff": 20.4,
+   "bye": 0.5,
+   "seed1": 0.0,
+   "title": 0.9,
+   "last": 9.0,
+   "sos_faced": 118.8,
+   "sos_rest": 139.22,
+   "rest_opponents": [
+    "Colt45Johnson",
+    "TuanonStan",
+    "triccster",
+    "brettmn13",
+    "Wallner",
+    "butterygoop",
+    "HillBillyWorm",
+    "DMsourbeer",
+    "Jbird531",
+    "Thnu"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "YoungBuck04",
+   "w": 2,
+   "l": 2,
+   "pf": 431.06,
+   "mu": 121.78,
+   "proj_w": 5.6,
+   "playoff": 19.2,
+   "bye": 0.7,
+   "seed1": 0.1,
+   "title": 0.6,
+   "last": 10.2,
+   "sos_faced": 126.21,
+   "sos_rest": 139.22,
+   "rest_opponents": [
+    "butterygoop",
+    "Colt45Johnson",
+    "HillBillyWorm",
+    "TuanonStan",
+    "DMsourbeer",
+    "triccster",
+    "Jbird531",
+    "brettmn13",
+    "Thnu",
+    "Wallner"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "triccster",
+   "w": 1,
+   "l": 3,
+   "pf": 498.88,
+   "mu": 126.45,
+   "proj_w": 5.1,
+   "playoff": 17.3,
+   "bye": 0.4,
+   "seed1": 0.0,
+   "title": 0.5,
+   "last": 11.5,
+   "sos_faced": 155.8,
+   "sos_rest": 137.43,
+   "rest_opponents": [
+    "Jbird531",
+    "Thnu",
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "TuanonStan",
+    "YoungBuck04",
+    "brettmn13",
+    "Wallner",
+    "butterygoop",
+    "HillBillyWorm"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "brettmn13",
+   "w": 0,
+   "l": 4,
+   "pf": 499.94,
+   "mu": 129.45,
+   "proj_w": 4.4,
+   "playoff": 10.2,
+   "bye": 0.1,
+   "seed1": 0.0,
+   "title": 0.4,
+   "last": 18.8,
+   "sos_faced": 147.38,
+   "sos_rest": 137.23,
+   "rest_opponents": [
+    "DMsourbeer",
+    "Jbird531",
+    "Thnu",
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "TuanonStan",
+    "triccster",
+    "YoungBuck04",
+    "Wallner",
+    "butterygoop"
+   ],
+   "tau": 10.69
+  },
+  {
+   "h": "Jbird531",
+   "w": 0,
+   "l": 4,
+   "pf": 431.96,
+   "mu": 119.62,
+   "proj_w": 3.4,
+   "playoff": 2.9,
+   "bye": 0.0,
+   "seed1": 0.0,
+   "title": 0.0,
+   "last": 46.2,
+   "sos_faced": 135.22,
+   "sos_rest": 139.03,
+   "rest_opponents": [
+    "triccster",
+    "brettmn13",
+    "Wallner",
+    "butterygoop",
+    "HillBillyWorm",
+    "DMsourbeer",
+    "YoungBuck04",
+    "Thnu",
+    "BROCKSTARxD",
+    "Colt45Johnson"
+   ],
+   "tau": 10.69
+  }
+ ],
+ "history": {
+  "1": {
+   "Jbird531": 98.4,
+   "Colt45Johnson": 87.4,
+   "butterygoop": 83.3,
+   "thecreamer": 76.5,
+   "TuanonStan": 61.2,
+   "triccster": 44.7,
+   "brettmn13": 33.3,
+   "RebuildingRUs": 28.3,
+   "YoungBuck04": 27.4,
+   "Wallner": 23.6,
+   "DMsourbeer": 18.2,
+   "TrifectaRich": 17.7
+  },
+  "2": {
+   "Jbird531": 96.5,
+   "butterygoop": 93.9,
+   "thecreamer": 79.1,
+   "Colt45Johnson": 73.7,
+   "TuanonStan": 71.4,
+   "triccster": 41.3,
+   "YoungBuck04": 36.0,
+   "TrifectaRich": 31.9,
+   "Wallner": 23.8,
+   "brettmn13": 21.9,
+   "DMsourbeer": 18.0,
+   "RebuildingRUs": 12.5
+  },
+  "3": {
+   "Jbird531": 98.8,
+   "butterygoop": 98.4,
+   "TuanonStan": 82.7,
+   "thecreamer": 78.3,
+   "Colt45Johnson": 69.8,
+   "triccster": 57.5,
+   "TrifectaRich": 40.0,
+   "YoungBuck04": 26.8,
+   "DMsourbeer": 17.9,
+   "Wallner": 12.7,
+   "brettmn13": 9.8,
+   "RebuildingRUs": 7.4
+  },
+  "4": {
+   "butterygoop": 99.9,
+   "Colt45Johnson": 96.6,
+   "HillBillyWorm": 84.1,
+   "Wallner": 80.0,
+   "DMsourbeer": 70.2,
+   "Thnu": 51.8,
+   "TuanonStan": 47.6,
+   "BROCKSTARxD": 20.4,
+   "YoungBuck04": 19.2,
+   "triccster": 17.3,
+   "brettmn13": 10.2,
+   "Jbird531": 2.9
+  }
+ },
+ "schedule": {
+  "5": [
+   [
+    "Jbird531",
+    "triccster"
+   ],
+   [
+    "TuanonStan",
+    "Thnu"
+   ],
+   [
+    "brettmn13",
+    "DMsourbeer"
+   ],
+   [
+    "BROCKSTARxD",
+    "Colt45Johnson"
+   ],
+   [
+    "butterygoop",
+    "YoungBuck04"
+   ],
+   [
+    "Wallner",
+    "HillBillyWorm"
+   ]
+  ],
+  "6": [
+   [
+    "Jbird531",
+    "brettmn13"
+   ],
+   [
+    "TuanonStan",
+    "BROCKSTARxD"
+   ],
+   [
+    "butterygoop",
+    "HillBillyWorm"
+   ],
+   [
+    "Wallner",
+    "DMsourbeer"
+   ],
+   [
+    "Colt45Johnson",
+    "YoungBuck04"
+   ],
+   [
+    "Thnu",
+    "triccster"
+   ]
+  ],
+  "7": [
+   [
+    "Jbird531",
+    "Wallner"
+   ],
+   [
+    "TuanonStan",
+    "Colt45Johnson"
+   ],
+   [
+    "brettmn13",
+    "Thnu"
+   ],
+   [
+    "BROCKSTARxD",
+    "triccster"
+   ],
+   [
+    "butterygoop",
+    "DMsourbeer"
+   ],
+   [
+    "HillBillyWorm",
+    "YoungBuck04"
+   ]
+  ],
+  "8": [
+   [
+    "Jbird531",
+    "butterygoop"
+   ],
+   [
+    "TuanonStan",
+    "YoungBuck04"
+   ],
+   [
+    "brettmn13",
+    "BROCKSTARxD"
+   ],
+   [
+    "Wallner",
+    "Thnu"
+   ],
+   [
+    "DMsourbeer",
+    "HillBillyWorm"
+   ],
+   [
+    "Colt45Johnson",
+    "triccster"
+   ]
+  ],
+  "9": [
+   [
+    "Jbird531",
+    "HillBillyWorm"
+   ],
+   [
+    "TuanonStan",
+    "triccster"
+   ],
+   [
+    "brettmn13",
+    "Colt45Johnson"
+   ],
+   [
+    "BROCKSTARxD",
+    "Wallner"
+   ],
+   [
+    "butterygoop",
+    "Thnu"
+   ],
+   [
+    "DMsourbeer",
+    "YoungBuck04"
+   ]
+  ],
+  "10": [
+   [
+    "Jbird531",
+    "DMsourbeer"
+   ],
+   [
+    "TuanonStan",
+    "brettmn13"
+   ],
+   [
+    "BROCKSTARxD",
+    "butterygoop"
+   ],
+   [
+    "Wallner",
+    "Colt45Johnson"
+   ],
+   [
+    "HillBillyWorm",
+    "Thnu"
+   ],
+   [
+    "YoungBuck04",
+    "triccster"
+   ]
+  ],
+  "11": [
+   [
+    "Jbird531",
+    "YoungBuck04"
+   ],
+   [
+    "TuanonStan",
+    "Wallner"
+   ],
+   [
+    "brettmn13",
+    "triccster"
+   ],
+   [
+    "BROCKSTARxD",
+    "HillBillyWorm"
+   ],
+   [
+    "butterygoop",
+    "Colt45Johnson"
+   ],
+   [
+    "DMsourbeer",
+    "Thnu"
+   ]
+  ],
+  "12": [
+   [
+    "Jbird531",
+    "Thnu"
+   ],
+   [
+    "TuanonStan",
+    "butterygoop"
+   ],
+   [
+    "brettmn13",
+    "YoungBuck04"
+   ],
+   [
+    "BROCKSTARxD",
+    "DMsourbeer"
+   ],
+   [
+    "Wallner",
+    "triccster"
+   ],
+   [
+    "HillBillyWorm",
+    "Colt45Johnson"
+   ]
+  ],
+  "13": [
+   [
+    "Jbird531",
+    "BROCKSTARxD"
+   ],
+   [
+    "TuanonStan",
+    "HillBillyWorm"
+   ],
+   [
+    "brettmn13",
+    "Wallner"
+   ],
+   [
+    "butterygoop",
+    "triccster"
+   ],
+   [
+    "DMsourbeer",
+    "Colt45Johnson"
+   ],
+   [
+    "Thnu",
+    "YoungBuck04"
+   ]
+  ],
+  "14": [
+   [
+    "Jbird531",
+    "Colt45Johnson"
+   ],
+   [
+    "TuanonStan",
+    "DMsourbeer"
+   ],
+   [
+    "brettmn13",
+    "butterygoop"
+   ],
+   [
+    "BROCKSTARxD",
+    "Thnu"
+   ],
+   [
+    "Wallner",
+    "YoungBuck04"
+   ],
+   [
+    "HillBillyWorm",
+    "triccster"
+   ]
+  ]
+ },
+ "bye_teams": 2
+}
