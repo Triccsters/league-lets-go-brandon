@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T01:08:19+00:00",
+ "generated": "2026-10-13T15:30:03+00:00",
  "site": {
   "league_name": "Lets go Brandon",
   "season": 2026,
@@ -76,7 +76,7 @@
    "butterygoop": "Black guys like tonay",
    "Wallner": "Big Nix Energy",
    "DMsourbeer": "DMsourbeer",
-   "HillBillyWorm": "HillBillyWorm",
+   "HillBillyWorm": "Let’s go Trump Ocean",
    "Colt45Johnson": "Gibble on my Njigba’s",
    "Thnu": "Thnu",
    "YoungBuck04": "YoungBuck04",
@@ -4764,6 +4764,72 @@
    152.92,
    "Thnu",
    121.16,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "Jbird531",
+   109.96,
+   "triccster",
+   128.68,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "TuanonStan",
+   162.5,
+   "Thnu",
+   144.86,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "brettmn13",
+   110.32,
+   "DMsourbeer",
+   102.26,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "BROCKSTARxD",
+   110.36,
+   "Colt45Johnson",
+   177.54,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "butterygoop",
+   189.04,
+   "YoungBuck04",
+   106.58,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "Wallner",
+   170.86,
+   "HillBillyWorm",
+   102.54,
    false,
    null
   ]
