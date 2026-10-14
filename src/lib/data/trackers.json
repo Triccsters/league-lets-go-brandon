@@ -1205,7 +1205,7 @@
        "@@Colt45Johnson",
        3,
        48.3,
-       "Jahmyr Gibbs, Jameson Williams, Joe Burrow"
+       "Jahmyr Gibbs, Joe Burrow, Jameson Williams"
       ],
       [
        6,
@@ -1219,7 +1219,7 @@
        "@@YoungBuck04",
        2,
        26.2,
-       "T.J. Hockenson, Justin Jefferson"
+       "Justin Jefferson, T.J. Hockenson"
       ],
       [
        6,
@@ -1240,7 +1240,7 @@
        "@@HillBillyWorm",
        3,
        41.7,
-       "Trevor Lawrence, Bhayshul Tuten, Brenton Strange"
+       "Bhayshul Tuten, Brenton Strange, Trevor Lawrence"
       ],
       [
        7,
@@ -1254,14 +1254,14 @@
        "@@YoungBuck04",
        3,
        24.9,
-       "Ty Johnson, Stefon Diggs, Ladd McConkey"
+       "Ladd McConkey, Ty Johnson, Stefon Diggs"
       ],
       [
        7,
        "@@TuanonStan",
        2,
        21.1,
-       "DJ Moore, Chig Okonkwo"
+       "Chig Okonkwo, DJ Moore"
       ],
       [
        7,
@@ -1282,7 +1282,7 @@
        "@@BROCKSTARxD",
        2,
        38.8,
-       "Brock Purdy, Christian McCaffrey"
+       "Christian McCaffrey, Brock Purdy"
       ]
      ]
     }
@@ -1895,6 +1895,74 @@
        "@@TuanonStan",
        5.0,
        "Kyle Pitts"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "league",
+   "title": "Only in this league",
+   "intro": "Trackers built for this league's own quirks.",
+   "cards": [
+    {
+     "id": "names",
+     "title": "Team name history",
+     "note": "Every name a team has gone by: its name at the end of each season on record, plus renames caught by the daily update from October 2026 on. Before shows the last five, newest first.",
+     "cols": [
+      "Team",
+      "Names",
+      "Now",
+      "Before"
+     ],
+     "rows": [
+      [
+       "@@BROCKSTARxD",
+       2,
+       "no team name set",
+       "BrockSTARS (2024) / Sleepy Joe’s (2022)"
+      ],
+      [
+       "@@Colt45Johnson",
+       2,
+       "no team name set",
+       "Gibble on my Njigba’s (2023) / Tank Treyn (2022)"
+      ],
+      [
+       "@@TuanonStan",
+       2,
+       "no team name set",
+       "Dark Brandon (2023) / Jan 6th Survivor (2022)"
+      ],
+      [
+       "@@Wallner",
+       2,
+       "no team name set",
+       "Big Nix Energy (2024) / The 0 TE’s (2022)"
+      ],
+      [
+       "@@brettmn13",
+       2,
+       "no team name set",
+       "Babayka (2024) / Iced out (2022)"
+      ],
+      [
+       "@@butterygoop",
+       2,
+       "no team name set",
+       "Black guys like tonay (2024) / Black guys Piss (2022)"
+      ],
+      [
+       "@@HillBillyWorm",
+       1,
+       "Let’s go Trump Ocean",
+       "-"
+      ],
+      [
+       "@@Jbird531",
+       1,
+       "no team name set",
+       "Pronoun police (2023)"
       ]
      ]
     }
