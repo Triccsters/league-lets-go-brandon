@@ -15,7 +15,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Lets go Brandon site, a 12-team dynasty superflex league: full PPR with a half-point TE premium.</p>
+  <p>A 12-team dynasty superflex league: full PPR with a half-point TE premium.</p>
 `;
 
 

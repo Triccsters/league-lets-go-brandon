@@ -436,6 +436,13 @@
   }
  ],
  "ahead": "Game of the week: Wallner and DMsourbeer, 4-1 against 2-3, with DMsourbeer on a four-game run in the series. triccster's new lineup gets Thnu, and brettmn13 goes for six straight over Jbird531.",
+ "gotw": {
+  "week": 6,
+  "teams": [
+   "Wallner",
+   "DMsourbeer"
+  ]
+ },
  "links": [
   {
    "href": "/trackers",
