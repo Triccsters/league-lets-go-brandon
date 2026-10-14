@@ -1,17 +1,17 @@
 {
  "slug": "2026-w05",
- "masthead": "The Brandon Bulletin",
- "tagline": "The Lets go Brandon weekly. Dynasty, superflex, tight ends paid extra.",
- "headline": "butterygoop Goes 5-0, triccster Goes All In",
- "dek": "The defending champ is unbeaten for the first time, two first-round picks buy Derrick Henry and Ja'Marr Chase, and Jbird531 is 0-5 for a second straight year.",
+ "masthead": "Lets go Brandon Weekly",
+ "tagline": "The Lets go Brandon league newsletter · est. 2022",
+ "headline": "Issue One: butterygoop Goes 5-0, triccster Goes All In",
+ "dek": "The first Lets go Brandon Weekly. Inside: the defending champ's 5-0 start, two first-round picks for Derrick Henry and Ja'Marr Chase, Jbird531 at 0-5 again, and every manager's story so far.",
  "lead": "butterygoop had never started 5-0 in this league until now. He has scored 175 or more every week (194.06, 191.64, 175.24, 209.40, 189.04), and the four highest scores of the season all belong to him.\n\nThe other story is triccster, who won his second straight and then went shopping: his 2027 and 2028 first-round picks, Ashton Jeanty and Theo Johnson went to brettmn13 for Derrick Henry and Ja'Marr Chase, and two second-round picks and Quentin Johnston went to Jbird531 for Jaylen Waddle and Troy Franklin. Henry and Chase scored 40.7 in their first start together.",
  "managers": [
   {
    "handle": "butterygoop",
    "arc": "Unbeaten, finally",
    "mood": "up",
-   "text": "5-0 with the most points in the league and the season high, 209.40. Week 5 was an 82.46-point win over YoungBuck04, the biggest of the week, behind Jaylen Warren (36.8), Josh Allen (31.5) and Trey McBride (26.1), with Sam LaPorta scoring 22.3 on the bench. His best start before this was 4-1, three years running. Last year's champion is a near-lock for a bye.",
-   "next": "Week 6: HillBillyWorm, a first meeting. butterygoop is a 78.7% favorite.",
+   "text": "5-0 with the most points in the league and the season high, 209.40. Week 5 was an 82.46-point win over YoungBuck04, the biggest of the week, behind Jaylen Warren (36.8), Josh Allen (31.5) and Trey McBride (26.1), with Sam LaPorta scoring 22.3 on the bench. His best start before this was 4-1, three years running. The model gives last year's champion a bye 97% of the time.",
+   "next": "Week 6: HillBillyWorm, a first meeting. butterygoop is a 79% favorite.",
    "odds": {
     "playoff": 100.0,
     "bye": 96.9,
@@ -44,7 +44,7 @@
    "arc": "Right behind",
    "mood": "up",
    "text": "4-1, second in points, above the median every week, three straight wins. Week 5 was 177.54 over BROCKSTARxD with Jahmyr Gibbs (37.7) and Malik Nabers (29.1). The only loss was 179.28 to 173.44 against DMsourbeer in week 2. His 4-1 starts have produced the 2024 title and a playoff trip last year.",
-   "next": "Week 6: YoungBuck04, a first meeting. Colt45Johnson is an 80.5% favorite.",
+   "next": "Week 6: YoungBuck04, a first meeting. Colt45Johnson is an 80% favorite.",
    "odds": {
     "playoff": 98.8,
     "bye": 64.4,
@@ -77,7 +77,7 @@
    "arc": "Steady",
    "mood": "up",
    "text": "4-1 and third in points; the one loss came against butterygoop's 209.40. Week 5 was 170.86 over HillBillyWorm, with Isaiah Likely (37.9) cashing in the TE premium and Parker Washington (30.4) and Mike Evans (26.3) behind him. He has faced the toughest schedule of the top three. The 2023 champion.",
-   "next": "Week 6: DMsourbeer, who has won four straight in the series. Wallner is a 52.6% favorite anyway.",
+   "next": "Week 6: DMsourbeer, who has won four straight in the series. Wallner is a 53% favorite anyway.",
    "odds": {
     "playoff": 93.5,
     "bye": 24.9,
@@ -107,7 +107,7 @@
    "arc": "The newcomer",
    "mood": "flat",
    "text": "3-2 and fourth in points in his first season here, with wins over TuanonStan, triccster and brettmn13. Week 5 went the wrong way: 102.54 in a 68.32-point loss to Wallner, with 43.80 left on the bench. Pat Freiermuth scored 24.0 there; he has 69.8 points for HillBillyWorm this year, none of them in the lineup.",
-   "next": "Week 6: butterygoop, a first meeting. HillBillyWorm is at 21.3%.",
+   "next": "Week 6: butterygoop, a first meeting. HillBillyWorm is at 21%.",
    "odds": {
     "playoff": 73.3,
     "bye": 5.3,
@@ -140,7 +140,7 @@
    "arc": "Three straight",
    "mood": "up",
    "text": "Lost the first two, won the last three, with 162.50 in week 5 to beat Thnu. Puka Nacua (37.7), George Pickens (28.0) and Matthew Stafford (27.32) led it. Pickens came over before the season and has started every week. His last two 3-2 starts both made the playoffs, and last year's ended in the final.",
-   "next": "Week 6: BROCKSTARxD, whom he beat in last year's quarterfinal. TuanonStan is a 58.2% favorite.",
+   "next": "Week 6: BROCKSTARxD, whom he beat in last year's quarterfinal. TuanonStan is a 58% favorite.",
    "odds": {
     "playoff": 68.2,
     "bye": 4.4,
@@ -173,7 +173,7 @@
    "arc": "Cooling off",
    "mood": "down",
    "text": "Won the first three, lost the last two. Week 5 was 144.86, a good score that ran into TuanonStan; Christian Watson (32.3) and Brock Bowers (26.0) led it, and 33.10 sat on the bench. First season here, and the model calls the playoffs a coin flip.",
-   "next": "Week 6: triccster, a first meeting and a coin flip at 51.9%.",
+   "next": "Week 6: triccster, a first meeting and a coin flip at 52%.",
    "odds": {
     "playoff": 51.8,
     "bye": 1.9,
@@ -202,7 +202,7 @@
    "arc": "Three straight losses",
    "mood": "down",
    "text": "Opened 2-0, including a 179.28 to 173.44 win over Colt45Johnson, and has lost three straight since. Week 5 was an 8.06-point loss to brettmn13 in which Amon-Ra St. Brown and Zay Flowers each came in about 11 under their usual. He went 4-1 last year and is still a coin flip for the playoffs.",
-   "next": "Week 6: Wallner, a series DMsourbeer has won four straight. He is at 47.4%.",
+   "next": "Week 6: Wallner, a series DMsourbeer has won four straight. He is at 47%.",
    "odds": {
     "playoff": 50.6,
     "bye": 1.6,
@@ -230,8 +230,8 @@
    "handle": "triccster",
    "arc": "All in",
    "mood": "up",
-   "text": "2-3 after an 0-3 start, and done waiting. Week 5 was 128.68 to 109.96 over Jbird531 with Derrick Henry (21.0) and Ja'Marr Chase (19.7) starting in their first week, though 46.16 sat on the bench, the most in the league, including Bucky Irving's 31.5. The odds, built on points already scored, have him at 22.3%; the trades are a bet that number is out of date.",
-   "next": "Week 6: Thnu, a first meeting. triccster is at 48.1%.",
+   "text": "2-3 after an 0-3 start, and done waiting. Week 5 was 128.68 to 109.96 over Jbird531 with Derrick Henry (21.0) and Ja'Marr Chase (19.7) starting in their first week, though 46.16 sat on the bench, the most in the league, including Bucky Irving's 31.5. The odds, built on points already scored, have him at 22%; the trades are a bet that number is out of date.",
+   "next": "Week 6: Thnu, a first meeting. triccster is at 48%.",
    "odds": {
     "playoff": 22.3,
     "bye": 0.3,
@@ -260,7 +260,7 @@
    "arc": "Rough week",
    "mood": "down",
    "text": "2-3 with the fewest points in the league in his first season here. Week 5 was an 82.46-point loss to butterygoop, with Jacoby Brissett (26.28) and Aaron Rodgers (22.0) at quarterback and 43.00 left on the bench.",
-   "next": "Week 6: Colt45Johnson, a first meeting. YoungBuck04 is at 19.5%.",
+   "next": "Week 6: Colt45Johnson, a first meeting. YoungBuck04 is at 20%.",
    "odds": {
     "playoff": 14.8,
     "bye": 0.1,
@@ -291,7 +291,7 @@
    "arc": "Sold high",
    "mood": "flat",
    "text": "1-4, and in week 5 he picked a direction: Derrick Henry and Ja'Marr Chase to triccster for Ashton Jeanty, Theo Johnson and first-round picks in 2027 and 2028. Henry had scored 90.8 in four starts for him. He won anyway, 110.32 to 102.26 over DMsourbeer, with Jameis Winston (24.74) at quarterback and Jayden Daniels scoring 32.26 on his bench.",
-   "next": "Week 6: Jbird531, whom he has beaten five straight times. brettmn13 is a 57.7% favorite.",
+   "next": "Week 6: Jbird531, whom he has beaten five straight times. brettmn13 is a 58% favorite.",
    "odds": {
     "playoff": 11.5,
     "bye": 0.0,
@@ -324,7 +324,7 @@
    "arc": "Three straight losses",
    "mood": "down",
    "text": "1-4 after 110.36 in a 67.18-point loss to Colt45Johnson. Christian McCaffrey (17.3) and Emeka Egbuka (17.2) led a lineup that included a 0.0 from Jonnu Smith, picked up that week. The 2022 champion started 4-1 in each of his last two seasons here.",
-   "next": "Week 6: TuanonStan, who knocked him out in last year's quarterfinal. BROCKSTARxD is at 41.8%.",
+   "next": "Week 6: TuanonStan, who knocked him out in last year's quarterfinal. BROCKSTARxD is at 42%.",
    "odds": {
     "playoff": 14.0,
     "bye": 0.1,
@@ -353,7 +353,7 @@
    "arc": "0-5 again",
    "mood": "down",
    "text": "0-5 for the second year running, after a 128.68 to 109.96 loss to triccster. Drake Maye (39.46) and Tyler Warren (24.9) did their part. All three 0-5 starts in league history missed the playoffs, and he is 0-5 all time against his next opponent.",
-   "next": "Week 6: brettmn13, who has won all five meetings. Jbird531 is at 42.3%.",
+   "next": "Week 6: brettmn13, who has won all five meetings. Jbird531 is at 42%.",
    "odds": {
     "playoff": 1.3,
     "bye": 0.0,
@@ -1291,7 +1291,7 @@
      "butterygoop",
      "triccster"
     ],
-    "note": "Wallner owns both Ravens quarterbacks, so Lamar Jackson missing the game cost him nothing: Tyler Huntley led the comeback win. That is the superflex handcuff doing its job."
+    "note": "Wallner owns both Ravens quarterbacks, so Lamar Jackson missing the game cost him nothing: Tyler Huntley led the comeback win."
    },
    {
     "headline": "Judkins, Schwesinger (ankles) add to injury woes for Browns",
