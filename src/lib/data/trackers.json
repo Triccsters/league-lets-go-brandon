@@ -297,62 +297,73 @@
     {
      "id": "gm",
      "title": "GM of the year",
-     "note": "Points started this season by players brought in by trade or off the wire, not the draft.",
+     "note": "Points started this season by players brought in by trade or off the wire, not the draft. Wire pts missed: each week's best possible free-agent upgrade over a starter, added up.",
      "cols": [
       "Team",
       "Started pts",
-      "Players used"
+      "Players used",
+      "Wire pts missed"
      ],
      "rows": [
       [
        "@@brettmn13",
        202.5,
-       8
+       8,
+       75.0
       ],
       [
        "@@butterygoop",
        169.4,
-       2
+       2,
+       48.9
       ],
       [
        "@@TuanonStan",
        68.5,
-       1
+       1,
+       78.1
       ],
       [
        "@@Jbird531",
        52.6,
-       2
+       2,
+       84.1
       ],
       [
        "@@YoungBuck04",
        49.6,
-       4
+       4,
+       80.3
       ],
       [
        "@@triccster",
        40.7,
-       2
+       2,
+       77.9
       ],
       [
        "@@Colt45Johnson",
        26.5,
-       1
+       1,
+       74.7
       ],
       [
        "@@HillBillyWorm",
        24.8,
-       4
+       4,
+       78.3
       ],
       [
        "@@Wallner",
        24.0,
-       1
+       1,
+       78.9
       ],
       [
        "@@BROCKSTARxD",
        0.0,
-       1
+       1,
+       79.3
       ]
      ],
      "race": true
@@ -567,6 +578,101 @@
        668.0,
        733.3,
        -65.3
+      ]
+     ]
+    },
+    {
+     "id": "wire_flips",
+     "title": "The wire would have won it",
+     "note": "Losses that one unrostered player would have turned into a win: the best free agent that week, scored with this league's settings, in for a starter at a slot he could fill. Unrostered means not on any roster by the end of that week; waiver timing and game locks are not checked.",
+     "cols": [
+      "Week",
+      "Team",
+      "Lost to",
+      "Free agent",
+      "In for",
+      "Lost by"
+     ],
+     "rows": [
+      [
+       5,
+       "@@DMsourbeer",
+       "@@brettmn13",
+       "Teagan Quitoriano (TE) 16.5",
+       "Kenyon Sadiq 0.3",
+       8.1
+      ],
+      [
+       4,
+       "@@Jbird531",
+       "@@TuanonStan",
+       "Darius Cooper (WR) 18.3",
+       "Tyjae Spears 1.6",
+       15.8
+      ],
+      [
+       4,
+       "@@DMsourbeer",
+       "@@triccster",
+       "Darius Cooper (WR) 18.3",
+       "Kenyon Sadiq 0.0",
+       1.3
+      ],
+      [
+       4,
+       "@@BROCKSTARxD",
+       "@@YoungBuck04",
+       "Darius Cooper (WR) 18.3",
+       "Emeka Egbuka 3.3",
+       0.5
+      ],
+      [
+       3,
+       "@@BROCKSTARxD",
+       "@@Thnu",
+       "Tyler Higbee (TE) 24.2",
+       "Xavier Worthy 4.0",
+       3.2
+      ],
+      [
+       2,
+       "@@TuanonStan",
+       "@@HillBillyWorm",
+       "Cody White (WR) 16.4",
+       "DJ Moore -0.1",
+       8.1
+      ],
+      [
+       2,
+       "@@Colt45Johnson",
+       "@@DMsourbeer",
+       "Cody White (WR) 16.4",
+       "Malik Nabers 1.1",
+       5.8
+      ],
+      [
+       1,
+       "@@Jbird531",
+       "@@Thnu",
+       "Kalif Raymond (WR) 16.4",
+       "Jordan Addison 0.0",
+       15.3
+      ],
+      [
+       1,
+       "@@brettmn13",
+       "@@YoungBuck04",
+       "Kalif Raymond (WR) 16.4",
+       "Romeo Doubs 0.0",
+       14.8
+      ],
+      [
+       1,
+       "@@HillBillyWorm",
+       "@@Colt45Johnson",
+       "Kalif Raymond (WR) 16.4",
+       "Brian Thomas 6.0",
+       3.2
       ]
      ]
     }
@@ -835,7 +941,7 @@
       [
        5,
        "@@triccster",
-       28.2,
+       28.3,
        "Michael Penix, Dalton Schultz, Ryan Flournoy"
       ],
       [
@@ -999,72 +1105,85 @@
     {
      "id": "coach",
      "title": "Coach of the year",
-     "note": "Average lineup efficiency: started points as a share of the best possible lineup each week.",
+     "note": "Average lineup efficiency: started points as a share of the best possible lineup each week. Wire flips: losses one free agent would have turned into wins.",
      "cols": [
       "Team",
       "Efficiency",
-      "Weeks"
+      "Weeks",
+      "Wire flips"
      ],
      "rows": [
       [
        "@@Colt45Johnson",
        "88.1%",
-       5
+       5,
+       1
       ],
       [
        "@@butterygoop",
        "86.8%",
-       5
+       5,
+       0
       ],
       [
        "@@TuanonStan",
        "86.1%",
-       5
+       5,
+       1
       ],
       [
        "@@Thnu",
        "85.4%",
-       5
+       5,
+       0
       ],
       [
        "@@triccster",
        "85.4%",
-       5
+       5,
+       0
       ],
       [
        "@@BROCKSTARxD",
        "82.4%",
-       5
+       5,
+       2
       ],
       [
        "@@Wallner",
        "82.1%",
-       5
+       5,
+       0
       ],
       [
        "@@brettmn13",
        "81.8%",
-       5
+       5,
+       1
       ],
       [
        "@@Jbird531",
        "80.6%",
-       5
+       5,
+       2
       ],
       [
        "@@DMsourbeer",
        "80.6%",
-       5
+       5,
+       2
       ],
       [
        "@@YoungBuck04",
        "77.8%",
-       5
+       5,
+       0
       ],
       [
        "@@HillBillyWorm",
        "77.3%",
-       5
+       5,
+       1
       ]
      ],
      "race": true
@@ -1107,35 +1226,35 @@
        "@@brettmn13",
        2,
        20.3,
-       "Jordan Mason, Ollie Gordon"
+       "Ollie Gordon, Jordan Mason"
       ],
       [
        6,
        "@@Jbird531",
        2,
        14.1,
-       "Caleb Douglas, Jordan Addison"
+       "Jordan Addison, Caleb Douglas"
       ],
       [
        7,
        "@@HillBillyWorm",
        3,
        41.7,
-       "Brenton Strange, Bhayshul Tuten, Trevor Lawrence"
+       "Trevor Lawrence, Bhayshul Tuten, Brenton Strange"
       ],
       [
        7,
        "@@Wallner",
        2,
        25.7,
-       "Parker Washington, Dalton Kincaid"
+       "Dalton Kincaid, Parker Washington"
       ],
       [
        7,
        "@@YoungBuck04",
        3,
        24.9,
-       "Stefon Diggs, Ladd McConkey, Ty Johnson"
+       "Ty Johnson, Stefon Diggs, Ladd McConkey"
       ],
       [
        7,
@@ -1163,7 +1282,7 @@
        "@@BROCKSTARxD",
        2,
        38.8,
-       "Christian McCaffrey, Brock Purdy"
+       "Brock Purdy, Christian McCaffrey"
       ]
      ]
     }
@@ -1415,7 +1534,7 @@
        "@@TuanonStan",
        5,
        2,
-       "Jalen Hurts 16.5, Matthew Stafford 15.5, Ty Simpson 0.0"
+       "Jalen Hurts 16.4, Matthew Stafford 15.5, Ty Simpson 0.0"
       ],
       [
        "@@butterygoop",
