@@ -1,106 +1,8 @@
 {
- "read_at": "2026-10-14T01:34+00:00",
+ "read_at": "2026-10-14T13:44+00:00",
  "days": 7,
- "count": 125,
+ "count": 119,
  "items": [
-  {
-   "headline": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
-   "url": "https://www.espn.com/nfl/story/_/id/50164378/backup-qb-tyler-huntley-leads-ravens-comeback-ot-win-vs-falcons",
-   "date": "2026-10-12",
-   "kind": "news",
-   "teams": [
-    "BAL"
-   ],
-   "named": [
-    {
-     "n": "Tyler Huntley",
-     "p": "QB",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Lamar Jackson",
-     "p": "QB",
-     "t": "BAL",
-     "h": "Wallner"
-    }
-   ],
-   "lead": [
-    "Tyler Huntley"
-   ],
-   "ripple": [
-    {
-     "n": "Mark Andrews",
-     "p": "TE",
-     "t": "BAL",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Rashod Bateman",
-     "p": "WR",
-     "t": "BAL",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Matt Hibner",
-     "p": "TE",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Adam Randall",
-     "p": "RB",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Zay Flowers",
-     "p": "WR",
-     "t": "BAL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Justice Hill",
-     "p": "RB",
-     "t": "BAL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Ja'Kobi Lane",
-     "p": "WR",
-     "t": "BAL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Elijah Sarratt",
-     "p": "WR",
-     "t": "BAL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Devontez Walker",
-     "p": "WR",
-     "t": "BAL",
-     "h": "Thnu"
-    },
-    {
-     "n": "Derrick Henry",
-     "p": "RB",
-     "t": "BAL",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "DMsourbeer",
-    "HillBillyWorm",
-    "Thnu",
-    "Wallner",
-    "brettmn13",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 17.0
-  },
   {
    "headline": "Judkins, Schwesinger (ankles) add to injury woes for Browns",
    "url": "https://www.espn.com/nfl/story/_/id/50167865/judkins-schwesinger-ankles-add-injury-woes-browns",
@@ -694,105 +596,6 @@
    "score": 16.0
   },
   {
-   "headline": "Falcons' Michael Penix Jr. injures rib late in loss to Ravens",
-   "url": "https://www.espn.com/nfl/story/_/id/50164195/falcons-michael-penix-jr-injures-rib-late-loss-ravens",
-   "date": "2026-10-12",
-   "kind": "news",
-   "teams": [
-    "ATL"
-   ],
-   "named": [
-    {
-     "n": "Michael Penix",
-     "p": "QB",
-     "t": "ATL",
-     "h": "triccster"
-    }
-   ],
-   "lead": [
-    "Michael Penix"
-   ],
-   "ripple": [
-    {
-     "n": "Tua Tagovailoa",
-     "p": "QB",
-     "t": "ATL",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Kyle Pitts",
-     "p": "TE",
-     "t": "ATL",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Olamide Zaccheaus",
-     "p": "WR",
-     "t": "ATL",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Drake London",
-     "p": "WR",
-     "t": "ATL",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Zachariah Branch",
-     "p": "WR",
-     "t": "ATL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Bijan Robinson",
-     "p": "RB",
-     "t": "ATL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Brian Robinson",
-     "p": "RB",
-     "t": "ATL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Jahan Dotson",
-     "p": "WR",
-     "t": "ATL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Jam Miller",
-     "p": "RB",
-     "t": "ATL",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Cooper Rush",
-     "p": "QB",
-     "t": "ATL",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Austin Hooper",
-     "p": "TE",
-     "t": "ATL",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "DMsourbeer",
-    "HillBillyWorm",
-    "TuanonStan",
-    "YoungBuck04",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
    "headline": "Shanahan says 49ers WR Deebo Samuel to miss time with hamstring injury",
    "url": "https://www.espn.com/nfl/story/_/id/50168446/shanahan-49ers-wr-samuel-miss-hamstring-injury",
    "date": "2026-10-12",
@@ -1015,6 +818,104 @@
    "score": 16.0
   },
   {
+   "headline": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
+   "url": "https://www.espn.com/nfl/story/_/id/50164378/backup-qb-tyler-huntley-leads-ravens-comeback-ot-win-vs-falcons",
+   "date": "2026-10-12",
+   "kind": "news",
+   "teams": [
+    "BAL"
+   ],
+   "named": [
+    {
+     "n": "Tyler Huntley",
+     "p": "QB",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Lamar Jackson",
+     "p": "QB",
+     "t": "BAL",
+     "h": "Wallner"
+    }
+   ],
+   "lead": [
+    "Tyler Huntley"
+   ],
+   "ripple": [
+    {
+     "n": "Mark Andrews",
+     "p": "TE",
+     "t": "BAL",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Rashod Bateman",
+     "p": "WR",
+     "t": "BAL",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Matt Hibner",
+     "p": "TE",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Adam Randall",
+     "p": "RB",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Zay Flowers",
+     "p": "WR",
+     "t": "BAL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Justice Hill",
+     "p": "RB",
+     "t": "BAL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Ja'Kobi Lane",
+     "p": "WR",
+     "t": "BAL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Elijah Sarratt",
+     "p": "WR",
+     "t": "BAL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Devontez Walker",
+     "p": "WR",
+     "t": "BAL",
+     "h": "Thnu"
+    },
+    {
+     "n": "Derrick Henry",
+     "p": "RB",
+     "t": "BAL",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "DMsourbeer",
+    "HillBillyWorm",
+    "Thnu",
+    "Wallner",
+    "brettmn13",
+    "butterygoop",
+    "triccster"
+   ],
+   "score": 15.0
+  },
+  {
    "headline": "Sputtering Jets offense without RB Hall, WR Mitchell vs. Browns",
    "url": "https://www.espn.com/nfl/story/_/id/50140789/sputtering-jets-offense-rb-hall-wr-mitchell-vs-browns",
    "date": "2026-10-09",
@@ -1121,6 +1022,117 @@
    "score": 15.0
   },
   {
+   "headline": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job'",
+   "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
+   "date": "2026-10-14",
+   "kind": "news",
+   "teams": [
+    "GB",
+    "WAS"
+   ],
+   "named": [
+    {
+     "n": "Jayden Daniels",
+     "p": "QB",
+     "t": "WAS",
+     "h": "brettmn13"
+    }
+   ],
+   "lead": [
+    "Jayden Daniels"
+   ],
+   "ripple": [
+    {
+     "n": "Devin Neal",
+     "p": "RB",
+     "t": "WAS",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Luke McCaffrey",
+     "p": "WR",
+     "t": "WAS",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Rachaad White",
+     "p": "RB",
+     "t": "WAS",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Chig Okonkwo",
+     "p": "TE",
+     "t": "WAS",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Jacory Croskey-Merritt",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Jaylin Lane",
+     "p": "WR",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Jeremy McNichols",
+     "p": "RB",
+     "t": "WAS",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Terry McLaurin",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Wallner"
+    },
+    {
+     "n": "Treylon Burks",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Wallner"
+    },
+    {
+     "n": "Austin Ekeler",
+     "p": "RB",
+     "t": "WAS",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Marcus Mariota",
+     "p": "QB",
+     "t": "WAS",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Stefon Diggs",
+     "p": "WR",
+     "t": "WAS",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Antonio Williams",
+     "p": "WR",
+     "t": "WAS",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "HillBillyWorm",
+    "Jbird531",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "brettmn13"
+   ],
+   "score": 14.0
+  },
+  {
    "headline": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
    "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
    "date": "2026-10-13",
@@ -1218,110 +1230,6 @@
     "brettmn13",
     "butterygoop",
     "triccster"
-   ],
-   "score": 14.0
-  },
-  {
-   "headline": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job'",
-   "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
-   "date": "2026-10-13",
-   "kind": "news",
-   "teams": [
-    "GB",
-    "WAS"
-   ],
-   "named": [
-    {
-     "n": "Jayden Daniels",
-     "p": "QB",
-     "t": "WAS",
-     "h": "brettmn13"
-    }
-   ],
-   "lead": [
-    "Jayden Daniels"
-   ],
-   "ripple": [
-    {
-     "n": "Luke McCaffrey",
-     "p": "WR",
-     "t": "WAS",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Rachaad White",
-     "p": "RB",
-     "t": "WAS",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Chig Okonkwo",
-     "p": "TE",
-     "t": "WAS",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Jacory Croskey-Merritt",
-     "p": "RB",
-     "t": "WAS",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Jaylin Lane",
-     "p": "WR",
-     "t": "WAS",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Jeremy McNichols",
-     "p": "RB",
-     "t": "WAS",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Terry McLaurin",
-     "p": "WR",
-     "t": "WAS",
-     "h": "Wallner"
-    },
-    {
-     "n": "Treylon Burks",
-     "p": "WR",
-     "t": "WAS",
-     "h": "Wallner"
-    },
-    {
-     "n": "Austin Ekeler",
-     "p": "RB",
-     "t": "WAS",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Marcus Mariota",
-     "p": "QB",
-     "t": "WAS",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Stefon Diggs",
-     "p": "WR",
-     "t": "WAS",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Antonio Williams",
-     "p": "WR",
-     "t": "WAS",
-     "h": "YoungBuck04"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "HillBillyWorm",
-    "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
-    "brettmn13"
    ],
    "score": 14.0
   },
@@ -1429,6 +1337,105 @@
     "Wallner",
     "YoungBuck04",
     "brettmn13",
+    "butterygoop",
+    "triccster"
+   ],
+   "score": 14.0
+  },
+  {
+   "headline": "Falcons' Michael Penix Jr. injures rib late in loss to Ravens",
+   "url": "https://www.espn.com/nfl/story/_/id/50164195/falcons-michael-penix-jr-injures-rib-late-loss-ravens",
+   "date": "2026-10-12",
+   "kind": "news",
+   "teams": [
+    "ATL"
+   ],
+   "named": [
+    {
+     "n": "Michael Penix",
+     "p": "QB",
+     "t": "ATL",
+     "h": "triccster"
+    }
+   ],
+   "lead": [
+    "Michael Penix"
+   ],
+   "ripple": [
+    {
+     "n": "Tua Tagovailoa",
+     "p": "QB",
+     "t": "ATL",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Kyle Pitts",
+     "p": "TE",
+     "t": "ATL",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Olamide Zaccheaus",
+     "p": "WR",
+     "t": "ATL",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Drake London",
+     "p": "WR",
+     "t": "ATL",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Zachariah Branch",
+     "p": "WR",
+     "t": "ATL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Bijan Robinson",
+     "p": "RB",
+     "t": "ATL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Brian Robinson",
+     "p": "RB",
+     "t": "ATL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Jahan Dotson",
+     "p": "WR",
+     "t": "ATL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Jam Miller",
+     "p": "RB",
+     "t": "ATL",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Cooper Rush",
+     "p": "QB",
+     "t": "ATL",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Austin Hooper",
+     "p": "TE",
+     "t": "ATL",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "DMsourbeer",
+    "HillBillyWorm",
+    "TuanonStan",
+    "YoungBuck04",
     "butterygoop",
     "triccster"
    ],
