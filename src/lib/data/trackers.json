@@ -638,7 +638,7 @@
       ],
       [
        "@@triccster",
-       "TE",
+       "RB, TE",
        "QB",
        "QB 9 RB 6 WR 8 TE 8"
       ],
@@ -677,7 +677,7 @@
        "@@DMsourbeer",
        "QB",
        "@@triccster",
-       "TE"
+       "RB/TE"
       ],
       [
        "@@TuanonStan",
@@ -714,7 +714,7 @@
        "@@DMsourbeer",
        "Jordan Love",
        "QB GB",
-       15.5
+       15.4
       ],
       [
        "@@butterygoop",
@@ -736,9 +736,15 @@
       ],
       [
        "@@butterygoop",
+       "A.J. Brown",
+       "WR NE",
+       11.1
+      ],
+      [
+       "@@butterygoop",
        "Darren Waller",
        "TE CAR",
-       10.4
+       10.5
       ],
       [
        "@@HillBillyWorm",
@@ -757,12 +763,6 @@
        "Terry McLaurin",
        "WR WAS",
        9.9
-      ],
-      [
-       "@@butterygoop",
-       "A.J. Brown",
-       "WR NE",
-       9.8
       ],
       [
        "@@TuanonStan",
@@ -853,7 +853,7 @@
       [
        8,
        "@@TuanonStan",
-       22.8,
+       22.9,
        "Denzel Boston, Kyle Pitts, Evan Engram"
       ],
       [
@@ -1086,7 +1086,7 @@
        "@@Colt45Johnson",
        3,
        48.3,
-       "Jameson Williams, Jahmyr Gibbs, Joe Burrow"
+       "Jahmyr Gibbs, Jameson Williams, Joe Burrow"
       ],
       [
        6,
@@ -1107,35 +1107,35 @@
        "@@brettmn13",
        2,
        20.3,
-       "Ollie Gordon, Jordan Mason"
+       "Jordan Mason, Ollie Gordon"
       ],
       [
        6,
        "@@Jbird531",
        2,
        14.1,
-       "Jordan Addison, Caleb Douglas"
+       "Caleb Douglas, Jordan Addison"
       ],
       [
        7,
        "@@HillBillyWorm",
        3,
-       41.8,
-       "Bhayshul Tuten, Brenton Strange, Trevor Lawrence"
+       41.7,
+       "Brenton Strange, Bhayshul Tuten, Trevor Lawrence"
       ],
       [
        7,
        "@@Wallner",
        2,
        25.7,
-       "Dalton Kincaid, Parker Washington"
+       "Parker Washington, Dalton Kincaid"
       ],
       [
        7,
        "@@YoungBuck04",
        3,
        24.9,
-       "Ty Johnson, Stefon Diggs, Ladd McConkey"
+       "Stefon Diggs, Ladd McConkey, Ty Johnson"
       ],
       [
        7,
@@ -1156,7 +1156,7 @@
        "@@butterygoop",
        3,
        45.7,
-       "C.J. Stroud, Chris Olave, Nico Collins"
+       "Chris Olave, Nico Collins, C.J. Stroud"
       ],
       [
        8,
@@ -1409,7 +1409,7 @@
        "@@DMsourbeer",
        6,
        2,
-       "Patrick Mahomes 18.6, Jordan Love 15.5, Geno Smith 12.8"
+       "Patrick Mahomes 18.6, Jordan Love 15.4, Geno Smith 12.8"
       ],
       [
        "@@TuanonStan",
@@ -1427,7 +1427,7 @@
        "@@triccster",
        5,
        2,
-       "Jared Goff 16.3, Tyler Shough 14.7, Michael Penix 11.9"
+       "Jared Goff 16.3, Tyler Shough 14.7, Michael Penix 12.0"
       ],
       [
        "@@Thnu",

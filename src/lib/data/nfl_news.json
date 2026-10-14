@@ -1,99 +1,107 @@
 {
- "read_at": "2026-10-14T13:44+00:00",
+ "read_at": "2026-10-14T20:23+00:00",
  "days": 7,
- "count": 119,
+ "count": 123,
  "items": [
   {
-   "headline": "Judkins, Schwesinger (ankles) add to injury woes for Browns",
-   "url": "https://www.espn.com/nfl/story/_/id/50167865/judkins-schwesinger-ankles-add-injury-woes-browns",
-   "date": "2026-10-12",
+   "headline": "Falcons QB Michael Penix on track to start vs. Bears if no setbacks, coach says",
+   "url": "https://www.espn.com/nfl/story/_/id/50182471/falcons-say-michael-penix-track-start-bears",
+   "date": "2026-10-14",
    "kind": "news",
    "teams": [
-    "CLE"
+    "ATL",
+    "CHI"
    ],
    "named": [
     {
-     "n": "Quinshon Judkins",
-     "p": "RB",
-     "t": "CLE",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "KC Concepcion",
-     "p": "WR",
-     "t": "CLE",
-     "h": "BROCKSTARxD"
+     "n": "Michael Penix",
+     "p": "QB",
+     "t": "ATL",
+     "h": "triccster"
     }
    ],
    "lead": [
-    "Quinshon Judkins"
+    "Michael Penix"
    ],
    "ripple": [
     {
-     "n": "Taylen Green",
+     "n": "Tua Tagovailoa",
      "p": "QB",
-     "t": "CLE",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Deshaun Watson",
-     "p": "QB",
-     "t": "CLE",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Raheim Sanders",
-     "p": "RB",
-     "t": "CLE",
+     "t": "ATL",
      "h": "TuanonStan"
     },
     {
-     "n": "Denzel Boston",
+     "n": "Kyle Pitts",
+     "p": "TE",
+     "t": "ATL",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Olamide Zaccheaus",
      "p": "WR",
-     "t": "CLE",
-     "h": "TuanonStan"
+     "t": "ATL",
+     "h": "BROCKSTARxD"
     },
     {
-     "n": "Dillon Gabriel",
-     "p": "QB",
-     "t": "CLE",
+     "n": "Drake London",
+     "p": "WR",
+     "t": "ATL",
      "h": "butterygoop"
     },
     {
-     "n": "Jerry Jeudy",
+     "n": "Zachariah Branch",
      "p": "WR",
-     "t": "CLE",
+     "t": "ATL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Bijan Robinson",
+     "p": "RB",
+     "t": "ATL",
      "h": "HillBillyWorm"
     },
     {
-     "n": "Dylan Sampson",
+     "n": "Brian Robinson",
      "p": "RB",
-     "t": "CLE",
-     "h": "YoungBuck04"
+     "t": "ATL",
+     "h": "HillBillyWorm"
     },
     {
-     "n": "Shedeur Sanders",
+     "n": "Jahan Dotson",
+     "p": "WR",
+     "t": "ATL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Jam Miller",
+     "p": "RB",
+     "t": "ATL",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Cooper Rush",
      "p": "QB",
-     "t": "CLE",
+     "t": "ATL",
      "h": "YoungBuck04"
     },
     {
-     "n": "Harold Fannin",
+     "n": "Austin Hooper",
      "p": "TE",
-     "t": "CLE",
+     "t": "ATL",
      "h": "triccster"
     }
    ],
    "managers": [
     "BROCKSTARxD",
+    "Colt45Johnson",
+    "DMsourbeer",
     "HillBillyWorm",
-    "Jbird531",
     "TuanonStan",
     "YoungBuck04",
     "butterygoop",
     "triccster"
    ],
-   "score": 17.0
+   "score": 16.0
   },
   {
    "headline": "Broncos' Bo Nix says he needs to simplify approach, play faster amid rocky start",
@@ -182,6 +190,100 @@
     "TuanonStan",
     "Wallner",
     "brettmn13",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Patriots CB Gonzalez says he's 'ready to go'; WR Brown returns to practice",
+   "url": "https://www.espn.com/nfl/story/_/id/50183044/patriots-gonzalez-set-return-wr-brown-back-practice",
+   "date": "2026-10-14",
+   "kind": "news",
+   "teams": [
+    "NE"
+   ],
+   "named": [
+    {
+     "n": "A.J. Brown",
+     "p": "WR",
+     "t": "NE",
+     "h": "butterygoop"
+    }
+   ],
+   "lead": [
+    "A.J. Brown"
+   ],
+   "ripple": [
+    {
+     "n": "Drake Maye",
+     "p": "QB",
+     "t": "NE",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Kyle Williams",
+     "p": "WR",
+     "t": "NE",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Romeo Doubs",
+     "p": "WR",
+     "t": "NE",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Mack Hollins",
+     "p": "WR",
+     "t": "NE",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Rhamondre Stevenson",
+     "p": "RB",
+     "t": "NE",
+     "h": "butterygoop"
+    },
+    {
+     "n": "TreVeyon Henderson",
+     "p": "RB",
+     "t": "NE",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "DeMario Douglas",
+     "p": "WR",
+     "t": "NE",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Efton Chism",
+     "p": "WR",
+     "t": "NE",
+     "h": "Thnu"
+    },
+    {
+     "n": "Eli Raridon",
+     "p": "TE",
+     "t": "NE",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Hunter Henry",
+     "p": "TE",
+     "t": "NE",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "Jbird531",
+    "Thnu",
+    "TuanonStan",
+    "YoungBuck04",
+    "brettmn13",
+    "butterygoop",
     "triccster"
    ],
    "score": 16.0
@@ -818,6 +920,104 @@
    "score": 16.0
   },
   {
+   "headline": "Source: Lamar Jackson has realistic chance to play Ravens' Week 6 game at Browns",
+   "url": "https://www.espn.com/nfl/story/_/id/50181398/source-lamar-jackson-realistic-chance-play-week-6",
+   "date": "2026-10-14",
+   "kind": "news",
+   "teams": [
+    "BAL"
+   ],
+   "named": [
+    {
+     "n": "Lamar Jackson",
+     "p": "QB",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Tyler Huntley",
+     "p": "QB",
+     "t": "BAL",
+     "h": "Wallner"
+    }
+   ],
+   "lead": [
+    "Lamar Jackson"
+   ],
+   "ripple": [
+    {
+     "n": "Mark Andrews",
+     "p": "TE",
+     "t": "BAL",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Rashod Bateman",
+     "p": "WR",
+     "t": "BAL",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Matt Hibner",
+     "p": "TE",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Adam Randall",
+     "p": "RB",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Zay Flowers",
+     "p": "WR",
+     "t": "BAL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Justice Hill",
+     "p": "RB",
+     "t": "BAL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Ja'Kobi Lane",
+     "p": "WR",
+     "t": "BAL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Elijah Sarratt",
+     "p": "WR",
+     "t": "BAL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Devontez Walker",
+     "p": "WR",
+     "t": "BAL",
+     "h": "Thnu"
+    },
+    {
+     "n": "Derrick Henry",
+     "p": "RB",
+     "t": "BAL",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "DMsourbeer",
+    "HillBillyWorm",
+    "Thnu",
+    "Wallner",
+    "brettmn13",
+    "butterygoop",
+    "triccster"
+   ],
+   "score": 15.0
+  },
+  {
    "headline": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
    "url": "https://www.espn.com/nfl/story/_/id/50164378/backup-qb-tyler-huntley-leads-ravens-comeback-ot-win-vs-falcons",
    "date": "2026-10-12",
@@ -910,6 +1110,98 @@
     "Thnu",
     "Wallner",
     "brettmn13",
+    "butterygoop",
+    "triccster"
+   ],
+   "score": 15.0
+  },
+  {
+   "headline": "Judkins, Schwesinger (ankles) add to injury woes for Browns",
+   "url": "https://www.espn.com/nfl/story/_/id/50167865/judkins-schwesinger-ankles-add-injury-woes-browns",
+   "date": "2026-10-12",
+   "kind": "news",
+   "teams": [
+    "CLE"
+   ],
+   "named": [
+    {
+     "n": "Quinshon Judkins",
+     "p": "RB",
+     "t": "CLE",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "KC Concepcion",
+     "p": "WR",
+     "t": "CLE",
+     "h": "BROCKSTARxD"
+    }
+   ],
+   "lead": [
+    "Quinshon Judkins"
+   ],
+   "ripple": [
+    {
+     "n": "Taylen Green",
+     "p": "QB",
+     "t": "CLE",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Deshaun Watson",
+     "p": "QB",
+     "t": "CLE",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Raheim Sanders",
+     "p": "RB",
+     "t": "CLE",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Denzel Boston",
+     "p": "WR",
+     "t": "CLE",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Dillon Gabriel",
+     "p": "QB",
+     "t": "CLE",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Jerry Jeudy",
+     "p": "WR",
+     "t": "CLE",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Dylan Sampson",
+     "p": "RB",
+     "t": "CLE",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Shedeur Sanders",
+     "p": "QB",
+     "t": "CLE",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Harold Fannin",
+     "p": "TE",
+     "t": "CLE",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "HillBillyWorm",
+    "Jbird531",
+    "TuanonStan",
+    "YoungBuck04",
     "butterygoop",
     "triccster"
    ],
@@ -1129,315 +1421,6 @@
     "Wallner",
     "YoungBuck04",
     "brettmn13"
-   ],
-   "score": 14.0
-  },
-  {
-   "headline": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
-   "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
-   "date": "2026-10-13",
-   "kind": "news",
-   "teams": [
-    "BUF"
-   ],
-   "named": [
-    {
-     "n": "James Cook",
-     "p": "RB",
-     "t": "BUF",
-     "h": "DMsourbeer"
-    }
-   ],
-   "lead": [
-    "James Cook"
-   ],
-   "ripple": [
-    {
-     "n": "Keon Coleman",
-     "p": "WR",
-     "t": "BUF",
-     "h": "Jbird531"
-    },
-    {
-     "n": "DJ Moore",
-     "p": "WR",
-     "t": "BUF",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Ray Davis",
-     "p": "RB",
-     "t": "BUF",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Tyrell Shavers",
-     "p": "WR",
-     "t": "BUF",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Josh Allen",
-     "p": "QB",
-     "t": "BUF",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Khalil Shakir",
-     "p": "WR",
-     "t": "BUF",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Dalton Kincaid",
-     "p": "TE",
-     "t": "BUF",
-     "h": "Wallner"
-    },
-    {
-     "n": "Dawson Knox",
-     "p": "TE",
-     "t": "BUF",
-     "h": "Wallner"
-    },
-    {
-     "n": "Skyler Bell",
-     "p": "WR",
-     "t": "BUF",
-     "h": "Thnu"
-    },
-    {
-     "n": "Ty Johnson",
-     "p": "RB",
-     "t": "BUF",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Greg Dortch",
-     "p": "WR",
-     "t": "BUF",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "DMsourbeer",
-    "Jbird531",
-    "Thnu",
-    "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
-    "brettmn13",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 14.0
-  },
-  {
-   "headline": "Eagles pass rusher Jalyx Hunt (leg) unlikely vs. Panthers",
-   "url": "https://www.espn.com/nfl/story/_/id/50175748/eagles-pass-rusher-jalyx-hunt-leg-unlikely-vs-panthers",
-   "date": "2026-10-13",
-   "kind": "news",
-   "teams": [
-    "PHI"
-   ],
-   "named": [
-    {
-     "n": "DeVonta Smith",
-     "p": "WR",
-     "t": "PHI",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Saquon Barkley",
-     "p": "RB",
-     "t": "PHI",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Tank Bigsby",
-     "p": "RB",
-     "t": "PHI",
-     "h": "Wallner"
-    },
-    {
-     "n": "Will Shipley",
-     "p": "RB",
-     "t": "PHI",
-     "h": "brettmn13"
-    }
-   ],
-   "lead": [],
-   "ripple": [
-    {
-     "n": "Jalen Hurts",
-     "p": "QB",
-     "t": "PHI",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Darius Cooper",
-     "p": "WR",
-     "t": "PHI",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Eli Stowers",
-     "p": "TE",
-     "t": "PHI",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Dameon Pierce",
-     "p": "RB",
-     "t": "PHI",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Zach Ertz",
-     "p": "TE",
-     "t": "PHI",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Marquise Brown",
-     "p": "WR",
-     "t": "PHI",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Jaydon Blue",
-     "p": "RB",
-     "t": "PHI",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Dontayvion Wicks",
-     "p": "WR",
-     "t": "PHI",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Dallas Goedert",
-     "p": "TE",
-     "t": "PHI",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Makai Lemon",
-     "p": "WR",
-     "t": "PHI",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
-    "brettmn13",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 14.0
-  },
-  {
-   "headline": "Falcons' Michael Penix Jr. injures rib late in loss to Ravens",
-   "url": "https://www.espn.com/nfl/story/_/id/50164195/falcons-michael-penix-jr-injures-rib-late-loss-ravens",
-   "date": "2026-10-12",
-   "kind": "news",
-   "teams": [
-    "ATL"
-   ],
-   "named": [
-    {
-     "n": "Michael Penix",
-     "p": "QB",
-     "t": "ATL",
-     "h": "triccster"
-    }
-   ],
-   "lead": [
-    "Michael Penix"
-   ],
-   "ripple": [
-    {
-     "n": "Tua Tagovailoa",
-     "p": "QB",
-     "t": "ATL",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Kyle Pitts",
-     "p": "TE",
-     "t": "ATL",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Olamide Zaccheaus",
-     "p": "WR",
-     "t": "ATL",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Drake London",
-     "p": "WR",
-     "t": "ATL",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Zachariah Branch",
-     "p": "WR",
-     "t": "ATL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Bijan Robinson",
-     "p": "RB",
-     "t": "ATL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Brian Robinson",
-     "p": "RB",
-     "t": "ATL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Jahan Dotson",
-     "p": "WR",
-     "t": "ATL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Jam Miller",
-     "p": "RB",
-     "t": "ATL",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Cooper Rush",
-     "p": "QB",
-     "t": "ATL",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Austin Hooper",
-     "p": "TE",
-     "t": "ATL",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "DMsourbeer",
-    "HillBillyWorm",
-    "TuanonStan",
-    "YoungBuck04",
-    "butterygoop",
-    "triccster"
    ],
    "score": 14.0
   }

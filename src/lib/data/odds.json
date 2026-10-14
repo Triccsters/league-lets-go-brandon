@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T13:44:00+00:00",
+ "generated": "2026-10-14T20:22:53+00:00",
  "season": 2026,
  "through_week": 5,
  "sims": 10000,
@@ -32,6 +32,8 @@
    "seed1": 84.4,
    "title": 51.1,
    "last": 0.0,
+   "div": null,
+   "div_win": null,
    "sos_faced": 128.09,
    "sos_rest": 133.74,
    "rest_opponents": [
@@ -59,6 +61,8 @@
    "seed1": 12.0,
    "title": 25.0,
    "last": 0.0,
+   "div": null,
+   "div_win": null,
    "sos_faced": 125.23,
    "sos_rest": 136.0,
    "rest_opponents": [
@@ -86,6 +90,8 @@
    "seed1": 2.6,
    "title": 8.2,
    "last": 0.0,
+   "div": null,
+   "div_win": null,
    "sos_faced": 137.5,
    "sos_rest": 131.7,
    "rest_opponents": [
@@ -113,6 +119,8 @@
    "seed1": 0.5,
    "title": 4.4,
    "last": 0.3,
+   "div": null,
+   "div_win": null,
    "sos_faced": 140.23,
    "sos_rest": 136.95,
    "rest_opponents": [
@@ -140,6 +148,8 @@
    "seed1": 0.3,
    "title": 3.9,
    "last": 0.3,
+   "div": null,
+   "div_win": null,
    "sos_faced": 139.55,
    "sos_rest": 139.46,
    "rest_opponents": [
@@ -167,6 +177,8 @@
    "seed1": 0.1,
    "title": 1.8,
    "last": 1.3,
+   "div": null,
+   "div_win": null,
    "sos_faced": 128.85,
    "sos_rest": 134.96,
    "rest_opponents": [
@@ -194,6 +206,8 @@
    "seed1": 0.1,
    "title": 3.3,
    "last": 1.3,
+   "div": null,
+   "div_win": null,
    "sos_faced": 135.18,
    "sos_rest": 138.57,
    "rest_opponents": [
@@ -221,6 +235,8 @@
    "seed1": 0.0,
    "title": 0.8,
    "last": 4.6,
+   "div": null,
+   "div_win": null,
    "sos_faced": 143.97,
    "sos_rest": 139.55,
    "rest_opponents": [
@@ -248,6 +264,8 @@
    "seed1": 0.0,
    "title": 0.3,
    "last": 10.4,
+   "div": null,
+   "div_win": null,
    "sos_faced": 140.61,
    "sos_rest": 135.27,
    "rest_opponents": [
@@ -275,6 +293,8 @@
    "seed1": 0.0,
    "title": 0.5,
    "last": 11.2,
+   "div": null,
+   "div_win": null,
    "sos_faced": 128.22,
    "sos_rest": 136.98,
    "rest_opponents": [
@@ -302,6 +322,8 @@
    "seed1": 0.0,
    "title": 0.5,
    "last": 12.4,
+   "div": null,
+   "div_win": null,
    "sos_faced": 143.8,
    "sos_rest": 137.27,
    "rest_opponents": [
@@ -329,6 +351,8 @@
    "seed1": 0.0,
    "title": 0.0,
    "last": 58.0,
+   "div": null,
+   "div_win": null,
    "sos_faced": 135.45,
    "sos_rest": 139.71,
    "rest_opponents": [
@@ -653,5 +677,6 @@
    ]
   ]
  },
- "bye_teams": 2
+ "bye_teams": 2,
+ "divisions": {}
 }
