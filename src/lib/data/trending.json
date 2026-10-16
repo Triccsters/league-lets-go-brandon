@@ -6,213 +6,213 @@
    "n": "Dameon Pierce",
    "p": "RB",
    "t": "PHI",
-   "c": 5345504,
+   "c": 5551984,
    "h": "brettmn13"
   },
   {
    "n": "MarShawn Lloyd",
    "p": "RB",
    "t": "GB",
-   "c": 3527343,
+   "c": 3614841,
    "h": "brettmn13"
   },
   {
    "n": "Darius Cooper",
    "p": "WR",
    "t": "PHI",
-   "c": 2398361,
+   "c": 2578156,
    "h": "brettmn13"
   },
   {
    "n": "Brenton Strange",
    "p": "TE",
    "t": "JAX",
-   "c": 2248200,
+   "c": 2449746,
    "h": "HillBillyWorm"
   },
   {
    "n": "New England Patriots",
    "p": "DEF",
    "t": "NE",
-   "c": 2051623,
+   "c": 2176062,
    "h": null
   },
   {
    "n": "Tyler Higbee",
    "p": "TE",
    "t": "LAR",
-   "c": 1814076,
+   "c": 1643157,
    "h": "YoungBuck04"
   },
   {
-   "n": "Roman Wilson",
-   "p": "WR",
-   "t": "PIT",
-   "c": 1796769,
-   "h": "HillBillyWorm"
-  },
-  {
-   "n": "Roschon Johnson",
-   "p": "RB",
-   "t": "CHI",
-   "c": 1341296,
-   "h": "YoungBuck04"
+   "n": "Nick Folk",
+   "p": "K",
+   "t": "ATL",
+   "c": 1530654,
+   "h": null
   },
   {
    "n": "Kimani Vidal",
    "p": "RB",
    "t": "LAC",
-   "c": 1228760,
+   "c": 1452600,
    "h": "Jbird531"
   },
   {
    "n": "Kirk Cousins",
    "p": "QB",
    "t": "LV",
-   "c": 1129408,
+   "c": 1305832,
    "h": "Colt45Johnson"
+  },
+  {
+   "n": "Tanner McKee",
+   "p": "QB",
+   "t": "PHI",
+   "c": 1291320,
+   "h": "TuanonStan"
+  },
+  {
+   "n": "Indianapolis Colts",
+   "p": "DEF",
+   "t": "IND",
+   "c": 1289268,
+   "h": null
+  },
+  {
+   "n": "Jaleel McLaughlin",
+   "p": "RB",
+   "t": "CLE",
+   "c": 1282450,
+   "h": null
+  },
+  {
+   "n": "Roschon Johnson",
+   "p": "RB",
+   "t": "CHI",
+   "c": 1268912,
+   "h": "YoungBuck04"
   },
   {
    "n": "Tyler Loop",
    "p": "K",
    "t": "BAL",
-   "c": 1069602,
-   "h": null
-  },
-  {
-   "n": "Nick Folk",
-   "p": "K",
-   "t": "ATL",
-   "c": 1038588,
+   "c": 1239450,
    "h": null
   },
   {
    "n": "Kendrick Bourne",
    "p": "WR",
    "t": "ARI",
-   "c": 1005825,
+   "c": 1128459,
    "h": "YoungBuck04"
-  },
-  {
-   "n": "Indianapolis Colts",
-   "p": "DEF",
-   "t": "IND",
-   "c": 1004064,
-   "h": null
-  },
-  {
-   "n": "Efton Chism",
-   "p": "WR",
-   "t": "NE",
-   "c": 991280,
-   "h": "Thnu"
   }
  ],
  "drop": [
   {
-   "n": "Dohnte Meyers",
-   "p": "WR",
-   "t": "CIN",
-   "c": 2285955,
-   "h": "YoungBuck04"
-  },
-  {
    "n": "Roman Wilson",
    "p": "WR",
    "t": "PIT",
-   "c": 2179062,
+   "c": 2439090,
    "h": "HillBillyWorm"
+  },
+  {
+   "n": "Dohnte Meyers",
+   "p": "WR",
+   "t": "CIN",
+   "c": 2406159,
+   "h": "YoungBuck04"
   },
   {
    "n": "Kenyon Sadiq",
    "p": "TE",
    "t": "NYJ",
-   "c": 1625850,
+   "c": 1736658,
    "h": "DMsourbeer"
   },
   {
    "n": "Jake Bates",
    "p": "K",
    "t": "DET",
-   "c": 1168480,
+   "c": 1676552,
    "h": null
-  },
-  {
-   "n": "Tyreek Hill",
-   "p": "WR",
-   "t": null,
-   "c": 1072384,
-   "h": "triccster"
   },
   {
    "n": "Keon Coleman",
    "p": "WR",
    "t": "BUF",
-   "c": 968454,
+   "c": 1144251,
    "h": "Jbird531"
+  },
+  {
+   "n": "Tyreek Hill",
+   "p": "WR",
+   "t": null,
+   "c": 1137496,
+   "h": "triccster"
   },
   {
    "n": "Will Shipley",
    "p": "RB",
    "t": "PHI",
-   "c": 894948,
+   "c": 999998,
    "h": "brettmn13"
   },
   {
    "n": "Cleveland Browns",
    "p": "DEF",
    "t": "CLE",
-   "c": 818762,
+   "c": 954681,
    "h": null
   },
   {
    "n": "Keaton Mitchell",
    "p": "RB",
    "t": "LAC",
-   "c": 808191,
+   "c": 921861,
    "h": "Colt45Johnson"
   },
   {
    "n": "Jacksonville Jaguars",
    "p": "DEF",
    "t": "JAX",
-   "c": 759378,
+   "c": 863712,
+   "h": null
+  },
+  {
+   "n": "Las Vegas Raiders",
+   "p": "DEF",
+   "t": "LV",
+   "c": 798750,
    "h": null
   },
   {
    "n": "Jordan Addison",
    "p": "WR",
    "t": "MIN",
-   "c": 739908,
+   "c": 771759,
    "h": "Jbird531"
-  },
-  {
-   "n": "Darren Waller",
-   "p": "TE",
-   "t": "CAR",
-   "c": 735588,
-   "h": "butterygoop"
-  },
-  {
-   "n": "Las Vegas Raiders",
-   "p": "DEF",
-   "t": "LV",
-   "c": 731550,
-   "h": null
   },
   {
    "n": "Michael Mayer",
    "p": "TE",
    "t": "LV",
-   "c": 707247,
+   "c": 748323,
    "h": "Jbird531"
   },
   {
-   "n": "Quentin Johnston",
+   "n": "Tre' Harris",
    "p": "WR",
    "t": "LAC",
-   "c": 694841,
+   "c": 737088,
    "h": "Jbird531"
+  },
+  {
+   "n": "Tyler Higbee",
+   "p": "TE",
+   "t": "LAR",
+   "c": 735102,
+   "h": "YoungBuck04"
   }
  ]
 }
