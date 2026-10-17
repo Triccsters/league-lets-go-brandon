@@ -704,19 +704,19 @@
        "@@BROCKSTARxD",
        "-",
        "WR, TE",
-       "QB 3 RB 7 WR 10 TE 9"
+       "QB 2 RB 7 WR 10 TE 9"
       ],
       [
        "@@DMsourbeer",
        "-",
        "RB, TE",
-       "QB 4 RB 9 WR 4 TE 10"
+       "QB 3 RB 9 WR 4 TE 10"
       ],
       [
        "@@Jbird531",
        "-",
        "RB, WR",
-       "QB 6 RB 11 WR 11 TE 5"
+       "QB 5 RB 11 WR 11 TE 6"
       ],
       [
        "@@Thnu",
@@ -740,7 +740,7 @@
        "@@brettmn13",
        "QB, RB",
        "WR, TE",
-       "QB 7 RB 4 WR 12 TE 12"
+       "QB 6 RB 4 WR 12 TE 12"
       ],
       [
        "@@triccster",
@@ -758,13 +758,13 @@
        "@@HillBillyWorm",
        "QB, RB, WR, TE",
        "-",
-       "QB 5 RB 3 WR 5 TE 6"
+       "QB 4 RB 3 WR 5 TE 5"
       ],
       [
        "@@Wallner",
-       "WR",
+       "QB, RB, WR",
        "-",
-       "QB 2 RB 5 WR 2 TE 4"
+       "QB 7 RB 5 WR 2 TE 4"
       ],
       [
        "@@butterygoop",
@@ -826,13 +826,19 @@
        "@@brettmn13",
        "Jayden Daniels",
        "QB WAS",
-       15.2
+       15.3
+      ],
+      [
+       "@@Wallner",
+       "Bo Nix",
+       "QB DEN",
+       15.1
       ],
       [
        "@@butterygoop",
        "A.J. Brown",
        "WR NE",
-       12.6
+       12.8
       ],
       [
        "@@butterygoop",
@@ -841,16 +847,16 @@
        12.2
       ],
       [
-       "@@butterygoop",
-       "Saquon Barkley",
-       "RB PHI",
-       12.1
-      ],
-      [
        "@@TuanonStan",
        "Luther Burden",
        "WR CHI",
        11.1
+      ],
+      [
+       "@@butterygoop",
+       "Saquon Barkley",
+       "RB PHI",
+       11.0
       ],
       [
        "@@butterygoop",
@@ -893,12 +899,6 @@
        "Cade Otton",
        "TE TB",
        8.7
-      ],
-      [
-       "@@Wallner",
-       "Tre Tucker",
-       "WR LV",
-       7.9
       ]
      ]
     }
@@ -923,7 +923,7 @@
       [
        1,
        "@@butterygoop",
-       38.1,
+       38.2,
        "Sam LaPorta, A.J. Brown, Rhamondre Stevenson"
       ],
       [
@@ -941,7 +941,7 @@
       [
        4,
        "@@brettmn13",
-       31.4,
+       31.2,
        "Malik Willis, Jameis Winston, Josh Jacobs"
       ],
       [
@@ -977,13 +977,13 @@
       [
        10,
        "@@YoungBuck04",
-       21.1,
+       21.2,
        "Kendrick Bourne, Keenan Allen, Oronde Gadsden"
       ],
       [
        11,
        "@@Jbird531",
-       20.7,
+       20.8,
        "Greg Dulcich, Tyjae Spears, Keon Coleman"
       ],
       [
@@ -1211,7 +1211,7 @@
        "@@Colt45Johnson",
        3,
        48.3,
-       "Jameson Williams, Joe Burrow, Jahmyr Gibbs"
+       "Joe Burrow, Jahmyr Gibbs, Jameson Williams"
       ],
       [
        6,
@@ -1225,70 +1225,70 @@
        "@@YoungBuck04",
        2,
        26.3,
-       "Justin Jefferson, T.J. Hockenson"
+       "T.J. Hockenson, Justin Jefferson"
       ],
       [
        6,
        "@@brettmn13",
        2,
        20.3,
-       "Ollie Gordon, Jordan Mason"
+       "Jordan Mason, Ollie Gordon"
       ],
       [
        6,
        "@@Jbird531",
        2,
        14.1,
-       "Jordan Addison, Caleb Douglas"
+       "Caleb Douglas, Jordan Addison"
       ],
       [
        7,
        "@@HillBillyWorm",
        3,
        41.7,
-       "Brenton Strange, Trevor Lawrence, Bhayshul Tuten"
+       "Trevor Lawrence, Bhayshul Tuten, Brenton Strange"
       ],
       [
        7,
        "@@Wallner",
        2,
        25.7,
-       "Dalton Kincaid, Parker Washington"
-      ],
-      [
-       7,
-       "@@YoungBuck04",
-       3,
-       24.9,
-       "Ladd McConkey, Ty Johnson, Stefon Diggs"
+       "Parker Washington, Dalton Kincaid"
       ],
       [
        7,
        "@@TuanonStan",
        2,
-       21.1,
+       20.9,
        "DJ Moore, Chig Okonkwo"
+      ],
+      [
+       7,
+       "@@YoungBuck04",
+       2,
+       20.2,
+       "Ladd McConkey, Stefon Diggs"
       ],
       [
        7,
        "@@Jbird531",
        2,
        15.7,
-       "Omarion Hampton, Tre' Harris"
+       "Tre' Harris, Omarion Hampton"
       ],
       [
        8,
        "@@butterygoop",
        3,
-       45.5,
-       "Nico Collins, Chris Olave, C.J. Stroud"
+       45.6,
+       "C.J. Stroud, Nico Collins, Chris Olave"
       ],
       [
        8,
        "@@BROCKSTARxD",
        2,
-       38.7,
-       "Brock Purdy, Christian McCaffrey"
+       38.8,
+       "Christian McCaffrey, Brock Purdy"
       ]
      ]
     }
@@ -1510,7 +1510,7 @@
        "@@brettmn13",
        7,
        3,
-       "Bryce Young 17.8, Jayden Daniels 15.2, Malik Willis 13.7"
+       "Bryce Young 17.8, Jayden Daniels 15.3, Malik Willis 13.7"
       ],
       [
        "@@Colt45Johnson",
@@ -1528,13 +1528,13 @@
        "@@Wallner",
        7,
        2,
-       "Lamar Jackson 19.8, Bo Nix 15.1, Jarrett Stidham 0.0"
+       "Lamar Jackson 17.6, Bo Nix 15.1, Tyler Huntley 1.4"
       ],
       [
        "@@TuanonStan",
        6,
        2,
-       "Matthew Stafford 15.5, Jalen Hurts 14.8, Tanner McKee 1.2"
+       "Matthew Stafford 15.5, Jalen Hurts 14.8, Tanner McKee 1.3"
       ],
       [
        "@@DMsourbeer",
@@ -1546,13 +1546,13 @@
        "@@butterygoop",
        5,
        2,
-       "Josh Allen 20.9, C.J. Stroud 14.0, Tyson Bagent 0.0"
+       "Josh Allen 20.9, C.J. Stroud 14.1, Tyson Bagent 0.0"
       ],
       [
        "@@triccster",
        5,
        2,
-       "Jared Goff 16.2, Tyler Shough 14.6, Michael Penix 12.0"
+       "Jared Goff 16.2, Tyler Shough 14.7, Michael Penix 12.0"
       ],
       [
        "@@Thnu",
@@ -1564,7 +1564,7 @@
        "@@YoungBuck04",
        7,
        1,
-       "Jacoby Brissett 13.2, Aaron Rodgers 13.1, Shedeur Sanders 4.1"
+       "Jacoby Brissett 13.2, Aaron Rodgers 13.0, Shedeur Sanders 4.1"
       ],
       [
        "@@Jbird531",
@@ -1576,7 +1576,7 @@
        "@@BROCKSTARxD",
        6,
        1,
-       "Brock Purdy 19.3, Baker Mayfield 11.5, Cade Klubnik 0.0"
+       "Brock Purdy 19.4, Baker Mayfield 11.5, Cade Klubnik 0.0"
       ]
      ]
     },
@@ -1597,7 +1597,7 @@
        "Saquon Barkley",
        29,
        1,
-       12.1
+       11.0
       ],
       [
        "@@butterygoop",
@@ -1639,7 +1639,7 @@
        "Chuba Hubbard",
        27,
        2,
-       15.7
+       15.6
       ],
       [
        "@@Wallner",
