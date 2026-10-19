@@ -704,37 +704,37 @@
        "@@BROCKSTARxD",
        "-",
        "WR, TE",
-       "QB 2 RB 8 WR 10 TE 9"
+       "QB 2 RB 7 WR 9 TE 10"
       ],
       [
        "@@DMsourbeer",
        "-",
        "RB, TE",
-       "QB 3 RB 9 WR 6 TE 10"
+       "QB 3 RB 9 WR 3 TE 9"
       ],
       [
        "@@Jbird531",
        "-",
        "RB, WR",
-       "QB 5 RB 11 WR 11 TE 6"
+       "QB 5 RB 11 WR 11 TE 7"
       ],
       [
        "@@Thnu",
        "-",
        "QB, RB, WR",
-       "QB 11 RB 10 WR 9 TE 2"
+       "QB 11 RB 10 WR 10 TE 2"
       ],
       [
        "@@TuanonStan",
        "WR",
        "QB, TE",
-       "QB 10 RB 6 WR 3 TE 11"
+       "QB 10 RB 6 WR 5 TE 11"
       ],
       [
        "@@YoungBuck04",
        "-",
        "QB, RB",
-       "QB 12 RB 12 WR 7 TE 7"
+       "QB 12 RB 12 WR 7 TE 6"
       ],
       [
        "@@brettmn13",
@@ -746,13 +746,13 @@
        "@@triccster",
        "RB, TE",
        "QB",
-       "QB 9 RB 7 WR 8 TE 8"
+       "QB 9 RB 8 WR 8 TE 8"
       ],
       [
        "@@Colt45Johnson",
-       "QB",
+       "QB, TE",
        "-",
-       "QB 8 RB 2 WR 5 TE 3"
+       "QB 8 RB 2 WR 6 TE 3"
       ],
       [
        "@@HillBillyWorm",
@@ -856,7 +856,7 @@
        "@@butterygoop",
        "Saquon Barkley",
        "RB PHI",
-       10.5
+       10.4
       ],
       [
        "@@butterygoop",
@@ -874,18 +874,18 @@
        "@@brettmn13",
        "Josh Jacobs",
        "RB GB",
-       10.1
-      ],
-      [
-       "@@HillBillyWorm",
-       "Pat Freiermuth",
-       "TE PIT",
-       10.1
+       10.2
       ],
       [
        "@@Wallner",
        "Terry McLaurin",
        "WR WAS",
+       10.0
+      ],
+      [
+       "@@HillBillyWorm",
+       "Pat Freiermuth",
+       "TE PIT",
        10.0
       ],
       [
@@ -923,7 +923,7 @@
       [
        1,
        "@@butterygoop",
-       38.8,
+       38.7,
        "A.J. Brown, Sam LaPorta, Rhamondre Stevenson"
       ],
       [
@@ -935,32 +935,32 @@
       [
        3,
        "@@Colt45Johnson",
-       34.0,
+       34.3,
        "Kirk Cousins, Daniel Jones, Cade Otton"
       ],
       [
        4,
        "@@brettmn13",
-       32.1,
+       32.0,
        "Malik Willis, Jameis Winston, Jordan Mason"
       ],
       [
        5,
-       "@@triccster",
-       28.3,
-       "Michael Penix, Dalton Schultz, Braelon Allen"
-      ],
-      [
-       6,
        "@@DMsourbeer",
        27.9,
        "Geno Smith, Mike Gesicki, Darnell Washington"
       ],
       [
-       7,
+       6,
        "@@Wallner",
        25.6,
        "Terry McLaurin, Tre Tucker, Travis Etienne"
+      ],
+      [
+       7,
+       "@@triccster",
+       25.6,
+       "Michael Penix, Braelon Allen, Ryan Flournoy"
       ],
       [
        8,
@@ -971,14 +971,14 @@
       [
        9,
        "@@BROCKSTARxD",
-       21.4,
+       21.3,
        "Courtland Sutton, J.K. Dobbins, Alec Pierce"
       ],
       [
        10,
        "@@Jbird531",
-       20.7,
-       "Greg Dulcich, Tyjae Spears, Caleb Douglas"
+       21.1,
+       "Greg Dulcich, Keon Coleman, Kyle Monangai"
       ],
       [
        11,
@@ -1211,7 +1211,7 @@
        "@@Colt45Johnson",
        3,
        48.4,
-       "Jameson Williams, Jahmyr Gibbs, Joe Burrow"
+       "Jahmyr Gibbs, Jameson Williams, Joe Burrow"
       ],
       [
        6,
@@ -1224,7 +1224,7 @@
        6,
        "@@YoungBuck04",
        2,
-       26.3,
+       26.2,
        "T.J. Hockenson, Justin Jefferson"
       ],
       [
@@ -1232,7 +1232,7 @@
        "@@HillBillyWorm",
        3,
        41.9,
-       "Bhayshul Tuten, Brenton Strange, Trevor Lawrence"
+       "Brenton Strange, Bhayshul Tuten, Trevor Lawrence"
       ],
       [
        7,
@@ -1245,50 +1245,50 @@
        7,
        "@@YoungBuck04",
        3,
-       25.0,
+       25.1,
        "Ladd McConkey, Stefon Diggs, Ty Johnson"
       ],
       [
        7,
        "@@TuanonStan",
        2,
-       20.9,
+       19.5,
        "Chig Okonkwo, DJ Moore"
-      ],
-      [
-       7,
-       "@@Jbird531",
-       2,
-       14.9,
-       "Keon Coleman, Omarion Hampton"
       ],
       [
        8,
        "@@butterygoop",
        3,
        45.6,
-       "Nico Collins, Chris Olave, C.J. Stroud"
+       "Chris Olave, Nico Collins, C.J. Stroud"
       ],
       [
        8,
        "@@BROCKSTARxD",
        2,
-       37.8,
-       "Brock Purdy, Christian McCaffrey"
+       37.7,
+       "Christian McCaffrey, Brock Purdy"
       ],
       [
        8,
        "@@Wallner",
        2,
        28.7,
-       "Mike Evans, Isaiah Likely"
+       "Isaiah Likely, Mike Evans"
       ],
       [
        8,
        "@@Colt45Johnson",
        2,
-       28.1,
-       "Malik Nabers, George Kittle"
+       28.0,
+       "George Kittle, Malik Nabers"
+      ],
+      [
+       8,
+       "@@triccster",
+       2,
+       24.1,
+       "Dalton Schultz, Tyler Shough"
       ]
      ]
     }
@@ -1540,7 +1540,7 @@
        "@@butterygoop",
        5,
        2,
-       "Josh Allen 20.9, C.J. Stroud 14.1, Tyson Bagent 0.0"
+       "Josh Allen 21.0, C.J. Stroud 14.1, Tyson Bagent 0.0"
       ],
       [
        "@@triccster",
@@ -1558,19 +1558,19 @@
        "@@YoungBuck04",
        7,
        1,
-       "Jacoby Brissett 13.2, Aaron Rodgers 13.0, Shedeur Sanders 4.1"
+       "Jacoby Brissett 13.2, Aaron Rodgers 12.9, Shedeur Sanders 4.1"
       ],
       [
        "@@Jbird531",
        6,
        1,
-       "Drake Maye 18.0, Deshaun Watson 7.9, J.J. McCarthy 0.4"
+       "Drake Maye 18.0, Deshaun Watson 8.0, J.J. McCarthy 0.4"
       ],
       [
        "@@TuanonStan",
        6,
        1,
-       "Matthew Stafford 15.5, Jalen Hurts 8.0, Tanner McKee 6.4"
+       "Matthew Stafford 15.5, Jalen Hurts 8.0, Tanner McKee 6.2"
       ],
       [
        "@@BROCKSTARxD",
@@ -1597,7 +1597,7 @@
        "Saquon Barkley",
        29,
        1,
-       10.5
+       10.4
       ],
       [
        "@@butterygoop",
@@ -1632,7 +1632,7 @@
        "Najee Harris",
        28,
        2,
-       4.4
+       3.3
       ],
       [
        "@@Colt45Johnson",
@@ -1674,7 +1674,7 @@
        "Kenny Gainwell",
        27,
        4,
-       7.8
+       8.0
       ],
       [
        "@@HillBillyWorm",
