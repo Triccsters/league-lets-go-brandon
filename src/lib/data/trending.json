@@ -3,216 +3,216 @@
  "rostered_known": true,
  "add": [
   {
-   "n": "Dameon Pierce",
-   "p": "RB",
-   "t": "PHI",
-   "c": 5552840,
-   "h": "brettmn13"
-  },
-  {
-   "n": "MarShawn Lloyd",
-   "p": "RB",
-   "t": "GB",
-   "c": 2510523,
-   "h": "brettmn13"
-  },
-  {
-   "n": "Tyler Higbee",
-   "p": "TE",
-   "t": "LAR",
-   "c": 2470059,
-   "h": "YoungBuck04"
-  },
-  {
    "n": "Omar Cooper",
    "p": "WR",
    "t": "NYJ",
-   "c": 2358768,
+   "c": 7259288,
    "h": "Jbird531"
-  },
-  {
-   "n": "Brenton Strange",
-   "p": "TE",
-   "t": "JAX",
-   "c": 1998126,
-   "h": "HillBillyWorm"
-  },
-  {
-   "n": "Tanner McKee",
-   "p": "QB",
-   "t": "PHI",
-   "c": 1950288,
-   "h": "TuanonStan"
-  },
-  {
-   "n": "Jaleel McLaughlin",
-   "p": "RB",
-   "t": "CLE",
-   "c": 1924015,
-   "h": null
-  },
-  {
-   "n": "New England Patriots",
-   "p": "DEF",
-   "t": "NE",
-   "c": 1769439,
-   "h": null
-  },
-  {
-   "n": "Darius Cooper",
-   "p": "WR",
-   "t": "PHI",
-   "c": 1687238,
-   "h": "brettmn13"
-  },
-  {
-   "n": "Nick Folk",
-   "p": "K",
-   "t": "ATL",
-   "c": 1575480,
-   "h": null
-  },
-  {
-   "n": "Kirk Cousins",
-   "p": "QB",
-   "t": "LV",
-   "c": 1492928,
-   "h": "Colt45Johnson"
-  },
-  {
-   "n": "Kimani Vidal",
-   "p": "RB",
-   "t": "LAC",
-   "c": 1442805,
-   "h": "Jbird531"
-  },
-  {
-   "n": "Indianapolis Colts",
-   "p": "DEF",
-   "t": "IND",
-   "c": 1258671,
-   "h": null
-  },
-  {
-   "n": "C.J. Stroud",
-   "p": "QB",
-   "t": "HOU",
-   "c": 1166872,
-   "h": "butterygoop"
-  },
-  {
-   "n": "Tyler Loop",
-   "p": "K",
-   "t": "BAL",
-   "c": 1093296,
-   "h": null
-  }
- ],
- "drop": [
-  {
-   "n": "Roman Wilson",
-   "p": "WR",
-   "t": "PIT",
-   "c": 2259315,
-   "h": "HillBillyWorm"
-  },
-  {
-   "n": "Jake Bates",
-   "p": "K",
-   "t": "DET",
-   "c": 1839232,
-   "h": null
-  },
-  {
-   "n": "Dohnte Meyers",
-   "p": "WR",
-   "t": "CIN",
-   "c": 1692639,
-   "h": "YoungBuck04"
-  },
-  {
-   "n": "Kenyon Sadiq",
-   "p": "TE",
-   "t": "NYJ",
-   "c": 1556154,
-   "h": "DMsourbeer"
-  },
-  {
-   "n": "Tyreek Hill",
-   "p": "WR",
-   "t": null,
-   "c": 1355688,
-   "h": "triccster"
-  },
-  {
-   "n": "Keaton Mitchell",
-   "p": "RB",
-   "t": "LAC",
-   "c": 1278306,
-   "h": "Colt45Johnson"
-  },
-  {
-   "n": "Keon Coleman",
-   "p": "WR",
-   "t": "BUF",
-   "c": 1264653,
-   "h": "Jbird531"
-  },
-  {
-   "n": "Jacksonville Jaguars",
-   "p": "DEF",
-   "t": "JAX",
-   "c": 1081398,
-   "h": null
-  },
-  {
-   "n": "Tyler Higbee",
-   "p": "TE",
-   "t": "LAR",
-   "c": 1064628,
-   "h": "YoungBuck04"
   },
   {
    "n": "Cleveland Browns",
    "p": "DEF",
    "t": "CLE",
-   "c": 920402,
+   "c": 2809730,
+   "h": null
+  },
+  {
+   "n": "Dameon Pierce",
+   "p": "RB",
+   "t": "PHI",
+   "c": 2646144,
+   "h": "brettmn13"
+  },
+  {
+   "n": "Tyler Higbee",
+   "p": "TE",
+   "t": "LAR",
+   "c": 2331396,
+   "h": "YoungBuck04"
+  },
+  {
+   "n": "Tanner McKee",
+   "p": "QB",
+   "t": "PHI",
+   "c": 2228000,
+   "h": "TuanonStan"
+  },
+  {
+   "n": "Konata Mumpfield",
+   "p": "WR",
+   "t": "LAR",
+   "c": 1936782,
+   "h": "DMsourbeer"
+  },
+  {
+   "n": "C.J. Stroud",
+   "p": "QB",
+   "t": "HOU",
+   "c": 1694392,
+   "h": "butterygoop"
+  },
+  {
+   "n": "Roschon Johnson",
+   "p": "RB",
+   "t": "CHI",
+   "c": 1540328,
+   "h": "YoungBuck04"
+  },
+  {
+   "n": "Jaleel McLaughlin",
+   "p": "RB",
+   "t": "CLE",
+   "c": 1315190,
+   "h": "HillBillyWorm"
+  },
+  {
+   "n": "Kirk Cousins",
+   "p": "QB",
+   "t": "LV",
+   "c": 1314720,
+   "h": "Colt45Johnson"
+  },
+  {
+   "n": "Kyler Murray",
+   "p": "QB",
+   "t": "MIN",
+   "c": 1277856,
+   "h": "Thnu"
+  },
+  {
+   "n": "Michael Mayer",
+   "p": "TE",
+   "t": "LV",
+   "c": 1255950,
+   "h": "Jbird531"
+  },
+  {
+   "n": "Tre Tucker",
+   "p": "WR",
+   "t": "LV",
+   "c": 1205562,
+   "h": "Wallner"
+  },
+  {
+   "n": "Nick Folk",
+   "p": "K",
+   "t": "ATL",
+   "c": 1161648,
+   "h": null
+  },
+  {
+   "n": "Tyler Allgeier",
+   "p": "RB",
+   "t": "ARI",
+   "c": 1076925,
+   "h": "Wallner"
+  }
+ ],
+ "drop": [
+  {
+   "n": "MarShawn Lloyd",
+   "p": "RB",
+   "t": "GB",
+   "c": 1967661,
+   "h": "brettmn13"
+  },
+  {
+   "n": "Keaton Mitchell",
+   "p": "RB",
+   "t": "LAC",
+   "c": 1561923,
+   "h": "Colt45Johnson"
+  },
+  {
+   "n": "Terry McLaurin",
+   "p": "WR",
+   "t": "WAS",
+   "c": 1448628,
+   "h": "Wallner"
+  },
+  {
+   "n": "Roman Wilson",
+   "p": "WR",
+   "t": "PIT",
+   "c": 1390419,
+   "h": "HillBillyWorm"
+  },
+  {
+   "n": "Jacksonville Jaguars",
+   "p": "DEF",
+   "t": "JAX",
+   "c": 1353408,
+   "h": null
+  },
+  {
+   "n": "Tyler Higbee",
+   "p": "TE",
+   "t": "LAR",
+   "c": 1301922,
+   "h": "YoungBuck04"
+  },
+  {
+   "n": "Tyreek Hill",
+   "p": "WR",
+   "t": null,
+   "c": 1298944,
+   "h": "triccster"
+  },
+  {
+   "n": "Jake Bates",
+   "p": "K",
+   "t": "DET",
+   "c": 1288640,
    "h": null
   },
   {
    "n": "Darius Cooper",
    "p": "WR",
    "t": "PHI",
-   "c": 897029,
-   "h": "brettmn13"
-  },
-  {
-   "n": "Will Shipley",
-   "p": "RB",
-   "t": "PHI",
-   "c": 881928,
-   "h": "brettmn13"
-  },
-  {
-   "n": "Romeo Doubs",
-   "p": "WR",
-   "t": "NE",
-   "c": 859736,
+   "c": 1287181,
    "h": "brettmn13"
   },
   {
    "n": "Jalen Hurts",
    "p": "QB",
    "t": "PHI",
-   "c": 845128,
+   "c": 1171920,
    "h": "TuanonStan"
   },
   {
-   "n": "Courtland Sutton",
+   "n": "Romeo Doubs",
    "p": "WR",
-   "t": "DEN",
-   "c": 788292,
-   "h": "BROCKSTARxD"
+   "t": "NE",
+   "c": 1124576,
+   "h": "brettmn13"
+  },
+  {
+   "n": "Kenyon Sadiq",
+   "p": "TE",
+   "t": "NYJ",
+   "c": 1080846,
+   "h": "DMsourbeer"
+  },
+  {
+   "n": "Jacory Croskey-Merritt",
+   "p": "RB",
+   "t": "WAS",
+   "c": 1024029,
+   "h": "brettmn13"
+  },
+  {
+   "n": "Dohnte Meyers",
+   "p": "WR",
+   "t": "CIN",
+   "c": 1014723,
+   "h": "YoungBuck04"
+  },
+  {
+   "n": "Keon Coleman",
+   "p": "WR",
+   "t": "BUF",
+   "c": 998424,
+   "h": "Jbird531"
   }
  ]
 }
