@@ -1171,7 +1171,7 @@
   {
    "w": 6,
    "h": "TuanonStan",
-   "n": "Kyle Pitts",
+   "n": "Kyle Pitts Sr.",
    "p": "TE",
    "proj": 8.85,
    "act": 25.5,
@@ -1272,7 +1272,7 @@
   {
    "w": 6,
    "h": "triccster",
-   "n": "Harold Fannin",
+   "n": "Harold Fannin Jr.",
    "p": "TE",
    "proj": 13.38,
    "act": 2.4,
@@ -1410,7 +1410,7 @@
     "label": "Boom or bust"
    },
    {
-    "n": "Kyle Pitts",
+    "n": "Kyle Pitts Sr.",
     "p": "TE",
     "h": "TuanonStan",
     "g": 6,
@@ -1683,7 +1683,7 @@
     "label": "Booming"
    },
    {
-    "n": "Harold Fannin",
+    "n": "Harold Fannin Jr.",
     "p": "TE",
     "h": "triccster",
     "g": 6,
@@ -1735,7 +1735,7 @@
     "label": "Busting"
    },
    {
-    "n": "Michael Pittman",
+    "n": "Michael Pittman Jr.",
     "p": "WR",
     "h": "DMsourbeer",
     "g": 3,
@@ -1748,7 +1748,7 @@
     "label": "Busting"
    },
    {
-    "n": "Kevin Coleman",
+    "n": "Kevin Coleman Jr.",
     "p": "WR",
     "h": "butterygoop",
     "g": 3,
@@ -1930,7 +1930,7 @@
     "label": "Busting"
    },
    {
-    "n": "Chris Rodriguez",
+    "n": "Chris Rodriguez Jr.",
     "p": "RB",
     "h": "BROCKSTARxD",
     "g": 5,
@@ -2359,7 +2359,7 @@
     "label": "Busting"
    },
    {
-    "n": "Marvin Harrison",
+    "n": "Marvin Harrison Jr.",
     "p": "WR",
     "h": "brettmn13",
     "g": 4,
@@ -2398,7 +2398,7 @@
     "label": "Busting"
    },
    {
-    "n": "Brian Thomas",
+    "n": "Brian Thomas Jr.",
     "p": "WR",
     "h": "HillBillyWorm",
     "g": 6,
@@ -2437,7 +2437,7 @@
     "label": "Busting"
    },
    {
-    "n": "Kenneth Walker",
+    "n": "Kenneth Walker III",
     "p": "RB",
     "h": "TuanonStan",
     "g": 5,
@@ -3022,7 +3022,7 @@
     "label": "Mixed"
    },
    {
-    "n": "Brian Robinson",
+    "n": "Brian Robinson Jr.",
     "p": "RB",
     "h": "HillBillyWorm",
     "g": 6,
@@ -3113,7 +3113,7 @@
     "label": "Mixed"
    },
    {
-    "n": "KC Concepcion",
+    "n": "KC Concepcion Jr.",
     "p": "WR",
     "h": "BROCKSTARxD",
     "g": 6,
@@ -3399,7 +3399,7 @@
     "label": "Mixed"
    },
    {
-    "n": "Mike Washington",
+    "n": "Mike Washington Jr.",
     "p": "RB",
     "h": "DMsourbeer",
     "g": 4,
@@ -3529,7 +3529,7 @@
     "label": "Mixed"
    },
    {
-    "n": "Deebo Samuel",
+    "n": "Deebo Samuel Sr.",
     "p": "WR",
     "h": "Wallner",
     "g": 5,
@@ -3646,7 +3646,7 @@
     "label": "Mixed"
    },
    {
-    "n": "Ted Hurst",
+    "n": "Ted Hurst III",
     "p": "WR",
     "h": "TuanonStan",
     "g": 5,
@@ -3802,7 +3802,7 @@
     "label": "Steady"
    },
    {
-    "n": "Luther Burden",
+    "n": "Luther Burden III",
     "p": "WR",
     "h": "TuanonStan",
     "g": 6,
@@ -4062,7 +4062,7 @@
     "label": "Steady"
    },
    {
-    "n": "James Cook",
+    "n": "James Cook III",
     "p": "RB",
     "h": "DMsourbeer",
     "g": 6,
@@ -4101,7 +4101,7 @@
     "label": "Steady"
    },
    {
-    "n": "Michael Penix",
+    "n": "Michael Penix Jr.",
     "p": "QB",
     "h": "triccster",
     "g": 4,
@@ -4140,7 +4140,7 @@
     "label": "Steady"
    },
    {
-    "n": "Aaron Jones",
+    "n": "Aaron Jones Sr.",
     "p": "RB",
     "h": "Thnu",
     "g": 5,
@@ -4166,7 +4166,7 @@
     "label": "Steady"
    },
    {
-    "n": "Travis Etienne",
+    "n": "Travis Etienne Jr.",
     "p": "RB",
     "h": "Wallner",
     "g": 3,
@@ -4231,7 +4231,7 @@
     "label": "Steady"
    },
    {
-    "n": "Chris Godwin",
+    "n": "Chris Godwin Jr.",
     "p": "WR",
     "h": "DMsourbeer",
     "g": 6,

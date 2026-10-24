@@ -3,7 +3,7 @@
  "week": 6,
  "slug": "2026-w06",
  "title": "Week 6 recap",
- "generated": "2026-10-23T12:48:24+00:00",
+ "generated": "2026-10-24T16:03:00+00:00",
  "intro": "",
  "video": "",
  "notes": [],
@@ -68,7 +68,7 @@
    "name": "Left on the bench",
    "manager": "triccster",
    "value": 53.9,
-   "note": "Tyrone Tracy scored 18.5 on his bench",
+   "note": "Tyrone Tracy Jr. scored 18.5 on his bench",
    "vs": null
   },
   {
@@ -352,7 +352,7 @@
     },
     "top": [
      {
-      "name": "James Cook",
+      "name": "James Cook III",
       "pos": "RB",
       "id": "8138",
       "nfl": "BUF",
@@ -518,7 +518,7 @@
       "pts": 26.96
      },
      {
-      "name": "Michael Penix",
+      "name": "Michael Penix Jr.",
       "pos": "QB",
       "id": "11559",
       "nfl": "ATL",
@@ -533,7 +533,7 @@
      }
     ],
     "best_bench": {
-     "name": "Tyrone Tracy",
+     "name": "Tyrone Tracy Jr.",
      "id": "11655",
      "nfl": "NYG",
      "pts": 18.5
@@ -595,7 +595,7 @@
      "pts": 2.5
     },
     "worst_start": {
-     "name": "Efton Chism",
+     "name": "Efton Chism III",
      "id": "12542",
      "nfl": "NE",
      "pts": 0.0
@@ -643,7 +643,7 @@
    ],
    "won_despite": [
     {
-     "name": "Harold Fannin",
+     "name": "Harold Fannin Jr.",
      "pos": "TE",
      "pts": 2.4,
      "avg": 12.14,
@@ -707,7 +707,7 @@
      }
     ],
     "best_bench": {
-     "name": "Omar Cooper",
+     "name": "Omar Cooper Jr.",
      "id": "13276",
      "nfl": "NYJ",
      "pts": 22.3
@@ -837,21 +837,21 @@
     },
     "top": [
      {
-      "name": "Kenneth Walker",
+      "name": "Kenneth Walker III",
       "pos": "RB",
       "id": "8151",
       "nfl": "KC",
       "pts": 27.9
      },
      {
-      "name": "Kyle Pitts",
+      "name": "Kyle Pitts Sr.",
       "pos": "TE",
       "id": "7553",
       "nfl": "ATL",
       "pts": 25.5
      },
      {
-      "name": "Luther Burden",
+      "name": "Luther Burden III",
       "pos": "WR",
       "id": "12519",
       "nfl": "CHI",
@@ -1429,7 +1429,7 @@
    "manager": "triccster",
    "points": 53.9,
    "best_bench": {
-    "name": "Tyrone Tracy",
+    "name": "Tyrone Tracy Jr.",
     "id": "11655",
     "nfl": "NYG",
     "pts": 18.5
