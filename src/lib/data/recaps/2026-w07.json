@@ -3,7 +3,7 @@
  "week": 7,
  "slug": "2026-w07",
  "title": "Week 7 recap",
- "generated": "2026-10-27T12:10:15+00:00",
+ "generated": "2026-10-28T13:07:49+00:00",
  "intro": "",
  "video": "",
  "notes": [],
@@ -15,7 +15,7 @@
   "SNF",
   "MNF"
  ],
- "median": 122.89,
+ "median": 122.84,
  "awards": [
   {
    "key": "high",
@@ -50,7 +50,7 @@
    "name": "Won anyway",
    "manager": "HillBillyWorm",
    "value": 108.42,
-   "note": "below the week's median of 122.89",
+   "note": "below the week's median of 122.84",
    "vs": null
   },
   {
@@ -59,7 +59,7 @@
    "name": "Lost anyway",
    "manager": "TuanonStan",
    "value": 156.34,
-   "note": "above the week's median of 122.89",
+   "note": "above the week's median of 122.84",
    "vs": null
   },
   {
@@ -127,8 +127,8 @@
   },
   {
    "manager": "Wallner",
-   "points": 129.1,
-   "optimal": 134.2
+   "points": 129.0,
+   "optimal": 134.1
   },
   {
    "manager": "BROCKSTARxD",
@@ -340,19 +340,19 @@
    "winner": {
     "manager": "Wallner",
     "team": "Big Nix Energy",
-    "points": 129.1,
-    "optimal": 134.2,
+    "points": 129.0,
+    "optimal": 134.1,
     "left_on_bench": 5.1,
     "timeline": [
      0.0,
      0.0,
      62.32,
-     129.1,
-     129.1,
-     129.1
+     129.0,
+     129.0,
+     129.0
     ],
     "by_pos": {
-     "QB": 41.4,
+     "QB": 41.3,
      "RB": 36.7,
      "TE": 16.5,
      "WR": 34.5
@@ -363,7 +363,7 @@
       "pos": "QB",
       "id": "11563",
       "nfl": "DEN",
-      "pts": 25.28
+      "pts": 25.18
      },
      {
       "name": "Tre Tucker",
@@ -449,7 +449,7 @@
      "pts": 0.0
     }
    },
-   "margin": 17.84,
+   "margin": 17.74,
    "cost": [
     {
      "name": "Tyler Warren",
@@ -1470,7 +1470,7 @@
    "w": 5,
    "l": 2,
    "t": 0,
-   "pf": 975.38
+   "pf": 975.28
   },
   {
    "manager": "TuanonStan",

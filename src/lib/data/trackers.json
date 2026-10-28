@@ -581,9 +581,9 @@
       ],
       [
        "@@Wallner",
-       975.4,
+       975.3,
        1053.2,
-       -77.8
+       -77.9
       ],
       [
        "@@DMsourbeer",
@@ -612,7 +612,7 @@
        "@@Wallner",
        "Davis Allen (TE) 20.0",
        "Tyler Warren 0.0",
-       17.8
+       17.7
       ],
       [
        7,
@@ -764,7 +764,7 @@
        "@@DMsourbeer",
        "-",
        "RB, TE",
-       "QB 3 RB 9 WR 7 TE 10"
+       "QB 3 RB 9 WR 6 TE 10"
       ],
       [
        "@@Jbird531",
@@ -788,7 +788,7 @@
        "@@YoungBuck04",
        "WR, TE",
        "QB, RB",
-       "QB 12 RB 12 WR 6 TE 6"
+       "QB 12 RB 12 WR 7 TE 6"
       ],
       [
        "@@brettmn13",
@@ -877,16 +877,16 @@
        12.2
       ],
       [
-       "@@butterygoop",
-       "Saquon Barkley",
-       "RB PHI",
-       11.8
-      ],
-      [
        "@@brettmn13",
        "Josh Jacobs",
        "RB GB",
-       11.3
+       11.4
+      ],
+      [
+       "@@butterygoop",
+       "Saquon Barkley",
+       "RB PHI",
+       11.2
       ],
       [
        "@@TuanonStan",
@@ -938,15 +938,15 @@
       ],
       [
        "@@butterygoop",
-       "Darren Waller",
-       "TE CAR",
+       "Khalil Shakir",
+       "WR BUF",
        8.8
       ],
       [
        "@@butterygoop",
-       "Khalil Shakir",
-       "WR BUF",
-       8.7
+       "Darren Waller",
+       "TE CAR",
+       8.8
       ],
       [
        "@@Wallner",
@@ -983,7 +983,7 @@
       [
        2,
        "@@butterygoop",
-       36.3,
+       35.7,
        "Jaylen Warren, A.J. Brown, Saquon Barkley"
       ],
       [
@@ -1019,13 +1019,13 @@
       [
        8,
        "@@triccster",
-       25.6,
+       25.5,
        "Michael Penix Jr., Tyrone Tracy Jr., Ryan Flournoy"
       ],
       [
        9,
        "@@YoungBuck04",
-       25.0,
+       25.1,
        "Tyler Higbee, Keenan Allen, Antonio Williams"
       ],
       [
@@ -1265,7 +1265,7 @@
        "@@butterygoop",
        3,
        44.2,
-       "Chris Olave, C.J. Stroud, Nico Collins"
+       "Nico Collins, C.J. Stroud, Chris Olave"
       ],
       [
        8,
@@ -1279,7 +1279,7 @@
        "@@Wallner",
        2,
        28.8,
-       "Mike Evans, Isaiah Likely"
+       "Isaiah Likely, Mike Evans"
       ],
       [
        8,
@@ -1306,15 +1306,15 @@
        9,
        "@@Thnu",
        2,
-       21.2,
-       "Cam Ward, Tony Pollard"
+       21.4,
+       "Tony Pollard, Cam Ward"
       ],
       [
        10,
        "@@triccster",
        2,
-       24.2,
-       "Jaylen Waddle, Bucky Irving"
+       24.3,
+       "Bucky Irving, Jaylen Waddle"
       ],
       [
        10,
@@ -1327,14 +1327,14 @@
        10,
        "@@TuanonStan",
        2,
-       22.8,
-       "Tanner McKee, Luther Burden III"
+       22.7,
+       "Luther Burden III, Tanner McKee"
       ],
       [
        10,
        "@@DMsourbeer",
        2,
-       17.9,
+       19.5,
        "DeVonta Smith, Chris Godwin Jr."
       ],
       [
@@ -1564,7 +1564,7 @@
        "@@HillBillyWorm",
        4,
        4,
-       "Trevor Lawrence 21.2, Caleb Williams 15.5, Justin Herbert 14.4"
+       "Trevor Lawrence 21.1, Caleb Williams 15.5, Justin Herbert 14.3"
       ],
       [
        "@@brettmn13",
@@ -1576,7 +1576,7 @@
        "@@Colt45Johnson",
        7,
        3,
-       "Joe Burrow 18.8, Dak Prescott 15.3, Kirk Cousins 13.7"
+       "Joe Burrow 18.7, Dak Prescott 15.3, Kirk Cousins 13.7"
       ],
       [
        "@@Wallner",
@@ -1588,13 +1588,13 @@
        "@@BROCKSTARxD",
        6,
        2,
-       "Brock Purdy 18.9, Baker Mayfield 13.6, Cade Klubnik 0.0"
+       "Brock Purdy 18.9, Baker Mayfield 13.5, Cade Klubnik 0.0"
       ],
       [
        "@@DMsourbeer",
        6,
        2,
-       "Patrick Mahomes 19.2, Jordan Love 14.0, Geno Smith 12.3"
+       "Patrick Mahomes 19.1, Jordan Love 14.0, Geno Smith 12.3"
       ],
       [
        "@@butterygoop",
@@ -1612,7 +1612,7 @@
        "@@YoungBuck04",
        7,
        1,
-       "Jacoby Brissett 12.9, Aaron Rodgers 12.4, Shedeur Sanders 5.5"
+       "Jacoby Brissett 12.8, Aaron Rodgers 12.5, Shedeur Sanders 5.5"
       ],
       [
        "@@Jbird531",
@@ -1624,7 +1624,7 @@
        "@@TuanonStan",
        6,
        1,
-       "Matthew Stafford 14.0, Tanner McKee 11.8, Ty Simpson 0.0"
+       "Matthew Stafford 14.0, Tanner McKee 11.6, Ty Simpson 0.0"
       ],
       [
        "@@Thnu",
@@ -1651,7 +1651,7 @@
        "Saquon Barkley",
        29,
        1,
-       11.8
+       11.2
       ],
       [
        "@@butterygoop",
@@ -1700,7 +1700,7 @@
        "Jonathan Taylor",
        27,
        3,
-       16.9
+       16.6
       ],
       [
        "@@Wallner",
@@ -1735,7 +1735,7 @@
        "Samaje Perine",
        31,
        5,
-       5.9
+       6.0
       ],
       [
        "@@TuanonStan",
