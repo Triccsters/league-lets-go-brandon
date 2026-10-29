@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T13:08:03+00:00",
+ "generated": "2026-10-29T12:43:12+00:00",
  "season": 2026,
  "week": 8,
  "playoff": false,
@@ -35,7 +35,7 @@
     ]
    },
    "proj": {
-    "Jbird531": 118.44,
+    "Jbird531": 118.43,
     "butterygoop": 170.46
    },
    "h2h": {
@@ -138,7 +138,7 @@
     ]
    },
    "proj": {
-    "Wallner": 138.12,
+    "Wallner": 138.11,
     "Thnu": 122.59
    },
    "h2h": {
@@ -155,7 +155,7 @@
   {
    "a": "DMsourbeer",
    "b": "HillBillyWorm",
-   "a_win": 48.6,
+   "a_win": 48.7,
    "rec": {
     "DMsourbeer": [
      3,
@@ -168,7 +168,7 @@
    },
    "avg": {
     "DMsourbeer": 127.88,
-    "HillBillyWorm": 136.16
+    "HillBillyWorm": 136.02
    },
    "last3": {
     "DMsourbeer": [
@@ -179,12 +179,12 @@
     "HillBillyWorm": [
      102.54,
      142.06,
-     108.42
+     107.42
     ]
    },
    "proj": {
     "DMsourbeer": 133.79,
-    "HillBillyWorm": 135.26
+    "HillBillyWorm": 135.16
    },
    "h2h": {
     "DMsourbeer": 0,
@@ -284,8 +284,8 @@
     ]
    },
    "proj": {
-    "brettmn13": 126.7,
-    "BROCKSTARxD": 126.7
+    "brettmn13": 126.69,
+    "BROCKSTARxD": 126.69
    },
    "h2h": {
     "brettmn13": 1,

@@ -88,9 +88,9 @@
       ],
       [
        "@@HillBillyWorm",
-       117.7,
-       136.2,
-       -18.5
+       117.3,
+       136.0,
+       -18.7
       ]
      ]
     },
@@ -220,7 +220,7 @@
       ],
       [
        "@@Thnu",
-       3,
+       6,
        0.0,
        "$1"
       ],
@@ -417,25 +417,25 @@
       ],
       [
        "@@HillBillyWorm",
-       "79.6%",
+       "79.5%",
        "Likely",
        0.0
       ],
       [
        "@@DMsourbeer",
-       "53.8%",
+       "53.9%",
        "Bubble",
-       "+35.6"
+       "+35.7"
       ],
       [
        "@@triccster",
-       "42.4%",
+       "42.5%",
        "Bubble",
-       -2.3
+       -2.2
       ],
       [
        "@@Thnu",
-       "21.0%",
+       "21.1%",
        "Fading",
        0.0
       ],
@@ -557,9 +557,9 @@
       ],
       [
        "@@HillBillyWorm",
-       953.1,
+       952.1,
        994.8,
-       -41.7
+       -42.7
       ],
       [
        "@@Thnu",
@@ -620,7 +620,7 @@
        "@@HillBillyWorm",
        "Davis Allen (TE) 20.0",
        "Tyler Higbee 4.4",
-       6.5
+       5.5
       ],
       [
        6,
@@ -886,7 +886,7 @@
        "@@butterygoop",
        "Saquon Barkley",
        "RB PHI",
-       11.2
+       11.1
       ],
       [
        "@@TuanonStan",
@@ -1013,8 +1013,8 @@
       [
        7,
        "@@TuanonStan",
-       26.1,
-       "Denzel Boston, Quinshon Judkins, Kyle Pitts Sr."
+       26.2,
+       "Quinshon Judkins, Denzel Boston, Kyle Pitts Sr."
       ],
       [
        8,
@@ -1025,13 +1025,13 @@
       [
        9,
        "@@YoungBuck04",
-       25.1,
+       25.2,
        "Tyler Higbee, Keenan Allen, Antonio Williams"
       ],
       [
        10,
        "@@Jbird531",
-       22.4,
+       22.5,
        "Michael Mayer, Keon Coleman, Caleb Douglas"
       ],
       [
@@ -1265,7 +1265,7 @@
        "@@butterygoop",
        3,
        44.2,
-       "Nico Collins, C.J. Stroud, Chris Olave"
+       "Chris Olave, C.J. Stroud, Nico Collins"
       ],
       [
        8,
@@ -1293,7 +1293,7 @@
        "@@triccster",
        2,
        23.0,
-       "Dalton Schultz, Tyler Shough"
+       "Tyler Shough, Dalton Schultz"
       ],
       [
        9,
@@ -1307,35 +1307,35 @@
        "@@Thnu",
        2,
        21.4,
-       "Tony Pollard, Cam Ward"
+       "Cam Ward, Tony Pollard"
       ],
       [
        10,
        "@@triccster",
        2,
        24.3,
-       "Bucky Irving, Jaylen Waddle"
+       "Jaylen Waddle, Bucky Irving"
       ],
       [
        10,
        "@@BROCKSTARxD",
        2,
-       23.5,
+       23.4,
        "Emeka Egbuka, Baker Mayfield"
       ],
       [
        10,
        "@@TuanonStan",
        2,
-       22.7,
-       "Luther Burden III, Tanner McKee"
+       22.8,
+       "Tanner McKee, Luther Burden III"
       ],
       [
        10,
        "@@DMsourbeer",
        2,
-       19.5,
-       "DeVonta Smith, Chris Godwin Jr."
+       19.6,
+       "Chris Godwin Jr., DeVonta Smith"
       ],
       [
        10,
@@ -1411,7 +1411,7 @@
        "@@triccster",
        7,
        7,
-       26.5,
+       26.6,
        "Rebuild"
       ],
       [
@@ -1429,22 +1429,22 @@
        "Rebuild"
       ],
       [
-       "@@Jbird531",
-       12,
+       "@@Thnu",
        10,
-       24,
+       11,
+       26.6,
        "Rebuild"
       ],
       [
-       "@@Thnu",
-       11,
-       11,
-       26.8,
+       "@@Jbird531",
+       12,
+       10,
+       24.0,
        "Rebuild"
       ],
       [
        "@@YoungBuck04",
-       10,
+       11,
        12,
        27.7,
        "Rebuild"
@@ -1564,7 +1564,7 @@
        "@@HillBillyWorm",
        4,
        4,
-       "Trevor Lawrence 21.1, Caleb Williams 15.5, Justin Herbert 14.3"
+       "Trevor Lawrence 21.2, Caleb Williams 15.5, Justin Herbert 14.4"
       ],
       [
        "@@brettmn13",
@@ -1576,7 +1576,7 @@
        "@@Colt45Johnson",
        7,
        3,
-       "Joe Burrow 18.7, Dak Prescott 15.3, Kirk Cousins 13.7"
+       "Joe Burrow 18.8, Dak Prescott 15.3, Kirk Cousins 13.7"
       ],
       [
        "@@Wallner",
@@ -1606,7 +1606,7 @@
        "@@triccster",
        5,
        2,
-       "Jared Goff 18.1, Tyler Shough 14.0, Michael Penix Jr. 11.7"
+       "Jared Goff 18.1, Tyler Shough 14.0, Michael Penix Jr. 11.6"
       ],
       [
        "@@YoungBuck04",
@@ -1651,7 +1651,7 @@
        "Saquon Barkley",
        29,
        1,
-       11.2
+       11.1
       ],
       [
        "@@butterygoop",
