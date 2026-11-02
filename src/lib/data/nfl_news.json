@@ -1,310 +1,139 @@
 {
- "read_at": "2026-10-29T12:43+00:00",
+ "read_at": "2026-11-02T20:36+00:00",
  "days": 7,
- "count": 104,
+ "count": 111,
  "items": [
   {
-   "headline": "Sources: Colts' Josh Downs requests trade; Jonathan Taylor hasn't, per coach",
-   "url": "https://www.espn.com/nfl/story/_/id/50309159/source-wr-downs-requests-trade-rb-taylor-per-coach",
-   "date": "2026-10-28",
+   "headline": "Cardinals' LaFleur noncommittal on QB after Minshew replaces Brissett in win",
+   "url": "https://www.espn.com/nfl/story/_/id/50353468/cardinals-mike-lafleur-noncommittal-starting-qb-gardner-minshew-replaces-jacoby-brissett-win",
+   "date": "2026-11-02",
    "kind": "news",
    "teams": [
-    "IND"
+    "ARI"
    ],
    "named": [
     {
-     "n": "Josh Downs",
-     "p": "WR",
-     "t": "IND",
-     "h": "BROCKSTARxD"
+     "n": "Gardner Minshew II",
+     "p": "QB",
+     "t": "ARI",
+     "h": "butterygoop"
     },
     {
-     "n": "Jonathan Taylor",
-     "p": "RB",
-     "t": "IND",
-     "h": "Wallner"
+     "n": "Jacoby Brissett",
+     "p": "QB",
+     "t": "ARI",
+     "h": "YoungBuck04"
     }
    ],
    "lead": [
-    "Josh Downs",
-    "Jonathan Taylor"
+    "Gardner Minshew II",
+    "Jacoby Brissett"
    ],
    "ripple": [
     {
-     "n": "Seth McGowan",
+     "n": "Trey Benson",
      "p": "RB",
-     "t": "IND",
+     "t": "ARI",
      "h": "Jbird531"
     },
     {
-     "n": "Tyler Warren",
-     "p": "TE",
-     "t": "IND",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Alec Pierce",
+     "n": "Michael Wilson",
      "p": "WR",
-     "t": "IND",
-     "h": "BROCKSTARxD"
+     "t": "ARI",
+     "h": "TuanonStan"
     },
     {
-     "n": "Anthony Richardson Sr.",
-     "p": "QB",
-     "t": "IND",
+     "n": "Trey McBride",
+     "p": "TE",
+     "t": "ARI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Zonovan Knight",
+     "p": "RB",
+     "t": "ARI",
      "h": "Wallner"
     },
     {
-     "n": "Laquon Treadwell",
-     "p": "WR",
-     "t": "IND",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "DJ Giddens",
+     "n": "Tyler Allgeier",
      "p": "RB",
-     "t": "IND",
+     "t": "ARI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Carson Beck",
+     "p": "QB",
+     "t": "ARI",
      "h": "DMsourbeer"
     },
     {
-     "n": "Daniel Jones",
-     "p": "QB",
-     "t": "IND",
-     "h": "Colt45Johnson"
+     "n": "Jeremiyah Love",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Thnu"
     },
     {
-     "n": "Keenan Allen",
+     "n": "Kendrick Bourne",
      "p": "WR",
-     "t": "IND",
+     "t": "ARI",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "James Conner",
+     "p": "RB",
+     "t": "ARI",
      "h": "YoungBuck04"
     }
    ],
    "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
     "DMsourbeer",
     "Jbird531",
+    "Thnu",
+    "TuanonStan",
     "Wallner",
-    "YoungBuck04"
+    "YoungBuck04",
+    "butterygoop"
    ],
    "score": 20.0
   },
   {
-   "headline": "Giants place RB Tyrone Tracy Jr. on IR with hamstring injury",
-   "url": "https://www.espn.com/nfl/story/_/id/50300226/giants-place-rb-tyrone-tracy-ir-hamstring-injury",
-   "date": "2026-10-28",
+   "headline": "Bucs down Falcons without pass completion; Bucky Irving, Kenny Gainwell run wild",
+   "url": "https://www.espn.com/nfl/story/_/id/50351129/buccaneers-silence-falcons-pass-completion",
+   "date": "2026-11-01",
    "kind": "news",
    "teams": [
-    "NYG"
-   ],
-   "named": [
-    {
-     "n": "Tyrone Tracy Jr.",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    },
-    {
-     "n": "Devin Singletary",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    },
-    {
-     "n": "Cam Skattebo",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    }
-   ],
-   "lead": [
-    "Tyrone Tracy Jr."
-   ],
-   "ripple": [
-    {
-     "n": "J.J. McCarthy",
-     "p": "QB",
-     "t": "NYG",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Theo Johnson",
-     "p": "TE",
-     "t": "NYG",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Jameis Winston",
-     "p": "QB",
-     "t": "NYG",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Malachi Fields",
-     "p": "WR",
-     "t": "NYG",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Jaxson Dart",
-     "p": "QB",
-     "t": "NYG",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Isaiah Likely",
-     "p": "TE",
-     "t": "NYG",
-     "h": "Wallner"
-    },
-    {
-     "n": "Malik Nabers",
-     "p": "WR",
-     "t": "NYG",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Darnell Mooney",
-     "p": "WR",
-     "t": "NYG",
-     "h": "Thnu"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "Jbird531",
-    "Thnu",
-    "Wallner",
-    "brettmn13",
-    "triccster"
-   ],
-   "score": 18.0
-  },
-  {
-   "headline": "Ravens rule out Lamar Jackson (ankle) vs. Bengals; Tyler 'Snoop' Huntley to start",
-   "url": "https://www.espn.com/nfl/story/_/id/50268816/ravens-rule-lamar-jackson-high-ankle-sprain-vs-bengals",
-   "date": "2026-10-24",
-   "kind": "news",
-   "teams": [
-    "BAL"
-   ],
-   "named": [
-    {
-     "n": "Lamar Jackson",
-     "p": "QB",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Tyler Huntley",
-     "p": "QB",
-     "t": "BAL",
-     "h": "Wallner"
-    }
-   ],
-   "lead": [
-    "Lamar Jackson",
-    "Tyler Huntley"
-   ],
-   "ripple": [
-    {
-     "n": "Mark Andrews",
-     "p": "TE",
-     "t": "BAL",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Rashod Bateman",
-     "p": "WR",
-     "t": "BAL",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Matt Hibner",
-     "p": "TE",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Adam Randall",
-     "p": "RB",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Zay Flowers",
-     "p": "WR",
-     "t": "BAL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Justice Hill",
-     "p": "RB",
-     "t": "BAL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Ja'Kobi Lane",
-     "p": "WR",
-     "t": "BAL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Elijah Sarratt",
-     "p": "WR",
-     "t": "BAL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Devontez Walker",
-     "p": "WR",
-     "t": "BAL",
-     "h": "Thnu"
-    },
-    {
-     "n": "Derrick Henry",
-     "p": "RB",
-     "t": "BAL",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "DMsourbeer",
-    "HillBillyWorm",
-    "Thnu",
-    "Wallner",
-    "brettmn13",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 17.0
-  },
-  {
-   "headline": "Baker Mayfield returns for Bucs, but WR Emeka Egbuka, RT Luke Goedeke out",
-   "url": "https://www.espn.com/nfl/story/_/id/50259196/baker-mayfield-returns-emeka-egbuka-luke-goedeke-out",
-   "date": "2026-10-23",
-   "kind": "news",
-   "teams": [
+    "ATL",
     "TB"
    ],
    "named": [
     {
-     "n": "Emeka Egbuka",
-     "p": "WR",
+     "n": "Bucky Irving",
+     "p": "RB",
      "t": "TB",
-     "h": "BROCKSTARxD"
+     "h": "triccster"
+    },
+    {
+     "n": "Kenny Gainwell",
+     "p": "RB",
+     "t": "TB",
+     "h": "HillBillyWorm"
     },
     {
      "n": "Baker Mayfield",
      "p": "QB",
      "t": "TB",
      "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Michael Penix Jr.",
+     "p": "QB",
+     "t": "ATL",
+     "h": "triccster"
     }
    ],
    "lead": [
-    "Emeka Egbuka",
-    "Baker Mayfield"
+    "Bucky Irving",
+    "Kenny Gainwell"
    ],
    "ripple": [
     {
@@ -326,16 +155,16 @@
      "h": "brettmn13"
     },
     {
+     "n": "Emeka Egbuka",
+     "p": "WR",
+     "t": "TB",
+     "h": "BROCKSTARxD"
+    },
+    {
      "n": "Chris Godwin Jr.",
      "p": "WR",
      "t": "TB",
      "h": "DMsourbeer"
-    },
-    {
-     "n": "Kenny Gainwell",
-     "p": "RB",
-     "t": "TB",
-     "h": "HillBillyWorm"
     },
     {
      "n": "Jalon Daniels",
@@ -354,12 +183,6 @@
      "p": "WR",
      "t": "TB",
      "h": "Thnu"
-    },
-    {
-     "n": "Bucky Irving",
-     "p": "RB",
-     "t": "TB",
-     "h": "triccster"
     }
    ],
    "managers": [
@@ -373,290 +196,195 @@
     "brettmn13",
     "triccster"
    ],
-   "score": 17.0
+   "score": 20.0
   },
   {
-   "headline": "Justin Jefferson on down year amid Vikes' 6-0 start: 'What we're doing is working'",
-   "url": "https://www.espn.com/nfl/story/_/id/50311965/justin-jefferson-addresses-year-amid-vikings-6-0-start",
-   "date": "2026-10-29",
+   "headline": "Patriots rule out A.J. Brown, TreVeyon Henderson vs. Dolphins",
+   "url": "https://www.espn.com/nfl/story/_/id/50337296/patriots-rule-aj-brown-treveyon-henderson-vs-dolphins",
+   "date": "2026-10-31",
    "kind": "news",
    "teams": [
-    "MIN"
+    "NE"
    ],
    "named": [
     {
-     "n": "Justin Jefferson",
+     "n": "A.J. Brown",
      "p": "WR",
-     "t": "MIN",
-     "h": "YoungBuck04"
+     "t": "NE",
+     "h": "butterygoop"
+    },
+    {
+     "n": "TreVeyon Henderson",
+     "p": "RB",
+     "t": "NE",
+     "h": "Colt45Johnson"
     }
    ],
    "lead": [
-    "Justin Jefferson"
+    "A.J. Brown",
+    "TreVeyon Henderson"
    ],
    "ripple": [
     {
-     "n": "Jordan Addison",
-     "p": "WR",
-     "t": "MIN",
+     "n": "Drake Maye",
+     "p": "QB",
+     "t": "NE",
      "h": "Jbird531"
     },
     {
-     "n": "Carson Wentz",
-     "p": "QB",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Jordan Mason",
-     "p": "RB",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Odell Beckham Jr.",
+     "n": "Kyle Williams",
      "p": "WR",
-     "t": "MIN",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Tai Felton",
-     "p": "WR",
-     "t": "MIN",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Demond Claiborne",
-     "p": "RB",
-     "t": "MIN",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "DeeJay Dallas",
-     "p": "RB",
-     "t": "MIN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jauan Jennings",
-     "p": "WR",
-     "t": "MIN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Aaron Jones Sr.",
-     "p": "RB",
-     "t": "MIN",
-     "h": "Thnu"
-    },
-    {
-     "n": "Kyler Murray",
-     "p": "QB",
-     "t": "MIN",
-     "h": "Thnu"
-    },
-    {
-     "n": "T.J. Hockenson",
-     "p": "TE",
-     "t": "MIN",
-     "h": "YoungBuck04"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "HillBillyWorm",
-    "Jbird531",
-    "Thnu",
-    "YoungBuck04",
-    "brettmn13"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Bengals put TE Erick All Jr. on IR; believed to be torn ACL, per source",
-   "url": "https://www.espn.com/nfl/story/_/id/50299803/bengals-te-all-put-ir-likely-due-torn-acl-per-source",
-   "date": "2026-10-28",
-   "kind": "news",
-   "teams": [
-    "CIN"
-   ],
-   "named": [
-    {
-     "n": "Erick All Jr.",
-     "p": "TE",
-     "t": "CIN",
-     "h": "triccster"
-    }
-   ],
-   "lead": [
-    "Erick All Jr."
-   ],
-   "ripple": [
-    {
-     "n": "Samaje Perine",
-     "p": "RB",
-     "t": "CIN",
+     "t": "NE",
      "h": "TuanonStan"
     },
     {
-     "n": "Joe Flacco",
-     "p": "QB",
-     "t": "CIN",
+     "n": "Romeo Doubs",
+     "p": "WR",
+     "t": "NE",
      "h": "brettmn13"
     },
     {
-     "n": "Andrei Iosivas",
+     "n": "Mack Hollins",
      "p": "WR",
-     "t": "CIN",
+     "t": "NE",
      "h": "BROCKSTARxD"
     },
     {
-     "n": "Chase Brown",
+     "n": "Rhamondre Stevenson",
      "p": "RB",
-     "t": "CIN",
-     "h": "Wallner"
+     "t": "NE",
+     "h": "butterygoop"
     },
     {
-     "n": "Mike Gesicki",
-     "p": "TE",
-     "t": "CIN",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Jack Endries",
-     "p": "TE",
-     "t": "CIN",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Colbie Young",
-     "p": "WR",
-     "t": "CIN",
+     "n": "Corey Kiner",
+     "p": "RB",
+     "t": "NE",
      "h": "HillBillyWorm"
     },
     {
-     "n": "Tee Higgins",
+     "n": "DeMario Douglas",
      "p": "WR",
-     "t": "CIN",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Joe Burrow",
-     "p": "QB",
-     "t": "CIN",
+     "t": "NE",
      "h": "Colt45Johnson"
     },
     {
-     "n": "Dohnte Meyers",
+     "n": "Efton Chism III",
      "p": "WR",
-     "t": "CIN",
+     "t": "NE",
+     "h": "Thnu"
+    },
+    {
+     "n": "Eli Raridon",
+     "p": "TE",
+     "t": "NE",
      "h": "YoungBuck04"
     },
     {
-     "n": "Ja'Marr Chase",
-     "p": "WR",
-     "t": "CIN",
+     "n": "Hunter Henry",
+     "p": "TE",
+     "t": "NE",
      "h": "triccster"
     }
    ],
    "managers": [
     "BROCKSTARxD",
     "Colt45Johnson",
-    "DMsourbeer",
     "HillBillyWorm",
+    "Jbird531",
+    "Thnu",
     "TuanonStan",
-    "Wallner",
     "YoungBuck04",
     "brettmn13",
+    "butterygoop",
     "triccster"
    ],
-   "score": 16.0
+   "score": 18.0
   },
   {
-   "headline": "Texans put WR Jaylin Noel on IR with expected season-ending turf toe injury",
-   "url": "https://www.espn.com/nfl/story/_/id/50311414/texans-put-wr-jaylin-noel-ir-turf-toe-injury",
-   "date": "2026-10-28",
+   "headline": "Zach Charbonnet, Jadarian Price have no game designations for Monday",
+   "url": "https://www.espn.com/nfl/story/_/id/50340383/seahawks-rbs-charbonnet-price-healthy-play-monday-night",
+   "date": "2026-10-31",
    "kind": "news",
    "teams": [
-    "HOU"
+    "SEA"
    ],
    "named": [
     {
-     "n": "Jaylin Noel",
-     "p": "WR",
-     "t": "HOU",
-     "h": "Thnu"
-    }
-   ],
-   "lead": [
-    "Jaylin Noel"
-   ],
-   "ripple": [
-    {
-     "n": "Tank Dell",
-     "p": "WR",
-     "t": "HOU",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Marvin Harrison Jr.",
-     "p": "WR",
-     "t": "HOU",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Xavier Hutchinson",
-     "p": "WR",
-     "t": "HOU",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Nico Collins",
-     "p": "WR",
-     "t": "HOU",
-     "h": "butterygoop"
-    },
-    {
-     "n": "C.J. Stroud",
-     "p": "QB",
-     "t": "HOU",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Cade Stover",
-     "p": "TE",
-     "t": "HOU",
-     "h": "Wallner"
-    },
-    {
-     "n": "David Montgomery",
+     "n": "Zach Charbonnet",
      "p": "RB",
-     "t": "HOU",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Jayden Higgins",
-     "p": "WR",
-     "t": "HOU",
+     "t": "SEA",
      "h": "HillBillyWorm"
     },
     {
-     "n": "Kayshon Boutte",
+     "n": "Jadarian Price",
+     "p": "RB",
+     "t": "SEA",
+     "h": "HillBillyWorm"
+    }
+   ],
+   "lead": [
+    "Zach Charbonnet",
+    "Jadarian Price"
+   ],
+   "ripple": [
+    {
+     "n": "Emanuel Wilson",
+     "p": "RB",
+     "t": "SEA",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Drew Lock",
+     "p": "QB",
+     "t": "SEA",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "George Holani",
+     "p": "RB",
+     "t": "SEA",
+     "h": "Wallner"
+    },
+    {
+     "n": "Rashid Shaheed",
      "p": "WR",
-     "t": "HOU",
+     "t": "SEA",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Sam Darnold",
+     "p": "QB",
+     "t": "SEA",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "AJ Barner",
+     "p": "TE",
+     "t": "SEA",
      "h": "Colt45Johnson"
     },
     {
-     "n": "Woody Marks",
-     "p": "RB",
-     "t": "HOU",
-     "h": "Thnu"
+     "n": "Tory Horton",
+     "p": "WR",
+     "t": "SEA",
+     "h": "Colt45Johnson"
     },
     {
-     "n": "Dalton Schultz",
+     "n": "Jaxon Smith-Njigba",
+     "p": "WR",
+     "t": "SEA",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Elijah Arroyo",
      "p": "TE",
-     "t": "HOU",
+     "t": "SEA",
+     "h": "triccster"
+    },
+    {
+     "n": "Cooper Kupp",
+     "p": "WR",
+     "t": "SEA",
      "h": "triccster"
     }
    ],
@@ -665,407 +393,15 @@
     "Colt45Johnson",
     "DMsourbeer",
     "HillBillyWorm",
-    "Jbird531",
-    "Thnu",
-    "Wallner",
-    "brettmn13",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Brian Thomas Jr. trying to ignore trade talk, 'keep working hard' for Jaguars",
-   "url": "https://www.espn.com/nfl/story/_/id/50311100/jaguars-brian-thomas-jr-trying-ignore-trade-talk",
-   "date": "2026-10-28",
-   "kind": "news",
-   "teams": [
-    "JAX"
-   ],
-   "named": [
-    {
-     "n": "Brian Thomas Jr.",
-     "p": "WR",
-     "t": "JAX",
-     "h": "HillBillyWorm"
-    }
-   ],
-   "lead": [
-    "Brian Thomas Jr."
-   ],
-   "ripple": [
-    {
-     "n": "Josh Cameron",
-     "p": "WR",
-     "t": "JAX",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Chris Rodriguez Jr.",
-     "p": "RB",
-     "t": "JAX",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Parker Washington",
-     "p": "WR",
-     "t": "JAX",
-     "h": "Wallner"
-    },
-    {
-     "n": "Tanner Koziol",
-     "p": "TE",
-     "t": "JAX",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Bhayshul Tuten",
-     "p": "RB",
-     "t": "JAX",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Trevor Lawrence",
-     "p": "QB",
-     "t": "JAX",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Brenton Strange",
-     "p": "TE",
-     "t": "JAX",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Quinn Ewers",
-     "p": "QB",
-     "t": "JAX",
-     "h": "triccster"
-    },
-    {
-     "n": "Jakobi Meyers",
-     "p": "WR",
-     "t": "JAX",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "DMsourbeer",
-    "HillBillyWorm",
-    "Jbird531",
     "Wallner",
     "triccster"
    ],
-   "score": 16.0
+   "score": 18.0
   },
   {
-   "headline": "Jets WR Garrett Wilson says he doesn't want to be traded but does want to win",
-   "url": "https://www.espn.com/nfl/story/_/id/50308919/jets-wr-garrett-wilson-says-want-traded",
-   "date": "2026-10-28",
-   "kind": "news",
-   "teams": [
-    "NYJ"
-   ],
-   "named": [
-    {
-     "n": "Garrett Wilson",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "Wallner"
-    }
-   ],
-   "lead": [
-    "Garrett Wilson"
-   ],
-   "ripple": [
-    {
-     "n": "Omar Cooper Jr.",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Breece Hall",
-     "p": "RB",
-     "t": "NYJ",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Cade Klubnik",
-     "p": "QB",
-     "t": "NYJ",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Isaiah Williams",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Adonai Mitchell",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Mason Taylor",
-     "p": "TE",
-     "t": "NYJ",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Will Levis",
-     "p": "QB",
-     "t": "NYJ",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Kenyon Sadiq",
-     "p": "TE",
-     "t": "NYJ",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Geno Smith",
-     "p": "QB",
-     "t": "NYJ",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Isaiah Davis",
-     "p": "RB",
-     "t": "NYJ",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Tim Patrick",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "Thnu"
-    },
-    {
-     "n": "Braelon Allen",
-     "p": "RB",
-     "t": "NYJ",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "Thnu",
-    "Wallner",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Jets' Garrett Wilson says sideline screaming wasn't directed at Geno Smith",
-   "url": "https://www.espn.com/nfl/story/_/id/50282050/jets-garrett-wilson-says-sideline-screaming-directed-geno-smith",
-   "date": "2026-10-26",
-   "kind": "news",
-   "teams": [
-    "NYJ"
-   ],
-   "named": [
-    {
-     "n": "Garrett Wilson",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "Wallner"
-    },
-    {
-     "n": "Geno Smith",
-     "p": "QB",
-     "t": "NYJ",
-     "h": "DMsourbeer"
-    }
-   ],
-   "lead": [
-    "Garrett Wilson",
-    "Geno Smith"
-   ],
-   "ripple": [
-    {
-     "n": "Omar Cooper Jr.",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Breece Hall",
-     "p": "RB",
-     "t": "NYJ",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Cade Klubnik",
-     "p": "QB",
-     "t": "NYJ",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Isaiah Williams",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Adonai Mitchell",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Mason Taylor",
-     "p": "TE",
-     "t": "NYJ",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Will Levis",
-     "p": "QB",
-     "t": "NYJ",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Kenyon Sadiq",
-     "p": "TE",
-     "t": "NYJ",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Isaiah Davis",
-     "p": "RB",
-     "t": "NYJ",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Tim Patrick",
-     "p": "WR",
-     "t": "NYJ",
-     "h": "Thnu"
-    },
-    {
-     "n": "Braelon Allen",
-     "p": "RB",
-     "t": "NYJ",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "Thnu",
-    "Wallner",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Sources: Cam Skattebo expected to resume role as Giants' lead RB vs. Texans",
-   "url": "https://www.espn.com/nfl/story/_/id/50268018/sources-cam-skattebo-expected-giants-lead-rb",
-   "date": "2026-10-25",
-   "kind": "news",
-   "teams": [
-    "NYG"
-   ],
-   "named": [
-    {
-     "n": "Cam Skattebo",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    },
-    {
-     "n": "Tyrone Tracy Jr.",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    },
-    {
-     "n": "Devin Singletary",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    }
-   ],
-   "lead": [
-    "Cam Skattebo"
-   ],
-   "ripple": [
-    {
-     "n": "J.J. McCarthy",
-     "p": "QB",
-     "t": "NYG",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Theo Johnson",
-     "p": "TE",
-     "t": "NYG",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Jameis Winston",
-     "p": "QB",
-     "t": "NYG",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Malachi Fields",
-     "p": "WR",
-     "t": "NYG",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Jaxson Dart",
-     "p": "QB",
-     "t": "NYG",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Isaiah Likely",
-     "p": "TE",
-     "t": "NYG",
-     "h": "Wallner"
-    },
-    {
-     "n": "Malik Nabers",
-     "p": "WR",
-     "t": "NYG",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Darnell Mooney",
-     "p": "WR",
-     "t": "NYG",
-     "h": "Thnu"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "Jbird531",
-    "Thnu",
-    "Wallner",
-    "brettmn13",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Ravens' Jesse Minter optimistic QB Lamar Jackson can return vs. Bills",
-   "url": "https://www.espn.com/nfl/story/_/id/50290411/ravens-coach-minter-optimistic-qb-jackson-returns-vs-bills",
-   "date": "2026-10-26",
+   "headline": "Ravens' Lamar Jackson needs thumb surgery, will be placed on IR",
+   "url": "https://www.espn.com/nfl/story/_/id/50349558/ravens-lamar-jackson-rest-game-thumb-injury",
+   "date": "2026-11-02",
    "kind": "news",
    "teams": [
     "BAL"
@@ -1158,12 +494,98 @@
     "butterygoop",
     "triccster"
    ],
-   "score": 15.0
+   "score": 17.0
   },
   {
-   "headline": "Kirk Cousins to remain Raiders' starting QB vs. Jets, Klint Kubiak says",
-   "url": "https://www.espn.com/nfl/story/_/id/50289866/kirk-cousins-remain-raiders-starting-qb-klint-kubiak-says",
-   "date": "2026-10-26",
+   "headline": "Sources: Colts' Josh Downs requests trade; Jonathan Taylor hasn't, per coach",
+   "url": "https://www.espn.com/nfl/story/_/id/50309159/source-wr-downs-requests-trade-rb-taylor-per-coach",
+   "date": "2026-10-28",
+   "kind": "news",
+   "teams": [
+    "IND"
+   ],
+   "named": [
+    {
+     "n": "Josh Downs",
+     "p": "WR",
+     "t": "IND",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Jonathan Taylor",
+     "p": "RB",
+     "t": "IND",
+     "h": "Wallner"
+    }
+   ],
+   "lead": [
+    "Josh Downs",
+    "Jonathan Taylor"
+   ],
+   "ripple": [
+    {
+     "n": "Seth McGowan",
+     "p": "RB",
+     "t": "IND",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Tyler Warren",
+     "p": "TE",
+     "t": "IND",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Alec Pierce",
+     "p": "WR",
+     "t": "IND",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Anthony Richardson Sr.",
+     "p": "QB",
+     "t": "IND",
+     "h": "Wallner"
+    },
+    {
+     "n": "Laquon Treadwell",
+     "p": "WR",
+     "t": "IND",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "DJ Giddens",
+     "p": "RB",
+     "t": "IND",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Daniel Jones",
+     "p": "QB",
+     "t": "IND",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Keenan Allen",
+     "p": "WR",
+     "t": "IND",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "DMsourbeer",
+    "Jbird531",
+    "Wallner",
+    "YoungBuck04"
+   ],
+   "score": 17.0
+  },
+  {
+   "headline": "Raiders' Ashton Jeanty limited to 2 carries in win vs. Jets",
+   "url": "https://www.espn.com/nfl/story/_/id/50353065/raiders-ashton-jeanty-two-carries-win-jets-comments",
+   "date": "2026-11-02",
    "kind": "news",
    "teams": [
     "LV",
@@ -1171,20 +593,14 @@
    ],
    "named": [
     {
-     "n": "Kirk Cousins",
-     "p": "QB",
+     "n": "Ashton Jeanty",
+     "p": "RB",
      "t": "LV",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Fernando Mendoza",
-     "p": "QB",
-     "t": "LV",
-     "h": "Jbird531"
+     "h": "brettmn13"
     }
    ],
    "lead": [
-    "Kirk Cousins"
+    "Ashton Jeanty"
    ],
    "ripple": [
     {
@@ -1194,10 +610,10 @@
      "h": "Jbird531"
     },
     {
-     "n": "Ashton Jeanty",
-     "p": "RB",
+     "n": "Fernando Mendoza",
+     "p": "QB",
      "t": "LV",
-     "h": "brettmn13"
+     "h": "Jbird531"
     },
     {
      "n": "Cody White",
@@ -1230,6 +646,12 @@
      "h": "DMsourbeer"
     },
     {
+     "n": "Kirk Cousins",
+     "p": "QB",
+     "t": "LV",
+     "h": "Colt45Johnson"
+    },
+    {
      "n": "Brock Bowers",
      "p": "TE",
      "t": "LV",
@@ -1259,12 +681,271 @@
     "brettmn13",
     "butterygoop"
    ],
-   "score": 15.0
+   "score": 16.0
   },
   {
-   "headline": "Bears' Caleb Williams to continue wearing Caddix 'smart cleats' despite fine",
-   "url": "https://www.espn.com/nfl/story/_/id/50311661/bears-qb-caleb-williams-continue-wearing-caddix-cleats-fine",
-   "date": "2026-10-28",
+   "headline": "Saquon Barkley has assurances he won't be traded, wants to help Eagles 'fix it'",
+   "url": "https://www.espn.com/nfl/story/_/id/50356092/saquon-barkley-assurances-eagles-dealt",
+   "date": "2026-11-02",
+   "kind": "news",
+   "teams": [
+    "PHI",
+    "WAS"
+   ],
+   "named": [
+    {
+     "n": "Saquon Barkley",
+     "p": "RB",
+     "t": "PHI",
+     "h": "butterygoop"
+    }
+   ],
+   "lead": [
+    "Saquon Barkley"
+   ],
+   "ripple": [
+    {
+     "n": "Jalen Hurts",
+     "p": "QB",
+     "t": "PHI",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Tanner McKee",
+     "p": "QB",
+     "t": "PHI",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Will Shipley",
+     "p": "RB",
+     "t": "PHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Darius Cooper",
+     "p": "WR",
+     "t": "PHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Eli Stowers",
+     "p": "TE",
+     "t": "PHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Elijah Mitchell",
+     "p": "RB",
+     "t": "PHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Dameon Pierce",
+     "p": "RB",
+     "t": "PHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Zach Ertz",
+     "p": "TE",
+     "t": "PHI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Marquise Brown",
+     "p": "WR",
+     "t": "PHI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Tank Bigsby",
+     "p": "RB",
+     "t": "PHI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Joe Milton",
+     "p": "QB",
+     "t": "PHI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Jaydon Blue",
+     "p": "RB",
+     "t": "PHI",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "DeVonta Smith",
+     "p": "WR",
+     "t": "PHI",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Dontayvion Wicks",
+     "p": "WR",
+     "t": "PHI",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Dallas Goedert",
+     "p": "TE",
+     "t": "PHI",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Makai Lemon",
+     "p": "WR",
+     "t": "PHI",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "brettmn13",
+    "butterygoop",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Brandon Aiyuk hires Drew Rosenhaus as agent, eyes return to NFL",
+   "url": "https://www.espn.com/nfl/story/_/id/50360681/brandon-aiyuk-hires-drew-rosenhaus-agent-eyes-return-nfl",
+   "date": "2026-11-02",
+   "kind": "news",
+   "teams": [
+    "SF"
+   ],
+   "named": [
+    {
+     "n": "Brandon Aiyuk",
+     "p": "WR",
+     "t": "SF",
+     "h": "Thnu"
+    }
+   ],
+   "lead": [
+    "Brandon Aiyuk"
+   ],
+   "ripple": [
+    {
+     "n": "De'Zhaun Stribling",
+     "p": "WR",
+     "t": "SF",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Kaelon Black",
+     "p": "RB",
+     "t": "SF",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Brock Purdy",
+     "p": "QB",
+     "t": "SF",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Christian McCaffrey",
+     "p": "RB",
+     "t": "SF",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Brandin Cooks",
+     "p": "WR",
+     "t": "SF",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Jordan Watkins",
+     "p": "WR",
+     "t": "SF",
+     "h": "Wallner"
+    },
+    {
+     "n": "Mike Evans",
+     "p": "WR",
+     "t": "SF",
+     "h": "Wallner"
+    },
+    {
+     "n": "Deebo Samuel Sr.",
+     "p": "WR",
+     "t": "SF",
+     "h": "Wallner"
+    },
+    {
+     "n": "Jordan James",
+     "p": "RB",
+     "t": "SF",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "George Kittle",
+     "p": "TE",
+     "t": "SF",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Jake Tonges",
+     "p": "TE",
+     "t": "SF",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Demarcus Robinson",
+     "p": "WR",
+     "t": "SF",
+     "h": "Thnu"
+    },
+    {
+     "n": "Christian Kirk",
+     "p": "WR",
+     "t": "SF",
+     "h": "Thnu"
+    },
+    {
+     "n": "Luke Farrell",
+     "p": "TE",
+     "t": "SF",
+     "h": "Thnu"
+    },
+    {
+     "n": "Mac Jones",
+     "p": "QB",
+     "t": "SF",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Ricky Pearsall",
+     "p": "WR",
+     "t": "SF",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "Thnu",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "brettmn13",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Bears QB Caleb Williams won't 'spat' custom cleats out of principle, source says",
+   "url": "https://www.espn.com/nfl/story/_/id/50343312/source-caleb-williams-spat-cleats-principle",
+   "date": "2026-11-01",
    "kind": "news",
    "teams": [
     "CHI"
@@ -1357,6 +1038,368 @@
     "YoungBuck04",
     "brettmn13",
     "butterygoop"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams",
+   "url": "https://www.espn.com/nfl/story/_/id/50323095/sources-colts-willing-trade-star-rb-jonathan-taylor",
+   "date": "2026-11-01",
+   "kind": "news",
+   "teams": [
+    "IND"
+   ],
+   "named": [
+    {
+     "n": "Jonathan Taylor",
+     "p": "RB",
+     "t": "IND",
+     "h": "Wallner"
+    }
+   ],
+   "lead": [
+    "Jonathan Taylor"
+   ],
+   "ripple": [
+    {
+     "n": "Seth McGowan",
+     "p": "RB",
+     "t": "IND",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Tyler Warren",
+     "p": "TE",
+     "t": "IND",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Josh Downs",
+     "p": "WR",
+     "t": "IND",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Alec Pierce",
+     "p": "WR",
+     "t": "IND",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Anthony Richardson Sr.",
+     "p": "QB",
+     "t": "IND",
+     "h": "Wallner"
+    },
+    {
+     "n": "Laquon Treadwell",
+     "p": "WR",
+     "t": "IND",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "DJ Giddens",
+     "p": "RB",
+     "t": "IND",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Daniel Jones",
+     "p": "QB",
+     "t": "IND",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Keenan Allen",
+     "p": "WR",
+     "t": "IND",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "DMsourbeer",
+    "Jbird531",
+    "Wallner",
+    "YoungBuck04"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Source: Jauan Jennings wanted to stay with Vikings amid 49ers trade talks",
+   "url": "https://www.espn.com/nfl/story/_/id/50350048/source-jennings-wanted-stay-vikings-amid-49ers-talks",
+   "date": "2026-11-01",
+   "kind": "news",
+   "teams": [
+    "MIN",
+    "SF"
+   ],
+   "named": [
+    {
+     "n": "Jauan Jennings",
+     "p": "WR",
+     "t": "MIN",
+     "h": "Colt45Johnson"
+    }
+   ],
+   "lead": [
+    "Jauan Jennings"
+   ],
+   "ripple": [
+    {
+     "n": "Jordan Addison",
+     "p": "WR",
+     "t": "MIN",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Carson Wentz",
+     "p": "QB",
+     "t": "MIN",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Jordan Mason",
+     "p": "RB",
+     "t": "MIN",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Odell Beckham Jr.",
+     "p": "WR",
+     "t": "MIN",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Tai Felton",
+     "p": "WR",
+     "t": "MIN",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Demond Claiborne",
+     "p": "RB",
+     "t": "MIN",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "DeeJay Dallas",
+     "p": "RB",
+     "t": "MIN",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Aaron Jones Sr.",
+     "p": "RB",
+     "t": "MIN",
+     "h": "Thnu"
+    },
+    {
+     "n": "Kyler Murray",
+     "p": "QB",
+     "t": "MIN",
+     "h": "Thnu"
+    },
+    {
+     "n": "Justin Jefferson",
+     "p": "WR",
+     "t": "MIN",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "T.J. Hockenson",
+     "p": "TE",
+     "t": "MIN",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "HillBillyWorm",
+    "Jbird531",
+    "Thnu",
+    "YoungBuck04",
+    "brettmn13"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Giants place RB Tyrone Tracy Jr. on IR with hamstring injury",
+   "url": "https://www.espn.com/nfl/story/_/id/50300226/giants-place-rb-tyrone-tracy-ir-hamstring-injury",
+   "date": "2026-10-28",
+   "kind": "news",
+   "teams": [
+    "NYG"
+   ],
+   "named": [
+    {
+     "n": "Tyrone Tracy Jr.",
+     "p": "RB",
+     "t": "NYG",
+     "h": "triccster"
+    },
+    {
+     "n": "Devin Singletary",
+     "p": "RB",
+     "t": "NYG",
+     "h": "triccster"
+    },
+    {
+     "n": "Cam Skattebo",
+     "p": "RB",
+     "t": "NYG",
+     "h": "triccster"
+    }
+   ],
+   "lead": [
+    "Tyrone Tracy Jr."
+   ],
+   "ripple": [
+    {
+     "n": "J.J. McCarthy",
+     "p": "QB",
+     "t": "NYG",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Theo Johnson",
+     "p": "TE",
+     "t": "NYG",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Jameis Winston",
+     "p": "QB",
+     "t": "NYG",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Malachi Fields",
+     "p": "WR",
+     "t": "NYG",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Jaxson Dart",
+     "p": "QB",
+     "t": "NYG",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Isaiah Likely",
+     "p": "TE",
+     "t": "NYG",
+     "h": "Wallner"
+    },
+    {
+     "n": "Malik Nabers",
+     "p": "WR",
+     "t": "NYG",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Darnell Mooney",
+     "p": "WR",
+     "t": "NYG",
+     "h": "Thnu"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "Jbird531",
+    "Thnu",
+    "Wallner",
+    "brettmn13",
+    "triccster"
+   ],
+   "score": 15.0
+  },
+  {
+   "headline": "Shane Steichen sticking with Daniel Jones as Colts' QB1 for Week 9 vs. Cowboys",
+   "url": "https://www.espn.com/nfl/story/_/id/50360220/colts-sticking-daniel-jones-qb1-week-9",
+   "date": "2026-11-02",
+   "kind": "news",
+   "teams": [
+    "DAL",
+    "IND"
+   ],
+   "named": [
+    {
+     "n": "Daniel Jones",
+     "p": "QB",
+     "t": "IND",
+     "h": "Colt45Johnson"
+    }
+   ],
+   "lead": [
+    "Daniel Jones"
+   ],
+   "ripple": [
+    {
+     "n": "Seth McGowan",
+     "p": "RB",
+     "t": "IND",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Tyler Warren",
+     "p": "TE",
+     "t": "IND",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Josh Downs",
+     "p": "WR",
+     "t": "IND",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Alec Pierce",
+     "p": "WR",
+     "t": "IND",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Jonathan Taylor",
+     "p": "RB",
+     "t": "IND",
+     "h": "Wallner"
+    },
+    {
+     "n": "Anthony Richardson Sr.",
+     "p": "QB",
+     "t": "IND",
+     "h": "Wallner"
+    },
+    {
+     "n": "Laquon Treadwell",
+     "p": "WR",
+     "t": "IND",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "DJ Giddens",
+     "p": "RB",
+     "t": "IND",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Keenan Allen",
+     "p": "WR",
+     "t": "IND",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "DMsourbeer",
+    "Jbird531",
+    "Wallner",
+    "YoungBuck04"
    ],
    "score": 14.0
   }
