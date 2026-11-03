@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T20:36:08+00:00",
+ "generated": "2026-11-03T14:53:51+00:00",
  "site": {
   "league_name": "Lets go Brandon",
   "season": 2026,
@@ -4962,6 +4962,72 @@
    107.42,
    "YoungBuck04",
    101.96,
+   false,
+   null
+  ],
+  [
+   2026,
+   8,
+   "sleeper",
+   "Jbird531",
+   95.52,
+   "butterygoop",
+   136.16,
+   false,
+   null
+  ],
+  [
+   2026,
+   8,
+   "sleeper",
+   "TuanonStan",
+   131.96,
+   "YoungBuck04",
+   97.74,
+   false,
+   null
+  ],
+  [
+   2026,
+   8,
+   "sleeper",
+   "brettmn13",
+   110.74,
+   "BROCKSTARxD",
+   74.3,
+   false,
+   null
+  ],
+  [
+   2026,
+   8,
+   "sleeper",
+   "Wallner",
+   132.88,
+   "Thnu",
+   140.6,
+   false,
+   null
+  ],
+  [
+   2026,
+   8,
+   "sleeper",
+   "DMsourbeer",
+   108.56,
+   "HillBillyWorm",
+   163.08,
+   false,
+   null
+  ],
+  [
+   2026,
+   8,
+   "sleeper",
+   "Colt45Johnson",
+   197.98,
+   "triccster",
+   153.74,
    false,
    null
   ]

@@ -1,11 +1,11 @@
 {
- "read_at": "2026-11-02T20:36+00:00",
+ "read_at": "2026-11-03T14:54+00:00",
  "days": 7,
- "count": 111,
+ "count": 117,
  "items": [
   {
-   "headline": "Cardinals' LaFleur noncommittal on QB after Minshew replaces Brissett in win",
-   "url": "https://www.espn.com/nfl/story/_/id/50353468/cardinals-mike-lafleur-noncommittal-starting-qb-gardner-minshew-replaces-jacoby-brissett-win",
+   "headline": "Cardinals name Gardner Minshew as starter, move Jacoby Brissett to QB3",
+   "url": "https://www.espn.com/nfl/story/_/id/50361163/cardinals-move-forward-gardner-minshew-starting-qb",
    "date": "2026-11-02",
    "kind": "news",
    "teams": [
@@ -23,6 +23,12 @@
      "p": "QB",
      "t": "ARI",
      "h": "YoungBuck04"
+    },
+    {
+     "n": "Carson Beck",
+     "p": "QB",
+     "t": "ARI",
+     "h": "DMsourbeer"
     }
    ],
    "lead": [
@@ -61,12 +67,6 @@
      "h": "Wallner"
     },
     {
-     "n": "Carson Beck",
-     "p": "QB",
-     "t": "ARI",
-     "h": "DMsourbeer"
-    },
-    {
      "n": "Jeremiyah Love",
      "p": "RB",
      "t": "ARI",
@@ -94,7 +94,7 @@
     "YoungBuck04",
     "butterygoop"
    ],
-   "score": 20.0
+   "score": 21.0
   },
   {
    "headline": "Bucs down Falcons without pass completion; Bucky Irving, Kenny Gainwell run wild",
@@ -296,104 +296,6 @@
     "YoungBuck04",
     "brettmn13",
     "butterygoop",
-    "triccster"
-   ],
-   "score": 18.0
-  },
-  {
-   "headline": "Zach Charbonnet, Jadarian Price have no game designations for Monday",
-   "url": "https://www.espn.com/nfl/story/_/id/50340383/seahawks-rbs-charbonnet-price-healthy-play-monday-night",
-   "date": "2026-10-31",
-   "kind": "news",
-   "teams": [
-    "SEA"
-   ],
-   "named": [
-    {
-     "n": "Zach Charbonnet",
-     "p": "RB",
-     "t": "SEA",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Jadarian Price",
-     "p": "RB",
-     "t": "SEA",
-     "h": "HillBillyWorm"
-    }
-   ],
-   "lead": [
-    "Zach Charbonnet",
-    "Jadarian Price"
-   ],
-   "ripple": [
-    {
-     "n": "Emanuel Wilson",
-     "p": "RB",
-     "t": "SEA",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Drew Lock",
-     "p": "QB",
-     "t": "SEA",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "George Holani",
-     "p": "RB",
-     "t": "SEA",
-     "h": "Wallner"
-    },
-    {
-     "n": "Rashid Shaheed",
-     "p": "WR",
-     "t": "SEA",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Sam Darnold",
-     "p": "QB",
-     "t": "SEA",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "AJ Barner",
-     "p": "TE",
-     "t": "SEA",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Tory Horton",
-     "p": "WR",
-     "t": "SEA",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jaxon Smith-Njigba",
-     "p": "WR",
-     "t": "SEA",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Elijah Arroyo",
-     "p": "TE",
-     "t": "SEA",
-     "h": "triccster"
-    },
-    {
-     "n": "Cooper Kupp",
-     "p": "WR",
-     "t": "SEA",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "DMsourbeer",
-    "HillBillyWorm",
-    "Wallner",
     "triccster"
    ],
    "score": 18.0
@@ -1042,91 +944,6 @@
    "score": 16.0
   },
   {
-   "headline": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams",
-   "url": "https://www.espn.com/nfl/story/_/id/50323095/sources-colts-willing-trade-star-rb-jonathan-taylor",
-   "date": "2026-11-01",
-   "kind": "news",
-   "teams": [
-    "IND"
-   ],
-   "named": [
-    {
-     "n": "Jonathan Taylor",
-     "p": "RB",
-     "t": "IND",
-     "h": "Wallner"
-    }
-   ],
-   "lead": [
-    "Jonathan Taylor"
-   ],
-   "ripple": [
-    {
-     "n": "Seth McGowan",
-     "p": "RB",
-     "t": "IND",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Tyler Warren",
-     "p": "TE",
-     "t": "IND",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Josh Downs",
-     "p": "WR",
-     "t": "IND",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Alec Pierce",
-     "p": "WR",
-     "t": "IND",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Anthony Richardson Sr.",
-     "p": "QB",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Laquon Treadwell",
-     "p": "WR",
-     "t": "IND",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "DJ Giddens",
-     "p": "RB",
-     "t": "IND",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Daniel Jones",
-     "p": "QB",
-     "t": "IND",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Keenan Allen",
-     "p": "WR",
-     "t": "IND",
-     "h": "YoungBuck04"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "Wallner",
-    "YoungBuck04"
-   ],
-   "score": 16.0
-  },
-  {
    "headline": "Source: Jauan Jennings wanted to stay with Vikings amid 49ers trade talks",
    "url": "https://www.espn.com/nfl/story/_/id/50350048/source-jennings-wanted-stay-vikings-amid-49ers-talks",
    "date": "2026-11-01",
@@ -1226,6 +1043,104 @@
    "score": 16.0
   },
   {
+   "headline": "Zach Charbonnet, Jadarian Price have no game designations for Monday",
+   "url": "https://www.espn.com/nfl/story/_/id/50340383/seahawks-rbs-charbonnet-price-healthy-play-monday-night",
+   "date": "2026-10-31",
+   "kind": "news",
+   "teams": [
+    "SEA"
+   ],
+   "named": [
+    {
+     "n": "Zach Charbonnet",
+     "p": "RB",
+     "t": "SEA",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Jadarian Price",
+     "p": "RB",
+     "t": "SEA",
+     "h": "HillBillyWorm"
+    }
+   ],
+   "lead": [
+    "Zach Charbonnet",
+    "Jadarian Price"
+   ],
+   "ripple": [
+    {
+     "n": "Emanuel Wilson",
+     "p": "RB",
+     "t": "SEA",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Drew Lock",
+     "p": "QB",
+     "t": "SEA",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "George Holani",
+     "p": "RB",
+     "t": "SEA",
+     "h": "Wallner"
+    },
+    {
+     "n": "Rashid Shaheed",
+     "p": "WR",
+     "t": "SEA",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Sam Darnold",
+     "p": "QB",
+     "t": "SEA",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "AJ Barner",
+     "p": "TE",
+     "t": "SEA",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Tory Horton",
+     "p": "WR",
+     "t": "SEA",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Jaxon Smith-Njigba",
+     "p": "WR",
+     "t": "SEA",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Elijah Arroyo",
+     "p": "TE",
+     "t": "SEA",
+     "h": "triccster"
+    },
+    {
+     "n": "Cooper Kupp",
+     "p": "WR",
+     "t": "SEA",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "DMsourbeer",
+    "HillBillyWorm",
+    "Wallner",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
    "headline": "Giants place RB Tyrone Tracy Jr. on IR with hamstring injury",
    "url": "https://www.espn.com/nfl/story/_/id/50300226/giants-place-rb-tyrone-tracy-ir-hamstring-injury",
    "date": "2026-10-28",
@@ -1318,88 +1233,202 @@
    "score": 15.0
   },
   {
-   "headline": "Shane Steichen sticking with Daniel Jones as Colts' QB1 for Week 9 vs. Cowboys",
-   "url": "https://www.espn.com/nfl/story/_/id/50360220/colts-sticking-daniel-jones-qb1-week-9",
-   "date": "2026-11-02",
+   "headline": "Packers sticking with RB Josh Jacobs despite latest abuse allegations",
+   "url": "https://www.espn.com/nfl/story/_/id/50360755/packers-sticking-rb-jacobs-latest-abuse-allegations",
+   "date": "2026-11-03",
    "kind": "news",
    "teams": [
-    "DAL",
-    "IND"
+    "GB"
    ],
    "named": [
     {
-     "n": "Daniel Jones",
-     "p": "QB",
-     "t": "IND",
-     "h": "Colt45Johnson"
+     "n": "Josh Jacobs",
+     "p": "RB",
+     "t": "GB",
+     "h": "brettmn13"
     }
    ],
    "lead": [
-    "Daniel Jones"
+    "Josh Jacobs"
    ],
    "ripple": [
     {
-     "n": "Seth McGowan",
-     "p": "RB",
-     "t": "IND",
+     "n": "Savion Williams",
+     "p": "WR",
+     "t": "GB",
      "h": "Jbird531"
     },
     {
-     "n": "Tyler Warren",
+     "n": "MarShawn Lloyd",
+     "p": "RB",
+     "t": "GB",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Kaleb Johnson",
+     "p": "RB",
+     "t": "GB",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Jonnu Smith",
      "p": "TE",
-     "t": "IND",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Josh Downs",
-     "p": "WR",
-     "t": "IND",
+     "t": "GB",
      "h": "BROCKSTARxD"
     },
     {
-     "n": "Alec Pierce",
-     "p": "WR",
-     "t": "IND",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Jonathan Taylor",
-     "p": "RB",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Anthony Richardson Sr.",
+     "n": "Jordan Love",
      "p": "QB",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Laquon Treadwell",
-     "p": "WR",
-     "t": "IND",
+     "t": "GB",
      "h": "DMsourbeer"
     },
     {
-     "n": "DJ Giddens",
+     "n": "Pierre Strong Jr.",
      "p": "RB",
-     "t": "IND",
+     "t": "GB",
      "h": "DMsourbeer"
     },
     {
-     "n": "Keenan Allen",
+     "n": "Matthew Golden",
      "p": "WR",
-     "t": "IND",
+     "t": "GB",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Jayden Reed",
+     "p": "WR",
+     "t": "GB",
+     "h": "Thnu"
+    },
+    {
+     "n": "Christian Watson",
+     "p": "WR",
+     "t": "GB",
+     "h": "Thnu"
+    },
+    {
+     "n": "Skyy Moore",
+     "p": "WR",
+     "t": "GB",
+     "h": "Thnu"
+    },
+    {
+     "n": "Tucker Kraft",
+     "p": "TE",
+     "t": "GB",
+     "h": "Thnu"
+    },
+    {
+     "n": "Tyrod Taylor",
+     "p": "QB",
+     "t": "GB",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Chris Brooks",
+     "p": "RB",
+     "t": "GB",
      "h": "YoungBuck04"
     }
    ],
    "managers": [
     "BROCKSTARxD",
-    "Colt45Johnson",
+    "DMsourbeer",
+    "HillBillyWorm",
+    "Jbird531",
+    "Thnu",
+    "YoungBuck04",
+    "brettmn13"
+   ],
+   "score": 14.0
+  },
+  {
+   "headline": "Cardinals' Mike LaFleur: Jeremiyah Love's injury to 'new portion' of his ankle",
+   "url": "https://www.espn.com/nfl/story/_/id/50361618/cardinals-lafleur-love-injury-new-portion-ankle",
+   "date": "2026-11-02",
+   "kind": "news",
+   "teams": [
+    "ARI"
+   ],
+   "named": [
+    {
+     "n": "Jeremiyah Love",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Thnu"
+    },
+    {
+     "n": "Kendrick Bourne",
+     "p": "WR",
+     "t": "ARI",
+     "h": "YoungBuck04"
+    }
+   ],
+   "lead": [],
+   "ripple": [
+    {
+     "n": "Trey Benson",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Michael Wilson",
+     "p": "WR",
+     "t": "ARI",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Gardner Minshew II",
+     "p": "QB",
+     "t": "ARI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Trey McBride",
+     "p": "TE",
+     "t": "ARI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Zonovan Knight",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Tyler Allgeier",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Carson Beck",
+     "p": "QB",
+     "t": "ARI",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Jacoby Brissett",
+     "p": "QB",
+     "t": "ARI",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "James Conner",
+     "p": "RB",
+     "t": "ARI",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
     "DMsourbeer",
     "Jbird531",
+    "Thnu",
+    "TuanonStan",
     "Wallner",
-    "YoungBuck04"
+    "YoungBuck04",
+    "butterygoop"
    ],
    "score": 14.0
   }

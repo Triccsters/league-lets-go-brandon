@@ -1,193 +1,148 @@
 {
- "generated": "2026-11-02T20:36:25+00:00",
+ "generated": "2026-11-03T14:54:15+00:00",
  "season": 2026,
- "week": 8,
+ "week": 9,
  "playoff": false,
  "games": [
   {
-   "a": "Jbird531",
-   "b": "butterygoop",
-   "a_win": 11.3,
+   "a": "brettmn13",
+   "b": "Colt45Johnson",
+   "a_win": 19.3,
    "rec": {
-    "Jbird531": [
-     1,
-     6
+    "brettmn13": [
+     3,
+     5
     ],
-    "butterygoop": [
+    "Colt45Johnson": [
      7,
-     0
+     1
     ]
    },
    "avg": {
-    "Jbird531": 112.28,
-    "butterygoop": 181.9
+    "brettmn13": 122.14,
+    "Colt45Johnson": 171.98
    },
    "last3": {
-    "Jbird531": [
-     109.96,
-     132.76,
-     111.26
+    "brettmn13": [
+     120.98,
+     135.14,
+     110.74
     ],
-    "butterygoop": [
-     189.04,
-     143.98,
-     169.92
+    "Colt45Johnson": [
+     139.54,
+     197.26,
+     197.98
     ]
    },
    "proj": {
-    "Jbird531": 118.43,
-    "butterygoop": 170.46
+    "brettmn13": 125.16,
+    "Colt45Johnson": 162.91
    },
    "h2h": {
-    "Jbird531": 1,
-    "butterygoop": 4,
-    "games": 5
+    "brettmn13": 4,
+    "Colt45Johnson": 4,
+    "games": 8
    },
    "streak": [
-    "butterygoop",
-    4
+    "brettmn13",
+    1
    ],
    "last": {
     "season": 2025,
-    "week": 5,
-    "label": null,
+    "week": 17,
+    "label": "3rd place",
     "score": {
-     "Jbird531": 130.34,
-     "butterygoop": 196.28
+     "brettmn13": 140.28,
+     "Colt45Johnson": 126.78
     }
    },
    "flags": [
-    "{butterygoop} has won 4 straight in this series",
-    "Upset watch: {Jbird531} is the underdog"
+    "Rematch of the 2024 final",
+    "Upset watch: {brettmn13} is the underdog"
    ]
   },
   {
-   "a": "TuanonStan",
-   "b": "YoungBuck04",
-   "a_win": 70.8,
-   "rec": {
-    "TuanonStan": [
-     4,
-     3
-    ],
-    "YoungBuck04": [
-     2,
-     5
-    ]
-   },
-   "avg": {
-    "TuanonStan": 144.67,
-    "YoungBuck04": 107.38
-   },
-   "last3": {
-    "TuanonStan": [
-     162.5,
-     156.88,
-     156.34
-    ],
-    "YoungBuck04": [
-     106.58,
-     112.04,
-     101.96
-    ]
-   },
-   "proj": {
-    "TuanonStan": 140.49,
-    "YoungBuck04": 116.94
-   },
-   "h2h": {
-    "TuanonStan": 0,
-    "YoungBuck04": 0,
-    "games": 0
-   },
-   "streak": null,
-   "last": null,
-   "flags": [
-    "First ever meeting",
-    "Upset watch: {YoungBuck04} is the underdog"
-   ]
-  },
-  {
-   "a": "Wallner",
+   "a": "butterygoop",
    "b": "Thnu",
-   "a_win": 64.1,
+   "a_win": 84.1,
    "rec": {
-    "Wallner": [
-     5,
-     2
+    "butterygoop": [
+     8,
+     0
     ],
     "Thnu": [
-     3,
+     4,
      4
     ]
    },
    "avg": {
-    "Wallner": 139.33,
-    "Thnu": 116.26
+    "butterygoop": 176.18,
+    "Thnu": 119.3
    },
    "last3": {
-    "Wallner": [
-     170.86,
-     118.88,
-     129.0
+    "butterygoop": [
+     143.98,
+     169.92,
+     136.16
     ],
     "Thnu": [
-     144.86,
      86.68,
-     110.2
+     110.2,
+     140.6
     ]
    },
    "proj": {
-    "Wallner": 138.11,
-    "Thnu": 122.59
+    "butterygoop": 167.36,
+    "Thnu": 123.88
    },
    "h2h": {
-    "Wallner": 0,
+    "butterygoop": 0,
     "Thnu": 0,
     "games": 0
    },
    "streak": null,
    "last": null,
    "flags": [
-    "First ever meeting"
+    "First ever meeting",
+    "Upset watch: {Thnu} is the underdog"
    ]
   },
   {
-   "a": "DMsourbeer",
+   "a": "Jbird531",
    "b": "HillBillyWorm",
-   "a_win": 48.7,
+   "a_win": 31.5,
    "rec": {
-    "DMsourbeer": [
-     3,
-     4
+    "Jbird531": [
+     1,
+     7
     ],
     "HillBillyWorm": [
-     4,
+     5,
      3
     ]
    },
    "avg": {
-    "DMsourbeer": 127.88,
-    "HillBillyWorm": 136.02
+    "Jbird531": 110.18,
+    "HillBillyWorm": 139.4
    },
    "last3": {
-    "DMsourbeer": [
-     102.26,
-     125.42,
-     101.76
+    "Jbird531": [
+     132.76,
+     111.26,
+     95.52
     ],
     "HillBillyWorm": [
-     102.54,
      142.06,
-     107.42
+     107.42,
+     163.08
     ]
    },
    "proj": {
-    "DMsourbeer": 133.79,
-    "HillBillyWorm": 135.16
+    "Jbird531": 116.32,
+    "HillBillyWorm": 137.28
    },
    "h2h": {
-    "DMsourbeer": 0,
+    "Jbird531": 0,
     "HillBillyWorm": 0,
     "games": 0
    },
@@ -198,99 +153,142 @@
    ]
   },
   {
-   "a": "Colt45Johnson",
-   "b": "triccster",
-   "a_win": 78.9,
+   "a": "DMsourbeer",
+   "b": "YoungBuck04",
+   "a_win": 64.6,
    "rec": {
-    "Colt45Johnson": [
-     6,
-     1
-    ],
-    "triccster": [
-     4,
-     3
-    ]
-   },
-   "avg": {
-    "Colt45Johnson": 168.26,
-    "triccster": 125.12
-   },
-   "last3": {
-    "Colt45Johnson": [
-     177.54,
-     139.54,
-     197.26
-    ],
-    "triccster": [
-     128.68,
-     98.36,
-     149.94
-    ]
-   },
-   "proj": {
-    "Colt45Johnson": 159.97,
-    "triccster": 125.51
-   },
-   "h2h": {
-    "Colt45Johnson": 1,
-    "triccster": 0,
-    "games": 1
-   },
-   "streak": [
-    "Colt45Johnson",
-    1
-   ],
-   "last": {
-    "season": 2025,
-    "week": 6,
-    "label": null,
-    "score": {
-     "Colt45Johnson": 168.62,
-     "triccster": 134.22
-    }
-   },
-   "flags": [
-    "Upset watch: {triccster} is the underdog"
-   ]
-  },
-  {
-   "a": "brettmn13",
-   "b": "BROCKSTARxD",
-   "a_win": 50.0,
-   "rec": {
-    "brettmn13": [
-     2,
+    "DMsourbeer": [
+     3,
      5
     ],
-    "BROCKSTARxD": [
-     1,
+    "YoungBuck04": [
+     2,
      6
     ]
    },
    "avg": {
-    "brettmn13": 123.77,
-    "BROCKSTARxD": 121.1
+    "DMsourbeer": 125.47,
+    "YoungBuck04": 106.17
    },
    "last3": {
-    "brettmn13": [
-     110.32,
-     120.98,
-     135.14
+    "DMsourbeer": [
+     125.42,
+     101.76,
+     108.56
     ],
-    "BROCKSTARxD": [
-     110.36,
-     129.76,
-     116.68
+    "YoungBuck04": [
+     112.04,
+     101.96,
+     97.74
     ]
    },
    "proj": {
-    "brettmn13": 126.69,
-    "BROCKSTARxD": 126.69
+    "DMsourbeer": 131.46,
+    "YoungBuck04": 115.13
    },
    "h2h": {
-    "brettmn13": 1,
-    "BROCKSTARxD": 3,
-    "games": 4
+    "DMsourbeer": 0,
+    "YoungBuck04": 0,
+    "games": 0
+   },
+   "streak": null,
+   "last": null,
+   "flags": [
+    "First ever meeting"
+   ]
+  },
+  {
+   "a": "TuanonStan",
+   "b": "triccster",
+   "a_win": 60.8,
+   "rec": {
+    "TuanonStan": [
+     5,
+     3
+    ],
+    "triccster": [
+     4,
+     4
+    ]
+   },
+   "avg": {
+    "TuanonStan": 143.08,
+    "triccster": 128.7
+   },
+   "last3": {
+    "TuanonStan": [
+     156.88,
+     156.34,
+     131.96
+    ],
+    "triccster": [
+     98.36,
+     149.94,
+     153.74
+    ]
+   },
+   "proj": {
+    "TuanonStan": 139.57,
+    "triccster": 127.66
+   },
+   "h2h": {
+    "TuanonStan": 1,
+    "triccster": 0,
+    "games": 1
+   },
+   "streak": [
+    "TuanonStan",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 10,
+    "label": null,
+    "score": {
+     "TuanonStan": 114.62,
+     "triccster": 105.98
+    }
+   },
+   "flags": []
+  },
+  {
+   "a": "BROCKSTARxD",
+   "b": "Wallner",
+   "a_win": 36.2,
+   "rec": {
+    "BROCKSTARxD": [
+     1,
+     7
+    ],
+    "Wallner": [
+     5,
+     3
+    ]
+   },
+   "avg": {
+    "BROCKSTARxD": 115.25,
+    "Wallner": 138.52
+   },
+   "last3": {
+    "BROCKSTARxD": [
+     129.76,
+     116.68,
+     74.3
+    ],
+    "Wallner": [
+     118.88,
+     129.0,
+     132.88
+    ]
+   },
+   "proj": {
+    "BROCKSTARxD": 122.11,
+    "Wallner": 137.46
+   },
+   "h2h": {
+    "BROCKSTARxD": 2,
+    "Wallner": 3,
+    "games": 5
    },
    "streak": [
     "BROCKSTARxD",
@@ -298,11 +296,11 @@
    ],
    "last": {
     "season": 2025,
-    "week": 8,
+    "week": 11,
     "label": null,
     "score": {
-     "brettmn13": 133.68,
-     "BROCKSTARxD": 144.56
+     "BROCKSTARxD": 143.82,
+     "Wallner": 119.12
     }
    },
    "flags": []
