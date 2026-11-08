@@ -800,7 +800,7 @@
        "@@Jbird531",
        "TE",
        "RB, WR",
-       "QB 8 RB 11 WR 10 TE 7"
+       "QB 8 RB 11 WR 10 TE 6"
       ],
       [
        "@@Thnu",
@@ -818,19 +818,19 @@
        "@@Wallner",
        "RB, WR",
        "QB",
-       "QB 9 RB 4 WR 4 TE 3"
+       "QB 9 RB 5 WR 4 TE 3"
       ],
       [
        "@@YoungBuck04",
        "WR",
        "QB, RB",
-       "QB 12 RB 12 WR 6 TE 6"
+       "QB 12 RB 12 WR 6 TE 7"
       ],
       [
        "@@brettmn13",
        "QB, RB",
        "WR, TE",
-       "QB 5 RB 5 WR 12 TE 12"
+       "QB 5 RB 4 WR 12 TE 12"
       ],
       [
        "@@Colt45Johnson",
@@ -955,6 +955,12 @@
        10.2
       ],
       [
+       "@@Wallner",
+       "Jordyn Tyson",
+       "WR NO",
+       9.7
+      ],
+      [
        "@@HillBillyWorm",
        "Pat Freiermuth",
        "TE PIT",
@@ -995,12 +1001,6 @@
        "A.J. Brown",
        "WR NE",
        8.9
-      ],
-      [
-       "@@Wallner",
-       "Tre Tucker",
-       "WR LV",
-       8.9
       ]
      ]
     }
@@ -1025,7 +1025,7 @@
       [
        1,
        "@@HillBillyWorm",
-       35.1,
+       35.2,
        "Justin Herbert, Sam Darnold, Pat Freiermuth"
       ],
       [
@@ -1043,20 +1043,20 @@
       [
        4,
        "@@triccster",
-       30.4,
+       30.3,
        "Michael Penix Jr., Braelon Allen, Hunter Henry"
       ],
       [
        5,
        "@@brettmn13",
-       29.6,
+       29.5,
        "Malik Willis, Jordan Mason, Kaelon Black"
       ],
       [
        6,
        "@@Wallner",
-       28.3,
-       "Tyler Allgeier, Tre Tucker, Travis Etienne Jr."
+       29.1,
+       "Tyler Allgeier, Jordyn Tyson, Tre Tucker"
       ],
       [
        7,
@@ -1085,8 +1085,8 @@
       [
        11,
        "@@BROCKSTARxD",
-       18.9,
-       "Courtland Sutton, J.K. Dobbins, Malachi Fields"
+       18.8,
+       "Courtland Sutton, Malachi Fields, Chris Rodriguez Jr."
       ],
       [
        12,
@@ -1327,28 +1327,28 @@
        "@@triccster",
        3,
        35.2,
-       "Jaylen Waddle, Bucky Irving, Jonah Coleman"
+       "Jaylen Waddle, Jonah Coleman, Bucky Irving"
       ],
       [
        10,
        "@@Wallner",
        2,
        25.6,
-       "Bo Nix, Joe Milton"
+       "Joe Milton, Bo Nix"
       ],
       [
        10,
        "@@BROCKSTARxD",
        2,
        21.6,
-       "Baker Mayfield, Emeka Egbuka"
+       "Emeka Egbuka, Baker Mayfield"
       ],
       [
        11,
        "@@TuanonStan",
        3,
        41.1,
-       "Quinshon Judkins, Puka Nacua, Matthew Stafford"
+       "Matthew Stafford, Puka Nacua, Quinshon Judkins"
       ],
       [
        11,
@@ -1362,28 +1362,28 @@
        "@@Colt45Johnson",
        2,
        29.1,
-       "AJ Barner, Jaxon Smith-Njigba"
+       "Jaxon Smith-Njigba, AJ Barner"
       ],
       [
        11,
        "@@HillBillyWorm",
        2,
        29.0,
-       "Bijan Robinson, Matthew Golden"
+       "Matthew Golden, Bijan Robinson"
       ],
       [
        11,
        "@@butterygoop",
        2,
        28.6,
-       "Drake London, Kyren Williams"
+       "Kyren Williams, Drake London"
       ],
       [
        11,
        "@@brettmn13",
        2,
-       16.5,
-       "Romeo Doubs, Josh Jacobs"
+       16.6,
+       "Josh Jacobs, Romeo Doubs"
       ],
       [
        11,
@@ -1648,7 +1648,7 @@
        "@@BROCKSTARxD",
        6,
        2,
-       "Brock Purdy 21.0, Baker Mayfield 12.6, Drew Lock 2.8"
+       "Brock Purdy 20.9, Baker Mayfield 12.6, Drew Lock 2.8"
       ],
       [
        "@@butterygoop",
@@ -1720,7 +1720,7 @@
        "DeeJay Dallas",
        28,
        2,
-       0.0
+       0.1
       ],
       [
        "@@Colt45Johnson",
