@@ -1,0 +1,2224 @@
+{
+ "slug": "2026-w09",
+ "masthead": "Lets go Brandon Weekly",
+ "tagline": "The Lets go Brandon league newsletter · est. 2022",
+ "headline": "TuanonStan Wins It on Monday Night, butterygoop Goes 9-0, and brettmn13 Scores 49.28",
+ "dek": "Inside: the 1.06-point game that Monday flipped, butterygoop's 182.42, Colt45Johnson's seventh straight, the season's low score, Wallner's $100 quarterback a week on, three 4-5 teams for one playoff spot, the bracket if the season ended today, and every manager's story.",
+ "lead": "Monday night touched five of the six games and flipped one. triccster led TuanonStan by 5.54 going into the night; TuanonStan got 6.60 more and won 138.02 to 136.96, the closest game of the week.\n\nAt the top nothing moved. butterygoop is 9-0, the first team in league history to get there, and Colt45Johnson won his seventh straight to stay a game back at 8-1. Underneath them the week was rough: brettmn13 scored 49.28, the lowest score of the season, Wallner lost his second straight, and three teams sit at 4-5 with one playoff spot between them. triccster holds it, on points.",
+ "used_notes": [],
+ "managers": [
+  {
+   "handle": "butterygoop",
+   "arc": "Nine for nine",
+   "mood": "up",
+   "text": "Beat Thnu 182.42 to 98.40, the high score of the week. C.J. Stroud (36.36), CeeDee Lamb (32.5) and Javonte Williams (22.4) led it, and Darren Waller scored 27.0 on the bench. He is averaging 177 a game, his lowest score all season is 136.16, and his all-play record is .929. Gardner Minshew, on his roster, will miss the rest of the season after an elbow procedure, the Cardinals said Wednesday.",
+   "next": "Week 10: BROCKSTARxD. butterygoop has won three straight in the series, leads it 5-1 and is an 85% favorite.",
+   "odds": {
+    "playoff": 100.0,
+    "bye": 99.7,
+    "title": 47.3,
+    "proj_w": 12.8,
+    "sos_rest_rank": 7,
+    "teams": 12
+   },
+   "next_opp": "BROCKSTARxD",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 1"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 1"
+    }
+   ],
+   "nfl_hits": [
+    0,
+    2
+   ]
+  },
+  {
+   "handle": "Colt45Johnson",
+   "arc": "Seven straight",
+   "mood": "up",
+   "text": "Beat brettmn13 143.24 to 49.28, a 93.96-point margin and the biggest of the week. Joe Burrow (29.54), Dak Prescott (18.5) and Rome Odunze (16.0) led it, and Kayshon Boutte scored 28.5 on the bench. His one loss came in week 2, in a week he scored 173.44, and he followed 197.26 in week 7 with 197.98 in week 8. His started players have beaten Sleeper's projections by 100.2 points, the most in the league. His one previous 8-1 start, in 2024, ended with the title.",
+   "next": "Week 10: Wallner, who he beat 197.3 to 129.74 in week 10 last year. Colt45Johnson leads the series 3-1 and is a 73% favorite.",
+   "odds": {
+    "playoff": 100.0,
+    "bye": 96.0,
+    "title": 34.4,
+    "proj_w": 11.5,
+    "sos_rest_rank": 2,
+    "teams": 12
+   },
+   "next_opp": "Wallner",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 2"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 4"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: Coach of the year"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: Who beats Sleeper's projections"
+    }
+   ],
+   "nfl_hits": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "handle": "TuanonStan",
+   "arc": "Monday's winner",
+   "mood": "up",
+   "text": "Beat triccster on Monday night behind Kenneth Walker (36.3) and Puka Nacua (34.0), with Luther Burden (19.7) third. George Pickens started and scored 0.0; he was inactive with a hamstring injury, and the Dallas coach expects him to practice Wednesday. Nacua is on injured reserve as of Wednesday with knee and toe injuries, and the Rams hope to have him back around week 14 or 15. Michael Wilson is out for the season with a neck fracture. Denzel Boston, 15.8 on his bench this week, is the top-scoring rookie in the league at 102.7. TuanonStan has no quarterback in the top 24 on rest-of-season projections and is still 6-3.",
+   "next": "Week 10: brettmn13, who leads the series 4-2. TuanonStan won last year's meeting and is a 67% favorite.",
+   "odds": {
+    "playoff": 97.2,
+    "bye": 1.4,
+    "title": 6.0,
+    "proj_w": 8.6,
+    "sos_rest_rank": 1,
+    "teams": 12
+   },
+   "next_opp": "brettmn13",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 7 (down 2)"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 6"
+    }
+   ],
+   "nfl_hits": [
+    2
+   ]
+  },
+  {
+   "handle": "HillBillyWorm",
+   "arc": "Three straight",
+   "mood": "up",
+   "text": "Beat Jbird531 153.74 to 96.74. Matthew Golden (32.4), Bijan Robinson (25.7) and Tee Higgins (20.2) led it; Jahan Dotson started for 3.6 and Juwan Johnson had 12.4 on the bench. He has left 319.1 points on his bench this season, the most in the league, and is 6-3 anyway, with the best bench in the league on projections. Golden and Robinson are both off in week 11: two pieces to replace.",
+   "next": "Week 10: Thnu, a first meeting and the game of the week. HillBillyWorm is a 65% favorite.",
+   "odds": {
+    "playoff": 97.2,
+    "bye": 2.5,
+    "title": 5.4,
+    "proj_w": 8.7,
+    "sos_rest_rank": 4,
+    "teams": 12
+   },
+   "next_opp": "Thnu",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 3"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 2"
+    },
+    {
+     "k": "lead",
+     "t": "Most points left on the bench"
+    }
+   ],
+   "nfl_hits": [
+    0,
+    4
+   ]
+  },
+  {
+   "handle": "Wallner",
+   "arc": "Two straight losses",
+   "mood": "down",
+   "text": "Lost to BROCKSTARxD 135.70 to 101.48, his lowest score of the season, against a team that came in 1-7. Isaiah Likely (18.8), Bo Nix (15.68) and Parker Washington (14.1) led it, and Jordan Watkins scored 18.6 on the bench. Lamar Jackson is on injured reserve and needs thumb surgery. Jonathan Taylor stayed in Indianapolis through the trade deadline. Bo Nix and Joe Milton are both off in week 10: two pieces to replace. His started players are 109.7 points under Sleeper's projections.",
+   "next": "Week 10: Colt45Johnson. Wallner is at 28%.",
+   "odds": {
+    "playoff": 85.0,
+    "bye": 0.3,
+    "title": 3.5,
+    "proj_w": 7.6,
+    "sos_rest_rank": 8,
+    "teams": 12
+   },
+   "next_opp": "Colt45Johnson",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 4"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 3"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: Pickup of the year"
+    }
+   ],
+   "nfl_hits": [
+    3,
+    6
+   ]
+  },
+  {
+   "handle": "triccster",
+   "arc": "Lost by 1.06",
+   "mood": "down",
+   "text": "Led into Monday and lost. Ja'Marr Chase (31.5), Bucky Irving (27.5) and Jonah Coleman (18.8) led it; Jared Goff scored 6.3, 13.28 under his average, and Tyler Shough had 17.7 on the bench. He is the hottest team in the league, 146.9 a game over the last three weeks, 17.3 above his season average, and has had 1,270.1 points scored against him, the most in the league: four straight wins, then two losses. He claimed Audric Estime for $25, dropping Xavier Restrepo, ahead of bids from HillBillyWorm ($22) and YoungBuck04 ($12). Irving and Jaylen Waddle are off in week 10: two pieces to replace.",
+   "next": "Week 10: YoungBuck04, a first meeting. triccster is a 64% favorite.",
+   "odds": {
+    "playoff": 40.5,
+    "bye": 0.0,
+    "title": 1.3,
+    "proj_w": 6.3,
+    "sos_rest_rank": 5,
+    "teams": 12
+   },
+   "next_opp": "YoungBuck04",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 5 (up 1)"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 7"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: Hot hand"
+    }
+   ],
+   "nfl_hits": [
+    0
+   ]
+  },
+  {
+   "handle": "DMsourbeer",
+   "arc": "Back in it",
+   "mood": "up",
+   "text": "Beat YoungBuck04 111.56 to 86.48. Jordan Love (36.18), James Cook (16.7) and Amon-Ra St. Brown (16.6) led it; Mike Washington started for -0.3 and Justice Hill scored 18.2 on the bench. Jake Ferguson left week 9 with a knee injury, and the Dallas coach says he will miss multiple weeks. 4-5, and out of the field only on points.",
+   "next": "Week 10: Jbird531. The series is 2-2, DMsourbeer has won the last two, and he is a 63% favorite.",
+   "odds": {
+    "playoff": 42.0,
+    "bye": 0.0,
+    "title": 1.3,
+    "proj_w": 6.4,
+    "sos_rest_rank": 9,
+    "teams": 12
+   },
+   "next_opp": "Jbird531",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 6 (up 1)"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 5"
+    }
+   ],
+   "nfl_hits": [
+    0,
+    6,
+    7
+   ]
+  },
+  {
+   "handle": "Thnu",
+   "arc": "Ran into 9-0",
+   "mood": "down",
+   "text": "Lost 182.42 to 98.40 to butterygoop. Christian Watson (30.1), Brock Bowers (24.8) and Efton Chism (15.9) led it, and Tommy Tremble scored 14.4 on the bench. Kyler Murray started and scored 0.0: he was ruled out of Monday's game with a hamstring injury, is week to week, and the Vikings coach says he will back up Kirk Cousins when healthy. Tyler Goodson has sprained knee ligaments and will miss multiple weeks. Watson, Davante Adams and Tucker Kraft are off in week 11: three pieces to replace.",
+   "next": "Week 10: HillBillyWorm, a first meeting and the game of the week. Thnu is at 36%.",
+   "odds": {
+    "playoff": 31.5,
+    "bye": 0.0,
+    "title": 0.6,
+    "proj_w": 6.4,
+    "sos_rest_rank": 11,
+    "teams": 12
+   },
+   "next_opp": "HillBillyWorm",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 9 (up 1)"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 11"
+    }
+   ],
+   "nfl_hits": [
+    7
+   ]
+  },
+  {
+   "handle": "brettmn13",
+   "arc": "The season low",
+   "mood": "down",
+   "text": "The lowest score in the league this season, and the widest loss of the week. Jayden Daniels (13.56), Ollie Gordon (7.4) and Ashton Jeanty (7.0) led it. Josh Jacobs started and scored minus 0.5 after breaking a finger in the first quarter, and Bryce Young scored 20.34 on the bench, part of 32.72 left there. Jacobs has surgery this week and could be back in two to three weeks, per a Wednesday report. Players he brought in by trade or off the wire have started for 324.1 points, the most in the league. 4% to make the playoffs.",
+   "next": "Week 10: TuanonStan. brettmn13 leads the series 4-2 and is at 33%.",
+   "odds": {
+    "playoff": 3.8,
+    "bye": 0.0,
+    "title": 0.1,
+    "proj_w": 4.8,
+    "sos_rest_rank": 3,
+    "teams": 12
+   },
+   "next_opp": "TuanonStan",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 10 (down 2)"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 9"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: GM of the year"
+    }
+   ],
+   "nfl_hits": []
+  },
+  {
+   "handle": "BROCKSTARxD",
+   "arc": "Six-game skid over",
+   "mood": "up",
+   "text": "Beat Wallner 135.70 to 101.48 to end six straight losses. Brock Purdy (26.28), Christian McCaffrey (22.7) and Travis Kelce (19.3) led it; Courtland Sutton scored 15.5 on the bench. Josh Downs, his, was traded to Kansas City. Baker Mayfield, Emeka Egbuka and Sutton are all off in week 10: three pieces to replace.",
+   "next": "Week 10: butterygoop, who leads the series 5-1. BROCKSTARxD is at 16%.",
+   "odds": {
+    "playoff": 1.8,
+    "bye": 0.0,
+    "title": 0.0,
+    "proj_w": 4.1,
+    "sos_rest_rank": 6,
+    "teams": 12
+   },
+   "next_opp": "butterygoop",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 8 (up 1)"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 8"
+    }
+   ],
+   "nfl_hits": [
+    0,
+    4,
+    6
+   ]
+  },
+  {
+   "handle": "YoungBuck04",
+   "arc": "Five straight losses",
+   "mood": "down",
+   "text": "Lost 111.56 to 86.48. Shedeur Sanders (22.68), Dallas Goedert (12.5) and T.J. Hockenson (9.3) led it. Ladd McConkey started and scored 0.0 after hurting his back in warmups and leaving in the first quarter. Cleveland is going back to Deshaun Watson at quarterback this week, and the 49ers traded for his Keenan Allen. The fewest points in the league, and a 27% chance at last place.",
+   "next": "Week 10: triccster, a first meeting. YoungBuck04 is at 36%.",
+   "odds": {
+    "playoff": 0.9,
+    "bye": 0.0,
+    "title": 0.0,
+    "proj_w": 4.0,
+    "sos_rest_rank": 12,
+    "teams": 12
+   },
+   "next_opp": "triccster",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 11"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 12"
+    }
+   ],
+   "nfl_hits": [
+    5
+   ]
+  },
+  {
+   "handle": "Jbird531",
+   "arc": "Picks, not points",
+   "mood": "down",
+   "text": "Lost 153.74 to 96.74. Drake Maye (21.26), Omar Cooper (13.8) and Caleb Douglas (13.0) led it; Tank Dell scored 19.5 on the bench, part of 35.92 left there, the most of the week. He owns 18 picks from 2027 to 2029, five firsts and seven seconds, ten of them in 2027, the most capital in the league. Fernando Mendoza, his, was named the Raiders' starter after the Cousins trade. 1-8, and the model gives him a 57% chance at last place.",
+   "next": "Week 10: DMsourbeer. Jbird531 is at 37%.",
+   "odds": {
+    "playoff": 0.0,
+    "bye": 0.0,
+    "title": 0.0,
+    "proj_w": 2.9,
+    "sos_rest_rank": 10,
+    "teams": 12
+   },
+   "next_opp": "DMsourbeer",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 12"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 10"
+    }
+   ],
+   "nfl_hits": [
+    1,
+    5
+   ]
+  }
+ ],
+ "moves": {
+  "intro": "No trades. One $25 claim, and one free agent who would have flipped the closest game of the week.",
+  "items": [
+   {
+    "kind": "pickup",
+    "managers": [
+     "triccster",
+     "TuanonStan"
+    ],
+    "title": "Van Jefferson, for nobody",
+    "text": "Jefferson scored 16.8 while unrostered that week. In for Jaylen Waddle (3.2), he flips triccster's 1.06-point loss to TuanonStan.",
+    "verdict": "A free agent could have flipped at least one game here in six straight weeks."
+   },
+   {
+    "kind": "pickup",
+    "managers": [
+     "Wallner",
+     "brettmn13"
+    ],
+    "title": "The $100 quarterback, a week on",
+    "text": "Wallner spent his whole $100 on Joe Fagnano in week 8, dropping Dawson Knox. Fagnano was brettmn13's cut in week 1. Wallner started him in the superflex for his first NFL start, and he scored 0.7. Baltimore has since finished its trade for Jacoby Brissett.",
+    "verdict": "Wallner has no FAAB left for the last five weeks."
+   },
+   {
+    "kind": "pickup",
+    "managers": [
+     "triccster",
+     "HillBillyWorm",
+     "YoungBuck04"
+    ],
+    "title": "Three bids for Audric Estime",
+    "text": "triccster won him for $25. HillBillyWorm bid $22 and YoungBuck04 $12.",
+    "verdict": "triccster's first FAAB of the season."
+   }
+  ]
+ },
+ "trends": [
+  {
+   "title": "What nine weeks means here",
+   "text": "Both 8-1 teams in league history made the playoffs, and one won the title. All five 7-2 teams made it, 6-3 teams 8 times in 10, and all seven 5-4 teams, two of them champions. 4-5 teams made it 2 times in 9. None of the 15 teams at 3-6 or worse did."
+  },
+  {
+   "title": "Two-team title race",
+   "text": "butterygoop is 47% to win the title and Colt45Johnson 34%. Between them they hold 82% of it."
+  },
+  {
+   "title": "One spot, three 4-5 teams",
+   "text": "DMsourbeer is 42% to make the playoffs, triccster 41% and Thnu 32%. Thnu and YoungBuck04 are tied for the easiest schedule left on the model."
+  },
+  {
+   "title": "TE premium payoff",
+   "text": "Jbird531 has gained 51.5 points from the half-point tight end bonus, top earner Tyler Warren. butterygoop is next at 47.0 (Trey McBride), then YoungBuck04 at 40.5 (T.J. Hockenson)."
+  },
+  {
+   "title": "Scoring",
+   "text": "Week 9 averaged 119.5 a team, the lowest week of the season, with a median of 123.63."
+  }
+ ],
+ "history": [
+  {
+   "title": "Week 9, all time",
+   "text": "The highest week 9 score on record is DMsourbeer's 217.56 against butterygoop in 2024. The biggest week 9 margin is JMiiTcHH6511's 214.64 to 96.1 over jake188 in 2022. The closest is Colt45Johnson over brettmn13, 130.98 to 130.12, last year."
+  }
+ ],
+ "ahead": "Game of the week: HillBillyWorm and Thnu, 6-3 against 4-5 in their first meeting, with Thnu a game out of the field. Also: triccster against YoungBuck04, another first meeting, with the sixth seed on the line, and Colt45Johnson against Wallner.",
+ "gotw": {
+  "week": 10,
+  "teams": [
+   "HillBillyWorm",
+   "Thnu"
+  ]
+ },
+ "nfl": {
+  "read_at": "2026-11-11T13:27+00:00",
+  "note": "Headlines as ESPN reported them on the date shown. Injury and depth-chart news can change before kickoff.",
+  "intro": "Arizona lost TuanonStan's Michael Wilson and butterygoop's Gardner Minshew for the season. The deadline sent Colt45Johnson's Kirk Cousins to Minnesota, handing Jbird531's Fernando Mendoza the Raiders job, and moved BROCKSTARxD's Josh Downs and YoungBuck04's Keenan Allen.",
+  "items": [
+   {
+    "headline": "Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite",
+    "url": "https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite",
+    "date": "2026-11-10",
+    "kind": "news",
+    "teams": [
+     "BUF",
+     "CHI",
+     "CIN",
+     "DET",
+     "GB",
+     "JAX",
+     "SF"
+    ],
+    "named": [
+     {
+      "n": "Joe Burrow",
+      "p": "QB",
+      "t": "CIN",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Josh Allen",
+      "p": "QB",
+      "t": "BUF",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Caleb Williams",
+      "p": "QB",
+      "t": "CHI",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "Brock Purdy",
+      "p": "QB",
+      "t": "SF",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Jordan Love",
+      "p": "QB",
+      "t": "GB",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Trevor Lawrence",
+      "p": "QB",
+      "t": "JAX",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "Jared Goff",
+      "p": "QB",
+      "t": "DET",
+      "h": "triccster"
+     }
+    ],
+    "lead": [
+     "Joe Burrow",
+     "Josh Allen"
+    ],
+    "ripple": [
+     {
+      "n": "Keon Coleman",
+      "p": "WR",
+      "t": "BUF",
+      "h": "Jbird531"
+     },
+     {
+      "n": "DJ Moore",
+      "p": "WR",
+      "t": "BUF",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Ray Davis",
+      "p": "RB",
+      "t": "BUF",
+      "h": "brettmn13"
+     },
+     {
+      "n": "Tyrell Shavers",
+      "p": "WR",
+      "t": "BUF",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Khalil Shakir",
+      "p": "WR",
+      "t": "BUF",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Dalton Kincaid",
+      "p": "TE",
+      "t": "BUF",
+      "h": "Wallner"
+     },
+     {
+      "n": "James Cook III",
+      "p": "RB",
+      "t": "BUF",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Skyler Bell",
+      "p": "WR",
+      "t": "BUF",
+      "h": "Thnu"
+     },
+     {
+      "n": "Ty Johnson",
+      "p": "RB",
+      "t": "BUF",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Greg Dortch",
+      "p": "WR",
+      "t": "BUF",
+      "h": "triccster"
+     },
+     {
+      "n": "Samaje Perine",
+      "p": "RB",
+      "t": "CIN",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Joe Flacco",
+      "p": "QB",
+      "t": "CIN",
+      "h": "brettmn13"
+     },
+     {
+      "n": "Andrei Iosivas",
+      "p": "WR",
+      "t": "CIN",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Chase Brown",
+      "p": "RB",
+      "t": "CIN",
+      "h": "Wallner"
+     },
+     {
+      "n": "Mike Gesicki",
+      "p": "TE",
+      "t": "CIN",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Jack Endries",
+      "p": "TE",
+      "t": "CIN",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Colbie Young",
+      "p": "WR",
+      "t": "CIN",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "Tee Higgins",
+      "p": "WR",
+      "t": "CIN",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "Dohnte Meyers",
+      "p": "WR",
+      "t": "CIN",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Erick All Jr.",
+      "p": "TE",
+      "t": "CIN",
+      "h": "triccster"
+     },
+     {
+      "n": "Ja'Marr Chase",
+      "p": "WR",
+      "t": "CIN",
+      "h": "triccster"
+     }
+    ],
+    "managers": [
+     "BROCKSTARxD",
+     "Colt45Johnson",
+     "DMsourbeer",
+     "HillBillyWorm",
+     "Jbird531",
+     "Thnu",
+     "TuanonStan",
+     "Wallner",
+     "YoungBuck04",
+     "brettmn13",
+     "butterygoop",
+     "triccster"
+    ],
+    "note": "Colt45Johnson has Burrow and butterygoop has Allen."
+   },
+   {
+    "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
+    "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
+    "date": "2026-11-11",
+    "kind": "news",
+    "teams": [
+     "LV"
+    ],
+    "named": [
+     {
+      "n": "Fernando Mendoza",
+      "p": "QB",
+      "t": "LV",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Kirk Cousins",
+      "p": "QB",
+      "t": "LV",
+      "h": "Colt45Johnson"
+     }
+    ],
+    "lead": [
+     "Fernando Mendoza",
+     "Kirk Cousins"
+    ],
+    "ripple": [
+     {
+      "n": "Michael Mayer",
+      "p": "TE",
+      "t": "LV",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Ashton Jeanty",
+      "p": "RB",
+      "t": "LV",
+      "h": "brettmn13"
+     },
+     {
+      "n": "Cody White",
+      "p": "WR",
+      "t": "LV",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Dont'e Thornton Jr.",
+      "p": "WR",
+      "t": "LV",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Jack Bech",
+      "p": "WR",
+      "t": "LV",
+      "h": "Wallner"
+     },
+     {
+      "n": "Tre Tucker",
+      "p": "WR",
+      "t": "LV",
+      "h": "Wallner"
+     },
+     {
+      "n": "Mike Washington Jr.",
+      "p": "RB",
+      "t": "LV",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Brock Bowers",
+      "p": "TE",
+      "t": "LV",
+      "h": "Thnu"
+     },
+     {
+      "n": "Malik Benson",
+      "p": "WR",
+      "t": "LV",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Jalen Nailor",
+      "p": "WR",
+      "t": "LV",
+      "h": "YoungBuck04"
+     }
+    ],
+    "managers": [
+     "BROCKSTARxD",
+     "Colt45Johnson",
+     "DMsourbeer",
+     "Jbird531",
+     "Thnu",
+     "Wallner",
+     "YoungBuck04",
+     "brettmn13",
+     "butterygoop"
+    ],
+    "note": "Jbird531 has Mendoza. Colt45Johnson has Cousins, and brettmn13 has Ashton Jeanty in that offense."
+   },
+   {
+    "headline": "Sources: Cardinals' Gardner Minshew has UCL injury; Michael Wilson out for year",
+    "url": "https://www.espn.com/nfl/story/_/id/50435608/cardinals-wr-michael-wilson-neck-miss-rest-season",
+    "date": "2026-11-10",
+    "kind": "news",
+    "teams": [
+     "ARI"
+    ],
+    "named": [
+     {
+      "n": "Michael Wilson",
+      "p": "WR",
+      "t": "ARI",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Gardner Minshew II",
+      "p": "QB",
+      "t": "ARI",
+      "h": "butterygoop"
+     }
+    ],
+    "lead": [
+     "Michael Wilson",
+     "Gardner Minshew II"
+    ],
+    "ripple": [
+     {
+      "n": "Trey Benson",
+      "p": "RB",
+      "t": "ARI",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Trey McBride",
+      "p": "TE",
+      "t": "ARI",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Zonovan Knight",
+      "p": "RB",
+      "t": "ARI",
+      "h": "Wallner"
+     },
+     {
+      "n": "Tyler Allgeier",
+      "p": "RB",
+      "t": "ARI",
+      "h": "Wallner"
+     },
+     {
+      "n": "Carson Beck",
+      "p": "QB",
+      "t": "ARI",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Jeremiyah Love",
+      "p": "RB",
+      "t": "ARI",
+      "h": "Thnu"
+     },
+     {
+      "n": "Kendrick Bourne",
+      "p": "WR",
+      "t": "ARI",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "James Conner",
+      "p": "RB",
+      "t": "ARI",
+      "h": "YoungBuck04"
+     }
+    ],
+    "managers": [
+     "DMsourbeer",
+     "Jbird531",
+     "Thnu",
+     "TuanonStan",
+     "Wallner",
+     "YoungBuck04",
+     "butterygoop"
+    ],
+    "note": "TuanonStan has Wilson and butterygoop has Minshew. Both are out for the season."
+   },
+   {
+    "headline": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
+    "url": "https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes",
+    "date": "2026-11-10",
+    "kind": "news",
+    "teams": [
+     "IND"
+    ],
+    "named": [
+     {
+      "n": "Daniel Jones",
+      "p": "QB",
+      "t": "IND",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Jonathan Taylor",
+      "p": "RB",
+      "t": "IND",
+      "h": "Wallner"
+     }
+    ],
+    "lead": [
+     "Daniel Jones",
+     "Jonathan Taylor"
+    ],
+    "ripple": [
+     {
+      "n": "Seth McGowan",
+      "p": "RB",
+      "t": "IND",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Tyler Warren",
+      "p": "TE",
+      "t": "IND",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Josh Downs",
+      "p": "WR",
+      "t": "IND",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Alec Pierce",
+      "p": "WR",
+      "t": "IND",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Anthony Richardson Sr.",
+      "p": "QB",
+      "t": "IND",
+      "h": "Wallner"
+     },
+     {
+      "n": "Laquon Treadwell",
+      "p": "WR",
+      "t": "IND",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "DJ Giddens",
+      "p": "RB",
+      "t": "IND",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Keenan Allen",
+      "p": "WR",
+      "t": "IND",
+      "h": "YoungBuck04"
+     }
+    ],
+    "managers": [
+     "BROCKSTARxD",
+     "Colt45Johnson",
+     "DMsourbeer",
+     "Jbird531",
+     "Wallner",
+     "YoungBuck04"
+    ],
+    "note": "Wallner's Taylor and Colt45Johnson's Jones stay put."
+   },
+   {
+    "headline": "Seahawks to start QB Drew Lock vs. Raiders, giving Sam Darnold more time to heal",
+    "url": "https://www.espn.com/nfl/story/_/id/50434130/seahawks-start-drew-lock-vs-raiders-mike-macdonald-says",
+    "date": "2026-11-10",
+    "kind": "news",
+    "teams": [
+     "LV",
+     "SEA"
+    ],
+    "named": [
+     {
+      "n": "Drew Lock",
+      "p": "QB",
+      "t": "SEA",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Sam Darnold",
+      "p": "QB",
+      "t": "SEA",
+      "h": "HillBillyWorm"
+     }
+    ],
+    "lead": [
+     "Drew Lock",
+     "Sam Darnold"
+    ],
+    "ripple": [
+     {
+      "n": "Emanuel Wilson",
+      "p": "RB",
+      "t": "SEA",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "George Holani",
+      "p": "RB",
+      "t": "SEA",
+      "h": "Wallner"
+     },
+     {
+      "n": "Rashid Shaheed",
+      "p": "WR",
+      "t": "SEA",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Zach Charbonnet",
+      "p": "RB",
+      "t": "SEA",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "Jadarian Price",
+      "p": "RB",
+      "t": "SEA",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "AJ Barner",
+      "p": "TE",
+      "t": "SEA",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Tory Horton",
+      "p": "WR",
+      "t": "SEA",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Jaxon Smith-Njigba",
+      "p": "WR",
+      "t": "SEA",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Elijah Arroyo",
+      "p": "TE",
+      "t": "SEA",
+      "h": "triccster"
+     },
+     {
+      "n": "Cooper Kupp",
+      "p": "WR",
+      "t": "SEA",
+      "h": "triccster"
+     }
+    ],
+    "managers": [
+     "BROCKSTARxD",
+     "Colt45Johnson",
+     "DMsourbeer",
+     "HillBillyWorm",
+     "Wallner",
+     "triccster"
+    ],
+    "note": "BROCKSTARxD has Lock and HillBillyWorm has Darnold."
+   },
+   {
+    "headline": "Source: Browns returning to Watson as QB1 despite Sanders' strong fill-in start",
+    "url": "https://www.espn.com/nfl/story/_/id/50433760/source-browns-returning-deshaun-watson-qb1-week-10",
+    "date": "2026-11-09",
+    "kind": "news",
+    "teams": [
+     "CLE"
+    ],
+    "named": [
+     {
+      "n": "Deshaun Watson",
+      "p": "QB",
+      "t": "CLE",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Shedeur Sanders",
+      "p": "QB",
+      "t": "CLE",
+      "h": "YoungBuck04"
+     }
+    ],
+    "lead": [
+     "Deshaun Watson",
+     "Shedeur Sanders"
+    ],
+    "ripple": [
+     {
+      "n": "Taylen Green",
+      "p": "QB",
+      "t": "CLE",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Raheim Sanders",
+      "p": "RB",
+      "t": "CLE",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Quinshon Judkins",
+      "p": "RB",
+      "t": "CLE",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Denzel Boston",
+      "p": "WR",
+      "t": "CLE",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "KC Concepcion Jr.",
+      "p": "WR",
+      "t": "CLE",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Dillon Gabriel",
+      "p": "QB",
+      "t": "CLE",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Jaleel McLaughlin",
+      "p": "RB",
+      "t": "CLE",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "Jerry Jeudy",
+      "p": "WR",
+      "t": "CLE",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "Dylan Sampson",
+      "p": "RB",
+      "t": "CLE",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Harold Fannin Jr.",
+      "p": "TE",
+      "t": "CLE",
+      "h": "triccster"
+     }
+    ],
+    "managers": [
+     "BROCKSTARxD",
+     "HillBillyWorm",
+     "Jbird531",
+     "TuanonStan",
+     "YoungBuck04",
+     "butterygoop",
+     "triccster"
+    ],
+    "note": "Jbird531 has Watson. YoungBuck04's Shedeur Sanders goes back to the bench."
+   },
+   {
+    "headline": "How Josh Downs fits with Patrick Mahomes and the Chiefs' offense",
+    "url": "https://www.espn.com/nfl/story/_/id/50448000/josh-downs-chiefs-trade-patrick-mahomes-offense-role",
+    "date": "2026-11-11",
+    "kind": "story",
+    "teams": [
+     "IND",
+     "KC"
+    ],
+    "named": [
+     {
+      "n": "Josh Downs",
+      "p": "WR",
+      "t": "IND",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Patrick Mahomes",
+      "p": "QB",
+      "t": "KC",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Travis Kelce",
+      "p": "TE",
+      "t": "KC",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Rashee Rice",
+      "p": "WR",
+      "t": "KC",
+      "h": "Wallner"
+     },
+     {
+      "n": "Xavier Worthy",
+      "p": "WR",
+      "t": "KC",
+      "h": "BROCKSTARxD"
+     }
+    ],
+    "lead": [
+     "Josh Downs",
+     "Patrick Mahomes"
+    ],
+    "ripple": [
+     {
+      "n": "Seth McGowan",
+      "p": "RB",
+      "t": "IND",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Tyler Warren",
+      "p": "TE",
+      "t": "IND",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Alec Pierce",
+      "p": "WR",
+      "t": "IND",
+      "h": "BROCKSTARxD"
+     },
+     {
+      "n": "Jonathan Taylor",
+      "p": "RB",
+      "t": "IND",
+      "h": "Wallner"
+     },
+     {
+      "n": "Anthony Richardson Sr.",
+      "p": "QB",
+      "t": "IND",
+      "h": "Wallner"
+     },
+     {
+      "n": "Laquon Treadwell",
+      "p": "WR",
+      "t": "IND",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "DJ Giddens",
+      "p": "RB",
+      "t": "IND",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Daniel Jones",
+      "p": "QB",
+      "t": "IND",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Keenan Allen",
+      "p": "WR",
+      "t": "IND",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Cyrus Allen",
+      "p": "WR",
+      "t": "KC",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Justin Fields",
+      "p": "QB",
+      "t": "KC",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Brashard Smith",
+      "p": "RB",
+      "t": "KC",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Kenneth Walker III",
+      "p": "RB",
+      "t": "KC",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Tyquan Thornton",
+      "p": "WR",
+      "t": "KC",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Noah Gray",
+      "p": "TE",
+      "t": "KC",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Jalen Royals",
+      "p": "WR",
+      "t": "KC",
+      "h": "HillBillyWorm"
+     },
+     {
+      "n": "Emmett Johnson",
+      "p": "RB",
+      "t": "KC",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Garrett Nussmeier",
+      "p": "QB",
+      "t": "KC",
+      "h": "triccster"
+     }
+    ],
+    "managers": [
+     "BROCKSTARxD",
+     "Colt45Johnson",
+     "DMsourbeer",
+     "HillBillyWorm",
+     "Jbird531",
+     "TuanonStan",
+     "Wallner",
+     "YoungBuck04",
+     "triccster"
+    ],
+    "note": "BROCKSTARxD has Downs and Kelce. DMsourbeer has Mahomes and Wallner Rashee Rice."
+   },
+   {
+    "headline": "Schottenheimer: Cowboys will be without Ferguson, Goodson for 'multiple weeks'",
+    "url": "https://www.espn.com/nfl/story/_/id/50436570/cowboys-ferguson-goodson-multiple-weeks",
+    "date": "2026-11-10",
+    "kind": "news",
+    "teams": [
+     "DAL"
+    ],
+    "named": [
+     {
+      "n": "Tyler Goodson",
+      "p": "RB",
+      "t": "DAL",
+      "h": "Thnu"
+     },
+     {
+      "n": "Jake Ferguson",
+      "p": "TE",
+      "t": "DAL",
+      "h": "DMsourbeer"
+     }
+    ],
+    "lead": [
+     "Tyler Goodson",
+     "Jake Ferguson"
+    ],
+    "ripple": [
+     {
+      "n": "George Pickens",
+      "p": "WR",
+      "t": "DAL",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "CeeDee Lamb",
+      "p": "WR",
+      "t": "DAL",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Javonte Williams",
+      "p": "RB",
+      "t": "DAL",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Dak Prescott",
+      "p": "QB",
+      "t": "DAL",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Sam Howell",
+      "p": "QB",
+      "t": "DAL",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Malik Davis",
+      "p": "RB",
+      "t": "DAL",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Ryan Flournoy",
+      "p": "WR",
+      "t": "DAL",
+      "h": "triccster"
+     },
+     {
+      "n": "Michael Trigg",
+      "p": "TE",
+      "t": "DAL",
+      "h": "triccster"
+     }
+    ],
+    "managers": [
+     "Colt45Johnson",
+     "DMsourbeer",
+     "Thnu",
+     "TuanonStan",
+     "YoungBuck04",
+     "butterygoop",
+     "triccster"
+    ],
+    "note": "DMsourbeer has Ferguson and Thnu has Goodson."
+   }
+  ]
+ },
+ "features": [
+  {
+   "id": "if-today",
+   "style": "article",
+   "place": "after-lead",
+   "label": "If the season ended today",
+   "title": "The bracket as it stands",
+   "dek": "Six teams, two byes, seeded on record and then points for.",
+   "blocks": [
+    {
+     "type": "table",
+     "cols": [
+      "Seed",
+      "Team",
+      "Record",
+      "Points for"
+     ],
+     "rows": [
+      [
+       "1",
+       "butterygoop",
+       "9-0",
+       "1,591.9"
+      ],
+      [
+       "2",
+       "Colt45Johnson",
+       "8-1",
+       "1,519.1"
+      ],
+      [
+       "3",
+       "TuanonStan",
+       "6-3",
+       "1,282.7"
+      ],
+      [
+       "4",
+       "HillBillyWorm",
+       "6-3",
+       "1,269.0"
+      ],
+      [
+       "5",
+       "Wallner",
+       "5-4",
+       "1,209.6"
+      ],
+      [
+       "6",
+       "triccster",
+       "4-5",
+       "1,166.6"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "Byes: butterygoop and Colt45Johnson.",
+      "First round: TuanonStan (3) against triccster (6), a rematch of this week's closest game, and HillBillyWorm (4) against Wallner (5).",
+      "First team out: DMsourbeer, also 4-5, 51.3 points behind triccster. Thnu is 4-5 as well, with 1,052.8."
+     ]
+    }
+   ]
+  }
+ ],
+ "power": {
+  "through_week": 9,
+  "dynasty": true,
+  "teams": [
+   {
+    "h": "butterygoop",
+    "rank": 1,
+    "prev": 1,
+    "ros_rank": 1,
+    "ppg_rank": 1,
+    "allplay": 0.929,
+    "dyn_rank": 1
+   },
+   {
+    "h": "Colt45Johnson",
+    "rank": 2,
+    "prev": 2,
+    "ros_rank": 2,
+    "ppg_rank": 2,
+    "allplay": 0.869,
+    "dyn_rank": 4
+   },
+   {
+    "h": "HillBillyWorm",
+    "rank": 3,
+    "prev": 3,
+    "ros_rank": 3,
+    "ppg_rank": 4,
+    "allplay": 0.626,
+    "dyn_rank": 2
+   },
+   {
+    "h": "Wallner",
+    "rank": 4,
+    "prev": 4,
+    "ros_rank": 4,
+    "ppg_rank": 5,
+    "allplay": 0.515,
+    "dyn_rank": 3
+   },
+   {
+    "h": "triccster",
+    "rank": 5,
+    "prev": 6,
+    "ros_rank": 5,
+    "ppg_rank": 6,
+    "allplay": 0.505,
+    "dyn_rank": 7
+   },
+   {
+    "h": "DMsourbeer",
+    "rank": 6,
+    "prev": 7,
+    "ros_rank": 6,
+    "ppg_rank": 7,
+    "allplay": 0.384,
+    "dyn_rank": 5
+   },
+   {
+    "h": "TuanonStan",
+    "rank": 7,
+    "prev": 5,
+    "ros_rank": 10,
+    "ppg_rank": 3,
+    "allplay": 0.626,
+    "dyn_rank": 6
+   },
+   {
+    "h": "BROCKSTARxD",
+    "rank": 8,
+    "prev": 9,
+    "ros_rank": 7,
+    "ppg_rank": 8,
+    "allplay": 0.364,
+    "dyn_rank": 8
+   },
+   {
+    "h": "Thnu",
+    "rank": 9,
+    "prev": 10,
+    "ros_rank": 11,
+    "ppg_rank": 9,
+    "allplay": 0.384,
+    "dyn_rank": 11
+   },
+   {
+    "h": "brettmn13",
+    "rank": 10,
+    "prev": 8,
+    "ros_rank": 9,
+    "ppg_rank": 10,
+    "allplay": 0.364,
+    "dyn_rank": 9
+   },
+   {
+    "h": "YoungBuck04",
+    "rank": 11,
+    "prev": 11,
+    "ros_rank": 8,
+    "ppg_rank": 12,
+    "allplay": 0.172,
+    "dyn_rank": 12
+   },
+   {
+    "h": "Jbird531",
+    "rank": 12,
+    "prev": 12,
+    "ros_rank": 12,
+    "ppg_rank": 11,
+    "allplay": 0.263,
+    "dyn_rank": 10
+   }
+  ]
+ },
+ "board": {
+  "review": [
+   {
+    "id": "hot",
+    "title": "Hot hand",
+    "note": "Points per game over the last three weeks against the season average.",
+    "cols": [
+     "Team",
+     "Last 3",
+     "Season",
+     "Change"
+    ],
+    "rows": [
+     [
+      "@@triccster",
+      146.9,
+      129.6,
+      17.3
+     ],
+     [
+      "@@Colt45Johnson",
+      179.5,
+      168.8,
+      10.7
+     ],
+     [
+      "@@HillBillyWorm",
+      141.4,
+      141.0,
+      0.4
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "coach",
+    "title": "Coach of the year",
+    "note": "Average lineup efficiency: started points as a share of the best possible lineup each week. Wire flips: losses one free agent would have turned into wins.",
+    "cols": [
+     "Team",
+     "Efficiency",
+     "Weeks",
+     "Wire flips"
+    ],
+    "rows": [
+     [
+      "@@Colt45Johnson",
+      "89.1%",
+      9,
+      1
+     ],
+     [
+      "@@TuanonStan",
+      "88.6%",
+      9,
+      1
+     ],
+     [
+      "@@Thnu",
+      "86.7%",
+      9,
+      1
+     ]
+    ],
+    "race": true
+   },
+   {
+    "id": "pickup",
+    "title": "Pickup of the year",
+    "note": "Waiver and free-agent adds this season, by points scored in that team's starting lineup since.",
+    "cols": [
+     "Team",
+     "Player",
+     "Started pts",
+     "Starts",
+     "FAAB"
+    ],
+    "rows": [
+     [
+      "@@Wallner",
+      "Tyler Huntley",
+      52.6,
+      3,
+      "-"
+     ],
+     [
+      "@@YoungBuck04",
+      "Tyler Higbee",
+      45.3,
+      6,
+      "$51"
+     ],
+     [
+      "@@YoungBuck04",
+      "Kendre Miller",
+      24.7,
+      4,
+      "$6"
+     ]
+    ],
+    "race": true
+   },
+   {
+    "id": "gm",
+    "title": "GM of the year",
+    "note": "Points started this season by players brought in by trade or off the wire, not the draft. Wire pts missed: each week's best possible free-agent upgrade over a starter, added up.",
+    "cols": [
+     "Team",
+     "Started pts",
+     "Players used",
+     "Wire pts missed"
+    ],
+    "rows": [
+     [
+      "@@brettmn13",
+      324.1,
+      10,
+      129.8
+     ],
+     [
+      "@@butterygoop",
+      257.5,
+      2,
+      89.4
+     ],
+     [
+      "@@triccster",
+      183.3,
+      3,
+      137.7
+     ]
+    ],
+    "race": true
+   },
+   {
+    "id": "gotaway",
+    "title": "The one that got away",
+    "note": "Players cut this season, by points they have since scored in someone else's starting lineup.",
+    "cols": [
+     "Cut by",
+     "Player",
+     "Pos",
+     "Week",
+     "Now starting for",
+     "Pts since"
+    ],
+    "rows": [
+     [
+      "@@Wallner",
+      "Tyler Higbee",
+      "TE",
+      1,
+      "@@YoungBuck04",
+      45.3
+     ],
+     [
+      "@@Jbird531",
+      "Kendre Miller",
+      "RB",
+      1,
+      "@@YoungBuck04",
+      24.7
+     ],
+     [
+      "@@Wallner",
+      "Jahan Dotson",
+      "WR",
+      1,
+      "@@HillBillyWorm",
+      18.6
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "regret",
+    "title": "Bench regret",
+    "note": "Points left on the bench all season: the best lineup each week on real points, minus the lineup that was started.",
+    "cols": [
+     "Team",
+     "Points left",
+     "Lineup efficiency"
+    ],
+    "rows": [
+     [
+      "@@HillBillyWorm",
+      319.1,
+      "81%"
+     ],
+     [
+      "@@DMsourbeer",
+      294.2,
+      "79%"
+     ],
+     [
+      "@@Jbird531",
+      266.0,
+      "79%"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "beatproj",
+    "title": "Who beats Sleeper's projections",
+    "note": "Points from started players this season against what Sleeper projected for those same players.",
+    "cols": [
+     "Team",
+     "Scored",
+     "Projected",
+     "Over / under"
+    ],
+    "rows": [
+     [
+      "@@Colt45Johnson",
+      1519.1,
+      1418.9,
+      100.2
+     ],
+     [
+      "@@TuanonStan",
+      1282.7,
+      1244.5,
+      38.2
+     ],
+     [
+      "@@butterygoop",
+      1591.9,
+      1574.8,
+      17.0
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "tep",
+    "title": "TE premium payoff",
+    "note": "Extra points this season from the +0.5 per TE catch, started tight ends only.",
+    "cols": [
+     "Team",
+     "Premium pts",
+     "Top earner"
+    ],
+    "rows": [
+     [
+      "@@Jbird531",
+      51.5,
+      "Tyler Warren"
+     ],
+     [
+      "@@butterygoop",
+      47.0,
+      "Trey McBride"
+     ],
+     [
+      "@@YoungBuck04",
+      40.5,
+      "T.J. Hockenson"
+     ]
+    ],
+    "race": false
+   }
+  ],
+  "ahead": [
+   {
+    "id": "locks",
+    "title": "Locks and long shots",
+    "note": "Playoff chances from 10,000 simulated seasons, and the move since week 1.",
+    "cols": [
+     "Team",
+     "Playoffs",
+     "Status",
+     "Since week 1"
+    ],
+    "rows": [
+     [
+      "@@butterygoop",
+      "100.0%",
+      "Lock",
+      "+16.7"
+     ],
+     [
+      "@@Colt45Johnson",
+      "100.0%",
+      "Lock",
+      "+12.6"
+     ],
+     [
+      "@@TuanonStan",
+      "97.2%",
+      "Lock",
+      "+36.0"
+     ],
+     [
+      "@@HillBillyWorm",
+      "97.2%",
+      "Lock",
+      0.0
+     ],
+     [
+      "@@Wallner",
+      "85.0%",
+      "Likely",
+      "+61.4"
+     ],
+     [
+      "@@DMsourbeer",
+      "42.0%",
+      "Bubble",
+      "+23.8"
+     ],
+     [
+      "@@triccster",
+      "40.5%",
+      "Bubble",
+      -4.2
+     ],
+     [
+      "@@Thnu",
+      "31.5%",
+      "Fading",
+      0.0
+     ],
+     [
+      "@@brettmn13",
+      "3.8%",
+      "Long shot",
+      -29.5
+     ],
+     [
+      "@@BROCKSTARxD",
+      "1.8%",
+      "Long shot",
+      0.0
+     ],
+     [
+      "@@YoungBuck04",
+      "0.9%",
+      "Long shot",
+      -26.5
+     ],
+     [
+      "@@Jbird531",
+      "0.0%",
+      "Long shot",
+      -98.4
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "byes",
+    "title": "Bye week danger",
+    "note": "Teams losing two or more of their usual starters to byes in the next four weeks, with those starters' projected points.",
+    "cols": [
+     "Week",
+     "Team",
+     "Starters out",
+     "Proj pts lost",
+     "Who"
+    ],
+    "rows": [
+     [
+      10,
+      "@@BROCKSTARxD",
+      3,
+      28.6,
+      "Baker Mayfield, Emeka Egbuka, Courtland Sutton"
+     ],
+     [
+      10,
+      "@@Wallner",
+      2,
+      25.0,
+      "Joe Milton, Bo Nix"
+     ],
+     [
+      10,
+      "@@triccster",
+      2,
+      24.9,
+      "Bucky Irving, Jaylen Waddle"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "partners",
+    "title": "Natural trade partners",
+    "note": "Pairs where each side has a surplus at the other's weak spot.",
+    "cols": [
+     "Team",
+     "Can send",
+     "Partner",
+     "Can send back"
+    ],
+    "rows": [
+     [
+      "@@Jbird531",
+      "TE",
+      "@@brettmn13",
+      "RB"
+     ],
+     [
+      "@@Wallner",
+      "WR",
+      "@@brettmn13",
+      "QB"
+     ],
+     [
+      "@@YoungBuck04",
+      "WR",
+      "@@brettmn13",
+      "QB/RB"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "sell",
+    "title": "Selling pieces",
+    "note": "Bench players projected close to a starter for most teams. Points are projected per remaining week.",
+    "cols": [
+     "Team",
+     "Player",
+     "Pos",
+     "Proj/wk"
+    ],
+    "rows": [
+     [
+      "@@brettmn13",
+      "Bryce Young",
+      "QB CAR",
+      18.7
+     ],
+     [
+      "@@butterygoop",
+      "C.J. Stroud",
+      "QB HOU",
+      18.0
+     ],
+     [
+      "@@triccster",
+      "Tyler Shough",
+      "QB NO",
+      16.8
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "bench",
+    "title": "Best bench",
+    "note": "The three best bench players on rest-of-season projections, per week combined. Depth for byes and injuries.",
+    "cols": [
+     "#",
+     "Team",
+     "Top 3 bench / wk",
+     "Who"
+    ],
+    "rows": [
+     [
+      1,
+      "@@HillBillyWorm",
+      37.5,
+      "Justin Herbert, Pat Freiermuth, Wan'Dale Robinson"
+     ],
+     [
+      2,
+      "@@butterygoop",
+      34.1,
+      "Kyren Williams, Saquon Barkley, Khalil Shakir"
+     ],
+     [
+      3,
+      "@@Colt45Johnson",
+      30.5,
+      "Kirk Cousins, Daniel Jones, AJ Barner"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "quadrant",
+    "title": "Contender or rebuilder",
+    "note": "This year: rest-of-season projection rank. Future: FantasyPros dynasty roster value rank. Age: average age of rostered QB, RB, WR and TE.",
+    "cols": [
+     "Team",
+     "This year",
+     "Future",
+     "Avg age",
+     "Window"
+    ],
+    "rows": [
+     [
+      "@@butterygoop",
+      1,
+      1,
+      26.8,
+      "Dynasty power"
+     ],
+     [
+      "@@HillBillyWorm",
+      3,
+      2,
+      25.3,
+      "Dynasty power"
+     ],
+     [
+      "@@Colt45Johnson",
+      2,
+      4,
+      26.3,
+      "Dynasty power"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "capital",
+    "title": "Draft capital",
+    "note": "Picks owned for 2027 to 2029, from Sleeper's traded-pick ledger. Sorted with earlier rounds worth more.",
+    "cols": [
+     "Team",
+     "1sts",
+     "2nds",
+     "Total",
+     "By year"
+    ],
+    "rows": [
+     [
+      "@@Jbird531",
+      5,
+      7,
+      18,
+      "27:10 28:4 29:4"
+     ],
+     [
+      "@@brettmn13",
+      5,
+      3,
+      13,
+      "27:4 28:5 29:4"
+     ],
+     [
+      "@@Thnu",
+      3,
+      4,
+      13,
+      "27:5 28:4 29:4"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "qbroom",
+    "title": "Superflex QB room",
+    "note": "Starting QBs (top 24 on rest-of-season projections) per team. Two is the goal; three is trade capital.",
+    "cols": [
+     "Team",
+     "QBs",
+     "Starters",
+     "Top QBs (proj/wk)"
+    ],
+    "rows": [
+     [
+      "@@brettmn13",
+      7,
+      3,
+      "Jayden Daniels 20.6, Bryce Young 18.7, Malik Willis 12.8"
+     ],
+     [
+      "@@Colt45Johnson",
+      7,
+      3,
+      "Joe Burrow 21.2, Dak Prescott 14.0, Kirk Cousins 13.3"
+     ],
+     [
+      "@@DMsourbeer",
+      6,
+      3,
+      "Patrick Mahomes 19.5, Jordan Love 14.3, Geno Smith 12.9"
+     ]
+    ],
+    "race": false
+   }
+  ]
+ },
+ "links": [
+  {
+   "href": "/trackers",
+   "label": "League trackers",
+   "why": "Season races, the trade market, bench depth and bye-week danger."
+  },
+  {
+   "href": "/standings",
+   "label": "Standings, with a median toggle",
+   "why": "Flip between head-to-head and a league-median game and see who moves."
+  },
+  {
+   "href": "/odds",
+   "label": "Playoff odds",
+   "why": "10,000 simulated finishes, updated every week."
+  },
+  {
+   "href": "/what-if",
+   "label": "What if",
+   "why": "Pick winners for the games left and watch the odds re-run."
+  },
+  {
+   "href": "/preview",
+   "label": "Week 6 preview",
+   "why": "Every matchup with win odds and the head-to-head history."
+  },
+  {
+   "href": "/trade-grades",
+   "label": "Trade grades",
+   "why": "Every trade graded by the starting-lineup points each side got."
+  },
+  {
+   "href": "/waivers",
+   "label": "Waiver returns",
+   "why": "Which pickups actually turned into starts."
+  },
+  {
+   "href": "/luck",
+   "label": "Luck meter",
+   "why": "Your record against what it would be if you played everyone every week."
+  },
+  {
+   "href": "/rivalries",
+   "label": "Rivalries",
+   "why": "Every series, game by game."
+  },
+  {
+   "href": "/record-book",
+   "label": "Record book",
+   "why": "The highs, lows and blowouts on record."
+  }
+ ]
+}
