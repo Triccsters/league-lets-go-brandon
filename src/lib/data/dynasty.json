@@ -1,0 +1,1849 @@
+{
+ "captured": "2026-11-13T20:47:49.137Z",
+ "source": "The Fantasy Footballers dynasty startup rankings, 2QB view",
+ "source_url": "https://www.thefantasyfootballers.com/footclan/dynasty-startup-rankings/",
+ "method": "Player value = 10000 x 0.985^(rank-1), summed over the roster, in thousands. Draft picks are listed but not valued.",
+ "seasons": [
+  "2027",
+  "2028",
+  "2029"
+ ],
+ "teams": [
+  {
+   "h": "Jbird531",
+   "win_now": 45.7,
+   "balanced": 47.2,
+   "long_term": 61.4,
+   "pos": {
+    "QB": 14.5,
+    "RB": 6.6,
+    "WR": 14.5,
+    "TE": 11.7
+   },
+   "top": [
+    {
+     "n": "Drake Maye",
+     "pos": "QB",
+     "age": 24
+    },
+    {
+     "n": "Colston Loveland",
+     "pos": "TE",
+     "age": 22
+    },
+    {
+     "n": "Tyler Warren",
+     "pos": "TE",
+     "age": 24
+    },
+    {
+     "n": "Fernando Mendoza",
+     "pos": "QB",
+     "age": 23
+    },
+    {
+     "n": "Omarion Hampton",
+     "pos": "RB",
+     "age": 23
+    },
+    {
+     "n": "Omar Cooper Jr.",
+     "pos": "WR",
+     "age": 22
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "Deshaun Watson",
+     "pos": "QB",
+     "age": 31
+    },
+    {
+     "n": "Tank Dell",
+     "pos": "WR",
+     "age": 27
+    },
+    {
+     "n": "Kyle Monangai",
+     "pos": "RB",
+     "age": 24
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Fernando Mendoza",
+     "pos": "QB",
+     "age": 23
+    },
+    {
+     "n": "Chris Bell",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Colston Loveland",
+     "pos": "TE",
+     "age": 22
+    }
+   ],
+   "ranked": 33,
+   "top24": 1,
+   "top60": 3,
+   "picks": {
+    "total": 18,
+    "firsts": 5,
+    "by_season": {
+     "2027": [
+      {
+       "round": 1,
+       "from": "Jbird531",
+       "own": true
+      },
+      {
+       "round": 1,
+       "from": "TuanonStan",
+       "own": false
+      },
+      {
+       "round": 1,
+       "from": "butterygoop",
+       "own": false
+      },
+      {
+       "round": 2,
+       "from": "Jbird531",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "TuanonStan",
+       "own": false
+      },
+      {
+       "round": 2,
+       "from": "HillBillyWorm",
+       "own": false
+      },
+      {
+       "round": 2,
+       "from": "triccster",
+       "own": false
+      },
+      {
+       "round": 3,
+       "from": "Jbird531",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "brettmn13",
+       "own": false
+      },
+      {
+       "round": 3,
+       "from": "Wallner",
+       "own": false
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "Jbird531",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Jbird531",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "triccster",
+       "own": false
+      },
+      {
+       "round": 3,
+       "from": "Jbird531",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "Jbird531",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Jbird531",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Jbird531",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Jbird531",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "TuanonStan",
+   "win_now": 52.5,
+   "balanced": 63.3,
+   "long_term": 68.2,
+   "pos": {
+    "QB": 10.2,
+    "RB": 12.6,
+    "WR": 35.0,
+    "TE": 5.4
+   },
+   "top": [
+    {
+     "n": "Puka Nacua",
+     "pos": "WR",
+     "age": 25
+    },
+    {
+     "n": "Kenneth Walker III",
+     "pos": "RB",
+     "age": 26
+    },
+    {
+     "n": "Jalen Hurts",
+     "pos": "QB",
+     "age": 28
+    },
+    {
+     "n": "George Pickens",
+     "pos": "WR",
+     "age": 25
+    },
+    {
+     "n": "Luther Burden III",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Denzel Boston",
+     "pos": "WR",
+     "age": 22
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "DJ Moore",
+     "pos": "WR",
+     "age": 29
+    },
+    {
+     "n": "Matthew Stafford",
+     "pos": "QB",
+     "age": 38
+    },
+    {
+     "n": "Kenneth Walker III",
+     "pos": "RB",
+     "age": 26
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Jalen Hurts",
+     "pos": "QB",
+     "age": 28
+    },
+    {
+     "n": "Puka Nacua",
+     "pos": "WR",
+     "age": 25
+    },
+    {
+     "n": "Michael Wilson",
+     "pos": "WR",
+     "age": 26
+    }
+   ],
+   "ranked": 32,
+   "top24": 2,
+   "top60": 6,
+   "picks": {
+    "total": 10,
+    "firsts": 2,
+    "by_season": {
+     "2027": [
+      {
+       "round": 3,
+       "from": "TuanonStan",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "TuanonStan",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "TuanonStan",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "TuanonStan",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "TuanonStan",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "TuanonStan",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "TuanonStan",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "TuanonStan",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "TuanonStan",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "TuanonStan",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "brettmn13",
+   "win_now": 34.7,
+   "balanced": 32.2,
+   "long_term": 28.5,
+   "pos": {
+    "QB": 14.4,
+    "RB": 9.8,
+    "WR": 6.0,
+    "TE": 2.1
+   },
+   "top": [
+    {
+     "n": "Jayden Daniels",
+     "pos": "QB",
+     "age": 25
+    },
+    {
+     "n": "Bryce Young",
+     "pos": "QB",
+     "age": 25
+    },
+    {
+     "n": "D'Andre Swift",
+     "pos": "RB",
+     "age": 27
+    },
+    {
+     "n": "Marvin Harrison Jr.",
+     "pos": "WR",
+     "age": 24
+    },
+    {
+     "n": "DK Metcalf",
+     "pos": "WR",
+     "age": 28
+    },
+    {
+     "n": "Malik Willis",
+     "pos": "QB",
+     "age": 27
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "D'Andre Swift",
+     "pos": "RB",
+     "age": 27
+    },
+    {
+     "n": "DK Metcalf",
+     "pos": "WR",
+     "age": 28
+    },
+    {
+     "n": "Ollie Gordon II",
+     "pos": "RB",
+     "age": 22
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Marvin Harrison Jr.",
+     "pos": "WR",
+     "age": 24
+    },
+    {
+     "n": "Eli Stowers",
+     "pos": "TE",
+     "age": 23
+    },
+    {
+     "n": "Malik Willis",
+     "pos": "QB",
+     "age": 27
+    }
+   ],
+   "ranked": 31,
+   "top24": 1,
+   "top60": 2,
+   "picks": {
+    "total": 14,
+    "firsts": 6,
+    "by_season": {
+     "2027": [
+      {
+       "round": 1,
+       "from": "brettmn13",
+       "own": true
+      },
+      {
+       "round": 1,
+       "from": "Colt45Johnson",
+       "own": false
+      },
+      {
+       "round": 1,
+       "from": "triccster",
+       "own": false
+      },
+      {
+       "round": 2,
+       "from": "brettmn13",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "brettmn13",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "brettmn13",
+       "own": true
+      },
+      {
+       "round": 1,
+       "from": "triccster",
+       "own": false
+      },
+      {
+       "round": 2,
+       "from": "brettmn13",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "brettmn13",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "brettmn13",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "brettmn13",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "brettmn13",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "brettmn13",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "brettmn13",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "BROCKSTARxD",
+   "win_now": 44.5,
+   "balanced": 46.5,
+   "long_term": 48.6,
+   "pos": {
+    "QB": 16.3,
+    "RB": 10.0,
+    "WR": 17.5,
+    "TE": 2.7
+   },
+   "top": [
+    {
+     "n": "Brock Purdy",
+     "pos": "QB",
+     "age": 26
+    },
+    {
+     "n": "Jaxson Dart",
+     "pos": "QB",
+     "age": 23
+    },
+    {
+     "n": "Emeka Egbuka",
+     "pos": "WR",
+     "age": 24
+    },
+    {
+     "n": "Breece Hall",
+     "pos": "RB",
+     "age": 25
+    },
+    {
+     "n": "KC Concepcion Jr.",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Christian McCaffrey",
+     "pos": "RB",
+     "age": 30
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "Christian McCaffrey",
+     "pos": "RB",
+     "age": 30
+    },
+    {
+     "n": "Travis Kelce",
+     "pos": "TE",
+     "age": 37
+    },
+    {
+     "n": "Courtland Sutton",
+     "pos": "WR",
+     "age": 31
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Jaxson Dart",
+     "pos": "QB",
+     "age": 23
+    },
+    {
+     "n": "KC Concepcion Jr.",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Terrance Ferguson",
+     "pos": "TE",
+     "age": 23
+    }
+   ],
+   "ranked": 31,
+   "top24": 1,
+   "top60": 4,
+   "picks": {
+    "total": 12,
+    "firsts": 3,
+    "by_season": {
+     "2027": [
+      {
+       "round": 1,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "BROCKSTARxD",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "BROCKSTARxD",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "BROCKSTARxD",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "BROCKSTARxD",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "butterygoop",
+   "win_now": 87.9,
+   "balanced": 78.3,
+   "long_term": 70.6,
+   "pos": {
+    "QB": 14.3,
+    "RB": 16.6,
+    "WR": 35.3,
+    "TE": 12.0
+   },
+   "top": [
+    {
+     "n": "Josh Allen",
+     "pos": "QB",
+     "age": 30
+    },
+    {
+     "n": "CeeDee Lamb",
+     "pos": "WR",
+     "age": 27
+    },
+    {
+     "n": "Drake London",
+     "pos": "WR",
+     "age": 25
+    },
+    {
+     "n": "Trey McBride",
+     "pos": "TE",
+     "age": 26
+    },
+    {
+     "n": "Chris Olave",
+     "pos": "WR",
+     "age": 26
+    },
+    {
+     "n": "Nico Collins",
+     "pos": "WR",
+     "age": 27
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "Javonte Williams",
+     "pos": "RB",
+     "age": 26
+    },
+    {
+     "n": "A.J. Brown",
+     "pos": "WR",
+     "age": 29
+    },
+    {
+     "n": "Jaylen Warren",
+     "pos": "RB",
+     "age": 28
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Oscar Delp",
+     "pos": "TE",
+     "age": 23
+    },
+    {
+     "n": "Drake London",
+     "pos": "WR",
+     "age": 25
+    },
+    {
+     "n": "Elic Ayomanor",
+     "pos": "WR",
+     "age": 23
+    }
+   ],
+   "ranked": 31,
+   "top24": 5,
+   "top60": 8,
+   "picks": {
+    "total": 11,
+    "firsts": 2,
+    "by_season": {
+     "2027": [
+      {
+       "round": 2,
+       "from": "butterygoop",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "butterygoop",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "butterygoop",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "butterygoop",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "butterygoop",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "butterygoop",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "butterygoop",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "butterygoop",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "butterygoop",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "butterygoop",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "butterygoop",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "Wallner",
+   "win_now": 57.2,
+   "balanced": 59.2,
+   "long_term": 53.3,
+   "pos": {
+    "QB": 15.1,
+    "RB": 13.3,
+    "WR": 24.8,
+    "TE": 6.1
+   },
+   "top": [
+    {
+     "n": "Lamar Jackson",
+     "pos": "QB",
+     "age": 29
+    },
+    {
+     "n": "Bo Nix",
+     "pos": "QB",
+     "age": 26
+    },
+    {
+     "n": "Jonathan Taylor",
+     "pos": "RB",
+     "age": 27
+    },
+    {
+     "n": "Garrett Wilson",
+     "pos": "WR",
+     "age": 26
+    },
+    {
+     "n": "Parker Washington",
+     "pos": "WR",
+     "age": 24
+    },
+    {
+     "n": "Jordyn Tyson",
+     "pos": "WR",
+     "age": 22
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "Mike Evans",
+     "pos": "WR",
+     "age": 33
+    },
+    {
+     "n": "Chase Brown",
+     "pos": "RB",
+     "age": 26
+    },
+    {
+     "n": "Isaiah Likely",
+     "pos": "TE",
+     "age": 26
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Lamar Jackson",
+     "pos": "QB",
+     "age": 29
+    },
+    {
+     "n": "Jordyn Tyson",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Bo Nix",
+     "pos": "QB",
+     "age": 26
+    }
+   ],
+   "ranked": 30,
+   "top24": 1,
+   "top60": 6,
+   "picks": {
+    "total": 13,
+    "firsts": 3,
+    "by_season": {
+     "2027": [
+      {
+       "round": 1,
+       "from": "Wallner",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Wallner",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "HillBillyWorm",
+       "own": false
+      },
+      {
+       "round": 4,
+       "from": "Jbird531",
+       "own": false
+      },
+      {
+       "round": 4,
+       "from": "Wallner",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "Wallner",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Wallner",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Wallner",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Wallner",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "Wallner",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Wallner",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Wallner",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Wallner",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "DMsourbeer",
+   "win_now": 54.2,
+   "balanced": 59.7,
+   "long_term": 56.4,
+   "pos": {
+    "QB": 16.1,
+    "RB": 14.5,
+    "WR": 23.2,
+    "TE": 5.9
+   },
+   "top": [
+    {
+     "n": "Amon-Ra St. Brown",
+     "pos": "WR",
+     "age": 27
+    },
+    {
+     "n": "Patrick Mahomes",
+     "pos": "QB",
+     "age": 31
+    },
+    {
+     "n": "Zay Flowers",
+     "pos": "WR",
+     "age": 26
+    },
+    {
+     "n": "Jordan Love",
+     "pos": "QB",
+     "age": 28
+    },
+    {
+     "n": "James Cook III",
+     "pos": "RB",
+     "age": 27
+    },
+    {
+     "n": "De'Von Achane",
+     "pos": "RB",
+     "age": 25
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "James Cook III",
+     "pos": "RB",
+     "age": 27
+    },
+    {
+     "n": "Jordan Love",
+     "pos": "QB",
+     "age": 28
+    },
+    {
+     "n": "Geno Smith",
+     "pos": "QB",
+     "age": 36
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "De'Von Achane",
+     "pos": "RB",
+     "age": 25
+    },
+    {
+     "n": "Kenyon Sadiq",
+     "pos": "TE",
+     "age": 21
+    },
+    {
+     "n": "Mason Taylor",
+     "pos": "TE",
+     "age": 22
+    }
+   ],
+   "ranked": 33,
+   "top24": 2,
+   "top60": 7,
+   "picks": {
+    "total": 11,
+    "firsts": 3,
+    "by_season": {
+     "2027": [
+      {
+       "round": 1,
+       "from": "DMsourbeer",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "DMsourbeer",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "DMsourbeer",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "DMsourbeer",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "DMsourbeer",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "DMsourbeer",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "DMsourbeer",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "DMsourbeer",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "DMsourbeer",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "DMsourbeer",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "DMsourbeer",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "HillBillyWorm",
+   "win_now": 78.7,
+   "balanced": 78.6,
+   "long_term": 78.6,
+   "pos": {
+    "QB": 27.1,
+    "RB": 20.1,
+    "WR": 27.9,
+    "TE": 3.5
+   },
+   "top": [
+    {
+     "n": "Caleb Williams",
+     "pos": "QB",
+     "age": 24
+    },
+    {
+     "n": "Trevor Lawrence",
+     "pos": "QB",
+     "age": 27
+    },
+    {
+     "n": "Bijan Robinson",
+     "pos": "RB",
+     "age": 24
+    },
+    {
+     "n": "Tetairoa McMillan",
+     "pos": "WR",
+     "age": 23
+    },
+    {
+     "n": "Matthew Golden",
+     "pos": "WR",
+     "age": 23
+    },
+    {
+     "n": "Tee Higgins",
+     "pos": "WR",
+     "age": 27
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "Tee Higgins",
+     "pos": "WR",
+     "age": 27
+    },
+    {
+     "n": "Bhayshul Tuten",
+     "pos": "RB",
+     "age": 23
+    },
+    {
+     "n": "Zach Charbonnet",
+     "pos": "RB",
+     "age": 25
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Ja'Kobi Lane",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Jayden Higgins",
+     "pos": "WR",
+     "age": 23
+    },
+    {
+     "n": "Brian Thomas Jr.",
+     "pos": "WR",
+     "age": 24
+    }
+   ],
+   "ranked": 35,
+   "top24": 3,
+   "top60": 8,
+   "picks": {
+    "total": 10,
+    "firsts": 3,
+    "by_season": {
+     "2027": [
+      {
+       "round": 1,
+       "from": "HillBillyWorm",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "HillBillyWorm",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "HillBillyWorm",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "HillBillyWorm",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "HillBillyWorm",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "HillBillyWorm",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "HillBillyWorm",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "HillBillyWorm",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "HillBillyWorm",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "HillBillyWorm",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "Colt45Johnson",
+   "win_now": 76.2,
+   "balanced": 73.3,
+   "long_term": 68.0,
+   "pos": {
+    "QB": 17.9,
+    "RB": 23.9,
+    "WR": 27.7,
+    "TE": 3.8
+   },
+   "top": [
+    {
+     "n": "Jaxon Smith-Njigba",
+     "pos": "WR",
+     "age": 24
+    },
+    {
+     "n": "Jahmyr Gibbs",
+     "pos": "RB",
+     "age": 24
+    },
+    {
+     "n": "Joe Burrow",
+     "pos": "QB",
+     "age": 29
+    },
+    {
+     "n": "Malik Nabers",
+     "pos": "WR",
+     "age": 23
+    },
+    {
+     "n": "Ashton Jeanty",
+     "pos": "RB",
+     "age": 22
+    },
+    {
+     "n": "Dak Prescott",
+     "pos": "QB",
+     "age": 33
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "George Kittle",
+     "pos": "TE",
+     "age": 33
+    },
+    {
+     "n": "Chuba Hubbard",
+     "pos": "RB",
+     "age": 27
+    },
+    {
+     "n": "Dak Prescott",
+     "pos": "QB",
+     "age": 33
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Ashton Jeanty",
+     "pos": "RB",
+     "age": 22
+    },
+    {
+     "n": "Malik Nabers",
+     "pos": "WR",
+     "age": 23
+    },
+    {
+     "n": "TreVeyon Henderson",
+     "pos": "RB",
+     "age": 24
+    }
+   ],
+   "ranked": 32,
+   "top24": 5,
+   "top60": 6,
+   "picks": {
+    "total": 11,
+    "firsts": 2,
+    "by_season": {
+     "2027": [
+      {
+       "round": 2,
+       "from": "Colt45Johnson",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Colt45Johnson",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Colt45Johnson",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "Colt45Johnson",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Colt45Johnson",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Colt45Johnson",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Colt45Johnson",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "Colt45Johnson",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Colt45Johnson",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Colt45Johnson",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Colt45Johnson",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "Thnu",
+   "win_now": 35.5,
+   "balanced": 39.0,
+   "long_term": 36.5,
+   "pos": {
+    "QB": 5.1,
+    "RB": 10.8,
+    "WR": 10.0,
+    "TE": 13.1
+   },
+   "top": [
+    {
+     "n": "Brock Bowers",
+     "pos": "TE",
+     "age": 23
+    },
+    {
+     "n": "Jeremiyah Love",
+     "pos": "RB",
+     "age": 21
+    },
+    {
+     "n": "Christian Watson",
+     "pos": "WR",
+     "age": 27
+    },
+    {
+     "n": "Tucker Kraft",
+     "pos": "TE",
+     "age": 26
+    },
+    {
+     "n": "Cam Ward",
+     "pos": "QB",
+     "age": 24
+    },
+    {
+     "n": "Kyler Murray",
+     "pos": "QB",
+     "age": 29
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "Tony Pollard",
+     "pos": "RB",
+     "age": 29
+    },
+    {
+     "n": "Christian Watson",
+     "pos": "WR",
+     "age": 27
+    },
+    {
+     "n": "Woody Marks",
+     "pos": "RB",
+     "age": 25
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Jeremiyah Love",
+     "pos": "RB",
+     "age": 21
+    },
+    {
+     "n": "Jaylin Noel",
+     "pos": "WR",
+     "age": 24
+    },
+    {
+     "n": "Cam Ward",
+     "pos": "QB",
+     "age": 24
+    }
+   ],
+   "ranked": 29,
+   "top24": 2,
+   "top60": 4,
+   "picks": {
+    "total": 13,
+    "firsts": 3,
+    "by_season": {
+     "2027": [
+      {
+       "round": 1,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "DMsourbeer",
+       "own": false
+      },
+      {
+       "round": 2,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Thnu",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Thnu",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "Thnu",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Thnu",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "YoungBuck04",
+   "win_now": 35.3,
+   "balanced": 29.8,
+   "long_term": 33.4,
+   "pos": {
+    "QB": 1.7,
+    "RB": 3.3,
+    "WR": 19.5,
+    "TE": 5.3
+   },
+   "top": [
+    {
+     "n": "Justin Jefferson",
+     "pos": "WR",
+     "age": 27
+    },
+    {
+     "n": "Carnell Tate",
+     "pos": "WR",
+     "age": 21
+    },
+    {
+     "n": "Ladd McConkey",
+     "pos": "WR",
+     "age": 25
+    },
+    {
+     "n": "Antonio Williams",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Oronde Gadsden",
+     "pos": "TE",
+     "age": 23
+    },
+    {
+     "n": "Dallas Goedert",
+     "pos": "TE",
+     "age": 31
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "Stefon Diggs",
+     "pos": "WR",
+     "age": 32
+    },
+    {
+     "n": "Aaron Rodgers",
+     "pos": "QB",
+     "age": 42
+    },
+    {
+     "n": "T.J. Hockenson",
+     "pos": "TE",
+     "age": 29
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Antonio Williams",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Oronde Gadsden",
+     "pos": "TE",
+     "age": 23
+    },
+    {
+     "n": "Carnell Tate",
+     "pos": "WR",
+     "age": 21
+    }
+   ],
+   "ranked": 32,
+   "top24": 0,
+   "top60": 2,
+   "picks": {
+    "total": 12,
+    "firsts": 3,
+    "by_season": {
+     "2027": [
+      {
+       "round": 1,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "YoungBuck04",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 1,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "YoungBuck04",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "YoungBuck04",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "YoungBuck04",
+       "own": true
+      }
+     ]
+    }
+   }
+  },
+  {
+   "h": "triccster",
+   "win_now": 59.2,
+   "balanced": 54.3,
+   "long_term": 49.9,
+   "pos": {
+    "QB": 15.0,
+    "RB": 14.3,
+    "WR": 20.1,
+    "TE": 4.9
+   },
+   "top": [
+    {
+     "n": "Ja'Marr Chase",
+     "pos": "WR",
+     "age": 26
+    },
+    {
+     "n": "Tyler Shough",
+     "pos": "QB",
+     "age": 27
+    },
+    {
+     "n": "Jared Goff",
+     "pos": "QB",
+     "age": 32
+    },
+    {
+     "n": "Bucky Irving",
+     "pos": "RB",
+     "age": 24
+    },
+    {
+     "n": "Jaylen Waddle",
+     "pos": "WR",
+     "age": 27
+    },
+    {
+     "n": "Makai Lemon",
+     "pos": "WR",
+     "age": 22
+    }
+   ],
+   "now_assets": [
+    {
+     "n": "Jared Goff",
+     "pos": "QB",
+     "age": 32
+    },
+    {
+     "n": "Derrick Henry",
+     "pos": "RB",
+     "age": 32
+    },
+    {
+     "n": "Jakobi Meyers",
+     "pos": "WR",
+     "age": 30
+    }
+   ],
+   "future_assets": [
+    {
+     "n": "Makai Lemon",
+     "pos": "WR",
+     "age": 22
+    },
+    {
+     "n": "Harold Fannin Jr.",
+     "pos": "TE",
+     "age": 22
+    },
+    {
+     "n": "Troy Franklin",
+     "pos": "WR",
+     "age": 23
+    }
+   ],
+   "ranked": 30,
+   "top24": 1,
+   "top60": 4,
+   "picks": {
+    "total": 9,
+    "firsts": 1,
+    "by_season": {
+     "2027": [
+      {
+       "round": 3,
+       "from": "triccster",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "triccster",
+       "own": true
+      }
+     ],
+     "2028": [
+      {
+       "round": 3,
+       "from": "triccster",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "Jbird531",
+       "own": false
+      },
+      {
+       "round": 4,
+       "from": "triccster",
+       "own": true
+      }
+     ],
+     "2029": [
+      {
+       "round": 1,
+       "from": "triccster",
+       "own": true
+      },
+      {
+       "round": 2,
+       "from": "triccster",
+       "own": true
+      },
+      {
+       "round": 3,
+       "from": "triccster",
+       "own": true
+      },
+      {
+       "round": 4,
+       "from": "triccster",
+       "own": true
+      }
+     ]
+    }
+   }
+  }
+ ]
+}
