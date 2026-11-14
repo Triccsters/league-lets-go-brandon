@@ -67,3 +67,6 @@ export const managers = managersData;
 
 // shows the Win Now v Long Term page (needs src/lib/data/dynasty.json)
 export const dynastyOutlook = true;
+
+// Google Form embedded on /challenges (made 2026-11-13)
+export const challengeForm = 'https://docs.google.com/forms/d/e/1FAIpQLSc6TrWlfn1BIeUvDnuzBP2sbMazx9WwVTT_aqAEbVOqsr84Hw/viewform';
