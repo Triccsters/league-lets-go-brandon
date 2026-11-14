@@ -29,8 +29,8 @@
   {
    "h": "butterygoop",
    "rank": 1,
-   "score": 1.989,
-   "ros": 177.02,
+   "score": 1.92,
+   "ros": 174.31,
    "ppg": 176.87,
    "allplay": 0.929,
    "ros_rank": 1,
@@ -43,22 +43,22 @@
   {
    "h": "Colt45Johnson",
    "rank": 2,
-   "score": 1.634,
-   "ros": 169.34,
+   "score": 1.704,
+   "ros": 172.25,
    "ppg": 168.78,
    "allplay": 0.869,
    "ros_rank": 2,
    "ppg_rank": 2,
    "allplay_rank": 2,
    "prev": 2,
-   "dyn": 8.62,
-   "dyn_rank": 5
+   "dyn": 9.56,
+   "dyn_rank": 3
   },
   {
    "h": "HillBillyWorm",
    "rank": 3,
-   "score": 0.719,
-   "ros": 156.68,
+   "score": 0.7,
+   "ros": 155.57,
    "ppg": 141.0,
    "allplay": 0.626,
    "ros_rank": 3,
@@ -71,8 +71,8 @@
   {
    "h": "triccster",
    "rank": 4,
-   "score": 0.138,
-   "ros": 143.95,
+   "score": 0.133,
+   "ros": 143.1,
    "ppg": 129.62,
    "allplay": 0.505,
    "ros_rank": 4,
@@ -85,8 +85,8 @@
   {
    "h": "Wallner",
    "rank": 5,
-   "score": 0.111,
-   "ros": 139.81,
+   "score": 0.123,
+   "ros": 139.58,
    "ppg": 134.4,
    "allplay": 0.515,
    "ros_rank": 6,
@@ -94,13 +94,13 @@
    "allplay_rank": 5,
    "prev": 4,
    "dyn": 9.21,
-   "dyn_rank": 3
+   "dyn_rank": 4
   },
   {
    "h": "DMsourbeer",
    "rank": 6,
-   "score": -0.14,
-   "ros": 140.3,
+   "score": -0.107,
+   "ros": 140.97,
    "ppg": 123.92,
    "allplay": 0.384,
    "ros_rank": 5,
@@ -113,8 +113,8 @@
   {
    "h": "TuanonStan",
    "rank": 7,
-   "score": -0.141,
-   "ros": 120.95,
+   "score": -0.139,
+   "ros": 119.87,
    "ppg": 142.52,
    "allplay": 0.626,
    "ros_rank": 9,
@@ -122,13 +122,13 @@
    "allplay_rank": 3,
    "prev": 5,
    "dyn": 8.92,
-   "dyn_rank": 4
+   "dyn_rank": 5
   },
   {
    "h": "BROCKSTARxD",
    "rank": 8,
-   "score": -0.537,
-   "ros": 128.5,
+   "score": -0.508,
+   "ros": 128.72,
    "ppg": 117.52,
    "allplay": 0.364,
    "ros_rank": 7,
@@ -139,24 +139,10 @@
    "dyn_rank": 8
   },
   {
-   "h": "brettmn13",
-   "rank": 9,
-   "score": -0.792,
-   "ros": 120.1,
-   "ppg": 114.04,
-   "allplay": 0.364,
-   "ros_rank": 10,
-   "ppg_rank": 10,
-   "allplay_rank": 9,
-   "prev": 8,
-   "dyn": 6.77,
-   "dyn_rank": 9
-  },
-  {
    "h": "Thnu",
-   "rank": 10,
-   "score": -0.94,
-   "ros": 111.69,
+   "rank": 9,
+   "score": -0.896,
+   "ros": 112.17,
    "ppg": 116.98,
    "allplay": 0.384,
    "ros_rank": 12,
@@ -167,10 +153,24 @@
    "dyn_rank": 11
   },
   {
+   "h": "brettmn13",
+   "rank": 10,
+   "score": -0.909,
+   "ros": 114.05,
+   "ppg": 114.04,
+   "allplay": 0.364,
+   "ros_rank": 11,
+   "ppg_rank": 10,
+   "allplay_rank": 9,
+   "prev": 8,
+   "dyn": 5.83,
+   "dyn_rank": 10
+  },
+  {
    "h": "YoungBuck04",
    "rank": 11,
-   "score": -0.982,
-   "ros": 125.09,
+   "score": -0.979,
+   "ros": 124.13,
    "ppg": 103.98,
    "allplay": 0.172,
    "ros_rank": 8,
@@ -183,18 +183,70 @@
   {
    "h": "Jbird531",
    "rank": 12,
-   "score": -1.059,
-   "ros": 115.98,
+   "score": -1.041,
+   "ros": 115.44,
    "ppg": 108.69,
    "allplay": 0.263,
-   "ros_rank": 11,
+   "ros_rank": 10,
    "ppg_rank": 11,
    "allplay_rank": 11,
    "prev": 12,
    "dyn": 6.66,
-   "dyn_rank": 10
+   "dyn_rank": 9
   }
  ],
  "source": "Sleeper weekly projections scored with this league's scoring",
- "generated": "2026-11-12"
+ "generated": "2026-11-14",
+ "history": {
+  "9": {
+   "butterygoop": {
+    "rank": 1,
+    "score": 1.92
+   },
+   "Colt45Johnson": {
+    "rank": 2,
+    "score": 1.704
+   },
+   "HillBillyWorm": {
+    "rank": 3,
+    "score": 0.7
+   },
+   "triccster": {
+    "rank": 4,
+    "score": 0.133
+   },
+   "Wallner": {
+    "rank": 5,
+    "score": 0.123
+   },
+   "DMsourbeer": {
+    "rank": 6,
+    "score": -0.107
+   },
+   "TuanonStan": {
+    "rank": 7,
+    "score": -0.139
+   },
+   "BROCKSTARxD": {
+    "rank": 8,
+    "score": -0.508
+   },
+   "Thnu": {
+    "rank": 9,
+    "score": -0.896
+   },
+   "brettmn13": {
+    "rank": 10,
+    "score": -0.909
+   },
+   "YoungBuck04": {
+    "rank": 11,
+    "score": -0.979
+   },
+   "Jbird531": {
+    "rank": 12,
+    "score": -1.041
+   }
+  }
+ }
 }

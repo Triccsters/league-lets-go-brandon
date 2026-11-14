@@ -6,106 +6,106 @@
    "n": "Corey Kiner",
    "p": "RB",
    "t": "NE",
-   "c": 5752308,
+   "c": 6013800,
    "h": "HillBillyWorm"
   },
   {
    "n": "Tank Dell",
    "p": "WR",
    "t": "HOU",
-   "c": 4387160,
+   "c": 4521048,
    "h": "Jbird531"
   },
   {
    "n": "Konata Mumpfield",
    "p": "WR",
    "t": "LAR",
-   "c": 3914415,
+   "c": 4472460,
    "h": "DMsourbeer"
-  },
-  {
-   "n": "Devin Singletary",
-   "p": "RB",
-   "t": "NYG",
-   "c": 2104380,
-   "h": "triccster"
-  },
-  {
-   "n": "Audric Estime",
-   "p": "RB",
-   "t": "NO",
-   "c": 1990353,
-   "h": "triccster"
-  },
-  {
-   "n": "Demarcus Robinson",
-   "p": "WR",
-   "t": "SF",
-   "c": 1735788,
-   "h": "Thnu"
   },
   {
    "n": "Darren Waller",
    "p": "TE",
    "t": "CAR",
-   "c": 1702170,
+   "c": 2441682,
    "h": "butterygoop"
   },
   {
    "n": "Tutu Atwell",
    "p": "WR",
    "t": "LAR",
-   "c": 1668107,
+   "c": 2137023,
+   "h": "triccster"
+  },
+  {
+   "n": "Audric Estime",
+   "p": "RB",
+   "t": "NO",
+   "c": 2128620,
    "h": "triccster"
   },
   {
    "n": "Fernando Mendoza",
    "p": "QB",
    "t": "LV",
-   "c": 1462392,
+   "c": 1667648,
    "h": "Jbird531"
+  },
+  {
+   "n": "Demarcus Robinson",
+   "p": "WR",
+   "t": "SF",
+   "c": 1294032,
+   "h": "Thnu"
+  },
+  {
+   "n": "Emmett Johnson",
+   "p": "RB",
+   "t": "KC",
+   "c": 1195479,
+   "h": "YoungBuck04"
+  },
+  {
+   "n": "Justice Hill",
+   "p": "RB",
+   "t": "BAL",
+   "c": 1126431,
+   "h": "DMsourbeer"
+  },
+  {
+   "n": "Devin Singletary",
+   "p": "RB",
+   "t": "NYG",
+   "c": 1049337,
+   "h": "triccster"
   },
   {
    "n": "Baltimore Ravens",
    "p": "DEF",
    "t": "BAL",
-   "c": 911940,
+   "c": 1028433,
+   "h": null
+  },
+  {
+   "n": "Ashton Dulin",
+   "p": "WR",
+   "t": "IND",
+   "c": 978813,
    "h": null
   },
   {
    "n": "Kyle McCord",
    "p": "QB",
    "t": "MIA",
-   "c": 883100,
+   "c": 953296,
    "h": null
   },
   {
-   "n": "Justice Hill",
-   "p": "RB",
-   "t": "BAL",
-   "c": 816786,
-   "h": "DMsourbeer"
-  },
-  {
-   "n": "Carson Wentz",
-   "p": "QB",
-   "t": "MIN",
-   "c": 813390,
-   "h": "brettmn13"
-  },
-  {
-   "n": "Adonai Mitchell",
-   "p": "WR",
-   "t": "NYJ",
-   "c": 811680,
-   "h": "butterygoop"
-  },
-  {
-   "n": "Chris Rodriguez Jr.",
-   "p": "RB",
-   "t": "JAX",
-   "c": 801090,
-   "h": "BROCKSTARxD"
+   "n": "Tyler Higbee",
+   "p": "TE",
+   "t": "LAR",
+   "c": 888417,
+   "h": "YoungBuck04"
   }
  ],
  "drop": [
@@ -113,106 +113,106 @@
    "n": "Michael Wilson",
    "p": "WR",
    "t": "ARI",
-   "c": 2933361,
+   "c": 3245310,
    "h": "TuanonStan"
-  },
-  {
-   "n": "Emanuel Wilson",
-   "p": "RB",
-   "t": "SEA",
-   "c": 1744398,
-   "h": "BROCKSTARxD"
   },
   {
    "n": "Devin Singletary",
    "p": "RB",
    "t": "NYG",
-   "c": 1689102,
+   "c": 2088378,
    "h": "triccster"
   },
   {
    "n": "Seth McGowan",
    "p": "RB",
    "t": "IND",
-   "c": 1588672,
+   "c": 1744672,
    "h": "Jbird531"
+  },
+  {
+   "n": "Emanuel Wilson",
+   "p": "RB",
+   "t": "SEA",
+   "c": 1489446,
+   "h": "BROCKSTARxD"
   },
   {
    "n": "Malik Willis",
    "p": "QB",
    "t": "MIA",
-   "c": 1354283,
-   "h": "brettmn13"
-  },
-  {
-   "n": "Kyler Murray",
-   "p": "QB",
-   "t": "MIN",
-   "c": 1298296,
-   "h": "Thnu"
-  },
-  {
-   "n": "Adonai Mitchell",
-   "p": "WR",
-   "t": "NYJ",
-   "c": 1229904,
-   "h": "butterygoop"
-  },
-  {
-   "n": "Dameon Pierce",
-   "p": "RB",
-   "t": null,
-   "c": 1170952,
+   "c": 1480724,
    "h": "brettmn13"
   },
   {
    "n": "Chase McLaughlin",
    "p": "K",
    "t": "TB",
-   "c": 1150096,
+   "c": 1456952,
+   "h": null
+  },
+  {
+   "n": "Adonai Mitchell",
+   "p": "WR",
+   "t": "NYJ",
+   "c": 1357160,
+   "h": "butterygoop"
+  },
+  {
+   "n": "Kyler Murray",
+   "p": "QB",
+   "t": "MIN",
+   "c": 1218304,
+   "h": "Thnu"
+  },
+  {
+   "n": "Cairo Santos",
+   "p": "K",
+   "t": "CHI",
+   "c": 1153796,
    "h": null
   },
   {
    "n": "Detroit Lions",
    "p": "DEF",
    "t": "DET",
-   "c": 999180,
+   "c": 1137042,
    "h": null
+  },
+  {
+   "n": "Dameon Pierce",
+   "p": "RB",
+   "t": null,
+   "c": 1079904,
+   "h": "brettmn13"
   },
   {
    "n": "Elijah Mitchell",
    "p": "RB",
    "t": "PHI",
-   "c": 999108,
+   "c": 1051317,
    "h": "brettmn13"
-  },
-  {
-   "n": "Cairo Santos",
-   "p": "K",
-   "t": "CHI",
-   "c": 948738,
-   "h": null
   },
   {
    "n": "Devaughn Vele",
    "p": "WR",
    "t": "NO",
-   "c": 879550,
+   "c": 945413,
    "h": "butterygoop"
+  },
+  {
+   "n": "Carson Wentz",
+   "p": "QB",
+   "t": "MIN",
+   "c": 895176,
+   "h": "brettmn13"
   },
   {
    "n": "New England Patriots",
    "p": "DEF",
    "t": "NE",
-   "c": 856086,
+   "c": 863478,
    "h": null
-  },
-  {
-   "n": "Chris Rodriguez Jr.",
-   "p": "RB",
-   "t": "JAX",
-   "c": 819486,
-   "h": "BROCKSTARxD"
   }
  ]
 }
