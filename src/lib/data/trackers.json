@@ -810,7 +810,7 @@
        "@@BROCKSTARxD",
        "-",
        "WR, TE",
-       "QB 5 RB 8 WR 10 TE 11"
+       "QB 5 RB 7 WR 10 TE 11"
       ],
       [
        "@@DMsourbeer",
@@ -834,13 +834,13 @@
        "@@TuanonStan",
        "-",
        "QB, TE",
-       "QB 12 RB 4 WR 8 TE 9"
+       "QB 12 RB 8 WR 8 TE 9"
       ],
       [
        "@@Wallner",
        "RB, WR",
        "QB",
-       "QB 11 RB 7 WR 5 TE 3"
+       "QB 11 RB 6 WR 5 TE 3"
       ],
       [
        "@@YoungBuck04",
@@ -852,7 +852,7 @@
        "@@brettmn13",
        "QB, RB",
        "WR, TE",
-       "QB 4 RB 6 WR 12 TE 12"
+       "QB 4 RB 4 WR 12 TE 12"
       ],
       [
        "@@Colt45Johnson",
@@ -926,7 +926,7 @@
        "@@butterygoop",
        "C.J. Stroud",
        "QB HOU",
-       18.1
+       18.4
       ],
       [
        "@@brettmn13",
@@ -977,16 +977,16 @@
        10.1
       ],
       [
-       "@@butterygoop",
-       "Khalil Shakir",
-       "WR BUF",
-       10.0
-      ],
-      [
        "@@triccster",
        "Jonah Coleman",
        "RB DEN",
        10.0
+      ],
+      [
+       "@@butterygoop",
+       "Khalil Shakir",
+       "WR BUF",
+       9.8
       ],
       [
        "@@Wallner",
@@ -1001,16 +1001,16 @@
        9.5
       ],
       [
-       "@@Jbird531",
-       "Greg Dulcich",
-       "TE MIA",
-       9.0
-      ],
-      [
        "@@triccster",
        "Hunter Henry",
        "TE NE",
        8.9
+      ],
+      [
+       "@@Jbird531",
+       "Greg Dulcich",
+       "TE MIA",
+       8.8
       ]
      ]
     }
@@ -1047,20 +1047,20 @@
       [
        3,
        "@@Colt45Johnson",
-       31.7,
+       31.8,
        "Dak Prescott, Daniel Jones, Rico Dowdle"
       ],
       [
        4,
-       "@@Jbird531",
-       30.6,
-       "Deshaun Watson, Fernando Mendoza, Keon Coleman"
-      ],
-      [
-       5,
        "@@triccster",
        30.5,
        "Michael Penix Jr., Jonah Coleman, Hunter Henry"
+      ],
+      [
+       5,
+       "@@Jbird531",
+       30.4,
+       "Deshaun Watson, Fernando Mendoza, Keon Coleman"
       ],
       [
        6,
@@ -1077,13 +1077,13 @@
       [
        8,
        "@@YoungBuck04",
-       22.3,
-       "Tyler Higbee, Antonio Williams, Ty Johnson"
+       22.2,
+       "Tyler Higbee, Antonio Williams, Keenan Allen"
       ],
       [
        9,
        "@@BROCKSTARxD",
-       18.7,
+       18.9,
        "Xavier Worthy, Chris Rodriguez Jr., Malachi Fields"
       ],
       [
@@ -1323,7 +1323,7 @@
        "@@BROCKSTARxD",
        3,
        28.4,
-       "Baker Mayfield, Emeka Egbuka, Courtland Sutton"
+       "Baker Mayfield, Courtland Sutton, Emeka Egbuka"
       ],
       [
        10,
@@ -1337,7 +1337,7 @@
        "@@triccster",
        2,
        24.6,
-       "Bucky Irving, Jaylen Waddle"
+       "Jaylen Waddle, Bucky Irving"
       ],
       [
        11,
@@ -1351,27 +1351,27 @@
        "@@Thnu",
        3,
        33.3,
-       "Davante Adams, Tucker Kraft, Christian Watson"
+       "Davante Adams, Christian Watson, Tucker Kraft"
       ],
       [
        11,
        "@@HillBillyWorm",
        2,
        28.6,
-       "Matthew Golden, Bijan Robinson"
+       "Bijan Robinson, Matthew Golden"
       ],
       [
        11,
        "@@brettmn13",
        2,
        11.7,
-       "Romeo Doubs, Josh Jacobs"
+       "Josh Jacobs, Romeo Doubs"
       ],
       [
        13,
        "@@Wallner",
        2,
-       24.8,
+       24.9,
        "Jonathan Taylor, Garrett Wilson"
       ]
      ]
@@ -1606,7 +1606,7 @@
        "@@DMsourbeer",
        6,
        3,
-       "Patrick Mahomes 18.8, Jordan Love 14.5, Geno Smith 12.8"
+       "Patrick Mahomes 19.8, Jordan Love 14.5, Geno Smith 12.8"
       ],
       [
        "@@triccster",
@@ -1636,7 +1636,7 @@
        "@@butterygoop",
        5,
        2,
-       "Josh Allen 23.6, C.J. Stroud 18.1, Tyson Bagent 0.0"
+       "Josh Allen 23.6, C.J. Stroud 18.4, Tyson Bagent 0.0"
       ],
       [
        "@@Wallner",
@@ -1779,7 +1779,7 @@
        "David Montgomery",
        29,
        6,
-       10.2
+       8.6
       ]
      ]
     },

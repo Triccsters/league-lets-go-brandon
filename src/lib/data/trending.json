@@ -6,105 +6,105 @@
    "n": "Corey Kiner",
    "p": "RB",
    "t": "NE",
-   "c": 6013800,
+   "c": 6024696,
    "h": "HillBillyWorm"
   },
   {
    "n": "Tank Dell",
    "p": "WR",
    "t": "HOU",
-   "c": 4521048,
+   "c": 4537896,
    "h": "Jbird531"
   },
   {
    "n": "Konata Mumpfield",
    "p": "WR",
    "t": "LAR",
-   "c": 4472460,
+   "c": 4487418,
    "h": "DMsourbeer"
   },
   {
    "n": "Darren Waller",
    "p": "TE",
    "t": "CAR",
-   "c": 2441682,
+   "c": 2503944,
    "h": "butterygoop"
   },
   {
    "n": "Tutu Atwell",
    "p": "WR",
    "t": "LAR",
-   "c": 2137023,
+   "c": 2174284,
    "h": "triccster"
   },
   {
    "n": "Audric Estime",
    "p": "RB",
    "t": "NO",
-   "c": 2128620,
+   "c": 2140422,
    "h": "triccster"
+  },
+  {
+   "n": "Emmett Johnson",
+   "p": "RB",
+   "t": "KC",
+   "c": 1870884,
+   "h": "YoungBuck04"
   },
   {
    "n": "Fernando Mendoza",
    "p": "QB",
    "t": "LV",
-   "c": 1667648,
+   "c": 1677816,
    "h": "Jbird531"
   },
   {
    "n": "Demarcus Robinson",
    "p": "WR",
    "t": "SF",
-   "c": 1294032,
+   "c": 1231872,
    "h": "Thnu"
-  },
-  {
-   "n": "Emmett Johnson",
-   "p": "RB",
-   "t": "KC",
-   "c": 1195479,
-   "h": "YoungBuck04"
   },
   {
    "n": "Justice Hill",
    "p": "RB",
    "t": "BAL",
-   "c": 1126431,
+   "c": 1189449,
    "h": "DMsourbeer"
-  },
-  {
-   "n": "Devin Singletary",
-   "p": "RB",
-   "t": "NYG",
-   "c": 1049337,
-   "h": "triccster"
   },
   {
    "n": "Baltimore Ravens",
    "p": "DEF",
    "t": "BAL",
-   "c": 1028433,
+   "c": 1034475,
    "h": null
   },
   {
    "n": "Ashton Dulin",
    "p": "WR",
    "t": "IND",
-   "c": 978813,
+   "c": 994851,
    "h": null
   },
   {
    "n": "Kyle McCord",
    "p": "QB",
    "t": "MIA",
-   "c": 953296,
+   "c": 956324,
    "h": null
+  },
+  {
+   "n": "Devin Singletary",
+   "p": "RB",
+   "t": "NYG",
+   "c": 934767,
+   "h": "triccster"
   },
   {
    "n": "Tyler Higbee",
    "p": "TE",
    "t": "LAR",
-   "c": 888417,
+   "c": 917811,
    "h": "YoungBuck04"
   }
  ],
@@ -113,105 +113,105 @@
    "n": "Michael Wilson",
    "p": "WR",
    "t": "ARI",
-   "c": 3245310,
+   "c": 3271275,
    "h": "TuanonStan"
   },
   {
    "n": "Devin Singletary",
    "p": "RB",
    "t": "NYG",
-   "c": 2088378,
+   "c": 2128788,
    "h": "triccster"
   },
   {
    "n": "Seth McGowan",
    "p": "RB",
    "t": "IND",
-   "c": 1744672,
+   "c": 1766136,
    "h": "Jbird531"
-  },
-  {
-   "n": "Emanuel Wilson",
-   "p": "RB",
-   "t": "SEA",
-   "c": 1489446,
-   "h": "BROCKSTARxD"
   },
   {
    "n": "Malik Willis",
    "p": "QB",
    "t": "MIA",
-   "c": 1480724,
+   "c": 1488277,
    "h": "brettmn13"
+  },
+  {
+   "n": "Emanuel Wilson",
+   "p": "RB",
+   "t": "SEA",
+   "c": 1487304,
+   "h": "BROCKSTARxD"
   },
   {
    "n": "Chase McLaughlin",
    "p": "K",
    "t": "TB",
-   "c": 1456952,
+   "c": 1476744,
    "h": null
   },
   {
    "n": "Adonai Mitchell",
    "p": "WR",
    "t": "NYJ",
-   "c": 1357160,
+   "c": 1384288,
    "h": "butterygoop"
   },
   {
    "n": "Kyler Murray",
    "p": "QB",
    "t": "MIN",
-   "c": 1218304,
+   "c": 1221664,
    "h": "Thnu"
   },
   {
    "n": "Cairo Santos",
    "p": "K",
    "t": "CHI",
-   "c": 1153796,
+   "c": 1162420,
    "h": null
   },
   {
    "n": "Detroit Lions",
    "p": "DEF",
    "t": "DET",
-   "c": 1137042,
+   "c": 1146078,
    "h": null
-  },
-  {
-   "n": "Dameon Pierce",
-   "p": "RB",
-   "t": null,
-   "c": 1079904,
-   "h": "brettmn13"
   },
   {
    "n": "Elijah Mitchell",
    "p": "RB",
    "t": "PHI",
-   "c": 1051317,
+   "c": 1057941,
+   "h": "brettmn13"
+  },
+  {
+   "n": "Dameon Pierce",
+   "p": "RB",
+   "t": null,
+   "c": 1039504,
    "h": "brettmn13"
   },
   {
    "n": "Devaughn Vele",
    "p": "WR",
    "t": "NO",
-   "c": 945413,
+   "c": 960316,
    "h": "butterygoop"
   },
   {
    "n": "Carson Wentz",
    "p": "QB",
    "t": "MIN",
-   "c": 895176,
+   "c": 900372,
    "h": "brettmn13"
   },
   {
    "n": "New England Patriots",
    "p": "DEF",
    "t": "NE",
-   "c": 863478,
+   "c": 870079,
    "h": null
   }
  ]

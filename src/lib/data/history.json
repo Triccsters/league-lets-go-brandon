@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T14:28:47+00:00",
+ "generated": "2026-11-14T18:48:24+00:00",
  "site": {
   "league_name": "Lets go Brandon",
   "season": 2026,
@@ -171,9 +171,13 @@
    "hidden": false
   },
   "triccster": {
-   "name": "triccster",
+   "name": "Triccster",
    "yahoo": null,
-   "hidden": false
+   "hidden": false,
+   "was": {
+    "name": "triccster",
+    "through": "2026-w09"
+   }
   }
  },
  "current": [
