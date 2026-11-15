@@ -1,0 +1,1170 @@
+{
+ "season": 2026,
+ "through_week": 9,
+ "weeks_left": 5,
+ "season_games": 14,
+ "records": [
+  {
+   "id": "wins",
+   "group": "season",
+   "title": "Most wins in a season",
+   "record": "12 wins, {butterygoop} in 2025",
+   "holder": "butterygoop",
+   "holder_season": 2025,
+   "value": 12,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "butterygoop",
+     "text": "At 9 with 5 to play. 4 more breaks it, 3 ties it.",
+     "now": 9,
+     "heat": 0.333,
+     "broke": false
+    },
+    {
+     "h": "Colt45Johnson",
+     "text": "At 8 with 5 to play. 5 more breaks it, 4 ties it.",
+     "now": 8,
+     "heat": 0.167,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "losses",
+   "group": "season",
+   "title": "Most losses in a season",
+   "record": "13 losses, {tony5469} in 2024",
+   "holder": "tony5469",
+   "holder_season": 2024,
+   "value": 13,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "Jbird531",
+     "text": "At 8 with 5 to play. Lose out to tie it.",
+     "now": 8,
+     "heat": 0.05,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "fewest_wins",
+   "group": "season",
+   "title": "Fewest wins in a season",
+   "record": "1 wins, {tony5469} in 2024",
+   "holder": "tony5469",
+   "holder_season": 2024,
+   "value": 1,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "Jbird531",
+     "text": "At 1 with 5 to play. Stays there the rest of the way to tie it.",
+     "now": 1,
+     "heat": 0.1,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "fewest_losses",
+   "group": "season",
+   "title": "Fewest losses in a season",
+   "record": "2 losses, {butterygoop} in 2025",
+   "holder": "butterygoop",
+   "holder_season": 2025,
+   "value": 2,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "butterygoop",
+     "text": "At 0 with 5 to play. 1 more at most to finish under the record, 2 to tie.",
+     "now": 0,
+     "heat": 0.3,
+     "broke": false
+    },
+    {
+     "h": "Colt45Johnson",
+     "text": "At 1 with 5 to play. One more only ties it; none sets the record.",
+     "now": 1,
+     "heat": 0.3,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "points",
+   "group": "season",
+   "title": "Most points in a season",
+   "record": "2,326.98 points, {butterygoop} in 2025",
+   "holder": "butterygoop",
+   "holder_season": 2025,
+   "value": 2326.98,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "butterygoop",
+     "text": "1,591.86 so far, 176.9 a game. Needs 147 a game over the last 5.",
+     "now": 1591.86,
+     "heat": 1,
+     "broke": false
+    },
+    {
+     "h": "Colt45Johnson",
+     "text": "1,519.06 so far, 168.8 a game. Needs 161.6 a game over the last 5.",
+     "now": 1519.06,
+     "heat": 1,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "ppg_hi",
+   "group": "season",
+   "title": "Highest scoring average in a season",
+   "record": "166.21 a game, {butterygoop} in 2025",
+   "holder": "butterygoop",
+   "holder_season": 2025,
+   "value": 166.21,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "butterygoop",
+     "text": "176.87 a game now. Needs 147 a game the rest of the way to finish above it.",
+     "now": 176.87,
+     "heat": 1,
+     "broke": false
+    },
+    {
+     "h": "Colt45Johnson",
+     "text": "168.78 a game now. Needs 161.6 a game the rest of the way to finish above it.",
+     "now": 168.78,
+     "heat": 1,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "ppg_lo",
+   "group": "season",
+   "title": "Lowest scoring average in a season",
+   "record": "93.93 a game, {LowFatSnack} in 2025",
+   "holder": "LowFatSnack",
+   "holder_season": 2025,
+   "value": 93.93,
+   "note": null,
+   "status": "safe",
+   "chasers": []
+  },
+  {
+   "id": "pa_hi",
+   "group": "season",
+   "title": "Most points against per game",
+   "record": "144.98 a game, {jake188} in 2025",
+   "holder": "jake188",
+   "holder_season": 2025,
+   "value": 144.98,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "triccster",
+     "text": "141.12 a game now. Needs 151.9 a game the rest of the way to finish above it.",
+     "now": 141.12,
+     "heat": 0.929,
+     "broke": false
+    },
+    {
+     "h": "TuanonStan",
+     "text": "139.41 a game now. Needs 155 a game the rest of the way to finish above it.",
+     "now": 139.41,
+     "heat": 0.9,
+     "broke": false
+    },
+    {
+     "h": "Jbird531",
+     "text": "138.26 a game now. Needs 157.1 a game the rest of the way to finish above it.",
+     "now": 138.26,
+     "heat": 0.88,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "pa_lo",
+   "group": "season",
+   "title": "Fewest points against per game",
+   "record": "120.16 a game, {JMiiTcHH6511} in 2022",
+   "holder": "JMiiTcHH6511",
+   "holder_season": 2022,
+   "value": 120.16,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "butterygoop",
+     "text": "112.8 a game now. Finishes under it by averaging less than 133.4 the rest of the way.",
+     "now": 112.8,
+     "heat": 1,
+     "broke": false
+    },
+    {
+     "h": "Colt45Johnson",
+     "text": "125.62 a game now. Finishes under it by averaging less than 110.3 the rest of the way.",
+     "now": 125.62,
+     "heat": 0.878,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "weekly_highs",
+   "group": "season",
+   "title": "Most weekly high scores in a season",
+   "record": "5 weeks on top, {DMsourbeer} in 2022 (and 1 more)",
+   "holder": "DMsourbeer",
+   "holder_season": 2022,
+   "value": 5,
+   "note": null,
+   "status": "live",
+   "chasers": [
+    {
+     "h": "butterygoop",
+     "text": "At 5 with 5 to play. 1 more breaks it, 0 ties it.",
+     "now": 5,
+     "heat": 0.833,
+     "broke": false
+    },
+    {
+     "h": "Colt45Johnson",
+     "text": "At 3 with 5 to play. 3 more breaks it, 2 ties it.",
+     "now": 3,
+     "heat": 0.5,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "streak_W",
+   "group": "streak",
+   "title": "Longest winning streak",
+   "record": "10 straight, {Wallner}, 2023 week 9 to 2024 week 4",
+   "holder": "Wallner",
+   "holder_season": 2024,
+   "value": 10,
+   "note": null,
+   "status": "broken",
+   "chasers": [
+    {
+     "h": "butterygoop",
+     "text": "15 straight and still going, a new record.",
+     "now": 15,
+     "heat": 1,
+     "broke": true
+    },
+    {
+     "h": "Colt45Johnson",
+     "text": "7 straight. 4 more breaks it, 3 ties it.",
+     "now": 7,
+     "heat": 0.7,
+     "broke": false
+    }
+   ]
+  },
+  {
+   "id": "streak_L",
+   "group": "streak",
+   "title": "Longest losing streak",
+   "record": "11 straight, {jake188}, 2022 week 3 to 2022 week 13",
+   "holder": "jake188",
+   "holder_season": 2022,
+   "value": 11,
+   "note": null,
+   "status": "safe",
+   "chasers": []
+  }
+ ],
+ "fresh": [
+  {
+   "title": "Lowest score",
+   "rank": 2,
+   "h": "brettmn13",
+   "week": 9,
+   "value": 49.28,
+   "text": "{brettmn13} scored 49.28 in week 9, 2nd on the all-time list."
+  },
+  {
+   "title": "Closest game",
+   "rank": 2,
+   "h": "YoungBuck04",
+   "week": 4,
+   "value": 0.46,
+   "text": "{YoungBuck04} beat {BROCKSTARxD} by 0.46 in week 4, 2nd on the all-time list."
+  },
+  {
+   "title": "Most points in a loss",
+   "rank": 3,
+   "h": "Colt45Johnson",
+   "week": 2,
+   "value": 173.44,
+   "text": "{Colt45Johnson} scored 173.44 and lost to {DMsourbeer} in week 2, 3rd on the all-time list."
+  }
+ ],
+ "milestones": [
+  {
+   "h": "BROCKSTARxD",
+   "stat": "losses",
+   "label": "career losses",
+   "value": 30,
+   "rank": 5,
+   "of": 16,
+   "mark": 25,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 3,
+    "opp": "Thnu",
+    "pts": 129.36,
+    "opts": 132.56
+   },
+   "text": "{BROCKSTARxD} reached 25 career losses in week 3 against {Thnu}. 5th on the all-time list."
+  },
+  {
+   "h": "DMsourbeer",
+   "stat": "losses",
+   "label": "career losses",
+   "value": 27,
+   "rank": 9,
+   "of": 16,
+   "mark": 25,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 5,
+    "opp": "brettmn13",
+    "pts": 102.26,
+    "opts": 110.32
+   },
+   "text": "{DMsourbeer} reached 25 career losses in week 5 against {brettmn13}. 9th on the all-time list."
+  },
+  {
+   "h": "butterygoop",
+   "stat": "points",
+   "label": "career points",
+   "value": 10063.14,
+   "rank": 1,
+   "of": 16,
+   "mark": 10000,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 9,
+    "opp": "Thnu",
+    "pts": 182.42,
+    "opts": 98.4
+   },
+   "text": "{butterygoop} reached 10,000 career points in week 9 against {Thnu}. 1st on the all-time list."
+  },
+  {
+   "h": "TuanonStan",
+   "stat": "points",
+   "label": "career points",
+   "value": 8751.7,
+   "rank": 4,
+   "of": 16,
+   "mark": 7500,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 1,
+    "opp": "butterygoop",
+    "pts": 129.22,
+    "opts": 194.06
+   },
+   "text": "{TuanonStan} reached 7,500 career points in week 1 against {butterygoop}. 4th on the all-time list."
+  },
+  {
+   "h": "Wallner",
+   "stat": "points",
+   "label": "career points",
+   "value": 8619.5,
+   "rank": 6,
+   "of": 16,
+   "mark": 7500,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 1,
+    "opp": "triccster",
+    "pts": 149.7,
+    "opts": 134.34
+   },
+   "text": "{Wallner} reached 7,500 career points in week 1 against {triccster}. 6th on the all-time list."
+  },
+  {
+   "h": "brettmn13",
+   "stat": "points",
+   "label": "career points",
+   "value": 8215.72,
+   "rank": 7,
+   "of": 16,
+   "mark": 7500,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 3,
+    "opp": "butterygoop",
+    "pts": 117.46,
+    "opts": 175.24
+   },
+   "text": "{brettmn13} reached 7,500 career points in week 3 against {butterygoop}. 7th on the all-time list."
+  },
+  {
+   "h": "Jbird531",
+   "stat": "points",
+   "label": "career points",
+   "value": 8191.94,
+   "rank": 8,
+   "of": 16,
+   "mark": 7500,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 3,
+    "opp": "Colt45Johnson",
+    "pts": 101.52,
+    "opts": 187.08
+   },
+   "text": "{Jbird531} reached 7,500 career points in week 3 against {Colt45Johnson}. 8th on the all-time list."
+  },
+  {
+   "h": "triccster",
+   "stat": "points",
+   "label": "career points",
+   "value": 2818.48,
+   "rank": 13,
+   "of": 16,
+   "mark": 2500,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 7,
+    "opp": "BROCKSTARxD",
+    "pts": 149.94,
+    "opts": 116.68
+   },
+   "text": "{triccster} reached 2,500 career points in week 7 against {BROCKSTARxD}. 13th on the all-time list."
+  },
+  {
+   "h": "Jbird531",
+   "stat": "wins",
+   "label": "career wins",
+   "value": 23,
+   "rank": 9,
+   "of": 16,
+   "mark": 25,
+   "reached": false,
+   "away": 2,
+   "text": "{Jbird531} is 2 away from 25 career wins, with 5 weeks left.",
+   "detail": {
+    "by_season": [
+     [
+      2022,
+      6
+     ],
+     [
+      2023,
+      7
+     ],
+     [
+      2024,
+      5
+     ],
+     [
+      2025,
+      4
+     ],
+     [
+      2026,
+      1
+     ]
+    ],
+    "beaten_most": [
+     [
+      "LowFatSnack",
+      4
+     ],
+     [
+      "JMiiTcHH6511",
+      4
+     ],
+     [
+      "tony5469",
+      3
+     ]
+    ],
+    "biggest": {
+     "season": 2024,
+     "week": 5,
+     "opp": "tony5469",
+     "pts": 146.92,
+     "opts": 78.8,
+     "margin": 68.12
+    },
+    "closest": {
+     "season": 2022,
+     "week": 11,
+     "opp": "jake188",
+     "pts": 145.46,
+     "opts": 139.4,
+     "margin": 6.06
+    },
+    "longest_streak": 4
+   }
+  },
+  {
+   "h": "Colt45Johnson",
+   "stat": "losses",
+   "label": "career losses",
+   "value": 23,
+   "rank": 11,
+   "of": 16,
+   "mark": 25,
+   "reached": false,
+   "away": 2,
+   "text": "{Colt45Johnson} is 2 away from 25 career losses, with 5 weeks left."
+  },
+  {
+   "h": "butterygoop",
+   "stat": "wins",
+   "label": "career wins",
+   "value": 45,
+   "rank": 1,
+   "of": 16,
+   "mark": 50,
+   "reached": false,
+   "away": 5,
+   "text": "{butterygoop} is 5 away from 50 career wins, with 5 weeks left.",
+   "detail": {
+    "by_season": [
+     [
+      2022,
+      5
+     ],
+     [
+      2023,
+      11
+     ],
+     [
+      2024,
+      8
+     ],
+     [
+      2025,
+      12
+     ],
+     [
+      2026,
+      9
+     ]
+    ],
+    "beaten_most": [
+     [
+      "TuanonStan",
+      6
+     ],
+     [
+      "BROCKSTARxD",
+      5
+     ],
+     [
+      "jake188",
+      5
+     ]
+    ],
+    "biggest": {
+     "season": 2025,
+     "week": 9,
+     "opp": "LowFatSnack",
+     "pts": 159.38,
+     "opts": 43.9,
+     "margin": 115.48
+    },
+    "closest": {
+     "season": 2022,
+     "week": 6,
+     "opp": "BROCKSTARxD",
+     "pts": 153.36,
+     "opts": 152.82,
+     "margin": 0.54
+    },
+    "longest_streak": 15
+   }
+  },
+  {
+   "h": "butterygoop",
+   "stat": "losses",
+   "label": "career losses",
+   "value": 20,
+   "rank": 12,
+   "of": 16,
+   "mark": 25,
+   "reached": false,
+   "away": 5,
+   "text": "{butterygoop} is 5 away from 25 career losses, with 5 weeks left."
+  },
+  {
+   "h": "Colt45Johnson",
+   "stat": "points",
+   "label": "career points",
+   "value": 9152.94,
+   "rank": 3,
+   "of": 16,
+   "mark": 10000,
+   "reached": false,
+   "away": 847.06,
+   "text": "{Colt45Johnson} is 847.1 away from 10,000 career points, with 5 weeks left."
+  }
+ ],
+ "passing": [
+  {
+   "h": "Wallner",
+   "over": "BROCKSTARxD",
+   "stat": "wins",
+   "rank": 4,
+   "done": true,
+   "text": "{Wallner} passed {BROCKSTARxD} this season and is 4th in career wins (36)."
+  },
+  {
+   "h": "Wallner",
+   "over": "DMsourbeer",
+   "stat": "wins",
+   "rank": 3,
+   "done": false,
+   "gap": 2,
+   "text": "{Wallner} (36) is 2 behind {DMsourbeer} for 3rd in career wins. Both are still playing."
+  },
+  {
+   "h": "TuanonStan",
+   "over": "BROCKSTARxD",
+   "stat": "wins",
+   "rank": 5,
+   "done": true,
+   "text": "{TuanonStan} passed {BROCKSTARxD} this season and is 5th in career wins (36)."
+  },
+  {
+   "h": "TuanonStan",
+   "over": "Wallner",
+   "stat": "wins",
+   "rank": 4,
+   "done": false,
+   "gap": 0,
+   "text": "{TuanonStan} (36) is tied with {Wallner} for 4th in career wins. Both are still playing."
+  },
+  {
+   "h": "BROCKSTARxD",
+   "over": "TuanonStan",
+   "stat": "wins",
+   "rank": 5,
+   "done": false,
+   "gap": 1,
+   "text": "{BROCKSTARxD} (35) is 1 behind {TuanonStan} for 5th in career wins. Both are still playing."
+  },
+  {
+   "h": "Jbird531",
+   "over": "JMiiTcHH6511",
+   "stat": "wins",
+   "rank": 8,
+   "done": false,
+   "gap": 4,
+   "text": "{Jbird531} (23) is 4 behind {JMiiTcHH6511} for 8th in career wins."
+  },
+  {
+   "h": "Jbird531",
+   "over": "jake188",
+   "stat": "losses",
+   "rank": 1,
+   "done": true,
+   "text": "{Jbird531} passed {jake188} this season and is 1st in career losses (42)."
+  },
+  {
+   "h": "Jbird531",
+   "over": "LowFatSnack",
+   "stat": "losses",
+   "rank": 1,
+   "done": true,
+   "text": "{Jbird531} passed {LowFatSnack} this season and is 1st in career losses (42)."
+  },
+  {
+   "h": "brettmn13",
+   "over": "JMiiTcHH6511",
+   "stat": "losses",
+   "rank": 4,
+   "done": true,
+   "text": "{brettmn13} passed {JMiiTcHH6511} this season and is 4th in career losses (33)."
+  },
+  {
+   "h": "brettmn13",
+   "over": "LowFatSnack",
+   "stat": "losses",
+   "rank": 3,
+   "done": false,
+   "gap": 2,
+   "text": "{brettmn13} (33) is 2 behind {LowFatSnack} for 3rd in career losses."
+  },
+  {
+   "h": "BROCKSTARxD",
+   "over": "Wallner",
+   "stat": "losses",
+   "rank": 5,
+   "done": true,
+   "text": "{BROCKSTARxD} passed {Wallner} this season and is 5th in career losses (30)."
+  },
+  {
+   "h": "BROCKSTARxD",
+   "over": "TuanonStan",
+   "stat": "losses",
+   "rank": 5,
+   "done": true,
+   "text": "{BROCKSTARxD} passed {TuanonStan} this season and is 5th in career losses (30)."
+  },
+  {
+   "h": "BROCKSTARxD",
+   "over": "JMiiTcHH6511",
+   "stat": "losses",
+   "rank": 5,
+   "done": true,
+   "text": "{BROCKSTARxD} passed {JMiiTcHH6511} this season and is 5th in career losses (30)."
+  },
+  {
+   "h": "DMsourbeer",
+   "over": "tony5469",
+   "stat": "losses",
+   "rank": 9,
+   "done": true,
+   "text": "{DMsourbeer} passed {tony5469} this season and is 9th in career losses (27)."
+  },
+  {
+   "h": "DMsourbeer",
+   "over": "JMiiTcHH6511",
+   "stat": "losses",
+   "rank": 8,
+   "done": false,
+   "gap": 2,
+   "text": "{DMsourbeer} (27) is 2 behind {JMiiTcHH6511} for 8th in career losses."
+  },
+  {
+   "h": "Colt45Johnson",
+   "over": "tony5469",
+   "stat": "losses",
+   "rank": 10,
+   "done": false,
+   "gap": 0,
+   "text": "{Colt45Johnson} (23) is tied with {tony5469} for 10th in career losses."
+  },
+  {
+   "h": "Colt45Johnson",
+   "over": "DMsourbeer",
+   "stat": "points",
+   "rank": 2,
+   "done": false,
+   "gap": 10.4,
+   "text": "{Colt45Johnson} (9,152.94) is 10.4 behind {DMsourbeer} for 2nd in career points. Both are still playing."
+  },
+  {
+   "h": "TuanonStan",
+   "over": "BROCKSTARxD",
+   "stat": "points",
+   "rank": 4,
+   "done": true,
+   "text": "{TuanonStan} passed {BROCKSTARxD} this season and is 4th in career points (8,751.7)."
+  },
+  {
+   "h": "Wallner",
+   "over": "BROCKSTARxD",
+   "stat": "points",
+   "rank": 5,
+   "done": false,
+   "gap": 60.72,
+   "text": "{Wallner} (8,619.5) is 60.7 behind {BROCKSTARxD} for 5th in career points. Both are still playing."
+  },
+  {
+   "h": "brettmn13",
+   "over": "Jbird531",
+   "stat": "points",
+   "rank": 7,
+   "done": true,
+   "text": "{brettmn13} passed {Jbird531} this season and is 7th in career points (8,215.72)."
+  }
+ ],
+ "lines": [
+  {
+   "k": "broken",
+   "h": "butterygoop",
+   "holder": "Wallner",
+   "title": "Longest winning streak",
+   "text": "{butterygoop}: 15 straight and still going, a new record. The old mark was 10 straight, {Wallner}, 2023 week 9 to 2024 week 4."
+  },
+  {
+   "k": "milestone",
+   "h": "butterygoop",
+   "title": "10,000 career points",
+   "text": "{butterygoop} reached 10,000 career points in week 9 against {Thnu}. 1st on the all-time list.",
+   "week": 9
+  },
+  {
+   "k": "milestone",
+   "h": "Jbird531",
+   "title": "25 career wins",
+   "text": "{Jbird531} is 2 away from 25 career wins, with 5 weeks left."
+  },
+  {
+   "k": "milestone",
+   "h": "butterygoop",
+   "title": "50 career wins",
+   "text": "{butterygoop} is 5 away from 50 career wins, with 5 weeks left."
+  },
+  {
+   "k": "milestone",
+   "h": "Colt45Johnson",
+   "title": "10,000 career points",
+   "text": "{Colt45Johnson} is 847.1 away from 10,000 career points, with 5 weeks left."
+  },
+  {
+   "k": "streak",
+   "h": "Colt45Johnson",
+   "holder": "Wallner",
+   "title": "Longest winning streak",
+   "text": "{Colt45Johnson}: 7 straight. 4 more breaks it, 3 ties it. The record is 10 straight, {Wallner}, 2023 week 9 to 2024 week 4."
+  },
+  {
+   "k": "pass",
+   "h": "Wallner",
+   "title": "Career wins",
+   "text": "{Wallner} (36) is 2 behind {DMsourbeer} for 3rd in career wins. Both are still playing."
+  },
+  {
+   "k": "pass",
+   "h": "TuanonStan",
+   "title": "Career wins",
+   "text": "{TuanonStan} (36) is tied with {Wallner} for 4th in career wins. Both are still playing."
+  },
+  {
+   "k": "pass",
+   "h": "BROCKSTARxD",
+   "title": "Career wins",
+   "text": "{BROCKSTARxD} (35) is 1 behind {TuanonStan} for 5th in career wins. Both are still playing."
+  },
+  {
+   "k": "pass",
+   "h": "Colt45Johnson",
+   "title": "Career points",
+   "text": "{Colt45Johnson} (9,152.94) is 10.4 behind {DMsourbeer} for 2nd in career points. Both are still playing."
+  },
+  {
+   "k": "pass",
+   "h": "Wallner",
+   "title": "Career points",
+   "text": "{Wallner} (8,619.5) is 60.7 behind {BROCKSTARxD} for 5th in career points. Both are still playing."
+  },
+  {
+   "k": "chase",
+   "h": "butterygoop",
+   "holder": "butterygoop",
+   "title": "Most points in a season",
+   "text": "{butterygoop}: 1,591.86 so far, 176.9 a game. Needs 147 a game over the last 5. The record is 2,326.98 points, {butterygoop} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "Colt45Johnson",
+   "holder": "butterygoop",
+   "title": "Most points in a season",
+   "text": "{Colt45Johnson}: 1,519.06 so far, 168.8 a game. Needs 161.6 a game over the last 5. The record is 2,326.98 points, {butterygoop} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "butterygoop",
+   "holder": "butterygoop",
+   "title": "Highest scoring average in a season",
+   "text": "{butterygoop}: 176.87 a game now. Needs 147 a game the rest of the way to finish above it. The record is 166.21 a game, {butterygoop} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "Colt45Johnson",
+   "holder": "butterygoop",
+   "title": "Highest scoring average in a season",
+   "text": "{Colt45Johnson}: 168.78 a game now. Needs 161.6 a game the rest of the way to finish above it. The record is 166.21 a game, {butterygoop} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "butterygoop",
+   "holder": "JMiiTcHH6511",
+   "title": "Fewest points against per game",
+   "text": "{butterygoop}: 112.8 a game now. Finishes under it by averaging less than 133.4 the rest of the way. The record is 120.16 a game, {JMiiTcHH6511} in 2022."
+  },
+  {
+   "k": "chase",
+   "h": "triccster",
+   "holder": "jake188",
+   "title": "Most points against per game",
+   "text": "{triccster}: 141.12 a game now. Needs 151.9 a game the rest of the way to finish above it. The record is 144.98 a game, {jake188} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "TuanonStan",
+   "holder": "jake188",
+   "title": "Most points against per game",
+   "text": "{TuanonStan}: 139.41 a game now. Needs 155 a game the rest of the way to finish above it. The record is 144.98 a game, {jake188} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "Jbird531",
+   "holder": "jake188",
+   "title": "Most points against per game",
+   "text": "{Jbird531}: 138.26 a game now. Needs 157.1 a game the rest of the way to finish above it. The record is 144.98 a game, {jake188} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "Colt45Johnson",
+   "holder": "JMiiTcHH6511",
+   "title": "Fewest points against per game",
+   "text": "{Colt45Johnson}: 125.62 a game now. Finishes under it by averaging less than 110.3 the rest of the way. The record is 120.16 a game, {JMiiTcHH6511} in 2022."
+  },
+  {
+   "k": "chase",
+   "h": "butterygoop",
+   "holder": "DMsourbeer",
+   "title": "Most weekly high scores in a season",
+   "text": "{butterygoop}: At 5 with 5 to play. 1 more breaks it, 0 ties it. The record is 5 weeks on top, {DMsourbeer} in 2022 (and 1 more)."
+  },
+  {
+   "k": "chase",
+   "h": "Colt45Johnson",
+   "holder": "DMsourbeer",
+   "title": "Most weekly high scores in a season",
+   "text": "{Colt45Johnson}: At 3 with 5 to play. 3 more breaks it, 2 ties it. The record is 5 weeks on top, {DMsourbeer} in 2022 (and 1 more)."
+  },
+  {
+   "k": "chase",
+   "h": "butterygoop",
+   "holder": "butterygoop",
+   "title": "Most wins in a season",
+   "text": "{butterygoop}: At 9 with 5 to play. 4 more breaks it, 3 ties it. The record is 12 wins, {butterygoop} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "butterygoop",
+   "holder": "butterygoop",
+   "title": "Fewest losses in a season",
+   "text": "{butterygoop}: At 0 with 5 to play. 1 more at most to finish under the record, 2 to tie. The record is 2 losses, {butterygoop} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "Colt45Johnson",
+   "holder": "butterygoop",
+   "title": "Fewest losses in a season",
+   "text": "{Colt45Johnson}: At 1 with 5 to play. One more only ties it; none sets the record. The record is 2 losses, {butterygoop} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "Colt45Johnson",
+   "holder": "butterygoop",
+   "title": "Most wins in a season",
+   "text": "{Colt45Johnson}: At 8 with 5 to play. 5 more breaks it, 4 ties it. The record is 12 wins, {butterygoop} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "Jbird531",
+   "holder": "tony5469",
+   "title": "Fewest wins in a season",
+   "text": "{Jbird531}: At 1 with 5 to play. Stays there the rest of the way to tie it. The record is 1 wins, {tony5469} in 2024."
+  },
+  {
+   "k": "chase",
+   "h": "Jbird531",
+   "holder": "tony5469",
+   "title": "Most losses in a season",
+   "text": "{Jbird531}: At 8 with 5 to play. Lose out to tie it. The record is 13 losses, {tony5469} in 2024."
+  },
+  {
+   "k": "milestone",
+   "h": "BROCKSTARxD",
+   "title": "25 career losses",
+   "text": "{BROCKSTARxD} reached 25 career losses in week 3 against {Thnu}. 5th on the all-time list."
+  },
+  {
+   "k": "milestone",
+   "h": "DMsourbeer",
+   "title": "25 career losses",
+   "text": "{DMsourbeer} reached 25 career losses in week 5 against {brettmn13}. 9th on the all-time list."
+  },
+  {
+   "k": "milestone",
+   "h": "TuanonStan",
+   "title": "7,500 career points",
+   "text": "{TuanonStan} reached 7,500 career points in week 1 against {butterygoop}. 4th on the all-time list."
+  },
+  {
+   "k": "milestone",
+   "h": "Wallner",
+   "title": "7,500 career points",
+   "text": "{Wallner} reached 7,500 career points in week 1 against {triccster}. 6th on the all-time list."
+  },
+  {
+   "k": "milestone",
+   "h": "brettmn13",
+   "title": "7,500 career points",
+   "text": "{brettmn13} reached 7,500 career points in week 3 against {butterygoop}. 7th on the all-time list."
+  },
+  {
+   "k": "milestone",
+   "h": "Jbird531",
+   "title": "7,500 career points",
+   "text": "{Jbird531} reached 7,500 career points in week 3 against {Colt45Johnson}. 8th on the all-time list."
+  },
+  {
+   "k": "milestone",
+   "h": "triccster",
+   "title": "2,500 career points",
+   "text": "{triccster} reached 2,500 career points in week 7 against {BROCKSTARxD}. 13th on the all-time list."
+  },
+  {
+   "k": "fresh",
+   "h": "brettmn13",
+   "title": "Lowest score",
+   "text": "{brettmn13} scored 49.28 in week 9, 2nd on the all-time list.",
+   "week": 9
+  },
+  {
+   "k": "fresh",
+   "h": "YoungBuck04",
+   "title": "Closest game",
+   "text": "{YoungBuck04} beat {BROCKSTARxD} by 0.46 in week 4, 2nd on the all-time list.",
+   "week": 4
+  },
+  {
+   "k": "fresh",
+   "h": "Colt45Johnson",
+   "title": "Most points in a loss",
+   "text": "{Colt45Johnson} scored 173.44 and lost to {DMsourbeer} in week 2, 3rd on the all-time list.",
+   "week": 2
+  },
+  {
+   "k": "pass",
+   "h": "Wallner",
+   "title": "Career wins",
+   "text": "{Wallner} passed {BROCKSTARxD} this season and is 4th in career wins (36)."
+  },
+  {
+   "k": "pass",
+   "h": "TuanonStan",
+   "title": "Career wins",
+   "text": "{TuanonStan} passed {BROCKSTARxD} this season and is 5th in career wins (36)."
+  },
+  {
+   "k": "pass",
+   "h": "Jbird531",
+   "title": "Career losses",
+   "text": "{Jbird531} passed {jake188} this season and is 1st in career losses (42)."
+  },
+  {
+   "k": "pass",
+   "h": "Jbird531",
+   "title": "Career losses",
+   "text": "{Jbird531} passed {LowFatSnack} this season and is 1st in career losses (42)."
+  },
+  {
+   "k": "pass",
+   "h": "brettmn13",
+   "title": "Career losses",
+   "text": "{brettmn13} passed {JMiiTcHH6511} this season and is 4th in career losses (33)."
+  },
+  {
+   "k": "pass",
+   "h": "BROCKSTARxD",
+   "title": "Career losses",
+   "text": "{BROCKSTARxD} passed {Wallner} this season and is 5th in career losses (30)."
+  },
+  {
+   "k": "pass",
+   "h": "BROCKSTARxD",
+   "title": "Career losses",
+   "text": "{BROCKSTARxD} passed {TuanonStan} this season and is 5th in career losses (30)."
+  },
+  {
+   "k": "pass",
+   "h": "BROCKSTARxD",
+   "title": "Career losses",
+   "text": "{BROCKSTARxD} passed {JMiiTcHH6511} this season and is 5th in career losses (30)."
+  },
+  {
+   "k": "pass",
+   "h": "DMsourbeer",
+   "title": "Career losses",
+   "text": "{DMsourbeer} passed {tony5469} this season and is 9th in career losses (27)."
+  },
+  {
+   "k": "pass",
+   "h": "TuanonStan",
+   "title": "Career points",
+   "text": "{TuanonStan} passed {BROCKSTARxD} this season and is 4th in career points (8,751.7)."
+  },
+  {
+   "k": "pass",
+   "h": "brettmn13",
+   "title": "Career points",
+   "text": "{brettmn13} passed {Jbird531} this season and is 7th in career points (8,215.72)."
+  }
+ ],
+ "snap": {
+  "2026-w09": [
+   {
+    "k": "broken",
+    "h": "butterygoop",
+    "holder": "Wallner",
+    "title": "Longest winning streak",
+    "text": "{butterygoop}: 15 straight and still going, a new record. The old mark was 10 straight, {Wallner}, 2023 week 9 to 2024 week 4."
+   },
+   {
+    "k": "milestone",
+    "h": "butterygoop",
+    "title": "10,000 career points",
+    "text": "{butterygoop} reached 10,000 career points in week 9 against {Thnu}. 1st on the all-time list.",
+    "week": 9
+   },
+   {
+    "k": "milestone",
+    "h": "Jbird531",
+    "title": "25 career wins",
+    "text": "{Jbird531} is 2 away from 25 career wins, with 5 weeks left."
+   },
+   {
+    "k": "milestone",
+    "h": "butterygoop",
+    "title": "50 career wins",
+    "text": "{butterygoop} is 5 away from 50 career wins, with 5 weeks left."
+   },
+   {
+    "k": "milestone",
+    "h": "Colt45Johnson",
+    "title": "10,000 career points",
+    "text": "{Colt45Johnson} is 847.1 away from 10,000 career points, with 5 weeks left."
+   },
+   {
+    "k": "streak",
+    "h": "Colt45Johnson",
+    "holder": "Wallner",
+    "title": "Longest winning streak",
+    "text": "{Colt45Johnson}: 7 straight. 4 more breaks it, 3 ties it. The record is 10 straight, {Wallner}, 2023 week 9 to 2024 week 4."
+   }
+  ]
+ }
+}

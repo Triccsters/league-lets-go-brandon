@@ -2,5 +2,11 @@
  "league_id": "1314750840476557312",
  "season": 2026,
  "history": "sleeper",
- "names": "handles"
+ "names": "handles",
+ "hof": {
+  "peak": 3,
+  "rings": 2,
+  "champ_al": 2,
+  "best": 2
+ }
 }

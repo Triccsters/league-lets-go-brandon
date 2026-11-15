@@ -1,7 +1,7 @@
 <script>
     import { onMount } from 'svelte';
     import data from '$lib/data/dynasty.json';
-    import { nameOf } from '$lib/utils/flpHistory';
+    import { nameOf, managerLink } from '$lib/utils/flpHistory';
     import { myTeam } from '$lib/utils/myTeam';
     import YourTeamBadge from '$lib/MyTeam/YourTeamBadge.svelte';
 
@@ -59,6 +59,7 @@
                     </tr>
                     {#if open === t.h}
                         <tr class="detail"><td colspan="9">
+                            <p class="seealso">More on {nameOf(t.h)}: <a href="/lineup-heat">Lineup Heat Map</a> · <a href="/draft-grades">Draft Grades</a> · <a href="/trade-grades?who={t.h}">Trades</a>{#if managerLink(t.h)}{' '}· <a href={managerLink(t.h)}>Manager page</a>{/if}</p>
                             <div class="cols">
                                 <div><h3>Top of the roster</h3>{#each t.top as p}<div class="row"><span>{p.n}</span><b class="picks">{p.pos}, {p.age}</b></div>{/each}</div>
                                 <div><h3>Worth more right now</h3>{#each t.now_assets as p}<div class="row"><span>{p.n}</span><b class="picks">{p.pos}, {p.age}</b></div>{:else}<p class="none">Nobody stands out.</p>{/each}
@@ -112,4 +113,6 @@
     .row b { font-variant-numeric: tabular-nums; text-align: right; }
     .row b.picks { font-weight: 400; }
     .none { opacity: 0.6; font-size: 0.88em; margin: 0.2em 0; }
+    .seealso { margin: 0 0 0.6em; font-size: 0.9em; }
+    .seealso a { font-weight: 600; }
 </style>

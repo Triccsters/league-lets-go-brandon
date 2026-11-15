@@ -1,7 +1,7 @@
 {
- "read_at": "2026-11-15T13:49+00:00",
+ "read_at": "2026-11-15T16:59+00:00",
  "days": 7,
- "count": 134,
+ "count": 130,
  "items": [
   {
    "headline": "Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite",
@@ -309,6 +309,120 @@
    "score": 18.0
   },
   {
+   "headline": "Minter: Lamar Jackson 'doing everything' to return; QB had surgery, sources say",
+   "url": "https://www.espn.com/nfl/story/_/id/50472222/ravens-lamar-jackson-injury-typical-line-6-10-weeks",
+   "date": "2026-11-14",
+   "kind": "news",
+   "teams": [
+    "BAL",
+    "BUF",
+    "CLE",
+    "LAC"
+   ],
+   "named": [
+    {
+     "n": "Lamar Jackson",
+     "p": "QB",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Jacoby Brissett",
+     "p": "QB",
+     "t": "BAL",
+     "h": "YoungBuck04"
+    }
+   ],
+   "lead": [
+    "Lamar Jackson"
+   ],
+   "ripple": [
+    {
+     "n": "Mark Andrews",
+     "p": "TE",
+     "t": "BAL",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Rashod Bateman",
+     "p": "WR",
+     "t": "BAL",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Matt Hibner",
+     "p": "TE",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Joe Fagnano",
+     "p": "QB",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Tyler Huntley",
+     "p": "QB",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Adam Randall",
+     "p": "RB",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Zay Flowers",
+     "p": "WR",
+     "t": "BAL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Justice Hill",
+     "p": "RB",
+     "t": "BAL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Ja'Kobi Lane",
+     "p": "WR",
+     "t": "BAL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Elijah Sarratt",
+     "p": "WR",
+     "t": "BAL",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Devontez Walker",
+     "p": "WR",
+     "t": "BAL",
+     "h": "Thnu"
+    },
+    {
+     "n": "Derrick Henry",
+     "p": "RB",
+     "t": "BAL",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "DMsourbeer",
+    "HillBillyWorm",
+    "Thnu",
+    "Wallner",
+    "YoungBuck04",
+    "brettmn13",
+    "butterygoop",
+    "triccster"
+   ],
+   "score": 17.0
+  },
+  {
    "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
    "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
    "date": "2026-11-11",
@@ -480,120 +594,6 @@
     "YoungBuck04",
     "brettmn13",
     "butterygoop"
-   ],
-   "score": 18.0
-  },
-  {
-   "headline": "Minter: Lamar Jackson 'doing everything' to return; QB had surgery, sources say",
-   "url": "https://www.espn.com/nfl/story/_/id/50472222/ravens-lamar-jackson-injury-typical-line-6-10-weeks",
-   "date": "2026-11-14",
-   "kind": "news",
-   "teams": [
-    "BAL",
-    "BUF",
-    "CLE",
-    "LAC"
-   ],
-   "named": [
-    {
-     "n": "Lamar Jackson",
-     "p": "QB",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Jacoby Brissett",
-     "p": "QB",
-     "t": "BAL",
-     "h": "YoungBuck04"
-    }
-   ],
-   "lead": [
-    "Lamar Jackson"
-   ],
-   "ripple": [
-    {
-     "n": "Mark Andrews",
-     "p": "TE",
-     "t": "BAL",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Rashod Bateman",
-     "p": "WR",
-     "t": "BAL",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Matt Hibner",
-     "p": "TE",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Joe Fagnano",
-     "p": "QB",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Tyler Huntley",
-     "p": "QB",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Adam Randall",
-     "p": "RB",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Zay Flowers",
-     "p": "WR",
-     "t": "BAL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Justice Hill",
-     "p": "RB",
-     "t": "BAL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Ja'Kobi Lane",
-     "p": "WR",
-     "t": "BAL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Elijah Sarratt",
-     "p": "WR",
-     "t": "BAL",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Devontez Walker",
-     "p": "WR",
-     "t": "BAL",
-     "h": "Thnu"
-    },
-    {
-     "n": "Derrick Henry",
-     "p": "RB",
-     "t": "BAL",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "DMsourbeer",
-    "HillBillyWorm",
-    "Thnu",
-    "Wallner",
-    "YoungBuck04",
-    "brettmn13",
-    "butterygoop",
-    "triccster"
    ],
    "score": 17.0
   },
