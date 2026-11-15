@@ -1,7 +1,7 @@
 {
- "read_at": "2026-11-14T18:48+00:00",
+ "read_at": "2026-11-15T13:49+00:00",
  "days": 7,
- "count": 127,
+ "count": 134,
  "items": [
   {
    "headline": "Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite",
@@ -685,79 +685,6 @@
    "score": 17.0
   },
   {
-   "headline": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
-   "url": "https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes",
-   "date": "2026-11-10",
-   "kind": "news",
-   "teams": [
-    "IND"
-   ],
-   "named": [
-    {
-     "n": "Daniel Jones",
-     "p": "QB",
-     "t": "IND",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jonathan Taylor",
-     "p": "RB",
-     "t": "IND",
-     "h": "Wallner"
-    }
-   ],
-   "lead": [
-    "Daniel Jones",
-    "Jonathan Taylor"
-   ],
-   "ripple": [
-    {
-     "n": "Seth McGowan",
-     "p": "RB",
-     "t": "IND",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Tyler Warren",
-     "p": "TE",
-     "t": "IND",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Alec Pierce",
-     "p": "WR",
-     "t": "IND",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Anthony Richardson Sr.",
-     "p": "QB",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Laquon Treadwell",
-     "p": "WR",
-     "t": "IND",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "DJ Giddens",
-     "p": "RB",
-     "t": "IND",
-     "h": "DMsourbeer"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "Wallner"
-   ],
-   "score": 17.0
-  },
-  {
    "headline": "Seahawks to start QB Drew Lock vs. Raiders, giving Sam Darnold more time to heal",
    "url": "https://www.espn.com/nfl/story/_/id/50434130/seahawks-start-drew-lock-vs-raiders-mike-macdonald-says",
    "date": "2026-11-10",
@@ -857,191 +784,206 @@
    "score": 17.0
   },
   {
-   "headline": "Saints activate WR Jordyn Tyson, LT Kelvin Banks, cut RB Kendre Miller",
-   "url": "https://www.espn.com/nfl/story/_/id/50410541/sources-saints-activate-wr-jordyn-tyson-lt-kelvin-banks",
-   "date": "2026-11-07",
+   "headline": "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "url": "https://www.espn.com/nfl/story/_/id/50481450/panthers-xavier-legette-week-2-activated-ir",
+   "date": "2026-11-15",
    "kind": "news",
    "teams": [
-    "DAL",
-    "NO"
+    "CAR"
    ],
    "named": [
     {
-     "n": "Jordyn Tyson",
+     "n": "Xavier Legette",
      "p": "WR",
-     "t": "NO",
-     "h": "Wallner"
-    },
-    {
-     "n": "Kendre Miller",
-     "p": "RB",
-     "t": "DAL",
-     "h": "YoungBuck04"
+     "t": "CAR",
+     "h": "brettmn13"
     }
    ],
    "lead": [
-    "Jordyn Tyson",
-    "Kendre Miller"
+    "Xavier Legette"
    ],
    "ripple": [
     {
-     "n": "George Pickens",
-     "p": "WR",
-     "t": "DAL",
+     "n": "Trevor Etienne",
+     "p": "RB",
+     "t": "CAR",
      "h": "TuanonStan"
     },
     {
-     "n": "CeeDee Lamb",
+     "n": "Chris Brazzell II",
      "p": "WR",
-     "t": "DAL",
-     "h": "butterygoop"
+     "t": "CAR",
+     "h": "TuanonStan"
     },
     {
-     "n": "Javonte Williams",
-     "p": "RB",
-     "t": "DAL",
-     "h": "butterygoop"
+     "n": "Bryce Young",
+     "p": "QB",
+     "t": "CAR",
+     "h": "brettmn13"
     },
     {
-     "n": "Jake Ferguson",
+     "n": "Darren Waller",
      "p": "TE",
-     "t": "DAL",
+     "t": "CAR",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Ja'Tavion Sanders",
+     "p": "TE",
+     "t": "CAR",
      "h": "DMsourbeer"
     },
     {
-     "n": "Sam Howell",
-     "p": "QB",
-     "t": "DAL",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Dak Prescott",
-     "p": "QB",
-     "t": "DAL",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Tyler Goodson",
-     "p": "RB",
-     "t": "DAL",
-     "h": "Thnu"
-    },
-    {
-     "n": "Malik Davis",
-     "p": "RB",
-     "t": "DAL",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Ryan Flournoy",
+     "n": "Jalen Coker",
      "p": "WR",
-     "t": "DAL",
-     "h": "triccster"
-    },
-    {
-     "n": "Michael Trigg",
-     "p": "TE",
-     "t": "DAL",
-     "h": "triccster"
-    },
-    {
-     "n": "Barion Brown",
-     "p": "WR",
-     "t": "NO",
-     "h": "Jbird531"
-    },
-    {
-     "n": "CJ Donaldson",
-     "p": "RB",
-     "t": "NO",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Devaughn Vele",
-     "p": "WR",
-     "t": "NO",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Oscar Delp",
-     "p": "TE",
-     "t": "NO",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Chris Olave",
-     "p": "WR",
-     "t": "NO",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Travis Etienne Jr.",
-     "p": "RB",
-     "t": "NO",
-     "h": "Wallner"
-    },
-    {
-     "n": "Bryce Lance",
-     "p": "WR",
-     "t": "NO",
-     "h": "Wallner"
-    },
-    {
-     "n": "Spencer Rattler",
-     "p": "QB",
-     "t": "NO",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Juwan Johnson",
-     "p": "TE",
-     "t": "NO",
+     "t": "CAR",
      "h": "HillBillyWorm"
     },
     {
-     "n": "Noah Fant",
-     "p": "TE",
-     "t": "NO",
+     "n": "Tetairoa McMillan",
+     "p": "WR",
+     "t": "CAR",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Chuba Hubbard",
+     "p": "RB",
+     "t": "CAR",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Jonathon Brooks",
+     "p": "RB",
+     "t": "CAR",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "AJ Dillon",
+     "p": "RB",
+     "t": "CAR",
      "h": "Thnu"
     },
     {
-     "n": "Alvin Kamara",
+     "n": "Tommy Tremble",
+     "p": "TE",
+     "t": "CAR",
+     "h": "Thnu"
+    },
+    {
+     "n": "John Metchie III",
+     "p": "WR",
+     "t": "CAR",
+     "h": "Thnu"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "HillBillyWorm",
+    "Thnu",
+    "TuanonStan",
+    "brettmn13",
+    "butterygoop"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Sources: Raiders planned to start Fernando Mendoza soon even if no Cousins trade",
+   "url": "https://www.espn.com/nfl/story/_/id/50485164/sources-raiders-had-fernando-mendoza-plan-even-no-cousins-trade",
+   "date": "2026-11-15",
+   "kind": "news",
+   "teams": [
+    "LV"
+   ],
+   "named": [
+    {
+     "n": "Fernando Mendoza",
+     "p": "QB",
+     "t": "LV",
+     "h": "Jbird531"
+    }
+   ],
+   "lead": [
+    "Fernando Mendoza"
+   ],
+   "ripple": [
+    {
+     "n": "Michael Mayer",
+     "p": "TE",
+     "t": "LV",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Cody White",
+     "p": "WR",
+     "t": "LV",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Dont'e Thornton Jr.",
+     "p": "WR",
+     "t": "LV",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Jack Bech",
+     "p": "WR",
+     "t": "LV",
+     "h": "Wallner"
+    },
+    {
+     "n": "Tre Tucker",
+     "p": "WR",
+     "t": "LV",
+     "h": "Wallner"
+    },
+    {
+     "n": "Mike Washington Jr.",
      "p": "RB",
-     "t": "NO",
+     "t": "LV",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Ashton Jeanty",
+     "p": "RB",
+     "t": "LV",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Brock Bowers",
+     "p": "TE",
+     "t": "LV",
+     "h": "Thnu"
+    },
+    {
+     "n": "Malik Benson",
+     "p": "WR",
+     "t": "LV",
      "h": "YoungBuck04"
     },
     {
-     "n": "Audric Estime",
-     "p": "RB",
-     "t": "NO",
-     "h": "triccster"
-    },
-    {
-     "n": "Tyler Shough",
-     "p": "QB",
-     "t": "NO",
-     "h": "triccster"
+     "n": "Jalen Nailor",
+     "p": "WR",
+     "t": "LV",
+     "h": "YoungBuck04"
     }
    ],
    "managers": [
     "BROCKSTARxD",
     "Colt45Johnson",
     "DMsourbeer",
-    "HillBillyWorm",
     "Jbird531",
     "Thnu",
-    "TuanonStan",
     "Wallner",
     "YoungBuck04",
-    "butterygoop",
-    "triccster"
+    "butterygoop"
    ],
-   "score": 17.0
+   "score": 16.0
   },
   {
-   "headline": "Vikings to start reacquired QB Kirk Cousins vs. Packers",
-   "url": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
-   "date": "2026-11-14",
+   "headline": "Sources: Vikings want to keep Kirk Cousins, talked to QB about staying in 2027",
+   "url": "https://www.espn.com/nfl/story/_/id/50484865/sources-vikings-want-keep-kirk-cousins-2027-season",
+   "date": "2026-11-15",
    "kind": "news",
    "teams": [
     "MIN"
@@ -1143,9 +1085,110 @@
    "score": 16.0
   },
   {
-   "headline": "Chiefs RB Kenneth Walker III (groin) misses practice, status uncertain",
-   "url": "https://www.espn.com/nfl/story/_/id/50473948/chiefs-rb-walker-groin-misses-practice-status-uncertain",
-   "date": "2026-11-13",
+   "headline": "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "url": "https://www.espn.com/nfl/story/_/id/50483113/patriots-place-rb-henderson-ir-unexplained-illness",
+   "date": "2026-11-15",
+   "kind": "news",
+   "teams": [
+    "NE"
+   ],
+   "named": [
+    {
+     "n": "TreVeyon Henderson",
+     "p": "RB",
+     "t": "NE",
+     "h": "Colt45Johnson"
+    }
+   ],
+   "lead": [
+    "TreVeyon Henderson"
+   ],
+   "ripple": [
+    {
+     "n": "Drake Maye",
+     "p": "QB",
+     "t": "NE",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Kyle Williams",
+     "p": "WR",
+     "t": "NE",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Romeo Doubs",
+     "p": "WR",
+     "t": "NE",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Mack Hollins",
+     "p": "WR",
+     "t": "NE",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "A.J. Brown",
+     "p": "WR",
+     "t": "NE",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Rhamondre Stevenson",
+     "p": "RB",
+     "t": "NE",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Corey Kiner",
+     "p": "RB",
+     "t": "NE",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "DeMario Douglas",
+     "p": "WR",
+     "t": "NE",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Efton Chism III",
+     "p": "WR",
+     "t": "NE",
+     "h": "Thnu"
+    },
+    {
+     "n": "Eli Raridon",
+     "p": "TE",
+     "t": "NE",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Hunter Henry",
+     "p": "TE",
+     "t": "NE",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "HillBillyWorm",
+    "Jbird531",
+    "Thnu",
+    "TuanonStan",
+    "YoungBuck04",
+    "brettmn13",
+    "butterygoop",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Chiefs' Kenneth Walker III (groin) to sit out vs. Falcons",
+   "url": "https://www.espn.com/nfl/story/_/id/50480529/chiefs-kenneth-walker-iii-groin-sit-sources-say",
+   "date": "2026-11-14",
    "kind": "news",
    "teams": [
     "KC"
@@ -1156,18 +1199,6 @@
      "p": "RB",
      "t": "KC",
      "h": "TuanonStan"
-    },
-    {
-     "n": "Xavier Worthy",
-     "p": "WR",
-     "t": "KC",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Josh Downs",
-     "p": "WR",
-     "t": "KC",
-     "h": "BROCKSTARxD"
     }
    ],
    "lead": [
@@ -1195,6 +1226,18 @@
     {
      "n": "Travis Kelce",
      "p": "TE",
+     "t": "KC",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Josh Downs",
+     "p": "WR",
+     "t": "KC",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Xavier Worthy",
+     "p": "WR",
      "t": "KC",
      "h": "BROCKSTARxD"
     },
@@ -1249,204 +1292,6 @@
     "TuanonStan",
     "Wallner",
     "YoungBuck04",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Rams put WR Puka Nacua on IR with knee, toe injuries",
-   "url": "https://www.espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries",
-   "date": "2026-11-13",
-   "kind": "news",
-   "teams": [
-    "LAR"
-   ],
-   "named": [
-    {
-     "n": "Puka Nacua",
-     "p": "WR",
-     "t": "LAR",
-     "h": "TuanonStan"
-    }
-   ],
-   "lead": [
-    "Puka Nacua"
-   ],
-   "ripple": [
-    {
-     "n": "Ty Simpson",
-     "p": "QB",
-     "t": "LAR",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Max Klare",
-     "p": "TE",
-     "t": "LAR",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Matthew Stafford",
-     "p": "QB",
-     "t": "LAR",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Terrance Ferguson",
-     "p": "TE",
-     "t": "LAR",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Blake Corum",
-     "p": "RB",
-     "t": "LAR",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Kyren Williams",
-     "p": "RB",
-     "t": "LAR",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Colby Parkinson",
-     "p": "TE",
-     "t": "LAR",
-     "h": "Wallner"
-    },
-    {
-     "n": "Stetson Bennett IV",
-     "p": "QB",
-     "t": "LAR",
-     "h": "Wallner"
-    },
-    {
-     "n": "Konata Mumpfield",
-     "p": "WR",
-     "t": "LAR",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Davante Adams",
-     "p": "WR",
-     "t": "LAR",
-     "h": "Thnu"
-    },
-    {
-     "n": "Tyler Higbee",
-     "p": "TE",
-     "t": "LAR",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Tutu Atwell",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "DMsourbeer",
-    "Thnu",
-    "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Giants' Jameis Winston lets 'the dogs out' on 4th down; Commanders don't bite",
-   "url": "https://www.espn.com/nfl/story/_/id/50469309/giants-jameis-winston-barks-let-dogs-vs-commanders",
-   "date": "2026-11-13",
-   "kind": "news",
-   "teams": [
-    "NYG",
-    "WAS"
-   ],
-   "named": [
-    {
-     "n": "Jameis Winston",
-     "p": "QB",
-     "t": "NYG",
-     "h": "brettmn13"
-    }
-   ],
-   "lead": [
-    "Jameis Winston"
-   ],
-   "ripple": [
-    {
-     "n": "J.J. McCarthy",
-     "p": "QB",
-     "t": "NYG",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Theo Johnson",
-     "p": "TE",
-     "t": "NYG",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Malachi Fields",
-     "p": "WR",
-     "t": "NYG",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Jaxson Dart",
-     "p": "QB",
-     "t": "NYG",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Isaiah Likely",
-     "p": "TE",
-     "t": "NYG",
-     "h": "Wallner"
-    },
-    {
-     "n": "Malik Nabers",
-     "p": "WR",
-     "t": "NYG",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Darnell Mooney",
-     "p": "WR",
-     "t": "NYG",
-     "h": "Thnu"
-    },
-    {
-     "n": "Tyrone Tracy Jr.",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    },
-    {
-     "n": "Cam Skattebo",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    },
-    {
-     "n": "Devin Singletary",
-     "p": "RB",
-     "t": "NYG",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "Jbird531",
-    "Thnu",
-    "Wallner",
-    "brettmn13",
     "triccster"
    ],
    "score": 16.0
@@ -1679,6 +1524,100 @@
     "Jbird531",
     "Thnu",
     "TuanonStan",
+    "YoungBuck04",
+    "butterygoop"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Cardinals to start rookie QB Carson Beck against Rams",
+   "url": "https://www.espn.com/nfl/story/_/id/50455074/cardinals-start-rookie-qb-carson-beck-rams",
+   "date": "2026-11-12",
+   "kind": "news",
+   "teams": [
+    "ARI",
+    "BAL",
+    "LAR"
+   ],
+   "named": [
+    {
+     "n": "Carson Beck",
+     "p": "QB",
+     "t": "ARI",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Gardner Minshew II",
+     "p": "QB",
+     "t": "ARI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Jacoby Brissett",
+     "p": "QB",
+     "t": "BAL",
+     "h": "YoungBuck04"
+    }
+   ],
+   "lead": [
+    "Carson Beck"
+   ],
+   "ripple": [
+    {
+     "n": "Trey Benson",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Michael Wilson",
+     "p": "WR",
+     "t": "ARI",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Trey McBride",
+     "p": "TE",
+     "t": "ARI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Zonovan Knight",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Tyler Allgeier",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Jeremiyah Love",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Thnu"
+    },
+    {
+     "n": "Kendrick Bourne",
+     "p": "WR",
+     "t": "ARI",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "James Conner",
+     "p": "RB",
+     "t": "ARI",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "DMsourbeer",
+    "Jbird531",
+    "Thnu",
+    "TuanonStan",
+    "Wallner",
     "YoungBuck04",
     "butterygoop"
    ],
