@@ -1,5 +1,12 @@
 [
  {
+  "d": "2026-11-16",
+  "kind": "new",
+  "title": "Real NFL headlines in the matchup write-ups",
+  "text": "The weekly write-up for each matchup now pulls in the actual NFL news touching the players in those two lineups, so it can talk about what happened on Sunday instead of only the scores.",
+  "link": "/recaps"
+ },
+ {
   "d": "2026-11-15",
   "kind": "new",
   "title": "Record Watch",
