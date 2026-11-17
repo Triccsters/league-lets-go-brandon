@@ -192,6 +192,18 @@ def build_players(ctx, rows):
     ye = yahoo_era(ctx)
     if ye:
         ylines, _ydrafts, _ycov, ytops = ye
+        # yahoo_era serves season TOTALS from yahoo_lineups_api, which covers
+        # 2008-2013. Since 2026-11-16 flp.slots() covers those same four seasons
+        # week by week, so `rows` already holds them and merging both counted
+        # every pre-2014 player-season twice: doubled career points, a duplicate
+        # season row per player, and each pre-2014 top game listed twice. The
+        # totals source now contributes only what the week-level data lacks,
+        # which keeps it working for any season that is ever scraped at season
+        # level only.
+        covered = {season for season, *_ in rows}
+        if covered:
+            ylines = [r for r in ylines if r[0] not in covered]
+            ytops = [t for t in ytops if t[0] not in covered]
         ypos = {}
         for season, h, name, pos, pts, starts, weeks in ylines:
             if pos == "DEF":
@@ -398,6 +410,62 @@ def build_trades(ctx, rows):
     return data
 
 
+def _draft_shrink(picks, managers):
+    """How far to pull a short draft record toward the league average.
+
+    A single pick is wildly noisy, so a manager with one season can top the
+    all-time list on luck alone: before this, Brandon led it at +21.6 on 14
+    picks, ahead of managers with 239. Rather than hide short records behind a
+    cutoff, each manager's average is pulled toward the league mean by how
+    little evidence stands behind it:
+
+        shown = grand + (avg - grand) * n / (n + k)
+
+    k is the number of picks at which a record is worth as much as the prior,
+    and it is measured from the picks themselves, not chosen: k = W / B, where
+    W is the variance of a single pick around its own manager's average and B
+    is the real spread between managers. B uses the DerSimonian-Laird
+    estimator, because the naive "spread of the averages minus the average
+    noise" is dominated by the fourteen-pick teams and collapses to zero.
+
+    On 2,808 finished picks this gives W about 4,170 (a pick swings some 65
+    points) against B about 51 (real skill spans about 7 a pick), so k lands
+    near 82 picks, five and a half seasons. Q was 54.9 on 23 degrees of
+    freedom, so the spread between managers is real and not all noise.
+    Returns None if there are too few picks to measure.
+    """
+    vals = defaultdict(list)
+    for p in picks:
+        if not p[7] and p[9] is not None:
+            vals[p[3]].append(float(p[9]))
+    rows = [(h, len(v), sum(v) / len(v), v) for h, v in vals.items() if len(v) > 1]
+    if len(rows) < 3:
+        return None
+    N = sum(r[1] for r in rows)
+    W = sum(sum((x - m) ** 2 for x in v) for _h, _n, m, v in rows) / N
+    if W <= 0:
+        return None
+    wt = {h: n / W for h, n, _m, _v in rows}
+    sw = sum(wt.values())
+    grand = sum(wt[h] * m for h, _n, m, _v in rows) / sw
+    Q = sum(wt[h] * (m - grand) ** 2 for h, _n, m, _v in rows)
+    c = sw - sum(x * x for x in wt.values()) / sw
+    B = max((Q - (len(rows) - 1)) / c, 0.0) if c > 0 else 0.0
+    if B <= 0:                      # no measurable skill: show everyone at the mean
+        k = None
+    else:
+        k = W / B
+    for h, n, m, _v in rows:
+        if h not in managers:
+            continue
+        adj = grand if k is None else grand + (m - grand) * n / (n + k)
+        managers[h]["adj"] = round(adj, 1)
+        managers[h]["wt"] = round(n / (n + k), 2) if k else 0.0
+    return {"k": round(k) if k else None, "grand": round(grand, 2),
+            "within": round(W), "between": round(B, 1), "q": round(Q, 1),
+            "df": len(rows) - 1}
+
+
 # ---------------------------------------------------------------- drafts
 def build_drafts(ctx, rows):
     idx = started_index(rows)
@@ -502,7 +570,8 @@ def build_drafts(ctx, rows):
         e["hits"] += p[9] > 0
     managers = {h: {"n": e["n"], "hit": round(100 * e["hits"] / max(1, e["n"])), "avg": round(e["over"] / max(1, e["n"]), 1)}
                 for h, e in per.items()}
-    data = {"generated": now(), "dynasty": dyn,
+    shrink = _draft_shrink(picks, managers)
+    data = {"generated": now(), "dynasty": dyn, "shrink": shrink,
             "fields": ["season", "round", "pick", "manager", "player", "pos", "value", "live", "draft", "over", "starts", "seasons"],
             "picks": picks, "grades": grades, "managers": managers}
     ctx["write_json"](os.path.join(ctx["static"], "drafts.json"), data, compact=True)
@@ -1335,4 +1404,12 @@ def build_all(ctx):
         import traceback
         traceback.print_exc()
         print("record watch failed:", e)
+    # the per-season yearbook pages at /season/<year> (seasons.py)
+    try:
+        import seasons as SE
+        out["seasons"] = len(SE.build_seasons(ctx)["seasons"])
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        print("seasons failed:", e)
     return out
