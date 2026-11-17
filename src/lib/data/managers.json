@@ -166,5 +166,96 @@
    "link": 7,
    "image": "https://sleepercdn.com/avatars/f0edbf4278f53f9425db175073df6584"
   }
+ },
+ {
+  "managerID": "past-jake188",
+  "handle": "jake188",
+  "name": "jake188",
+  "photo": "/managers/question.jpg",
+  "avatar": "/managers/question.jpg",
+  "fantasyStart": 2022,
+  "bio": "Played from 2022 to 2025. Regular season: 17-39. Toughest opponent: butterygoop (0-5). No longer in the league.",
+  "past": true,
+  "lastSeason": 2025,
+  "lastTeamName": "Trade Addict",
+  "seasonsPlayed": [
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "rival": {
+   "name": "butterygoop",
+   "link": null,
+   "image": "/managers/everyone.png"
+  }
+ },
+ {
+  "managerID": "past-jmiitchh6511",
+  "handle": "JMiiTcHH6511",
+  "name": "JMiiTcHH6511",
+  "photo": "/managers/question.jpg",
+  "avatar": "/managers/question.jpg",
+  "fantasyStart": 2022,
+  "bio": "Played from 2022 to 2025. Regular season: 27-29. Toughest opponent: BROCKSTARxD (1-4). No longer in the league.",
+  "past": true,
+  "lastSeason": 2025,
+  "lastTeamName": "Sorry4TheLoss",
+  "seasonsPlayed": [
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "rival": {
+   "name": "BROCKSTARxD",
+   "link": null,
+   "image": "/managers/everyone.png"
+  }
+ },
+ {
+  "managerID": "past-lowfatsnack",
+  "handle": "LowFatSnack",
+  "name": "LowFatSnack",
+  "photo": "/managers/question.jpg",
+  "avatar": "/managers/question.jpg",
+  "fantasyStart": 2022,
+  "bio": "Played from 2022 to 2025. Regular season: 21-35. Toughest opponent: Colt45Johnson (2-5). No longer in the league.",
+  "past": true,
+  "lastSeason": 2025,
+  "lastTeamName": "LowFatSnack",
+  "seasonsPlayed": [
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "rival": {
+   "name": "Colt45Johnson",
+   "link": null,
+   "image": "/managers/everyone.png"
+  }
+ },
+ {
+  "managerID": "past-tony5469",
+  "handle": "tony5469",
+  "name": "tony5469",
+  "photo": "/managers/question.jpg",
+  "avatar": "/managers/question.jpg",
+  "fantasyStart": 2022,
+  "bio": "Played from 2022 to 2024. Regular season: 19-23. Toughest opponent: butterygoop (2-4). No longer in the league.",
+  "past": true,
+  "lastSeason": 2024,
+  "lastTeamName": "tony5469",
+  "seasonsPlayed": [
+   2022,
+   2023,
+   2024
+  ],
+  "rival": {
+   "name": "butterygoop",
+   "link": null,
+   "image": "/managers/everyone.png"
+  }
  }
 ]

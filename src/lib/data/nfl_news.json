@@ -1,7 +1,7 @@
 {
- "read_at": "2026-11-17T13:16+00:00",
+ "read_at": "2026-11-17T21:14+00:00",
  "days": 7,
- "count": 127,
+ "count": 122,
  "items": [
   {
    "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
@@ -419,107 +419,6 @@
     "DMsourbeer",
     "HillBillyWorm",
     "Wallner",
-    "triccster"
-   ],
-   "score": 17.0
-  },
-  {
-   "headline": "Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle injury",
-   "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury",
-   "date": "2026-11-15",
-   "kind": "news",
-   "teams": [
-    "NE"
-   ],
-   "named": [
-    {
-     "n": "Drake Maye",
-     "p": "QB",
-     "t": "NE",
-     "h": "Jbird531"
-    },
-    {
-     "n": "A.J. Brown",
-     "p": "WR",
-     "t": "NE",
-     "h": "butterygoop"
-    }
-   ],
-   "lead": [
-    "Drake Maye"
-   ],
-   "ripple": [
-    {
-     "n": "Kyle Williams",
-     "p": "WR",
-     "t": "NE",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Romeo Doubs",
-     "p": "WR",
-     "t": "NE",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Mack Hollins",
-     "p": "WR",
-     "t": "NE",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Rhamondre Stevenson",
-     "p": "RB",
-     "t": "NE",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Corey Kiner",
-     "p": "RB",
-     "t": "NE",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "DeMario Douglas",
-     "p": "WR",
-     "t": "NE",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "TreVeyon Henderson",
-     "p": "RB",
-     "t": "NE",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Efton Chism III",
-     "p": "WR",
-     "t": "NE",
-     "h": "Thnu"
-    },
-    {
-     "n": "Eli Raridon",
-     "p": "TE",
-     "t": "NE",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Hunter Henry",
-     "p": "TE",
-     "t": "NE",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "HillBillyWorm",
-    "Jbird531",
-    "Thnu",
-    "TuanonStan",
-    "YoungBuck04",
-    "brettmn13",
-    "butterygoop",
     "triccster"
    ],
    "score": 17.0
@@ -1501,6 +1400,107 @@
     "Thnu",
     "YoungBuck04",
     "brettmn13"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Texans lose RB Woody Marks to concussion in loss to Browns",
+   "url": "https://www.espn.com/nfl/story/_/id/50493317/texans-lose-rb-woody-marks-concussion-browns",
+   "date": "2026-11-15",
+   "kind": "news",
+   "teams": [
+    "HOU"
+   ],
+   "named": [
+    {
+     "n": "Woody Marks",
+     "p": "RB",
+     "t": "HOU",
+     "h": "Thnu"
+    }
+   ],
+   "lead": [
+    "Woody Marks"
+   ],
+   "ripple": [
+    {
+     "n": "Tank Dell",
+     "p": "WR",
+     "t": "HOU",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Marvin Harrison Jr.",
+     "p": "WR",
+     "t": "HOU",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Xavier Hutchinson",
+     "p": "WR",
+     "t": "HOU",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Nico Collins",
+     "p": "WR",
+     "t": "HOU",
+     "h": "butterygoop"
+    },
+    {
+     "n": "C.J. Stroud",
+     "p": "QB",
+     "t": "HOU",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Cade Stover",
+     "p": "TE",
+     "t": "HOU",
+     "h": "Wallner"
+    },
+    {
+     "n": "David Montgomery",
+     "p": "RB",
+     "t": "HOU",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Jayden Higgins",
+     "p": "WR",
+     "t": "HOU",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Kayshon Boutte",
+     "p": "WR",
+     "t": "HOU",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Jaylin Noel",
+     "p": "WR",
+     "t": "HOU",
+     "h": "Thnu"
+    },
+    {
+     "n": "Dalton Schultz",
+     "p": "TE",
+     "t": "HOU",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "DMsourbeer",
+    "HillBillyWorm",
+    "Jbird531",
+    "Thnu",
+    "Wallner",
+    "brettmn13",
+    "butterygoop",
+    "triccster"
    ],
    "score": 16.0
   }

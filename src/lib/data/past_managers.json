@@ -1,0 +1,19 @@
+{
+ "_how_to": "Managers who appear in history.json but are not in the current league, so the weekly build cannot find them on a roster. Key by the handle history uses - on this site that is the Sleeper handle, exactly as spelled in history.json's games. 'id' becomes the manager page's permanent address (?manager=<id>) and must never change once a link has been shared, so do not rename these. 'name' is optional, and so is 'photo' (a file under static/managers/). Everything else - record, titles, seasons, last team, the bio - is recomputed from history.json on every build, so there is nothing here to keep up to date.",
+ "tony5469": {
+  "id": "past-tony5469",
+  "name": "tony5469"
+ },
+ "JMiiTcHH6511": {
+  "id": "past-jmiitchh6511",
+  "name": "JMiiTcHH6511"
+ },
+ "LowFatSnack": {
+  "id": "past-lowfatsnack",
+  "name": "LowFatSnack"
+ },
+ "jake188": {
+  "id": "past-jake188",
+  "name": "jake188"
+ }
+}

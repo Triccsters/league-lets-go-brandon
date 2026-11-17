@@ -834,31 +834,33 @@ def names_log(C):
         print("trackers: team names unavailable", e)
     C.write_json(path, {"history": hist})
     by_season = (C.ctx["history"].get("team_names") or {})
-    current = set(C.teams)
-    rows = []
-    for h in sorted(current):
+    # Everyone who ever had a name here, not just the current twelve: a manager
+    # page exists for people who left, and theirs is the list most worth reading.
+    everyone = set(hist)
+    for season in by_season:
+        everyone |= set(by_season.get(season) or {})
+    out = {}
+    for h in sorted(everyone):
         names = []   # (label, name), oldest first, consecutive repeats dropped
 
-        def add(label, nm):
+        def add(label, nm, _names=names, _h=h):
             nm = (nm or "").strip()
-            if nm and nm != h and (not names or names[-1][1] != nm):
-                names.append((label, nm))
+            if nm and nm != _h and (not _names or _names[-1][1] != nm):
+                _names.append((label, nm))
         for season in sorted(by_season, key=int):
             add(season, (by_season.get(season) or {}).get(h))
         for e in hist.get(h, []):
             add(e["since"].split(" week ")[0] + " (wk " + e["since"].split(" week ")[-1] + ")", e["name"])
-        if not names:
-            continue
-        is_now = names[-1][0].startswith(str(C.season))
-        now = names[-1][1] if is_now else "no team name set"
-        older = names[:-1] if is_now else names
-        before = " / ".join(f"{nm} ({lab})" for lab, nm in reversed(older[-5:])) or "-"
-        rows.append([T(h), len({nm for _l, nm in names}), now, before])
-    rows.sort(key=lambda r: -r[1])
-    return [card("names", "Team name history",
-                 "Every name a team has gone by: its name at the end of each season on record, "
-                 "plus renames caught by the daily update from October 2026 on. Before shows the last five, newest first.",
-                 ["Team", "Names", "Now", "Before"], rows)]
+        if names:
+            out[h] = [{"when": lab, "name": nm} for lab, nm in names]
+    C.write_json(os.path.join(C.data, "team_name_history.json"),
+                 {"season": C.season, "managers": out})
+    # No card. T.J., 2026-11-16: the league does not need a table of everyone's
+    # names at once; each manager's own list belongs on his page, which is where
+    # ManagerHistory.svelte now renders it from the file written above. This
+    # function still runs because it is also what catches in-season renames and
+    # keeps team_names.json up to date.
+    return []
 
 
 def median_misery(C):
@@ -990,10 +992,193 @@ def trade_drama(C):
                  ["Team", "Trades", "Vetoed", "Offers turned down", "Claims missed"], rows)]
 
 
+def yahoo_vetoes(C):
+    """Trades the league voted down, from the Yahoo years.
+
+    Reads vetoed_trades.json, which update_site.build_vetoed writes from the vault's
+    _yahoo_vetoed_trades.json. That file is committed, so this card still renders on a
+    machine that has no vault.
+
+    Ten exist in the whole Yahoo history - nine in 2012, one in 2016 - and the trade
+    page only ever showed deals that went through, so these appear nowhere else on the
+    site. Three of the 2012 nine were resubmitted and passed; that is the "Then what"
+    column, left blank where nothing came of it.
+    """
+    path = os.path.join(C.repo, "src", "lib", "data", "vetoed_trades.json")
+    v = C.read_json(path, None) or {}
+    rows = []
+    for t in v.get("trades") or []:
+        sides = t.get("sides") or []
+        if len(sides) != 2:
+            continue
+        # One side per column. Trackers.svelte resolves a cell to a manager only
+        # when the WHOLE cell is "@@handle", so joining two of them into "@@A and
+        # @@B" left every name in this card rendering as a raw handle, the second
+        # one still carrying a literal @@. Found 2026-11-16 by looking at the page.
+        blocked = " for ".join(", ".join(s.get("got") or []) for s in sides)
+        rows.append([str(t["season"]), _who(sides[0]), _who(sides[1]),
+                     blocked, t.get("resubmitted", "")])
+    return [card("vetoes", "Trades the league killed",
+                 "Every vetoed trade in the league's Yahoo years. Nine came in 2012, seven of "
+                 "them DJ's. The tenth is from 2016: T.J. and Austin had a deal blocked in week 5, "
+                 "and Austin went on to win the title that season.",
+                 ["Season", "Team", "With", "What was blocked", "Then what"], rows)]
+
+
+def _yahoo_hist(C):
+    return C.read_json(os.path.join(C.repo, "src", "lib", "data", "yahoo_history.json"), None) or {}
+
+
+def _hidden(h):
+    """A '?'-prefixed handle is a team whose manager Yahoo never named. Those are
+    deliberately absent from managers.json, so T() has nothing to resolve them to."""
+    return not h or str(h).startswith("?")
+
+
+def _who(side):
+    """Name a trade side: the manager where there is one, otherwise the team itself,
+    so an unidentified team reads as its team name instead of a raw @@?handle."""
+    h = side.get("handle")
+    return side.get("team") if _hidden(h) else T(h)
+
+
+def yahoo_activity(C):
+    """Who worked the wire across the eleven Yahoo seasons, 2008-2020.
+
+    From the Managers page's own Moves and Trades columns. The site had never carried
+    activity for any season before 2021, and nothing at all for 2008-2013.
+    """
+    h = _yahoo_hist(C)
+    tot = defaultdict(lambda: {"moves": 0, "trades": 0, "seasons": 0, "best": (0, None)})
+    for season, rows in (h.get("activity") or {}).items():
+        for r in rows:
+            k = r.get("handle")
+            if _hidden(k):
+                continue
+            t = tot[k]
+            t["moves"] += r.get("moves") or 0
+            t["trades"] += r.get("trades") or 0
+            t["seasons"] += 1
+            if (r.get("moves") or 0) > t["best"][0]:
+                t["best"] = (r["moves"], season)
+    rows = [[T(k), v["seasons"], v["moves"], v["trades"],
+             f'{v["best"][0]} in {v["best"][1]}' if v["best"][1] else ""]
+            for k, v in tot.items()]
+    rows.sort(key=lambda r: -r[2])
+    return [card("yahoomoves", "Who worked the wire on Yahoo",
+                 "Adds and drops, and completed trades, across the eleven Yahoo seasons from 2008 "
+                 "to 2020, taken from the league's own Managers pages. Teams whose manager Yahoo "
+                 "kept hidden are left out.",
+                 ["Team", "Yahoo seasons", "Moves", "Trades", "Busiest season"], rows)]
+
+
+def yahoo_waiver_wars(C):
+    """The contested waivers of the FAAB era, 2014-2020.
+
+    waivers.json holds the winning pickups only, so until yahoo_faab.py read Yahoo's
+    FAB Offers page nothing here knew who ELSE wanted a player, what they bid, or how
+    close they came. 415 claims, every one with at least one rival bid.
+
+    Shown biggest-bid first, with the rival bids beside it, so a $70 win over a $69
+    reads as the near-miss it was.
+    """
+    h = _yahoo_hist(C)
+    rows = []
+    for r in h.get("faab") or []:
+        rivals = [l for l in (r.get("losers") or []) if (l.get("bid") or 0) > 0]
+        if not (r.get("bid") or 0) > 0 and not rivals:
+            continue                      # $0 priority claims are not a bidding war
+        who = T(r["handle"]) if r.get("handle") else r.get("team", "")
+        rows.append([str(r["season"]), r.get("player", ""), "$%s" % r.get("bid"), who,
+                     ", ".join("%s $%s" % (l["team"], l["bid"]) for l in rivals) or "—"])
+    rows.sort(key=lambda x: -int(x[2].lstrip("$") or 0))
+    return [card("waiverwars", "The waiver wars",
+                 "Every contested waiver of the FAAB years, 2014 to 2020, with the losing bids "
+                 "beside the winning one. The waiver page only ever showed who got the player. "
+                 "Nine managers bid on DeAngelo Williams in 2015 and it went for $70 over a $69.",
+                 ["Season", "Player", "Won with", "Went to", "Beaten bids"], rows)]
+
+
+def yahoo_commish(C):
+    """Who ran the league, by season.
+
+    Yahoo prints the commissioner into the Manager column, so Brett's and John's years
+    were read off the page rather than inferred. The Sleeper era is not listed: the site
+    already reads Sleeper's own owner flag at render time, so the current commissioner
+    is right on the page without a second copy here that could go stale.
+    """
+    h = _yahoo_hist(C)
+    rows = [[T(c["handle"]), "%s to %s" % (min(c["seasons"]), max(c["seasons"])),
+             len(c["seasons"]), c.get("note", "")]
+            for c in (h.get("commissioners") or []) if c.get("seasons")]
+    rows.sort(key=lambda r: r[1])
+    return [card("yahoocommish", "Who ran the league",
+                 "The commissioners of the Yahoo years. Brett ran it from the first season on "
+                 "record through 2013, John from 2014 until the move to Sleeper.",
+                 ["Commissioner", "Years", "Seasons", "Which"], rows)]
+
+
+def yahoo_rules(C):
+    """The dated commissioner changes, Yahoo era.
+
+    rules.json only ever covered 2021 onward, so none of this was anywhere on the site:
+    half PPR arriving in 2018, trade review moving off a league vote, division winners
+    taking the top seeds from 2012, fractional points from 2013.
+
+    Only the changes marked "big" in the vault file are shown - the ones that changed
+    how the league plays, rather than every scoring-category tweak.
+    """
+    h = _yahoo_hist(C)
+    rows = []
+    for season in sorted((h.get("settings") or {}), reverse=True):
+        for c in h["settings"][season]:
+            if c.get("big"):
+                rows.append([season, c.get("date", ""), c.get("what", "")])
+    return [card("yahoorules", "How the rules changed on Yahoo",
+                 "Every change the commissioner made that altered how the league plays, 2008 to "
+                 "2020, with the date Yahoo recorded it. The rules page starts at 2021, so none of "
+                 "this appeared on the site before.",
+                 ["Season", "When", "What changed"], rows)]
+
+
+def yahoo_old_trades(C):
+    """The 44 trades from 2008-2013.
+
+    trades.json still starts at 2014, so these carry no value, winner or margin -
+    who got whom and when, with nothing invented on top of it.
+
+    The old reason for that was "the vault has no pre-2014 lineups". That stopped
+    being true on 2026-11-16: slots() now covers 2008, 2010, 2012 and 2013 week by
+    week, so rest-of-season points for these 44 trades are computable and this card
+    could become graded like the rest. That work is not done, so the card stays as
+    a plain record rather than claiming a winner it has not worked out.
+    """
+    h = _yahoo_hist(C)
+    rows = []
+    for t in h.get("pre2014Trades") or []:
+        sides = t.get("sides") or []
+        if len(sides) != 2:
+            continue
+        # One side per column, for the reason given in yahoo_vetoes above.
+        what = " for ".join(", ".join(s.get("got") or []) for s in sides)
+        rows.append([str(t["season"]), _who(sides[0]), _who(sides[1]), what])
+    rows.sort(key=lambda r: r[0])
+    # Retired 2026-11-16, kept callable so nothing that references it breaks. This
+    # card existed only because trades.json started at 2014 and these 44 had no
+    # value, winner or margin. flp.txns() now reads the pre-2014 transaction logs
+    # and flp_trade_value grades them off the week-by-week lineups, so they sit on
+    # the trade page with the other 124, won and lost like the rest. A second,
+    # worse list of the same trades is not worth a card.
+    return []
+
+
 # ------------------------------------------------------------ build
 # names_log on in every league (T.J., 2026-10-14: crude names are fine)
 LEAGUE_SPECIALS = {
-    "league-page": ["kicker_file", "board_duty", "draft_report", "names_log"],
+    # yahoo_old_trades retired 2026-11-16: those 44 trades are on the trade page now,
+    # graded like every other, so a second plain list of them was just a worse copy.
+    "league-page": ["kicker_file", "board_duty", "draft_report", "names_log", "yahoo_vetoes",
+                    "yahoo_activity", "yahoo_rules", "yahoo_commish", "yahoo_waiver_wars"],
     "league-fl-evolution": ["names_log"],
     "league-lets-go-brandon": ["names_log"],
     "league-megalabowl": ["median_misery", "qb_race", "firsts", "names_log"],
@@ -1018,7 +1203,9 @@ def build_trackers(ctx, drafts=None, waivers=None):
     C.drafts = drafts
     repo_name = os.path.basename(C.repo)
     fns = {f.__name__: f for f in (kicker_file, board_duty, draft_report, names_log,
-                                     median_misery, qb_race, firsts, trade_drama)}
+                                     median_misery, qb_race, firsts, trade_drama,
+                                     yahoo_vetoes, yahoo_activity, yahoo_rules,
+                                     yahoo_old_trades, yahoo_commish, yahoo_waiver_wars)}
     groups = []
 
     def group(gid, title, intro, make):

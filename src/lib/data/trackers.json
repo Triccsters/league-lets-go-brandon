@@ -441,7 +441,7 @@
       ],
       [
        "@@HillBillyWorm",
-       "99.0%",
+       "99.1%",
        "Lock",
        0.0
       ],
@@ -453,9 +453,9 @@
       ],
       [
        "@@Wallner",
-       "80.3%",
+       "80.4%",
        "Likely",
-       "+56.7"
+       "+56.8"
       ],
       [
        "@@triccster",
@@ -465,9 +465,9 @@
       ],
       [
        "@@DMsourbeer",
-       "55.8%",
+       "55.5%",
        "Bubble",
-       "+37.6"
+       "+37.3"
       ],
       [
        "@@Thnu",
@@ -828,7 +828,7 @@
        "@@Thnu",
        "-",
        "QB, RB, WR",
-       "QB 9 RB 10 WR 11 TE 3"
+       "QB 10 RB 10 WR 11 TE 3"
       ],
       [
        "@@TuanonStan",
@@ -840,7 +840,7 @@
        "@@YoungBuck04",
        "WR",
        "QB, RB",
-       "QB 10 RB 12 WR 5 TE 4"
+       "QB 9 RB 12 WR 4 TE 4"
       ],
       [
        "@@brettmn13",
@@ -858,13 +858,13 @@
        "@@HillBillyWorm",
        "QB, WR, TE",
        "-",
-       "QB 3 RB 5 WR 4 TE 7"
+       "QB 3 RB 5 WR 3 TE 7"
       ],
       [
        "@@Wallner",
        "RB, WR",
        "-",
-       "QB 8 RB 7 WR 3 TE 2"
+       "QB 8 RB 7 WR 5 TE 2"
       ],
       [
        "@@butterygoop",
@@ -938,7 +938,7 @@
        "@@Colt45Johnson",
        "Kirk Cousins",
        "QB MIN",
-       17.6
+       17.5
       ],
       [
        "@@brettmn13",
@@ -947,22 +947,22 @@
        17.0
       ],
       [
-       "@@butterygoop",
-       "Kyren Williams",
-       "RB LAR",
-       11.1
-      ],
-      [
        "@@Wallner",
        "Garrett Wilson",
        "WR NYJ",
+       11.1
+      ],
+      [
+       "@@butterygoop",
+       "Kyren Williams",
+       "RB LAR",
        11.0
       ],
       [
        "@@triccster",
        "Derrick Henry",
        "RB BAL",
-       10.6
+       10.7
       ],
       [
        "@@butterygoop",
@@ -1010,7 +1010,7 @@
        "@@HillBillyWorm",
        "Pat Freiermuth",
        "TE PIT",
-       9.1
+       9.2
       ]
      ]
     }
@@ -1035,25 +1035,25 @@
       [
        1,
        "@@HillBillyWorm",
-       37.1,
+       37.2,
        "Justin Herbert, Sam Darnold, Wan'Dale Robinson"
       ],
       [
        2,
        "@@butterygoop",
-       33.6,
+       33.5,
        "Drake London, Kyren Williams, Darren Waller"
       ],
       [
        3,
        "@@Colt45Johnson",
-       30.7,
+       30.6,
        "Dak Prescott, Cade Otton, Daniel Jones"
       ],
       [
        4,
        "@@Wallner",
-       30.3,
+       30.4,
        "Garrett Wilson, Travis Etienne Jr., Deebo Samuel Sr."
       ],
       [
@@ -1072,7 +1072,7 @@
        7,
        "@@Jbird531",
        27.7,
-       "Fernando Mendoza, Drake Maye, Omar Cooper Jr."
+       "Drake Maye, Fernando Mendoza, Omar Cooper Jr."
       ],
       [
        8,
@@ -1083,13 +1083,13 @@
       [
        9,
        "@@TuanonStan",
-       18.5,
+       18.4,
        "Evan Engram, Samaje Perine, Isaac TeSlaa"
       ],
       [
        10,
        "@@BROCKSTARxD",
-       18.1,
+       18.0,
        "Xavier Worthy, Malachi Fields, Chris Rodriguez Jr."
       ],
       [
@@ -1101,8 +1101,8 @@
       [
        12,
        "@@Thnu",
-       10.7,
-       "Noah Fant, Demarcus Robinson, Darnell Mooney"
+       10.0,
+       "Noah Fant, Darnell Mooney, Demarcus Robinson"
       ]
      ]
     },
@@ -1322,22 +1322,22 @@
        11,
        "@@TuanonStan",
        4,
-       35.5,
-       "Quinshon Judkins, Matthew Stafford, Denzel Boston, Kyle Pitts Sr."
+       35.3,
+       "Denzel Boston, Quinshon Judkins, Matthew Stafford, Kyle Pitts Sr."
       ],
       [
        11,
        "@@Thnu",
        3,
-       34.0,
-       "Tucker Kraft, Davante Adams, Christian Watson"
+       33.9,
+       "Davante Adams, Tucker Kraft, Christian Watson"
       ],
       [
        11,
        "@@HillBillyWorm",
        2,
        26.9,
-       "Matthew Golden, Bijan Robinson"
+       "Bijan Robinson, Matthew Golden"
       ],
       [
        11,
@@ -1350,8 +1350,8 @@
        14,
        "@@butterygoop",
        3,
-       42.0,
-       "Trey McBride, Javonte Williams, CeeDee Lamb"
+       42.2,
+       "Javonte Williams, CeeDee Lamb, Trey McBride"
       ]
      ]
     }
@@ -1573,25 +1573,25 @@
        "@@HillBillyWorm",
        4,
        4,
-       "Trevor Lawrence 21.7, Caleb Williams 19.8, Justin Herbert 14.9"
+       "Trevor Lawrence 21.7, Caleb Williams 19.8, Justin Herbert 15.0"
       ],
       [
        "@@Colt45Johnson",
        7,
        3,
-       "Joe Burrow 21.8, Kirk Cousins 17.6, Dak Prescott 13.7"
+       "Joe Burrow 21.9, Kirk Cousins 17.5, Dak Prescott 13.8"
       ],
       [
        "@@DMsourbeer",
        6,
        3,
-       "Patrick Mahomes 19.4, Jordan Love 13.7, Geno Smith 11.6"
+       "Patrick Mahomes 19.3, Jordan Love 13.8, Geno Smith 11.7"
       ],
       [
        "@@Wallner",
        8,
        2,
-       "Bo Nix 17.3, Joe Milton 13.7, Joe Fagnano 0.0"
+       "Bo Nix 17.2, Joe Milton 13.6, Joe Fagnano 0.0"
       ],
       [
        "@@brettmn13",
@@ -1603,43 +1603,43 @@
        "@@Jbird531",
        6,
        2,
-       "J.J. McCarthy 14.1, Deshaun Watson 11.0, Fernando Mendoza 10.0"
+       "J.J. McCarthy 14.1, Deshaun Watson 11.0, Drake Maye 10.0"
       ],
       [
        "@@BROCKSTARxD",
        6,
        2,
-       "Brock Purdy 19.5, Baker Mayfield 15.3, Cade Klubnik 0.0"
+       "Brock Purdy 19.5, Baker Mayfield 15.1, Cade Klubnik 0.0"
       ],
       [
        "@@butterygoop",
        5,
        2,
-       "Josh Allen 23.8, C.J. Stroud 18.9, Tyson Bagent 0.0"
+       "Josh Allen 23.6, C.J. Stroud 18.9, Tyson Bagent 0.0"
       ],
       [
        "@@triccster",
        5,
        2,
-       "Jared Goff 18.8, Tyler Shough 15.8, Michael Penix Jr. 10.7"
+       "Jared Goff 18.7, Tyler Shough 15.8, Michael Penix Jr. 10.7"
       ],
       [
        "@@YoungBuck04",
        6,
        1,
-       "Aaron Rodgers 14.7, Jacoby Brissett 8.7, Mac Jones 0.0"
+       "Aaron Rodgers 15.1, Jacoby Brissett 8.8, Mac Jones 0.0"
       ],
       [
        "@@Thnu",
        2,
        1,
-       "Cam Ward 14.9, Kyler Murray 0.0"
+       "Cam Ward 14.8, Kyler Murray 0.0"
       ],
       [
        "@@TuanonStan",
        6,
        0,
-       "Matthew Stafford 10.4, Ty Simpson 0.0, Drew Allar 0.0"
+       "Matthew Stafford 10.2, Ty Simpson 0.0, Drew Allar 0.0"
       ]
      ]
     },
@@ -1656,67 +1656,67 @@
      ],
      "rows": [
       [
-       "@@butterygoop",
-       "Saquon Barkley",
-       29,
-       1,
-       15.3
-      ],
-      [
-       "@@butterygoop",
-       "Rhamondre Stevenson",
-       28,
-       1,
-       9.7
-      ],
-      [
-       "@@butterygoop",
-       "Jaylen Warren",
-       28,
-       1,
-       14.2
-      ],
-      [
        "@@Colt45Johnson",
        "Najee Harris",
        28,
-       2,
+       1,
        0.0
       ],
       [
        "@@Colt45Johnson",
        "DeeJay Dallas",
        28,
-       2,
+       1,
        1.5
       ],
       [
        "@@Colt45Johnson",
        "Rico Dowdle",
        28,
-       2,
-       8.0
+       1,
+       8.1
       ],
       [
        "@@Colt45Johnson",
        "Chuba Hubbard",
        27,
-       2,
+       1,
        16.3
+      ],
+      [
+       "@@butterygoop",
+       "Saquon Barkley",
+       29,
+       2,
+       15.1
+      ],
+      [
+       "@@butterygoop",
+       "Rhamondre Stevenson",
+       28,
+       2,
+       9.7
+      ],
+      [
+       "@@butterygoop",
+       "Jaylen Warren",
+       28,
+       2,
+       14.3
       ],
       [
        "@@HillBillyWorm",
        "Austin Ekeler",
        31,
        3,
-       4.6
+       4.5
       ],
       [
        "@@HillBillyWorm",
        "Kenny Gainwell",
        27,
        3,
-       6.0
+       5.9
       ],
       [
        "@@HillBillyWorm",
@@ -1730,7 +1730,7 @@
        "Derrick Henry",
        32,
        4,
-       10.6
+       10.7
       ],
       [
        "@@triccster",
@@ -1751,7 +1751,7 @@
        "Travis Etienne Jr.",
        27,
        5,
-       9.8
+       9.9
       ],
       [
        "@@DMsourbeer",
@@ -1964,74 +1964,6 @@
        "@@BROCKSTARxD",
        17.5,
        "Travis Kelce"
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "id": "league",
-   "title": "Only in this league",
-   "intro": "Trackers built for this league's own quirks.",
-   "cards": [
-    {
-     "id": "names",
-     "title": "Team name history",
-     "note": "Every name a team has gone by: its name at the end of each season on record, plus renames caught by the daily update from October 2026 on. Before shows the last five, newest first.",
-     "cols": [
-      "Team",
-      "Names",
-      "Now",
-      "Before"
-     ],
-     "rows": [
-      [
-       "@@BROCKSTARxD",
-       2,
-       "no team name set",
-       "BrockSTARS (2024) / Sleepy Joe’s (2022)"
-      ],
-      [
-       "@@Colt45Johnson",
-       2,
-       "no team name set",
-       "Gibble on my Njigba’s (2023) / Tank Treyn (2022)"
-      ],
-      [
-       "@@Jbird531",
-       2,
-       "The dirty somalian",
-       "Pronoun police (2026 (wk 5)) / The dirty somalian (2026) / Pronoun police (2023)"
-      ],
-      [
-       "@@TuanonStan",
-       2,
-       "no team name set",
-       "Dark Brandon (2023) / Jan 6th Survivor (2022)"
-      ],
-      [
-       "@@Wallner",
-       2,
-       "no team name set",
-       "Big Nix Energy (2024) / The 0 TE’s (2022)"
-      ],
-      [
-       "@@brettmn13",
-       2,
-       "no team name set",
-       "Babayka (2024) / Iced out (2022)"
-      ],
-      [
-       "@@butterygoop",
-       2,
-       "no team name set",
-       "Black guys like tonay (2024) / Black guys Piss (2022)"
-      ],
-      [
-       "@@HillBillyWorm",
-       1,
-       "Let’s go Trump Ocean",
-       "-"
       ]
      ]
     }

@@ -131,6 +131,11 @@ export const tabs = [
                 dest: '/players',
             },
             {
+                icon: 'local_fire_department',
+                label: 'Grenades',
+                dest: '/grenades',
+            },
+            {
                 icon: 'sports_football',
                 label: 'Football Stats',
                 dest: '/football',
@@ -166,6 +171,11 @@ export const tabs = [
         nest: true,
         key: 'history',
         children: [
+            {
+                icon: 'calendar_month',
+                label: 'Seasons',
+                dest: '/season',
+            },
             {
                 icon: 'auto_stories',
                 label: 'All-Time Stats',

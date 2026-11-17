@@ -12,7 +12,7 @@
      16,
      17
     ],
-    "scoring": "half PPR",
+    "scoring": "full PPR, 0.5 TE premium",
     "era": "sleeper",
     "games": 98
    },
@@ -782,7 +782,7 @@
      16,
      17
     ],
-    "scoring": "half PPR",
+    "scoring": "full PPR, 0.5 TE premium",
     "era": "sleeper",
     "games": 98
    },
@@ -1552,7 +1552,7 @@
      16,
      17
     ],
-    "scoring": "half PPR",
+    "scoring": "full PPR, 0.5 TE premium",
     "era": "sleeper",
     "games": 98
    },
@@ -2322,7 +2322,7 @@
      16,
      17
     ],
-    "scoring": "half PPR",
+    "scoring": "full PPR, 0.5 TE premium",
     "era": "sleeper",
     "games": 98
    },
@@ -3088,7 +3088,7 @@
     "teams": 12,
     "reg_weeks": 10,
     "playoff_weeks": [],
-    "scoring": "half PPR",
+    "scoring": "full PPR, 0.5 TE premium",
     "era": "sleeper",
     "games": 60
    },

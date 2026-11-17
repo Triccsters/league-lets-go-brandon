@@ -1,0 +1,91 @@
+{
+ "_readme": "Real-life NFL context for the season pages: what happened in the NFL that actually moved fantasy lineups. Looked up, never recalled. Static history, so the build never overwrites it.",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_NFL_Most_Valuable_Player_awards",
+  "https://www.smdailyjournal.com/sports/ap-nfl-offensive-rookie-of-the-year/article_5408db6f-6689-5683-bbeb-5aae49f7a1af.html",
+  "https://wtop.com/nfl/2026/02/ap-nfl-offensive-rookie-of-the-year/",
+  "https://www.foxsports.com/stories/nfl/nfl-most-valuable-player-complete-list-winners-year",
+  "https://topendsports.com/events/super-bowl/winners-list.htm",
+  "https://www.pro-football-reference.com/years/2008/week_16.htm",
+  "https://www.fox9.com/sports/vikings-marking-13-years-since-the-metrodome-roof-collapse",
+  "https://www.espn.com/nfl/recap/_/gameId/331223025",
+  "https://www.foxnews.com/sports/wide-write-fantasy-football-crapshoot"
+ ],
+ "checked": "2026-11-16",
+ "seasons": {
+  "2022": {
+   "mvp": {
+    "n": "Patrick Mahomes",
+    "pos": "QB",
+    "team": "Kansas City Chiefs"
+   },
+   "oroy": {
+    "n": "Garrett Wilson",
+    "pos": "WR",
+    "team": "New York Jets"
+   },
+   "sb": {
+    "no": "LVII",
+    "won": "Kansas City Chiefs",
+    "lost": "Philadelphia Eagles",
+    "score": "38-35"
+   }
+  },
+  "2023": {
+   "mvp": {
+    "n": "Lamar Jackson",
+    "pos": "QB",
+    "team": "Baltimore Ravens"
+   },
+   "oroy": {
+    "n": "C.J. Stroud",
+    "pos": "QB",
+    "team": "Houston Texans"
+   },
+   "sb": {
+    "no": "LVIII",
+    "won": "Kansas City Chiefs",
+    "lost": "San Francisco 49ers",
+    "score": "25-22"
+   }
+  },
+  "2024": {
+   "mvp": {
+    "n": "Josh Allen",
+    "pos": "QB",
+    "team": "Buffalo Bills"
+   },
+   "oroy": {
+    "n": "Jayden Daniels",
+    "pos": "QB",
+    "team": "Washington Commanders"
+   },
+   "sb": {
+    "no": "LIX",
+    "won": "Philadelphia Eagles",
+    "lost": "Kansas City Chiefs",
+    "score": "40-22"
+   }
+  },
+  "2025": {
+   "mvp": {
+    "n": "Matthew Stafford",
+    "pos": "QB",
+    "team": "Los Angeles Rams"
+   },
+   "oroy": {
+    "n": "Tetairoa McMillan",
+    "pos": "WR",
+    "team": "Carolina Panthers"
+   },
+   "sb": {
+    "no": "LX",
+    "won": "Seattle Seahawks",
+    "lost": "New England Patriots",
+    "score": "29-13"
+   }
+  }
+ },
+ "_season_convention": "Keyed by SEASON, not by the year the Super Bowl was played. The 2008 season ends in Super Bowl XLIII, played February 2009. Every entry here has already been shifted, so do not shift it again. Cross-checked against the MVP list: Peyton Manning's 2013 MVP season ends in XLVIII, the 43-8 Seattle win over his Broncos, and Cam Newton's 2015 MVP season ends in Super Bowl L, the Denver win over his Panthers.",
+ "_note_scope": "Award rows are plain NFL facts, carried over from the FL Players data. The season notes and the championship-week notes are NOT here: those were written around a week-16 final and this league's final week has not been checked against them. Add a `note` or `champ` here only once this league's own playoff weeks have been verified. The `sb` field is kept for reference but is not rendered."
+}
