@@ -40,7 +40,102 @@ def scoring_era(season):
     return "standard, whole points"
 
 
-def build(history):
+def mvp_awards(season, table, players, tn):
+    """The two player awards T.J. picked (2026-11-16).
+
+    MVP            most points scored while in a starting lineup that season.
+    Most valuable  the biggest share of his own team's starting points, which
+                   rewards a player who carried a weak roster over a star on a
+                   stacked one. A team's PF IS its starting points, so the share
+                   is the player's points over his owner's PF.
+
+    A player traded or dropped mid-season has one stint per owner. MVP sums them
+    (it is about the player's year); the share award uses the single stint, since
+    a share only means something against one team.
+    """
+    if not players:
+        return []
+    pf = {t["h"]: t["pf"] for t in table}
+    total, best_share = {}, None
+    for p in players:
+        name, pos = p.get("n"), p.get("p")
+        for st in (p.get("s") or []):
+            if len(st) < 4 or st[0] != season:
+                continue
+            owner, pts, starts = st[1], st[2] or 0, st[3] or 0
+            if starts <= 0:
+                continue
+            key = (name, pos)
+            cur = total.get(key) or [0.0, 0, set()]
+            cur[0] += pts
+            cur[1] += starts
+            cur[2].add(owner)
+            total[key] = cur
+            own_pf = pf.get(owner) or 0
+            if own_pf > 0 and starts >= 6:
+                share = pts / own_pf
+                if not best_share or share > best_share["share"]:
+                    best_share = dict(name=name, pos=pos, owner=owner, pts=pts,
+                                      starts=starts, share=share)
+
+    out = []
+    if total:
+        (name, pos), (pts, starts, owners) = max(total.items(), key=lambda kv: kv[1][0])
+        who = sorted(owners)[0]
+        where = f"for {tn.get(who) or who}" if len(owners) == 1 else f"across {len(owners)} teams"
+        out.append(dict(key="mvp", title="MVP", h=who, name=tn.get(who) or who,
+                        player=name, pos=pos,
+                        detail=f"{name} ({pos}) scored {_r(pts)} in {starts} starts {where}",
+                        value=_r(pts)))
+    if best_share:
+        b = best_share
+        out.append(dict(key="most_valuable", title="Most valuable to his team",
+                        h=b["owner"], name=tn.get(b["owner"]) or b["owner"],
+                        player=b["name"], pos=b["pos"],
+                        detail=f"{b['name']} ({b['pos']}) was {round(b['share'] * 100, 1)}% of "
+                               f"{tn.get(b['owner']) or b['owner']}'s starting points, "
+                               f"{_r(b['pts'])} in {b['starts']} starts",
+                        value=round(b["share"], 4)))
+    return out
+
+
+SLOT_ORDER = {"QB": 0, "RB": 1, "WR": 2, "TE": 3, "W/R/T": 4, "FLEX": 4, "K": 5, "DEF": 6}
+
+
+def title_lineups(final, rows, tn):
+    """Both starting lineups from the championship game, player by player.
+
+    The title game is the one week everyone wants to re-litigate, and the data
+    for it already exists - history.json labels the game, and the slot rows have
+    week-level starters. Championship week is also when NFL teams with a locked
+    playoff seed rest their starters, so a star scoring nothing in a final is
+    often a real story rather than a bad week.
+    """
+    if not final or not rows:
+        return None
+    season, week = final["season"], final["week"]
+    by_mgr = {}
+    for r in rows:
+        if len(r) < 8:
+            continue
+        s, w, h, _k, name, pos, started, pts = r[:8]
+        if s != season or w != week or not started or h not in (final["a"], final["b"]):
+            continue
+        by_mgr.setdefault(h, []).append(dict(pos=pos or "", n=name, pts=round(pts or 0, 2)))
+    if not by_mgr:
+        return None
+    for h in by_mgr:
+        by_mgr[h].sort(key=lambda p: (SLOT_ORDER.get(p["pos"], 9), -p["pts"]))
+    out = {}
+    for h, lst in by_mgr.items():
+        out[h] = dict(name=tn.get(h) or h, starters=lst,
+                      total=round(sum(p["pts"] for p in lst), 2),
+                      best=max(lst, key=lambda p: p["pts"]) if lst else None,
+                      worst=min(lst, key=lambda p: p["pts"]) if lst else None)
+    return out
+
+
+def build(history, players=None, slot_rows=None):
     F = {k: i for i, k in enumerate(history["fields"])}
     S, W, E, A, PA, B, PB, PO, LB = (F["season"], F["week"], F["era"], F["a"],
                                      F["pa"], F["b"], F["pb"], F["playoff"], F["label"])
@@ -247,6 +342,9 @@ def build(history):
                         f"won with {cheap['pts']} over "
                         f"{tn.get(cheap['opp']) or cheap['opp']} in week {cheap['w']}", cheap["pts"])
 
+        # the two player awards go first - they are about a player, not a manager
+        aw = mvp_awards(season, table, players, tn) + aw
+
         # a title run from a low seed is the season's story more often than not
         if champ:
             cs = next((t for t in table if t["h"] == champ), None)
@@ -265,6 +363,9 @@ def build(history):
                         era=(rs[0]["era"] if rs else None),
                         games=len(rs) // 2),
             champion=champ, runner_up=runner, third=third, title_game=title,
+            title_lineups=title_lineups(
+                dict(season=season, week=title["week"], a=title["a"], b=title["b"])
+                if title else None, slot_rows, tn),
             standings=table,
             bracket={k: v for k, v in bracket.items()},
             awards=aw,
@@ -272,14 +373,25 @@ def build(history):
     return out
 
 
-def build_seasons(ctx):
+def build_seasons(ctx, slot_rows=None):
     data = ctx["data"]
     h = ctx.get("history")
     if not (isinstance(h, dict) and "games" in h and "fields" in h):
         h = ctx["read_json"](os.path.join(data, "history.json"), None)
+    # players.json carries per-stint points and starts, which the two player
+    # awards need. It is optional: without it the season keeps its other awards.
+    pl = None
+    for base in (ctx.get("static_data"), data,
+                 os.path.join(os.path.dirname(data), "..", "..", "static", "data")):
+        if not base:
+            continue
+        p = os.path.join(base, "players.json")
+        if os.path.exists(p):
+            pl = (ctx["read_json"](p, None) or {}).get("players")
+            break
     # src/lib/data, not static/data: the page imports it so the season renders
     # server-side, which a shared link preview and a search engine both need.
-    doc = dict(generated=ctx.get("now"), seasons=build(h))
+    doc = dict(generated=ctx.get("now"), seasons=build(h, pl, slot_rows))
     ctx["write_json"](os.path.join(data, "seasons.json"), doc)
     return doc
 
@@ -289,7 +401,25 @@ if __name__ == "__main__":
     repo = sys.argv[1]
     hp = os.path.join(repo, "src", "lib", "data", "history.json")
     h = json.load(io.open(hp, encoding="utf-8"))
-    seasons = build(h)
+    pp = os.path.join(repo, "static", "data", "players.json")
+    pl = (json.load(io.open(pp, encoding="utf-8")).get("players")
+          if os.path.exists(pp) else None)
+    # Standalone run: pull the vault's week-level slots so the title-game
+    # lineups are built too. The real build passes rows in from extras instead.
+    sr = None
+    vault = os.environ.get("FLP_MANUAL") or \
+        r"C:\Users\trick\Documents\Fantasy Football Vault\_manual"
+    if os.path.isdir(vault):
+        try:
+            sys.path.insert(0, vault)
+            import flp
+            sr = [(x.season, x.week, x.manager, None, flp.norm_player(x.player),
+                   x.pos or "", bool(x.started), round(x.points or 0, 2))
+                  for x in flp.slots()]
+            print(f"  vault slots: {len(sr)} player-weeks")
+        except Exception as e:
+            print("  no vault slots (%s) - title lineups will be empty" % e)
+    seasons = build(h, pl, sr)
     outp = os.path.join(repo, "src", "lib", "data", "seasons.json")
     with io.open(outp, "w", encoding="utf-8") as f:
         json.dump(dict(seasons=seasons), f, separators=(",", ":"))
