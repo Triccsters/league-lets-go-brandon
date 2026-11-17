@@ -1,1 +1,3523 @@
-{"seasons":{"2022":{"season":2022,"current":false,"format":{"teams":12,"reg_weeks":14,"playoff_weeks":[15,16,17],"scoring":"half PPR","era":"sleeper","games":98},"champion":"BROCKSTARxD","runner_up":"Colt45Johnson","third":"tony5469","title_game":{"week":17,"a":"BROCKSTARxD","pa":123.96,"b":"Colt45Johnson","pb":106.34,"winner":"BROCKSTARxD","aname":"Sleepy Joe\u2019s","bname":"Tank Treyn"},"standings":[{"h":"tony5469","w":10,"l":4,"t":0,"pf":2066.3,"pa":1765.44,"g":14,"pct":0.7143,"ppg":147.59,"allplay":[105,49],"allplay_pct":0.6818,"luck":0.0325,"tops":0,"streak":6,"name":"tony5469","seed":1,"pf_rank":2,"playoff":["3rd place","Semifinal"]},{"h":"BROCKSTARxD","w":9,"l":5,"t":0,"pf":2048.1,"pa":1894.5,"g":14,"pct":0.6429,"ppg":146.29,"allplay":[109,45],"allplay_pct":0.7078,"luck":-0.0649,"tops":3,"streak":3,"name":"Sleepy Joe\u2019s","seed":2,"pf_rank":3,"playoff":["Championship","Semifinal"],"title":true},{"h":"LowFatSnack","w":9,"l":5,"t":0,"pf":1892.72,"pa":1720.3,"g":14,"pct":0.6429,"ppg":135.19,"allplay":[82,72],"allplay_pct":0.5325,"luck":0.1104,"tops":2,"streak":5,"name":"LowFatSnack","seed":3,"pf_rank":4,"playoff":["5th place","Quarterfinal"]},{"h":"JMiiTcHH6511","w":9,"l":5,"t":0,"pf":1872.96,"pa":1682.22,"g":14,"pct":0.6429,"ppg":133.78,"allplay":[82,72],"allplay_pct":0.5325,"luck":0.1104,"tops":1,"streak":6,"name":"iMSoooooTrAsHH","seed":4,"pf_rank":5,"playoff":["5th place","Quarterfinal"]},{"h":"DMsourbeer","w":8,"l":6,"t":0,"pf":2090.6,"pa":1991.42,"g":14,"pct":0.5714,"ppg":149.33,"allplay":[115,39],"allplay_pct":0.7468,"luck":-0.1754,"tops":5,"streak":4,"name":"DMsourbeer","seed":5,"pf_rank":1,"playoff":["3rd place","Quarterfinal","Semifinal"]},{"h":"Colt45Johnson","w":8,"l":6,"t":0,"pf":1860.36,"pa":1737.6,"g":14,"pct":0.5714,"ppg":132.88,"allplay":[80,74],"allplay_pct":0.5195,"luck":0.0519,"tops":1,"streak":4,"name":"Tank Treyn","seed":6,"pf_rank":6,"playoff":["Championship","Quarterfinal","Semifinal"]},{"h":"Jbird531","w":6,"l":8,"t":0,"pf":1794.66,"pa":1906.54,"g":14,"pct":0.4286,"ppg":128.19,"allplay":[75,79],"allplay_pct":0.487,"luck":-0.0584,"tops":1,"streak":4,"name":"Jbird531","seed":7,"pf_rank":8,"playoff":["Consolation"]},{"h":"Wallner","w":6,"l":8,"t":0,"pf":1729.7,"pa":1870.96,"g":14,"pct":0.4286,"ppg":123.55,"allplay":[64,90],"allplay_pct":0.4156,"luck":0.013,"tops":1,"streak":3,"name":"The 0 TE\u2019s","seed":8,"pf_rank":9,"playoff":["Consolation"]},{"h":"brettmn13","w":6,"l":8,"t":0,"pf":1699.34,"pa":1787.84,"g":14,"pct":0.4286,"ppg":121.38,"allplay":[53,101],"allplay_pct":0.3442,"luck":0.0844,"tops":0,"streak":2,"name":"Iced out","seed":9,"pf_rank":10,"playoff":["Consolation"]},{"h":"butterygoop","w":5,"l":9,"t":0,"pf":1822.72,"pa":1963.8,"g":14,"pct":0.3571,"ppg":130.19,"allplay":[80,74],"allplay_pct":0.5195,"luck":-0.1624,"tops":0,"streak":2,"name":"Black guys Piss","seed":10,"pf_rank":7,"playoff":["Consolation"]},{"h":"TuanonStan","w":5,"l":9,"t":0,"pf":1607.88,"pa":1772.28,"g":14,"pct":0.3571,"ppg":114.85,"allplay":[41,113],"allplay_pct":0.2662,"luck":0.0909,"tops":0,"streak":2,"name":"Jan 6th Survivor","seed":11,"pf_rank":11,"playoff":["Consolation"]},{"h":"jake188","w":3,"l":11,"t":0,"pf":1587.64,"pa":1980.08,"g":14,"pct":0.2143,"ppg":113.4,"allplay":[38,116],"allplay_pct":0.2468,"luck":-0.0325,"tops":0,"streak":2,"name":"Trade Addict","seed":12,"pf_rank":12,"playoff":["Consolation"]}],"bracket":{"Consolation":[{"week":15,"a":"Jbird531","pa":97.52,"b":"butterygoop","pb":175.4,"winner":"butterygoop","aname":"Jbird531","bname":"Black guys Piss"},{"week":15,"a":"brettmn13","pa":154.24,"b":"Wallner","pb":96.96,"winner":"brettmn13","aname":"Iced out","bname":"The 0 TE\u2019s"},{"week":16,"a":"Jbird531","pa":145.44,"b":"jake188","pb":98.76,"winner":"Jbird531","aname":"Jbird531","bname":"Trade Addict"},{"week":16,"a":"TuanonStan","pa":139.26,"b":"Wallner","pb":84.5,"winner":"TuanonStan","aname":"Jan 6th Survivor","bname":"The 0 TE\u2019s"},{"week":16,"a":"brettmn13","pa":110.76,"b":"butterygoop","pb":118.8,"winner":"butterygoop","aname":"Iced out","bname":"Black guys Piss"},{"week":17,"a":"Jbird531","pa":132.08,"b":"TuanonStan","pb":123.72,"winner":"Jbird531","aname":"Jbird531","bname":"Jan 6th Survivor"},{"week":17,"a":"Wallner","pa":152.38,"b":"jake188","pb":92.96,"winner":"Wallner","aname":"The 0 TE\u2019s","bname":"Trade Addict"}],"Quarterfinal":[{"week":15,"a":"DMsourbeer","pa":174.44,"b":"JMiiTcHH6511","pb":123.16,"winner":"DMsourbeer","aname":"DMsourbeer","bname":"iMSoooooTrAsHH"},{"week":15,"a":"Colt45Johnson","pa":153.64,"b":"LowFatSnack","pb":121.78,"winner":"Colt45Johnson","aname":"Tank Treyn","bname":"LowFatSnack"}],"Semifinal":[{"week":16,"a":"BROCKSTARxD","pa":167.96,"b":"DMsourbeer","pb":150.76,"winner":"BROCKSTARxD","aname":"Sleepy Joe\u2019s","bname":"DMsourbeer"},{"week":16,"a":"Colt45Johnson","pa":137.98,"b":"tony5469","pb":134.14,"winner":"Colt45Johnson","aname":"Tank Treyn","bname":"tony5469"}],"5th place":[{"week":16,"a":"LowFatSnack","pa":97.6,"b":"JMiiTcHH6511","pb":171.22,"winner":"JMiiTcHH6511","aname":"LowFatSnack","bname":"iMSoooooTrAsHH"}],"Championship":[{"week":17,"a":"BROCKSTARxD","pa":123.96,"b":"Colt45Johnson","pb":106.34,"winner":"BROCKSTARxD","aname":"Sleepy Joe\u2019s","bname":"Tank Treyn"}],"3rd place":[{"week":17,"a":"DMsourbeer","pa":150.44,"b":"tony5469","pb":152.24,"winner":"tony5469","aname":"DMsourbeer","bname":"tony5469"}]},"awards":[{"key":"record","title":"Best record","h":"tony5469","name":"tony5469","detail":"10-4","value":0.7143},{"key":"points","title":"Most points","h":"DMsourbeer","name":"DMsourbeer","detail":"2090.6 points, 149.33 a game","value":2090.6},{"key":"fewest_points","title":"Fewest points","h":"jake188","name":"Trade Addict","detail":"1587.64 points, 113.4 a game","value":1587.64},{"key":"toughest","title":"Toughest schedule","h":"DMsourbeer","name":"DMsourbeer","detail":"1991.42 points against","value":1991.42},{"key":"easiest","title":"Easiest schedule","h":"JMiiTcHH6511","name":"iMSoooooTrAsHH","detail":"1682.22 points against","value":1682.22},{"key":"lucky","title":"Luckiest schedule","h":"LowFatSnack","name":"LowFatSnack","detail":"9-5 with an all-play record of 82-72","value":0.1104},{"key":"unlucky","title":"Unluckiest schedule","h":"DMsourbeer","name":"DMsourbeer","detail":"8-6 with an all-play record of 115-39","value":-0.1754},{"key":"tops","title":"Most weeks as top scorer","h":"DMsourbeer","name":"DMsourbeer","detail":"5 weeks on top","value":5},{"key":"streak","title":"Longest winning streak","h":"tony5469","name":"tony5469","detail":"6 straight","value":6},{"key":"high","title":"Highest single week","h":"JMiiTcHH6511","name":"iMSoooooTrAsHH","detail":"214.64 in week 9 against Trade Addict","value":214.64},{"key":"low","title":"Lowest single week","h":"TuanonStan","name":"Jan 6th Survivor","detail":"78.82 in week 4 against Tank Treyn","value":78.82},{"key":"blowout","title":"Biggest blowout","h":"JMiiTcHH6511","name":"iMSoooooTrAsHH","detail":"beat Trade Addict by 118.54 in week 9","value":118.54},{"key":"closest","title":"Closest game","h":"butterygoop","name":"Black guys Piss","detail":"beat Sleepy Joe\u2019s by 0.54 in week 6","value":0.54},{"key":"hard_luck","title":"Most points in a loss","h":"DMsourbeer","name":"DMsourbeer","detail":"180.94 and still lost to Sleepy Joe\u2019s in week 5","value":180.94},{"key":"cheap_win","title":"Fewest points in a win","h":"jake188","name":"Trade Addict","detail":"won with 96.98 over LowFatSnack in week 14","value":96.98}]},"2023":{"season":2023,"current":false,"format":{"teams":12,"reg_weeks":14,"playoff_weeks":[15,16,17],"scoring":"half PPR","era":"sleeper","games":98},"champion":"Wallner","runner_up":"butterygoop","third":"TuanonStan","title_game":{"week":17,"a":"butterygoop","pa":167.88,"b":"Wallner","pb":184.0,"winner":"Wallner","aname":"Black guys Piss","bname":"The 0 TE\u2019s"},"standings":[{"h":"butterygoop","w":11,"l":3,"t":0,"pf":2248.98,"pa":1742.9,"g":14,"pct":0.7857,"ppg":160.64,"allplay":[116,38],"allplay_pct":0.7532,"luck":0.0325,"tops":4,"streak":9,"name":"Black guys Piss","seed":1,"pf_rank":1,"playoff":["Championship","Semifinal"]},{"h":"Wallner","w":10,"l":4,"t":0,"pf":1888.46,"pa":1785.58,"g":14,"pct":0.7143,"ppg":134.89,"allplay":[94,60],"allplay_pct":0.6104,"luck":0.1039,"tops":3,"streak":6,"name":"The 0 TE\u2019s","seed":2,"pf_rank":5,"playoff":["Championship","Semifinal"],"title":true},{"h":"TuanonStan","w":9,"l":5,"t":0,"pf":2122.42,"pa":1900.1,"g":14,"pct":0.6429,"ppg":151.6,"allplay":[110,44],"allplay_pct":0.7143,"luck":-0.0714,"tops":3,"streak":3,"name":"Dark Brandon","seed":3,"pf_rank":2,"playoff":["3rd place","Quarterfinal","Semifinal"]},{"h":"tony5469","w":8,"l":6,"t":0,"pf":1889.5,"pa":1888.48,"g":14,"pct":0.5714,"ppg":134.96,"allplay":[79,75],"allplay_pct":0.513,"luck":0.0584,"tops":2,"streak":3,"name":"tony5469","seed":4,"pf_rank":4,"playoff":["3rd place","Quarterfinal","Semifinal"]},{"h":"BROCKSTARxD","w":8,"l":6,"t":0,"pf":1841.82,"pa":1715.74,"g":14,"pct":0.5714,"ppg":131.56,"allplay":[80,74],"allplay_pct":0.5195,"luck":0.0519,"tops":0,"streak":5,"name":"Sleepy Joe\u2019s","seed":5,"pf_rank":6,"playoff":["5th place","Quarterfinal"]},{"h":"Jbird531","w":7,"l":7,"t":0,"pf":2010.08,"pa":1954.84,"g":14,"pct":0.5,"ppg":143.58,"allplay":[100,54],"allplay_pct":0.6494,"luck":-0.1494,"tops":1,"streak":3,"name":"Pronoun police","seed":6,"pf_rank":3,"playoff":["5th place","Quarterfinal"]},{"h":"JMiiTcHH6511","w":7,"l":7,"t":0,"pf":1808.12,"pa":1784.62,"g":14,"pct":0.5,"ppg":129.15,"allplay":[79,75],"allplay_pct":0.513,"luck":-0.013,"tops":0,"streak":4,"name":"Sorry4TheLoss","seed":7,"pf_rank":7,"playoff":["Consolation"]},{"h":"DMsourbeer","w":6,"l":8,"t":0,"pf":1802.5,"pa":1774.76,"g":14,"pct":0.4286,"ppg":128.75,"allplay":[75,79],"allplay_pct":0.487,"luck":-0.0584,"tops":0,"streak":3,"name":"DMsourbeer","seed":8,"pf_rank":8,"playoff":["Consolation"]},{"h":"LowFatSnack","w":5,"l":9,"t":0,"pf":1707.32,"pa":1895.66,"g":14,"pct":0.3571,"ppg":121.95,"allplay":[61,93],"allplay_pct":0.3961,"luck":-0.039,"tops":1,"streak":3,"name":"LowFatSnack","seed":9,"pf_rank":9,"playoff":["Consolation"]},{"h":"brettmn13","w":5,"l":9,"t":0,"pf":1640.92,"pa":1750.78,"g":14,"pct":0.3571,"ppg":117.21,"allplay":[55,99],"allplay_pct":0.3571,"luck":0.0,"tops":0,"streak":1,"name":"Iced out","seed":10,"pf_rank":10,"playoff":["Consolation"]},{"h":"Colt45Johnson","w":5,"l":9,"t":0,"pf":1545.34,"pa":1859.56,"g":14,"pct":0.3571,"ppg":110.38,"allplay":[42,112],"allplay_pct":0.2727,"luck":0.0844,"tops":0,"streak":2,"name":"Gibble on my Njigba\u2019s","seed":11,"pf_rank":11,"playoff":["Consolation"]},{"h":"jake188","w":3,"l":11,"t":0,"pf":1461.5,"pa":1913.94,"g":14,"pct":0.2143,"ppg":104.39,"allplay":[33,121],"allplay_pct":0.2143,"luck":0.0,"tops":0,"streak":1,"name":"Trade Addict","seed":12,"pf_rank":12,"playoff":["Consolation"]}],"bracket":{"Quarterfinal":[{"week":15,"a":"Jbird531","pa":110.8,"b":"TuanonStan","pb":151.48,"winner":"TuanonStan","aname":"Pronoun police","bname":"Dark Brandon"},{"week":15,"a":"BROCKSTARxD","pa":141.72,"b":"tony5469","pb":164.0,"winner":"tony5469","aname":"Sleepy Joe\u2019s","bname":"tony5469"}],"Consolation":[{"week":15,"a":"brettmn13","pa":94.84,"b":"JMiiTcHH6511","pb":119.62,"winner":"JMiiTcHH6511","aname":"Iced out","bname":"Sorry4TheLoss"},{"week":15,"a":"DMsourbeer","pa":131.98,"b":"LowFatSnack","pb":139.58,"winner":"LowFatSnack","aname":"DMsourbeer","bname":"LowFatSnack"},{"week":16,"a":"brettmn13","pa":168.8,"b":"Colt45Johnson","pb":114.3,"winner":"brettmn13","aname":"Iced out","bname":"Gibble on my Njigba\u2019s"},{"week":16,"a":"DMsourbeer","pa":133.28,"b":"jake188","pb":114.64,"winner":"DMsourbeer","aname":"DMsourbeer","bname":"Trade Addict"},{"week":16,"a":"LowFatSnack","pa":141.18,"b":"JMiiTcHH6511","pb":131.24,"winner":"LowFatSnack","aname":"LowFatSnack","bname":"Sorry4TheLoss"},{"week":17,"a":"brettmn13","pa":115.04,"b":"DMsourbeer","pb":135.0,"winner":"DMsourbeer","aname":"Iced out","bname":"DMsourbeer"},{"week":17,"a":"jake188","pa":77.3,"b":"Colt45Johnson","pb":81.28,"winner":"Colt45Johnson","aname":"Trade Addict","bname":"Gibble on my Njigba\u2019s"}],"5th place":[{"week":16,"a":"Jbird531","pa":111.82,"b":"BROCKSTARxD","pb":156.42,"winner":"BROCKSTARxD","aname":"Pronoun police","bname":"Sleepy Joe\u2019s"}],"Semifinal":[{"week":16,"a":"TuanonStan","pa":132.66,"b":"Wallner","pb":157.44,"winner":"Wallner","aname":"Dark Brandon","bname":"The 0 TE\u2019s"},{"week":16,"a":"butterygoop","pa":150.52,"b":"tony5469","pb":127.74,"winner":"butterygoop","aname":"Black guys Piss","bname":"tony5469"}],"3rd place":[{"week":17,"a":"TuanonStan","pa":164.56,"b":"tony5469","pb":103.24,"winner":"TuanonStan","aname":"Dark Brandon","bname":"tony5469"}],"Championship":[{"week":17,"a":"butterygoop","pa":167.88,"b":"Wallner","pb":184.0,"winner":"Wallner","aname":"Black guys Piss","bname":"The 0 TE\u2019s"}]},"awards":[{"key":"record","title":"Best record","h":"butterygoop","name":"Black guys Piss","detail":"11-3","value":0.7857},{"key":"points","title":"Most points","h":"butterygoop","name":"Black guys Piss","detail":"2248.98 points, 160.64 a game","value":2248.98},{"key":"fewest_points","title":"Fewest points","h":"jake188","name":"Trade Addict","detail":"1461.5 points, 104.39 a game","value":1461.5},{"key":"toughest","title":"Toughest schedule","h":"Jbird531","name":"Pronoun police","detail":"1954.84 points against","value":1954.84},{"key":"easiest","title":"Easiest schedule","h":"BROCKSTARxD","name":"Sleepy Joe\u2019s","detail":"1715.74 points against","value":1715.74},{"key":"lucky","title":"Luckiest schedule","h":"Wallner","name":"The 0 TE\u2019s","detail":"10-4 with an all-play record of 94-60","value":0.1039},{"key":"unlucky","title":"Unluckiest schedule","h":"Jbird531","name":"Pronoun police","detail":"7-7 with an all-play record of 100-54","value":-0.1494},{"key":"tops","title":"Most weeks as top scorer","h":"butterygoop","name":"Black guys Piss","detail":"4 weeks on top","value":4},{"key":"streak","title":"Longest winning streak","h":"butterygoop","name":"Black guys Piss","detail":"9 straight","value":9},{"key":"high","title":"Highest single week","h":"butterygoop","name":"Black guys Piss","detail":"233.82 in week 12 against tony5469","value":233.82},{"key":"low","title":"Lowest single week","h":"jake188","name":"Trade Addict","detail":"71.02 in week 14 against Gibble on my Njigba\u2019s","value":71.02},{"key":"blowout","title":"Biggest blowout","h":"TuanonStan","name":"Dark Brandon","detail":"beat The 0 TE\u2019s by 120.28 in week 5","value":120.28},{"key":"closest","title":"Closest game","h":"jake188","name":"Trade Addict","detail":"beat Iced out by 0.42 in week 12","value":0.42},{"key":"hard_luck","title":"Most points in a loss","h":"butterygoop","name":"Black guys Piss","detail":"167.88 and still lost to The 0 TE\u2019s in week 17","value":167.88},{"key":"cheap_win","title":"Fewest points in a win","h":"Colt45Johnson","name":"Gibble on my Njigba\u2019s","detail":"won with 81.28 over Trade Addict in week 17","value":81.28}]},"2024":{"season":2024,"current":false,"format":{"teams":12,"reg_weeks":14,"playoff_weeks":[15,16,17],"scoring":"half PPR","era":"sleeper","games":98},"champion":"Colt45Johnson","runner_up":"brettmn13","third":"butterygoop","title_game":{"week":17,"a":"brettmn13","pa":135.5,"b":"Colt45Johnson","pb":203.96,"winner":"Colt45Johnson","aname":"Babayka","bname":"Gibble on my Njigba\u2019s"},"standings":[{"h":"brettmn13","w":11,"l":3,"t":0,"pf":2040.42,"pa":1695.7,"g":14,"pct":0.7857,"ppg":145.74,"allplay":[95,59],"allplay_pct":0.6169,"luck":0.1688,"tops":3,"streak":6,"name":"Babayka","seed":1,"pf_rank":2,"playoff":["Championship","Semifinal"]},{"h":"Colt45Johnson","w":10,"l":4,"t":0,"pf":2039.86,"pa":1845.22,"g":14,"pct":0.7143,"ppg":145.7,"allplay":[103,51],"allplay_pct":0.6688,"luck":0.0455,"tops":3,"streak":9,"name":"Gibble on my Njigba\u2019s","seed":2,"pf_rank":3,"playoff":["Championship","Semifinal"],"title":true},{"h":"DMsourbeer","w":10,"l":4,"t":0,"pf":2003.3,"pa":1773.94,"g":14,"pct":0.7143,"ppg":143.09,"allplay":[87,67],"allplay_pct":0.5649,"luck":0.1494,"tops":2,"streak":4,"name":"DMsourbeer","seed":3,"pf_rank":4,"playoff":["5th place","Quarterfinal"]},{"h":"Wallner","w":9,"l":5,"t":0,"pf":1866.7,"pa":1835.74,"g":14,"pct":0.6429,"ppg":133.34,"allplay":[87,67],"allplay_pct":0.5649,"luck":0.078,"tops":0,"streak":4,"name":"Big Nix Energy","seed":4,"pf_rank":7,"playoff":["5th place","Quarterfinal"]},{"h":"butterygoop","w":8,"l":6,"t":0,"pf":2072.6,"pa":1889.66,"g":14,"pct":0.5714,"ppg":148.04,"allplay":[113,41],"allplay_pct":0.7338,"luck":-0.1624,"tops":2,"streak":4,"name":"Black guys like tonay","seed":5,"pf_rank":1,"playoff":["3rd place","Quarterfinal","Semifinal"]},{"h":"JMiiTcHH6511","w":7,"l":7,"t":0,"pf":1896.88,"pa":1882.88,"g":14,"pct":0.5,"ppg":135.49,"allplay":[88,66],"allplay_pct":0.5714,"luck":-0.0714,"tops":1,"streak":3,"name":"Sorry4TheLoss","seed":6,"pf_rank":5,"playoff":["3rd place","Quarterfinal","Semifinal"]},{"h":"TuanonStan","w":7,"l":7,"t":0,"pf":1892.26,"pa":1894.08,"g":14,"pct":0.5,"ppg":135.16,"allplay":[76,78],"allplay_pct":0.4935,"luck":0.0065,"tops":2,"streak":3,"name":"Dark Brandon","seed":7,"pf_rank":6,"playoff":["Consolation"]},{"h":"BROCKSTARxD","w":6,"l":8,"t":0,"pf":1793.86,"pa":1899.6,"g":14,"pct":0.4286,"ppg":128.13,"allplay":[74,80],"allplay_pct":0.4805,"luck":-0.0519,"tops":0,"streak":3,"name":"BrockSTARS","seed":8,"pf_rank":9,"playoff":["Consolation"]},{"h":"LowFatSnack","w":5,"l":9,"t":0,"pf":1799.04,"pa":1944.18,"g":14,"pct":0.3571,"ppg":128.5,"allplay":[63,91],"allplay_pct":0.4091,"luck":-0.052,"tops":1,"streak":3,"name":"LowFatSnack","seed":9,"pf_rank":8,"playoff":["Consolation"]},{"h":"jake188","w":5,"l":9,"t":0,"pf":1710.22,"pa":1759.9,"g":14,"pct":0.3571,"ppg":122.16,"allplay":[63,91],"allplay_pct":0.4091,"luck":-0.052,"tops":0,"streak":1,"name":"Trade Addict","seed":10,"pf_rank":10,"playoff":["Consolation"]},{"h":"Jbird531","w":5,"l":9,"t":0,"pf":1672.98,"pa":1821.48,"g":14,"pct":0.3571,"ppg":119.5,"allplay":[56,98],"allplay_pct":0.3636,"luck":-0.0065,"tops":0,"streak":3,"name":"Pronoun police","seed":11,"pf_rank":11,"playoff":["Consolation"]},{"h":"tony5469","w":1,"l":13,"t":0,"pf":1378.4,"pa":1924.14,"g":14,"pct":0.0714,"ppg":98.46,"allplay":[19,135],"allplay_pct":0.1234,"luck":-0.052,"tops":0,"streak":1,"name":"tony5469","seed":12,"pf_rank":12,"playoff":["Consolation"]}],"bracket":{"Consolation":[{"week":15,"a":"TuanonStan","pa":116.24,"b":"jake188","pb":137.74,"winner":"jake188","aname":"Dark Brandon","bname":"Trade Addict"},{"week":15,"a":"BROCKSTARxD","pa":109.5,"b":"LowFatSnack","pb":119.52,"winner":"LowFatSnack","aname":"BrockSTARS","bname":"LowFatSnack"},{"week":16,"a":"Jbird531","pa":161.34,"b":"BROCKSTARxD","pb":127.94,"winner":"Jbird531","aname":"Pronoun police","bname":"BrockSTARS"},{"week":16,"a":"TuanonStan","pa":77.74,"b":"tony5469","pb":109.34,"winner":"tony5469","aname":"Dark Brandon","bname":"tony5469"},{"week":16,"a":"jake188","pa":168.72,"b":"LowFatSnack","pb":126.86,"winner":"jake188","aname":"Trade Addict","bname":"LowFatSnack"},{"week":17,"a":"Jbird531","pa":118.68,"b":"tony5469","pb":104.22,"winner":"Jbird531","aname":"Pronoun police","bname":"tony5469"},{"week":17,"a":"TuanonStan","pa":101.32,"b":"BROCKSTARxD","pb":187.34,"winner":"BROCKSTARxD","aname":"Dark Brandon","bname":"BrockSTARS"}],"Quarterfinal":[{"week":15,"a":"butterygoop","pa":203.52,"b":"Wallner","pb":149.7,"winner":"butterygoop","aname":"Black guys like tonay","bname":"Big Nix Energy"},{"week":15,"a":"DMsourbeer","pa":133.52,"b":"JMiiTcHH6511","pb":179.12,"winner":"JMiiTcHH6511","aname":"DMsourbeer","bname":"Sorry4TheLoss"}],"Semifinal":[{"week":16,"a":"brettmn13","pa":180.64,"b":"JMiiTcHH6511","pb":171.92,"winner":"brettmn13","aname":"Babayka","bname":"Sorry4TheLoss"},{"week":16,"a":"butterygoop","pa":157.32,"b":"Colt45Johnson","pb":185.56,"winner":"Colt45Johnson","aname":"Black guys like tonay","bname":"Gibble on my Njigba\u2019s"}],"5th place":[{"week":16,"a":"Wallner","pa":159.5,"b":"DMsourbeer","pb":183.06,"winner":"DMsourbeer","aname":"Big Nix Energy","bname":"DMsourbeer"}],"Championship":[{"week":17,"a":"brettmn13","pa":135.5,"b":"Colt45Johnson","pb":203.96,"winner":"Colt45Johnson","aname":"Babayka","bname":"Gibble on my Njigba\u2019s"}],"3rd place":[{"week":17,"a":"butterygoop","pa":178.08,"b":"JMiiTcHH6511","pb":111.44,"winner":"butterygoop","aname":"Black guys like tonay","bname":"Sorry4TheLoss"}]},"awards":[{"key":"record","title":"Best record","h":"brettmn13","name":"Babayka","detail":"11-3","value":0.7857},{"key":"points","title":"Most points","h":"butterygoop","name":"Black guys like tonay","detail":"2072.6 points, 148.04 a game","value":2072.6},{"key":"fewest_points","title":"Fewest points","h":"tony5469","name":"tony5469","detail":"1378.4 points, 98.46 a game","value":1378.4},{"key":"toughest","title":"Toughest schedule","h":"LowFatSnack","name":"LowFatSnack","detail":"1944.18 points against","value":1944.18},{"key":"easiest","title":"Easiest schedule","h":"brettmn13","name":"Babayka","detail":"1695.7 points against","value":1695.7},{"key":"lucky","title":"Luckiest schedule","h":"brettmn13","name":"Babayka","detail":"11-3 with an all-play record of 95-59","value":0.1688},{"key":"unlucky","title":"Unluckiest schedule","h":"butterygoop","name":"Black guys like tonay","detail":"8-6 with an all-play record of 113-41","value":-0.1624},{"key":"tops","title":"Most weeks as top scorer","h":"brettmn13","name":"Babayka","detail":"3 weeks on top","value":3},{"key":"streak","title":"Longest winning streak","h":"Colt45Johnson","name":"Gibble on my Njigba\u2019s","detail":"9 straight","value":9},{"key":"high","title":"Highest single week","h":"DMsourbeer","name":"DMsourbeer","detail":"217.56 in week 9 against Black guys like tonay","value":217.56},{"key":"low","title":"Lowest single week","h":"tony5469","name":"tony5469","detail":"58.78 in week 2 against Dark Brandon","value":58.78},{"key":"blowout","title":"Biggest blowout","h":"brettmn13","name":"Babayka","detail":"beat LowFatSnack by 91.3 in week 11","value":91.3},{"key":"closest","title":"Closest game","h":"Colt45Johnson","name":"Gibble on my Njigba\u2019s","detail":"beat Sorry4TheLoss by 0.56 in week 6","value":0.56},{"key":"hard_luck","title":"Most points in a loss","h":"JMiiTcHH6511","name":"Sorry4TheLoss","detail":"171.92 and still lost to Babayka in week 16","value":171.92},{"key":"cheap_win","title":"Fewest points in a win","h":"jake188","name":"Trade Addict","detail":"won with 94.88 over Gibble on my Njigba\u2019s in week 1","value":94.88}]},"2025":{"season":2025,"current":false,"format":{"teams":12,"reg_weeks":14,"playoff_weeks":[15,16,17],"scoring":"half PPR","era":"sleeper","games":98},"champion":"butterygoop","runner_up":"TuanonStan","third":"brettmn13","title_game":{"week":17,"a":"TuanonStan","pa":90.36,"b":"butterygoop","pb":141.64,"winner":"butterygoop","aname":"Dark Brandon","bname":"Black guys like tonay"},"standings":[{"h":"butterygoop","w":12,"l":2,"t":0,"pf":2326.98,"pa":1739.28,"g":14,"pct":0.8571,"ppg":166.21,"allplay":[131,23],"allplay_pct":0.8506,"luck":0.0065,"tops":4,"streak":6,"name":"Black guys like tonay","seed":1,"pf_rank":1,"playoff":["Championship","Semifinal"],"title":true},{"h":"Colt45Johnson","w":11,"l":3,"t":0,"pf":2188.32,"pa":1738.58,"g":14,"pct":0.7857,"ppg":156.31,"allplay":[108,46],"allplay_pct":0.7013,"luck":0.0844,"tops":2,"streak":6,"name":"Gibble on my Njigba\u2019s","seed":2,"pf_rank":2,"playoff":["3rd place","Semifinal"]},{"h":"DMsourbeer","w":10,"l":4,"t":0,"pf":2151.66,"pa":1884.14,"g":14,"pct":0.7143,"ppg":153.69,"allplay":[113,41],"allplay_pct":0.7338,"luck":-0.0195,"tops":5,"streak":6,"name":"DMsourbeer","seed":3,"pf_rank":3,"playoff":["5th place","Quarterfinal"]},{"h":"BROCKSTARxD","w":10,"l":4,"t":0,"pf":1938.74,"pa":1747.56,"g":14,"pct":0.7143,"ppg":138.48,"allplay":[93,61],"allplay_pct":0.6039,"luck":0.1104,"tops":1,"streak":5,"name":"BrockSTARS","seed":4,"pf_rank":4,"playoff":["5th place","Quarterfinal"]},{"h":"TuanonStan","w":9,"l":5,"t":0,"pf":1846.46,"pa":1839.46,"g":14,"pct":0.6429,"ppg":131.89,"allplay":[76,78],"allplay_pct":0.4935,"luck":0.1494,"tops":0,"streak":3,"name":"Dark Brandon","seed":5,"pf_rank":6,"playoff":["Championship","Quarterfinal","Semifinal"]},{"h":"brettmn13","w":7,"l":7,"t":0,"pf":1808.64,"pa":1910.84,"g":14,"pct":0.5,"ppg":129.19,"allplay":[66,87],"allplay_pct":0.4314,"luck":0.0686,"tops":1,"streak":3,"name":"Babayka","seed":6,"pf_rank":8,"playoff":["3rd place","Quarterfinal","Semifinal"]},{"h":"Wallner","w":6,"l":8,"t":0,"pf":1925.0,"pa":2003.12,"g":14,"pct":0.4286,"ppg":137.5,"allplay":[90,63],"allplay_pct":0.5882,"luck":-0.1596,"tops":0,"streak":3,"name":"Big Nix Energy","seed":7,"pf_rank":5,"playoff":["Consolation"]},{"h":"jake188","w":6,"l":8,"t":0,"pf":1844.78,"pa":2029.66,"g":14,"pct":0.4286,"ppg":131.77,"allplay":[75,79],"allplay_pct":0.487,"luck":-0.0584,"tops":1,"streak":2,"name":"Trade Addict","seed":8,"pf_rank":7,"playoff":["Consolation"]},{"h":"Jbird531","w":4,"l":10,"t":0,"pf":1736.02,"pa":1890.0,"g":14,"pct":0.2857,"ppg":124.0,"allplay":[59,95],"allplay_pct":0.3831,"luck":-0.0974,"tops":0,"streak":1,"name":"Pronoun police","seed":9,"pf_rank":9,"playoff":["Consolation"]},{"h":"JMiiTcHH6511","w":4,"l":10,"t":0,"pf":1589.26,"pa":1859.48,"g":14,"pct":0.2857,"ppg":113.52,"allplay":[41,113],"allplay_pct":0.2662,"luck":0.0195,"tops":0,"streak":1,"name":"Sorry4TheLoss","seed":10,"pf_rank":11,"playoff":["Consolation"]},{"h":"triccster","w":3,"l":11,"t":0,"pf":1651.92,"pa":1883.34,"g":14,"pct":0.2143,"ppg":117.99,"allplay":[54,100],"allplay_pct":0.3506,"luck":-0.1363,"tops":0,"streak":2,"name":"triccster","seed":11,"pf_rank":10,"playoff":["Consolation"]},{"h":"LowFatSnack","w":2,"l":12,"t":0,"pf":1315.04,"pa":1797.36,"g":14,"pct":0.1429,"ppg":93.93,"allplay":[17,137],"allplay_pct":0.1104,"luck":0.0325,"tops":0,"streak":1,"name":"LowFatSnack","seed":12,"pf_rank":12,"playoff":["Consolation"]}],"bracket":{"Consolation":[{"week":15,"a":"Jbird531","pa":125.1,"b":"jake188","pb":105.64,"winner":"Jbird531","aname":"Pronoun police","bname":"Trade Addict"},{"week":15,"a":"Wallner","pa":147.48,"b":"JMiiTcHH6511","pb":90.94,"winner":"Wallner","aname":"Big Nix Energy","bname":"Sorry4TheLoss"},{"week":16,"a":"Jbird531","pa":126.92,"b":"Wallner","pb":110.52,"winner":"Jbird531","aname":"Pronoun police","bname":"Big Nix Energy"},{"week":16,"a":"jake188","pa":167.6,"b":"LowFatSnack","pb":65.22,"winner":"jake188","aname":"Trade Addict","bname":"LowFatSnack"},{"week":16,"a":"JMiiTcHH6511","pa":91.0,"b":"triccster","pb":155.08,"winner":"triccster","aname":"Sorry4TheLoss","bname":"triccster"},{"week":17,"a":"jake188","pa":136.32,"b":"triccster","pb":87.0,"winner":"jake188","aname":"Trade Addict","bname":"triccster"},{"week":17,"a":"LowFatSnack","pa":78.14,"b":"JMiiTcHH6511","pb":83.42,"winner":"JMiiTcHH6511","aname":"LowFatSnack","bname":"Sorry4TheLoss"}],"Quarterfinal":[{"week":15,"a":"TuanonStan","pa":177.02,"b":"BROCKSTARxD","pb":139.34,"winner":"TuanonStan","aname":"Dark Brandon","bname":"BrockSTARS"},{"week":15,"a":"brettmn13","pa":169.12,"b":"DMsourbeer","pb":168.2,"winner":"brettmn13","aname":"Babayka","bname":"DMsourbeer"}],"Semifinal":[{"week":16,"a":"TuanonStan","pa":206.38,"b":"Colt45Johnson","pb":174.52,"winner":"TuanonStan","aname":"Dark Brandon","bname":"Gibble on my Njigba\u2019s"},{"week":16,"a":"brettmn13","pa":106.44,"b":"butterygoop","pb":130.58,"winner":"butterygoop","aname":"Babayka","bname":"Black guys like tonay"}],"5th place":[{"week":16,"a":"BROCKSTARxD","pa":138.5,"b":"DMsourbeer","pb":129.62,"winner":"BROCKSTARxD","aname":"BrockSTARS","bname":"DMsourbeer"}],"Championship":[{"week":17,"a":"TuanonStan","pa":90.36,"b":"butterygoop","pb":141.64,"winner":"butterygoop","aname":"Dark Brandon","bname":"Black guys like tonay"}],"3rd place":[{"week":17,"a":"brettmn13","pa":140.28,"b":"Colt45Johnson","pb":126.78,"winner":"brettmn13","aname":"Babayka","bname":"Gibble on my Njigba\u2019s"}]},"awards":[{"key":"record","title":"Best record","h":"butterygoop","name":"Black guys like tonay","detail":"12-2","value":0.8571},{"key":"points","title":"Most points","h":"butterygoop","name":"Black guys like tonay","detail":"2326.98 points, 166.21 a game","value":2326.98},{"key":"fewest_points","title":"Fewest points","h":"LowFatSnack","name":"LowFatSnack","detail":"1315.04 points, 93.93 a game","value":1315.04},{"key":"toughest","title":"Toughest schedule","h":"jake188","name":"Trade Addict","detail":"2029.66 points against","value":2029.66},{"key":"easiest","title":"Easiest schedule","h":"Colt45Johnson","name":"Gibble on my Njigba\u2019s","detail":"1738.58 points against","value":1738.58},{"key":"lucky","title":"Luckiest schedule","h":"TuanonStan","name":"Dark Brandon","detail":"9-5 with an all-play record of 76-78","value":0.1494},{"key":"unlucky","title":"Unluckiest schedule","h":"Wallner","name":"Big Nix Energy","detail":"6-8 with an all-play record of 90-63","value":-0.1596},{"key":"tops","title":"Most weeks as top scorer","h":"DMsourbeer","name":"DMsourbeer","detail":"5 weeks on top","value":5},{"key":"streak","title":"Longest winning streak","h":"butterygoop","name":"Black guys like tonay","detail":"6 straight","value":6},{"key":"high","title":"Highest single week","h":"butterygoop","name":"Black guys like tonay","detail":"205.88 in week 11 against Dark Brandon","value":205.88},{"key":"low","title":"Lowest single week","h":"LowFatSnack","name":"LowFatSnack","detail":"43.9 in week 9 against Black guys like tonay","value":43.9},{"key":"blowout","title":"Biggest blowout","h":"butterygoop","name":"Black guys like tonay","detail":"beat LowFatSnack by 115.48 in week 9","value":115.48},{"key":"closest","title":"Closest game","h":"Colt45Johnson","name":"Gibble on my Njigba\u2019s","detail":"beat Babayka by 0.86 in week 9","value":0.86},{"key":"hard_luck","title":"Most points in a loss","h":"Colt45Johnson","name":"Gibble on my Njigba\u2019s","detail":"174.52 and still lost to Dark Brandon in week 16","value":174.52},{"key":"cheap_win","title":"Fewest points in a win","h":"JMiiTcHH6511","name":"Sorry4TheLoss","detail":"won with 83.42 over LowFatSnack in week 17","value":83.42}]},"2026":{"season":2026,"current":true,"format":{"teams":12,"reg_weeks":9,"playoff_weeks":[],"scoring":"half PPR","era":"sleeper","games":54},"champion":null,"runner_up":null,"third":null,"title_game":null,"standings":[{"h":"butterygoop","w":9,"l":0,"t":0,"pf":1591.86,"pa":1015.2,"g":9,"pct":1.0,"ppg":176.87,"allplay":[92,7],"allplay_pct":0.9293,"luck":0.0707,"tops":5,"streak":9,"name":"Black guys like tonay","seed":1,"pf_rank":1,"playoff":[]},{"h":"Colt45Johnson","w":8,"l":1,"t":0,"pf":1519.06,"pa":1130.54,"g":9,"pct":0.8889,"ppg":168.78,"allplay":[86,13],"allplay_pct":0.8687,"luck":0.0202,"tops":3,"streak":7,"name":"Gibble on my Njigba\u2019s","seed":2,"pf_rank":2,"playoff":[]},{"h":"TuanonStan","w":6,"l":3,"t":0,"pf":1282.68,"pa":1254.72,"g":9,"pct":0.6667,"ppg":142.52,"allplay":[62,37],"allplay_pct":0.6263,"luck":0.0404,"tops":1,"streak":4,"name":"Dark Brandon","seed":3,"pf_rank":3,"playoff":[]},{"h":"HillBillyWorm","w":6,"l":3,"t":0,"pf":1268.96,"pa":1152.12,"g":9,"pct":0.6667,"ppg":141.0,"allplay":[62,37],"allplay_pct":0.6263,"luck":0.0404,"tops":0,"streak":3,"name":"Let\u2019s go Trump Ocean","seed":4,"pf_rank":4,"playoff":[]},{"h":"Wallner","w":5,"l":4,"t":0,"pf":1209.64,"pa":1163.5,"g":9,"pct":0.5556,"ppg":134.4,"allplay":[51,48],"allplay_pct":0.5152,"luck":0.0404,"tops":0,"streak":3,"name":"Big Nix Energy","seed":5,"pf_rank":5,"playoff":[]},{"h":"triccster","w":4,"l":5,"t":0,"pf":1166.56,"pa":1270.06,"g":9,"pct":0.4444,"ppg":129.62,"allplay":[50,49],"allplay_pct":0.5051,"luck":-0.0607,"tops":0,"streak":4,"name":"triccster","seed":6,"pf_rank":6,"playoff":[]},{"h":"DMsourbeer","w":4,"l":5,"t":0,"pf":1115.28,"pa":1201.4,"g":9,"pct":0.4444,"ppg":123.92,"allplay":[38,61],"allplay_pct":0.3838,"luck":0.0606,"tops":0,"streak":2,"name":"DMsourbeer","seed":7,"pf_rank":7,"playoff":[]},{"h":"Thnu","w":4,"l":5,"t":0,"pf":1052.8,"pa":1150.28,"g":9,"pct":0.4444,"ppg":116.98,"allplay":[38,61],"allplay_pct":0.3838,"luck":0.0606,"tops":0,"streak":3,"name":"Thnu","seed":8,"pf_rank":9,"playoff":[]},{"h":"brettmn13","w":3,"l":6,"t":0,"pf":1026.4,"pa":1206.94,"g":9,"pct":0.3333,"ppg":114.04,"allplay":[36,63],"allplay_pct":0.3636,"luck":-0.0303,"tops":0,"streak":2,"name":"Babayka","seed":9,"pf_rank":10,"playoff":[]},{"h":"BROCKSTARxD","w":2,"l":7,"t":0,"pf":1057.7,"pa":1218.5,"g":9,"pct":0.2222,"ppg":117.52,"allplay":[36,63],"allplay_pct":0.3636,"luck":-0.1414,"tops":0,"streak":1,"name":"BrockSTARS","seed":10,"pf_rank":8,"playoff":[]},{"h":"YoungBuck04","w":2,"l":7,"t":0,"pf":935.86,"pa":1197.4,"g":9,"pct":0.2222,"ppg":103.98,"allplay":[17,82],"allplay_pct":0.1717,"luck":0.0505,"tops":0,"streak":1,"name":"YoungBuck04","seed":11,"pf_rank":12,"playoff":[]},{"h":"Jbird531","w":1,"l":8,"t":0,"pf":978.2,"pa":1244.34,"g":9,"pct":0.1111,"ppg":108.69,"allplay":[26,73],"allplay_pct":0.2626,"luck":-0.1515,"tops":0,"streak":1,"name":"The dirty somalian","seed":12,"pf_rank":11,"playoff":[]}],"bracket":{},"awards":[{"key":"record","title":"Best record","h":"butterygoop","name":"Black guys like tonay","detail":"9-0","value":1.0},{"key":"points","title":"Most points","h":"butterygoop","name":"Black guys like tonay","detail":"1591.86 points, 176.87 a game","value":1591.86},{"key":"fewest_points","title":"Fewest points","h":"YoungBuck04","name":"YoungBuck04","detail":"935.86 points, 103.98 a game","value":935.86},{"key":"toughest","title":"Toughest schedule","h":"triccster","name":"triccster","detail":"1270.06 points against","value":1270.06},{"key":"easiest","title":"Easiest schedule","h":"butterygoop","name":"Black guys like tonay","detail":"1015.2 points against","value":1015.2},{"key":"lucky","title":"Luckiest schedule","h":"butterygoop","name":"Black guys like tonay","detail":"9-0 with an all-play record of 92-7","value":0.0707},{"key":"unlucky","title":"Unluckiest schedule","h":"Jbird531","name":"The dirty somalian","detail":"1-8 with an all-play record of 26-73","value":-0.1515},{"key":"tops","title":"Most weeks as top scorer","h":"butterygoop","name":"Black guys like tonay","detail":"5 weeks on top","value":5},{"key":"streak","title":"Longest winning streak","h":"butterygoop","name":"Black guys like tonay","detail":"9 straight","value":9},{"key":"high","title":"Highest single week","h":"butterygoop","name":"Black guys like tonay","detail":"209.4 in week 4 against Big Nix Energy","value":209.4},{"key":"low","title":"Lowest single week","h":"brettmn13","name":"Babayka","detail":"49.28 in week 9 against Gibble on my Njigba\u2019s","value":49.28},{"key":"blowout","title":"Biggest blowout","h":"butterygoop","name":"Black guys like tonay","detail":"beat Big Nix Energy by 95.66 in week 4","value":95.66},{"key":"closest","title":"Closest game","h":"YoungBuck04","name":"YoungBuck04","detail":"beat BrockSTARS by 0.46 in week 4","value":0.46},{"key":"hard_luck","title":"Most points in a loss","h":"Colt45Johnson","name":"Gibble on my Njigba\u2019s","detail":"173.44 and still lost to DMsourbeer in week 2","value":173.44},{"key":"cheap_win","title":"Fewest points in a win","h":"triccster","name":"triccster","detail":"won with 98.36 over Thnu in week 6","value":98.36}]}}}
+{
+ "generated": null,
+ "seasons": {
+  "2022": {
+   "season": 2022,
+   "current": false,
+   "format": {
+    "teams": 12,
+    "reg_weeks": 14,
+    "playoff_weeks": [
+     15,
+     16,
+     17
+    ],
+    "scoring": "half PPR",
+    "era": "sleeper",
+    "games": 98
+   },
+   "champion": "BROCKSTARxD",
+   "runner_up": "Colt45Johnson",
+   "third": "tony5469",
+   "title_game": {
+    "week": 17,
+    "a": "BROCKSTARxD",
+    "pa": 123.96,
+    "b": "Colt45Johnson",
+    "pb": 106.34,
+    "winner": "BROCKSTARxD",
+    "aname": "Sleepy Joe’s",
+    "bname": "Tank Treyn"
+   },
+   "title_lineups": {
+    "BROCKSTARxD": {
+     "name": "Sleepy Joe’s",
+     "starters": [
+      {
+       "pos": "QB",
+       "n": "Daniel Jones",
+       "pts": 36.18
+      },
+      {
+       "pos": "QB",
+       "n": "Joe Burrow",
+       "pts": 6.28
+      },
+      {
+       "pos": "RB",
+       "n": "Christian McCaffrey",
+       "pts": 31.3
+      },
+      {
+       "pos": "RB",
+       "n": "Saquon Barkley",
+       "pts": 7.3
+      },
+      {
+       "pos": "WR",
+       "n": "Courtland Sutton",
+       "pts": 8.4
+      },
+      {
+       "pos": "WR",
+       "n": "Chris Moore",
+       "pts": 5.1
+      },
+      {
+       "pos": "WR",
+       "n": "Tyler Lockett",
+       "pts": 3.5
+      },
+      {
+       "pos": "TE",
+       "n": "Travis Kelce",
+       "pts": 14.8
+      },
+      {
+       "pos": "TE",
+       "n": "Tyler Higbee",
+       "pts": 5.6
+      },
+      {
+       "pos": "TE",
+       "n": "Hayden Hurst",
+       "pts": 5.5
+      }
+     ],
+     "total": 123.96,
+     "best": {
+      "pos": "QB",
+      "n": "Daniel Jones",
+      "pts": 36.18
+     },
+     "worst": {
+      "pos": "WR",
+      "n": "Tyler Lockett",
+      "pts": 3.5
+     }
+    },
+    "Colt45Johnson": {
+     "name": "Tank Treyn",
+     "starters": [
+      {
+       "pos": "QB",
+       "n": "Teddy Bridgewater",
+       "pts": 10.04
+      },
+      {
+       "pos": "QB",
+       "n": "Mike White",
+       "pts": 4.6
+      },
+      {
+       "pos": "RB",
+       "n": "Najee Harris",
+       "pts": 20.3
+      },
+      {
+       "pos": "RB",
+       "n": "Alvin Kamara",
+       "pts": 9.0
+      },
+      {
+       "pos": "RB",
+       "n": "Miles Sanders",
+       "pts": 6.1
+      },
+      {
+       "pos": "RB",
+       "n": "Michael Carter",
+       "pts": 2.5
+      },
+      {
+       "pos": "WR",
+       "n": "CeeDee Lamb",
+       "pts": 21.0
+      },
+      {
+       "pos": "WR",
+       "n": "Amon-Ra St. Brown",
+       "pts": 10.2
+      },
+      {
+       "pos": "WR",
+       "n": "Donovan Peoples-Jones",
+       "pts": 8.3
+      },
+      {
+       "pos": "TE",
+       "n": "George Kittle",
+       "pts": 14.3
+      }
+     ],
+     "total": 106.34,
+     "best": {
+      "pos": "WR",
+      "n": "CeeDee Lamb",
+      "pts": 21.0
+     },
+     "worst": {
+      "pos": "RB",
+      "n": "Michael Carter",
+      "pts": 2.5
+     }
+    }
+   },
+   "standings": [
+    {
+     "h": "tony5469",
+     "w": 10,
+     "l": 4,
+     "t": 0,
+     "pf": 2066.3,
+     "pa": 1765.44,
+     "g": 14,
+     "pct": 0.7143,
+     "ppg": 147.59,
+     "allplay": [
+      105,
+      49
+     ],
+     "allplay_pct": 0.6818,
+     "luck": 0.0325,
+     "tops": 0,
+     "streak": 6,
+     "name": "tony5469",
+     "seed": 1,
+     "pf_rank": 2,
+     "playoff": [
+      "3rd place",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "BROCKSTARxD",
+     "w": 9,
+     "l": 5,
+     "t": 0,
+     "pf": 2048.1,
+     "pa": 1894.5,
+     "g": 14,
+     "pct": 0.6429,
+     "ppg": 146.29,
+     "allplay": [
+      109,
+      45
+     ],
+     "allplay_pct": 0.7078,
+     "luck": -0.0649,
+     "tops": 3,
+     "streak": 3,
+     "name": "Sleepy Joe’s",
+     "seed": 2,
+     "pf_rank": 3,
+     "playoff": [
+      "Championship",
+      "Semifinal"
+     ],
+     "title": true
+    },
+    {
+     "h": "LowFatSnack",
+     "w": 9,
+     "l": 5,
+     "t": 0,
+     "pf": 1892.72,
+     "pa": 1720.3,
+     "g": 14,
+     "pct": 0.6429,
+     "ppg": 135.19,
+     "allplay": [
+      82,
+      72
+     ],
+     "allplay_pct": 0.5325,
+     "luck": 0.1104,
+     "tops": 2,
+     "streak": 5,
+     "name": "LowFatSnack",
+     "seed": 3,
+     "pf_rank": 4,
+     "playoff": [
+      "5th place",
+      "Quarterfinal"
+     ]
+    },
+    {
+     "h": "JMiiTcHH6511",
+     "w": 9,
+     "l": 5,
+     "t": 0,
+     "pf": 1872.96,
+     "pa": 1682.22,
+     "g": 14,
+     "pct": 0.6429,
+     "ppg": 133.78,
+     "allplay": [
+      82,
+      72
+     ],
+     "allplay_pct": 0.5325,
+     "luck": 0.1104,
+     "tops": 1,
+     "streak": 6,
+     "name": "iMSoooooTrAsHH",
+     "seed": 4,
+     "pf_rank": 5,
+     "playoff": [
+      "5th place",
+      "Quarterfinal"
+     ]
+    },
+    {
+     "h": "DMsourbeer",
+     "w": 8,
+     "l": 6,
+     "t": 0,
+     "pf": 2090.6,
+     "pa": 1991.42,
+     "g": 14,
+     "pct": 0.5714,
+     "ppg": 149.33,
+     "allplay": [
+      115,
+      39
+     ],
+     "allplay_pct": 0.7468,
+     "luck": -0.1754,
+     "tops": 5,
+     "streak": 4,
+     "name": "DMsourbeer",
+     "seed": 5,
+     "pf_rank": 1,
+     "playoff": [
+      "3rd place",
+      "Quarterfinal",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "Colt45Johnson",
+     "w": 8,
+     "l": 6,
+     "t": 0,
+     "pf": 1860.36,
+     "pa": 1737.6,
+     "g": 14,
+     "pct": 0.5714,
+     "ppg": 132.88,
+     "allplay": [
+      80,
+      74
+     ],
+     "allplay_pct": 0.5195,
+     "luck": 0.0519,
+     "tops": 1,
+     "streak": 4,
+     "name": "Tank Treyn",
+     "seed": 6,
+     "pf_rank": 6,
+     "playoff": [
+      "Championship",
+      "Quarterfinal",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "Jbird531",
+     "w": 6,
+     "l": 8,
+     "t": 0,
+     "pf": 1794.66,
+     "pa": 1906.54,
+     "g": 14,
+     "pct": 0.4286,
+     "ppg": 128.19,
+     "allplay": [
+      75,
+      79
+     ],
+     "allplay_pct": 0.487,
+     "luck": -0.0584,
+     "tops": 1,
+     "streak": 4,
+     "name": "Jbird531",
+     "seed": 7,
+     "pf_rank": 8,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "Wallner",
+     "w": 6,
+     "l": 8,
+     "t": 0,
+     "pf": 1729.7,
+     "pa": 1870.96,
+     "g": 14,
+     "pct": 0.4286,
+     "ppg": 123.55,
+     "allplay": [
+      64,
+      90
+     ],
+     "allplay_pct": 0.4156,
+     "luck": 0.013,
+     "tops": 1,
+     "streak": 3,
+     "name": "The 0 TE’s",
+     "seed": 8,
+     "pf_rank": 9,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "brettmn13",
+     "w": 6,
+     "l": 8,
+     "t": 0,
+     "pf": 1699.34,
+     "pa": 1787.84,
+     "g": 14,
+     "pct": 0.4286,
+     "ppg": 121.38,
+     "allplay": [
+      53,
+      101
+     ],
+     "allplay_pct": 0.3442,
+     "luck": 0.0844,
+     "tops": 0,
+     "streak": 2,
+     "name": "Iced out",
+     "seed": 9,
+     "pf_rank": 10,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "butterygoop",
+     "w": 5,
+     "l": 9,
+     "t": 0,
+     "pf": 1822.72,
+     "pa": 1963.8,
+     "g": 14,
+     "pct": 0.3571,
+     "ppg": 130.19,
+     "allplay": [
+      80,
+      74
+     ],
+     "allplay_pct": 0.5195,
+     "luck": -0.1624,
+     "tops": 0,
+     "streak": 2,
+     "name": "Black guys Piss",
+     "seed": 10,
+     "pf_rank": 7,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "TuanonStan",
+     "w": 5,
+     "l": 9,
+     "t": 0,
+     "pf": 1607.88,
+     "pa": 1772.28,
+     "g": 14,
+     "pct": 0.3571,
+     "ppg": 114.85,
+     "allplay": [
+      41,
+      113
+     ],
+     "allplay_pct": 0.2662,
+     "luck": 0.0909,
+     "tops": 0,
+     "streak": 2,
+     "name": "Jan 6th Survivor",
+     "seed": 11,
+     "pf_rank": 11,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "jake188",
+     "w": 3,
+     "l": 11,
+     "t": 0,
+     "pf": 1587.64,
+     "pa": 1980.08,
+     "g": 14,
+     "pct": 0.2143,
+     "ppg": 113.4,
+     "allplay": [
+      38,
+      116
+     ],
+     "allplay_pct": 0.2468,
+     "luck": -0.0325,
+     "tops": 0,
+     "streak": 2,
+     "name": "Trade Addict",
+     "seed": 12,
+     "pf_rank": 12,
+     "playoff": [
+      "Consolation"
+     ]
+    }
+   ],
+   "bracket": {
+    "Consolation": [
+     {
+      "week": 15,
+      "a": "Jbird531",
+      "pa": 97.52,
+      "b": "butterygoop",
+      "pb": 175.4,
+      "winner": "butterygoop",
+      "aname": "Jbird531",
+      "bname": "Black guys Piss"
+     },
+     {
+      "week": 15,
+      "a": "brettmn13",
+      "pa": 154.24,
+      "b": "Wallner",
+      "pb": 96.96,
+      "winner": "brettmn13",
+      "aname": "Iced out",
+      "bname": "The 0 TE’s"
+     },
+     {
+      "week": 16,
+      "a": "Jbird531",
+      "pa": 145.44,
+      "b": "jake188",
+      "pb": 98.76,
+      "winner": "Jbird531",
+      "aname": "Jbird531",
+      "bname": "Trade Addict"
+     },
+     {
+      "week": 16,
+      "a": "TuanonStan",
+      "pa": 139.26,
+      "b": "Wallner",
+      "pb": 84.5,
+      "winner": "TuanonStan",
+      "aname": "Jan 6th Survivor",
+      "bname": "The 0 TE’s"
+     },
+     {
+      "week": 16,
+      "a": "brettmn13",
+      "pa": 110.76,
+      "b": "butterygoop",
+      "pb": 118.8,
+      "winner": "butterygoop",
+      "aname": "Iced out",
+      "bname": "Black guys Piss"
+     },
+     {
+      "week": 17,
+      "a": "Jbird531",
+      "pa": 132.08,
+      "b": "TuanonStan",
+      "pb": 123.72,
+      "winner": "Jbird531",
+      "aname": "Jbird531",
+      "bname": "Jan 6th Survivor"
+     },
+     {
+      "week": 17,
+      "a": "Wallner",
+      "pa": 152.38,
+      "b": "jake188",
+      "pb": 92.96,
+      "winner": "Wallner",
+      "aname": "The 0 TE’s",
+      "bname": "Trade Addict"
+     }
+    ],
+    "Quarterfinal": [
+     {
+      "week": 15,
+      "a": "DMsourbeer",
+      "pa": 174.44,
+      "b": "JMiiTcHH6511",
+      "pb": 123.16,
+      "winner": "DMsourbeer",
+      "aname": "DMsourbeer",
+      "bname": "iMSoooooTrAsHH"
+     },
+     {
+      "week": 15,
+      "a": "Colt45Johnson",
+      "pa": 153.64,
+      "b": "LowFatSnack",
+      "pb": 121.78,
+      "winner": "Colt45Johnson",
+      "aname": "Tank Treyn",
+      "bname": "LowFatSnack"
+     }
+    ],
+    "Semifinal": [
+     {
+      "week": 16,
+      "a": "BROCKSTARxD",
+      "pa": 167.96,
+      "b": "DMsourbeer",
+      "pb": 150.76,
+      "winner": "BROCKSTARxD",
+      "aname": "Sleepy Joe’s",
+      "bname": "DMsourbeer"
+     },
+     {
+      "week": 16,
+      "a": "Colt45Johnson",
+      "pa": 137.98,
+      "b": "tony5469",
+      "pb": 134.14,
+      "winner": "Colt45Johnson",
+      "aname": "Tank Treyn",
+      "bname": "tony5469"
+     }
+    ],
+    "5th place": [
+     {
+      "week": 16,
+      "a": "LowFatSnack",
+      "pa": 97.6,
+      "b": "JMiiTcHH6511",
+      "pb": 171.22,
+      "winner": "JMiiTcHH6511",
+      "aname": "LowFatSnack",
+      "bname": "iMSoooooTrAsHH"
+     }
+    ],
+    "Championship": [
+     {
+      "week": 17,
+      "a": "BROCKSTARxD",
+      "pa": 123.96,
+      "b": "Colt45Johnson",
+      "pb": 106.34,
+      "winner": "BROCKSTARxD",
+      "aname": "Sleepy Joe’s",
+      "bname": "Tank Treyn"
+     }
+    ],
+    "3rd place": [
+     {
+      "week": 17,
+      "a": "DMsourbeer",
+      "pa": 150.44,
+      "b": "tony5469",
+      "pb": 152.24,
+      "winner": "tony5469",
+      "aname": "DMsourbeer",
+      "bname": "tony5469"
+     }
+    ]
+   },
+   "awards": [
+    {
+     "key": "mvp",
+     "title": "MVP",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "player": "Patrick Mahomes",
+     "pos": "QB",
+     "detail": "Patrick Mahomes (QB) scored 424.4 in 17 starts for DMsourbeer",
+     "value": 424.4
+    },
+    {
+     "key": "most_valuable",
+     "title": "Most valuable to his team",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "player": "Josh Allen",
+     "pos": "QB",
+     "detail": "Josh Allen (QB) was 21.9% of Black guys Piss's starting points, 399.24 in 17 starts",
+     "value": 0.219
+    },
+    {
+     "key": "record",
+     "title": "Best record",
+     "h": "tony5469",
+     "name": "tony5469",
+     "detail": "10-4",
+     "value": 0.7143
+    },
+    {
+     "key": "points",
+     "title": "Most points",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "detail": "2090.6 points, 149.33 a game",
+     "value": 2090.6
+    },
+    {
+     "key": "fewest_points",
+     "title": "Fewest points",
+     "h": "jake188",
+     "name": "Trade Addict",
+     "detail": "1587.64 points, 113.4 a game",
+     "value": 1587.64
+    },
+    {
+     "key": "toughest",
+     "title": "Toughest schedule",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "detail": "1991.42 points against",
+     "value": 1991.42
+    },
+    {
+     "key": "easiest",
+     "title": "Easiest schedule",
+     "h": "JMiiTcHH6511",
+     "name": "iMSoooooTrAsHH",
+     "detail": "1682.22 points against",
+     "value": 1682.22
+    },
+    {
+     "key": "lucky",
+     "title": "Luckiest schedule",
+     "h": "LowFatSnack",
+     "name": "LowFatSnack",
+     "detail": "9-5 with an all-play record of 82-72",
+     "value": 0.1104
+    },
+    {
+     "key": "unlucky",
+     "title": "Unluckiest schedule",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "detail": "8-6 with an all-play record of 115-39",
+     "value": -0.1754
+    },
+    {
+     "key": "tops",
+     "title": "Most weeks as top scorer",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "detail": "5 weeks on top",
+     "value": 5
+    },
+    {
+     "key": "streak",
+     "title": "Longest winning streak",
+     "h": "tony5469",
+     "name": "tony5469",
+     "detail": "6 straight",
+     "value": 6
+    },
+    {
+     "key": "high",
+     "title": "Highest single week",
+     "h": "JMiiTcHH6511",
+     "name": "iMSoooooTrAsHH",
+     "detail": "214.64 in week 9 against Trade Addict",
+     "value": 214.64
+    },
+    {
+     "key": "low",
+     "title": "Lowest single week",
+     "h": "TuanonStan",
+     "name": "Jan 6th Survivor",
+     "detail": "78.82 in week 4 against Tank Treyn",
+     "value": 78.82
+    },
+    {
+     "key": "blowout",
+     "title": "Biggest blowout",
+     "h": "JMiiTcHH6511",
+     "name": "iMSoooooTrAsHH",
+     "detail": "beat Trade Addict by 118.54 in week 9",
+     "value": 118.54
+    },
+    {
+     "key": "closest",
+     "title": "Closest game",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "detail": "beat Sleepy Joe’s by 0.54 in week 6",
+     "value": 0.54
+    },
+    {
+     "key": "hard_luck",
+     "title": "Most points in a loss",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "detail": "180.94 and still lost to Sleepy Joe’s in week 5",
+     "value": 180.94
+    },
+    {
+     "key": "cheap_win",
+     "title": "Fewest points in a win",
+     "h": "jake188",
+     "name": "Trade Addict",
+     "detail": "won with 96.98 over LowFatSnack in week 14",
+     "value": 96.98
+    }
+   ]
+  },
+  "2023": {
+   "season": 2023,
+   "current": false,
+   "format": {
+    "teams": 12,
+    "reg_weeks": 14,
+    "playoff_weeks": [
+     15,
+     16,
+     17
+    ],
+    "scoring": "half PPR",
+    "era": "sleeper",
+    "games": 98
+   },
+   "champion": "Wallner",
+   "runner_up": "butterygoop",
+   "third": "TuanonStan",
+   "title_game": {
+    "week": 17,
+    "a": "butterygoop",
+    "pa": 167.88,
+    "b": "Wallner",
+    "pb": 184.0,
+    "winner": "Wallner",
+    "aname": "Black guys Piss",
+    "bname": "The 0 TE’s"
+   },
+   "title_lineups": {
+    "butterygoop": {
+     "name": "Black guys Piss",
+     "starters": [
+      {
+       "pos": "QB",
+       "n": "Josh Allen",
+       "pts": 20.16
+      },
+      {
+       "pos": "QB",
+       "n": "C.J. Stroud",
+       "pts": 12.92
+      },
+      {
+       "pos": "RB",
+       "n": "Kyren Williams",
+       "pts": 30.1
+      },
+      {
+       "pos": "RB",
+       "n": "Javonte Williams",
+       "pts": 8.8
+      },
+      {
+       "pos": "WR",
+       "n": "CeeDee Lamb",
+       "pts": 39.2
+      },
+      {
+       "pos": "WR",
+       "n": "Nico Collins",
+       "pts": 14.7
+      },
+      {
+       "pos": "WR",
+       "n": "A.J. Brown",
+       "pts": 9.3
+      },
+      {
+       "pos": "TE",
+       "n": "Sam LaPorta",
+       "pts": 18.9
+      },
+      {
+       "pos": "TE",
+       "n": "Trey McBride",
+       "pts": 13.8
+      },
+      {
+       "pos": "TE",
+       "n": "Cole Kmet",
+       "pts": 0
+      }
+     ],
+     "total": 167.88,
+     "best": {
+      "pos": "WR",
+      "n": "CeeDee Lamb",
+      "pts": 39.2
+     },
+     "worst": {
+      "pos": "TE",
+      "n": "Cole Kmet",
+      "pts": 0
+     }
+    },
+    "Wallner": {
+     "name": "The 0 TE’s",
+     "starters": [
+      {
+       "pos": "QB",
+       "n": "Lamar Jackson",
+       "pts": 36.34
+      },
+      {
+       "pos": "QB",
+       "n": "Mason Rudolph",
+       "pts": 11.46
+      },
+      {
+       "pos": "RB",
+       "n": "Jonathan Taylor",
+       "pts": 16.4
+      },
+      {
+       "pos": "RB",
+       "n": "Brian Robinson Jr.",
+       "pts": 11.6
+      },
+      {
+       "pos": "WR",
+       "n": "Brandon Aiyuk",
+       "pts": 24.4
+      },
+      {
+       "pos": "WR",
+       "n": "Puka Nacua",
+       "pts": 18.7
+      },
+      {
+       "pos": "WR",
+       "n": "Deebo Samuel Sr.",
+       "pts": 18.2
+      },
+      {
+       "pos": "WR",
+       "n": "Rashee Rice",
+       "pts": 17.7
+      },
+      {
+       "pos": "WR",
+       "n": "Mike Evans",
+       "pts": 10.0
+      },
+      {
+       "pos": "TE",
+       "n": "Isaiah Likely",
+       "pts": 19.2
+      }
+     ],
+     "total": 184.0,
+     "best": {
+      "pos": "QB",
+      "n": "Lamar Jackson",
+      "pts": 36.34
+     },
+     "worst": {
+      "pos": "WR",
+      "n": "Mike Evans",
+      "pts": 10.0
+     }
+    }
+   },
+   "standings": [
+    {
+     "h": "butterygoop",
+     "w": 11,
+     "l": 3,
+     "t": 0,
+     "pf": 2248.98,
+     "pa": 1742.9,
+     "g": 14,
+     "pct": 0.7857,
+     "ppg": 160.64,
+     "allplay": [
+      116,
+      38
+     ],
+     "allplay_pct": 0.7532,
+     "luck": 0.0325,
+     "tops": 4,
+     "streak": 9,
+     "name": "Black guys Piss",
+     "seed": 1,
+     "pf_rank": 1,
+     "playoff": [
+      "Championship",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "Wallner",
+     "w": 10,
+     "l": 4,
+     "t": 0,
+     "pf": 1888.46,
+     "pa": 1785.58,
+     "g": 14,
+     "pct": 0.7143,
+     "ppg": 134.89,
+     "allplay": [
+      94,
+      60
+     ],
+     "allplay_pct": 0.6104,
+     "luck": 0.1039,
+     "tops": 3,
+     "streak": 6,
+     "name": "The 0 TE’s",
+     "seed": 2,
+     "pf_rank": 5,
+     "playoff": [
+      "Championship",
+      "Semifinal"
+     ],
+     "title": true
+    },
+    {
+     "h": "TuanonStan",
+     "w": 9,
+     "l": 5,
+     "t": 0,
+     "pf": 2122.42,
+     "pa": 1900.1,
+     "g": 14,
+     "pct": 0.6429,
+     "ppg": 151.6,
+     "allplay": [
+      110,
+      44
+     ],
+     "allplay_pct": 0.7143,
+     "luck": -0.0714,
+     "tops": 3,
+     "streak": 3,
+     "name": "Dark Brandon",
+     "seed": 3,
+     "pf_rank": 2,
+     "playoff": [
+      "3rd place",
+      "Quarterfinal",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "tony5469",
+     "w": 8,
+     "l": 6,
+     "t": 0,
+     "pf": 1889.5,
+     "pa": 1888.48,
+     "g": 14,
+     "pct": 0.5714,
+     "ppg": 134.96,
+     "allplay": [
+      79,
+      75
+     ],
+     "allplay_pct": 0.513,
+     "luck": 0.0584,
+     "tops": 2,
+     "streak": 3,
+     "name": "tony5469",
+     "seed": 4,
+     "pf_rank": 4,
+     "playoff": [
+      "3rd place",
+      "Quarterfinal",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "BROCKSTARxD",
+     "w": 8,
+     "l": 6,
+     "t": 0,
+     "pf": 1841.82,
+     "pa": 1715.74,
+     "g": 14,
+     "pct": 0.5714,
+     "ppg": 131.56,
+     "allplay": [
+      80,
+      74
+     ],
+     "allplay_pct": 0.5195,
+     "luck": 0.0519,
+     "tops": 0,
+     "streak": 5,
+     "name": "Sleepy Joe’s",
+     "seed": 5,
+     "pf_rank": 6,
+     "playoff": [
+      "5th place",
+      "Quarterfinal"
+     ]
+    },
+    {
+     "h": "Jbird531",
+     "w": 7,
+     "l": 7,
+     "t": 0,
+     "pf": 2010.08,
+     "pa": 1954.84,
+     "g": 14,
+     "pct": 0.5,
+     "ppg": 143.58,
+     "allplay": [
+      100,
+      54
+     ],
+     "allplay_pct": 0.6494,
+     "luck": -0.1494,
+     "tops": 1,
+     "streak": 3,
+     "name": "Pronoun police",
+     "seed": 6,
+     "pf_rank": 3,
+     "playoff": [
+      "5th place",
+      "Quarterfinal"
+     ]
+    },
+    {
+     "h": "JMiiTcHH6511",
+     "w": 7,
+     "l": 7,
+     "t": 0,
+     "pf": 1808.12,
+     "pa": 1784.62,
+     "g": 14,
+     "pct": 0.5,
+     "ppg": 129.15,
+     "allplay": [
+      79,
+      75
+     ],
+     "allplay_pct": 0.513,
+     "luck": -0.013,
+     "tops": 0,
+     "streak": 4,
+     "name": "Sorry4TheLoss",
+     "seed": 7,
+     "pf_rank": 7,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "DMsourbeer",
+     "w": 6,
+     "l": 8,
+     "t": 0,
+     "pf": 1802.5,
+     "pa": 1774.76,
+     "g": 14,
+     "pct": 0.4286,
+     "ppg": 128.75,
+     "allplay": [
+      75,
+      79
+     ],
+     "allplay_pct": 0.487,
+     "luck": -0.0584,
+     "tops": 0,
+     "streak": 3,
+     "name": "DMsourbeer",
+     "seed": 8,
+     "pf_rank": 8,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "LowFatSnack",
+     "w": 5,
+     "l": 9,
+     "t": 0,
+     "pf": 1707.32,
+     "pa": 1895.66,
+     "g": 14,
+     "pct": 0.3571,
+     "ppg": 121.95,
+     "allplay": [
+      61,
+      93
+     ],
+     "allplay_pct": 0.3961,
+     "luck": -0.039,
+     "tops": 1,
+     "streak": 3,
+     "name": "LowFatSnack",
+     "seed": 9,
+     "pf_rank": 9,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "brettmn13",
+     "w": 5,
+     "l": 9,
+     "t": 0,
+     "pf": 1640.92,
+     "pa": 1750.78,
+     "g": 14,
+     "pct": 0.3571,
+     "ppg": 117.21,
+     "allplay": [
+      55,
+      99
+     ],
+     "allplay_pct": 0.3571,
+     "luck": 0.0,
+     "tops": 0,
+     "streak": 1,
+     "name": "Iced out",
+     "seed": 10,
+     "pf_rank": 10,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "Colt45Johnson",
+     "w": 5,
+     "l": 9,
+     "t": 0,
+     "pf": 1545.34,
+     "pa": 1859.56,
+     "g": 14,
+     "pct": 0.3571,
+     "ppg": 110.38,
+     "allplay": [
+      42,
+      112
+     ],
+     "allplay_pct": 0.2727,
+     "luck": 0.0844,
+     "tops": 0,
+     "streak": 2,
+     "name": "Gibble on my Njigba’s",
+     "seed": 11,
+     "pf_rank": 11,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "jake188",
+     "w": 3,
+     "l": 11,
+     "t": 0,
+     "pf": 1461.5,
+     "pa": 1913.94,
+     "g": 14,
+     "pct": 0.2143,
+     "ppg": 104.39,
+     "allplay": [
+      33,
+      121
+     ],
+     "allplay_pct": 0.2143,
+     "luck": 0.0,
+     "tops": 0,
+     "streak": 1,
+     "name": "Trade Addict",
+     "seed": 12,
+     "pf_rank": 12,
+     "playoff": [
+      "Consolation"
+     ]
+    }
+   ],
+   "bracket": {
+    "Quarterfinal": [
+     {
+      "week": 15,
+      "a": "Jbird531",
+      "pa": 110.8,
+      "b": "TuanonStan",
+      "pb": 151.48,
+      "winner": "TuanonStan",
+      "aname": "Pronoun police",
+      "bname": "Dark Brandon"
+     },
+     {
+      "week": 15,
+      "a": "BROCKSTARxD",
+      "pa": 141.72,
+      "b": "tony5469",
+      "pb": 164.0,
+      "winner": "tony5469",
+      "aname": "Sleepy Joe’s",
+      "bname": "tony5469"
+     }
+    ],
+    "Consolation": [
+     {
+      "week": 15,
+      "a": "brettmn13",
+      "pa": 94.84,
+      "b": "JMiiTcHH6511",
+      "pb": 119.62,
+      "winner": "JMiiTcHH6511",
+      "aname": "Iced out",
+      "bname": "Sorry4TheLoss"
+     },
+     {
+      "week": 15,
+      "a": "DMsourbeer",
+      "pa": 131.98,
+      "b": "LowFatSnack",
+      "pb": 139.58,
+      "winner": "LowFatSnack",
+      "aname": "DMsourbeer",
+      "bname": "LowFatSnack"
+     },
+     {
+      "week": 16,
+      "a": "brettmn13",
+      "pa": 168.8,
+      "b": "Colt45Johnson",
+      "pb": 114.3,
+      "winner": "brettmn13",
+      "aname": "Iced out",
+      "bname": "Gibble on my Njigba’s"
+     },
+     {
+      "week": 16,
+      "a": "DMsourbeer",
+      "pa": 133.28,
+      "b": "jake188",
+      "pb": 114.64,
+      "winner": "DMsourbeer",
+      "aname": "DMsourbeer",
+      "bname": "Trade Addict"
+     },
+     {
+      "week": 16,
+      "a": "LowFatSnack",
+      "pa": 141.18,
+      "b": "JMiiTcHH6511",
+      "pb": 131.24,
+      "winner": "LowFatSnack",
+      "aname": "LowFatSnack",
+      "bname": "Sorry4TheLoss"
+     },
+     {
+      "week": 17,
+      "a": "brettmn13",
+      "pa": 115.04,
+      "b": "DMsourbeer",
+      "pb": 135.0,
+      "winner": "DMsourbeer",
+      "aname": "Iced out",
+      "bname": "DMsourbeer"
+     },
+     {
+      "week": 17,
+      "a": "jake188",
+      "pa": 77.3,
+      "b": "Colt45Johnson",
+      "pb": 81.28,
+      "winner": "Colt45Johnson",
+      "aname": "Trade Addict",
+      "bname": "Gibble on my Njigba’s"
+     }
+    ],
+    "5th place": [
+     {
+      "week": 16,
+      "a": "Jbird531",
+      "pa": 111.82,
+      "b": "BROCKSTARxD",
+      "pb": 156.42,
+      "winner": "BROCKSTARxD",
+      "aname": "Pronoun police",
+      "bname": "Sleepy Joe’s"
+     }
+    ],
+    "Semifinal": [
+     {
+      "week": 16,
+      "a": "TuanonStan",
+      "pa": 132.66,
+      "b": "Wallner",
+      "pb": 157.44,
+      "winner": "Wallner",
+      "aname": "Dark Brandon",
+      "bname": "The 0 TE’s"
+     },
+     {
+      "week": 16,
+      "a": "butterygoop",
+      "pa": 150.52,
+      "b": "tony5469",
+      "pb": 127.74,
+      "winner": "butterygoop",
+      "aname": "Black guys Piss",
+      "bname": "tony5469"
+     }
+    ],
+    "3rd place": [
+     {
+      "week": 17,
+      "a": "TuanonStan",
+      "pa": 164.56,
+      "b": "tony5469",
+      "pb": 103.24,
+      "winner": "TuanonStan",
+      "aname": "Dark Brandon",
+      "bname": "tony5469"
+     }
+    ],
+    "Championship": [
+     {
+      "week": 17,
+      "a": "butterygoop",
+      "pa": 167.88,
+      "b": "Wallner",
+      "pb": 184.0,
+      "winner": "Wallner",
+      "aname": "Black guys Piss",
+      "bname": "The 0 TE’s"
+     }
+    ]
+   },
+   "awards": [
+    {
+     "key": "mvp",
+     "title": "MVP",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "player": "CeeDee Lamb",
+     "pos": "WR",
+     "detail": "CeeDee Lamb (WR) scored 400.2 in 17 starts for Black guys Piss",
+     "value": 400.2
+    },
+    {
+     "key": "most_valuable",
+     "title": "Most valuable to his team",
+     "h": "BROCKSTARxD",
+     "name": "Sleepy Joe’s",
+     "player": "Christian McCaffrey",
+     "pos": "RB",
+     "detail": "Christian McCaffrey (RB) was 21.1% of Sleepy Joe’s's starting points, 388.3 in 17 starts",
+     "value": 0.2108
+    },
+    {
+     "key": "record",
+     "title": "Best record",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "detail": "11-3",
+     "value": 0.7857
+    },
+    {
+     "key": "points",
+     "title": "Most points",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "detail": "2248.98 points, 160.64 a game",
+     "value": 2248.98
+    },
+    {
+     "key": "fewest_points",
+     "title": "Fewest points",
+     "h": "jake188",
+     "name": "Trade Addict",
+     "detail": "1461.5 points, 104.39 a game",
+     "value": 1461.5
+    },
+    {
+     "key": "toughest",
+     "title": "Toughest schedule",
+     "h": "Jbird531",
+     "name": "Pronoun police",
+     "detail": "1954.84 points against",
+     "value": 1954.84
+    },
+    {
+     "key": "easiest",
+     "title": "Easiest schedule",
+     "h": "BROCKSTARxD",
+     "name": "Sleepy Joe’s",
+     "detail": "1715.74 points against",
+     "value": 1715.74
+    },
+    {
+     "key": "lucky",
+     "title": "Luckiest schedule",
+     "h": "Wallner",
+     "name": "The 0 TE’s",
+     "detail": "10-4 with an all-play record of 94-60",
+     "value": 0.1039
+    },
+    {
+     "key": "unlucky",
+     "title": "Unluckiest schedule",
+     "h": "Jbird531",
+     "name": "Pronoun police",
+     "detail": "7-7 with an all-play record of 100-54",
+     "value": -0.1494
+    },
+    {
+     "key": "tops",
+     "title": "Most weeks as top scorer",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "detail": "4 weeks on top",
+     "value": 4
+    },
+    {
+     "key": "streak",
+     "title": "Longest winning streak",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "detail": "9 straight",
+     "value": 9
+    },
+    {
+     "key": "high",
+     "title": "Highest single week",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "detail": "233.82 in week 12 against tony5469",
+     "value": 233.82
+    },
+    {
+     "key": "low",
+     "title": "Lowest single week",
+     "h": "jake188",
+     "name": "Trade Addict",
+     "detail": "71.02 in week 14 against Gibble on my Njigba’s",
+     "value": 71.02
+    },
+    {
+     "key": "blowout",
+     "title": "Biggest blowout",
+     "h": "TuanonStan",
+     "name": "Dark Brandon",
+     "detail": "beat The 0 TE’s by 120.28 in week 5",
+     "value": 120.28
+    },
+    {
+     "key": "closest",
+     "title": "Closest game",
+     "h": "jake188",
+     "name": "Trade Addict",
+     "detail": "beat Iced out by 0.42 in week 12",
+     "value": 0.42
+    },
+    {
+     "key": "hard_luck",
+     "title": "Most points in a loss",
+     "h": "butterygoop",
+     "name": "Black guys Piss",
+     "detail": "167.88 and still lost to The 0 TE’s in week 17",
+     "value": 167.88
+    },
+    {
+     "key": "cheap_win",
+     "title": "Fewest points in a win",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "won with 81.28 over Trade Addict in week 17",
+     "value": 81.28
+    }
+   ]
+  },
+  "2024": {
+   "season": 2024,
+   "current": false,
+   "format": {
+    "teams": 12,
+    "reg_weeks": 14,
+    "playoff_weeks": [
+     15,
+     16,
+     17
+    ],
+    "scoring": "half PPR",
+    "era": "sleeper",
+    "games": 98
+   },
+   "champion": "Colt45Johnson",
+   "runner_up": "brettmn13",
+   "third": "butterygoop",
+   "title_game": {
+    "week": 17,
+    "a": "brettmn13",
+    "pa": 135.5,
+    "b": "Colt45Johnson",
+    "pb": 203.96,
+    "winner": "Colt45Johnson",
+    "aname": "Babayka",
+    "bname": "Gibble on my Njigba’s"
+   },
+   "title_lineups": {
+    "brettmn13": {
+     "name": "Babayka",
+     "starters": [
+      {
+       "pos": "QB",
+       "n": "Jayden Daniels",
+       "pts": 32.78
+      },
+      {
+       "pos": "QB",
+       "n": "Bryce Young",
+       "pts": 14.92
+      },
+      {
+       "pos": "RB",
+       "n": "D'Andre Swift",
+       "pts": 12.1
+      },
+      {
+       "pos": "RB",
+       "n": "Josh Jacobs",
+       "pts": 9.9
+      },
+      {
+       "pos": "RB",
+       "n": "Rico Dowdle",
+       "pts": 8.8
+      },
+      {
+       "pos": "RB",
+       "n": "Alexander Mattison",
+       "pts": 4.8
+      },
+      {
+       "pos": "WR",
+       "n": "Ja'Marr Chase",
+       "pts": 19.2
+      },
+      {
+       "pos": "WR",
+       "n": "Jauan Jennings",
+       "pts": 12.7
+      },
+      {
+       "pos": "WR",
+       "n": "DK Metcalf",
+       "pts": 7.2
+      },
+      {
+       "pos": "TE",
+       "n": "Jonnu Smith",
+       "pts": 13.1
+      }
+     ],
+     "total": 135.5,
+     "best": {
+      "pos": "QB",
+      "n": "Jayden Daniels",
+      "pts": 32.78
+     },
+     "worst": {
+      "pos": "RB",
+      "n": "Alexander Mattison",
+      "pts": 4.8
+     }
+    },
+    "Colt45Johnson": {
+     "name": "Gibble on my Njigba’s",
+     "starters": [
+      {
+       "pos": "QB",
+       "n": "Joe Burrow",
+       "pts": 36.98
+      },
+      {
+       "pos": "QB",
+       "n": "Cooper Rush",
+       "pts": 8.08
+      },
+      {
+       "pos": "RB",
+       "n": "Jahmyr Gibbs",
+       "pts": 26.3
+      },
+      {
+       "pos": "RB",
+       "n": "Derrick Henry",
+       "pts": 24.5
+      },
+      {
+       "pos": "WR",
+       "n": "Malik Nabers",
+       "pts": 36.1
+      },
+      {
+       "pos": "WR",
+       "n": "Jameson Williams",
+       "pts": 24.5
+      },
+      {
+       "pos": "WR",
+       "n": "Marvin Harrison Jr.",
+       "pts": 15.6
+      },
+      {
+       "pos": "WR",
+       "n": "Jaxon Smith-Njigba",
+       "pts": 6.2
+      },
+      {
+       "pos": "WR",
+       "n": "Rome Odunze",
+       "pts": 2.5
+      },
+      {
+       "pos": "TE",
+       "n": "George Kittle",
+       "pts": 23.2
+      }
+     ],
+     "total": 203.96,
+     "best": {
+      "pos": "QB",
+      "n": "Joe Burrow",
+      "pts": 36.98
+     },
+     "worst": {
+      "pos": "WR",
+      "n": "Rome Odunze",
+      "pts": 2.5
+     }
+    }
+   },
+   "standings": [
+    {
+     "h": "brettmn13",
+     "w": 11,
+     "l": 3,
+     "t": 0,
+     "pf": 2040.42,
+     "pa": 1695.7,
+     "g": 14,
+     "pct": 0.7857,
+     "ppg": 145.74,
+     "allplay": [
+      95,
+      59
+     ],
+     "allplay_pct": 0.6169,
+     "luck": 0.1688,
+     "tops": 3,
+     "streak": 6,
+     "name": "Babayka",
+     "seed": 1,
+     "pf_rank": 2,
+     "playoff": [
+      "Championship",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "Colt45Johnson",
+     "w": 10,
+     "l": 4,
+     "t": 0,
+     "pf": 2039.86,
+     "pa": 1845.22,
+     "g": 14,
+     "pct": 0.7143,
+     "ppg": 145.7,
+     "allplay": [
+      103,
+      51
+     ],
+     "allplay_pct": 0.6688,
+     "luck": 0.0455,
+     "tops": 3,
+     "streak": 9,
+     "name": "Gibble on my Njigba’s",
+     "seed": 2,
+     "pf_rank": 3,
+     "playoff": [
+      "Championship",
+      "Semifinal"
+     ],
+     "title": true
+    },
+    {
+     "h": "DMsourbeer",
+     "w": 10,
+     "l": 4,
+     "t": 0,
+     "pf": 2003.3,
+     "pa": 1773.94,
+     "g": 14,
+     "pct": 0.7143,
+     "ppg": 143.09,
+     "allplay": [
+      87,
+      67
+     ],
+     "allplay_pct": 0.5649,
+     "luck": 0.1494,
+     "tops": 2,
+     "streak": 4,
+     "name": "DMsourbeer",
+     "seed": 3,
+     "pf_rank": 4,
+     "playoff": [
+      "5th place",
+      "Quarterfinal"
+     ]
+    },
+    {
+     "h": "Wallner",
+     "w": 9,
+     "l": 5,
+     "t": 0,
+     "pf": 1866.7,
+     "pa": 1835.74,
+     "g": 14,
+     "pct": 0.6429,
+     "ppg": 133.34,
+     "allplay": [
+      87,
+      67
+     ],
+     "allplay_pct": 0.5649,
+     "luck": 0.078,
+     "tops": 0,
+     "streak": 4,
+     "name": "Big Nix Energy",
+     "seed": 4,
+     "pf_rank": 7,
+     "playoff": [
+      "5th place",
+      "Quarterfinal"
+     ]
+    },
+    {
+     "h": "butterygoop",
+     "w": 8,
+     "l": 6,
+     "t": 0,
+     "pf": 2072.6,
+     "pa": 1889.66,
+     "g": 14,
+     "pct": 0.5714,
+     "ppg": 148.04,
+     "allplay": [
+      113,
+      41
+     ],
+     "allplay_pct": 0.7338,
+     "luck": -0.1624,
+     "tops": 2,
+     "streak": 4,
+     "name": "Black guys like tonay",
+     "seed": 5,
+     "pf_rank": 1,
+     "playoff": [
+      "3rd place",
+      "Quarterfinal",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "JMiiTcHH6511",
+     "w": 7,
+     "l": 7,
+     "t": 0,
+     "pf": 1896.88,
+     "pa": 1882.88,
+     "g": 14,
+     "pct": 0.5,
+     "ppg": 135.49,
+     "allplay": [
+      88,
+      66
+     ],
+     "allplay_pct": 0.5714,
+     "luck": -0.0714,
+     "tops": 1,
+     "streak": 3,
+     "name": "Sorry4TheLoss",
+     "seed": 6,
+     "pf_rank": 5,
+     "playoff": [
+      "3rd place",
+      "Quarterfinal",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "TuanonStan",
+     "w": 7,
+     "l": 7,
+     "t": 0,
+     "pf": 1892.26,
+     "pa": 1894.08,
+     "g": 14,
+     "pct": 0.5,
+     "ppg": 135.16,
+     "allplay": [
+      76,
+      78
+     ],
+     "allplay_pct": 0.4935,
+     "luck": 0.0065,
+     "tops": 2,
+     "streak": 3,
+     "name": "Dark Brandon",
+     "seed": 7,
+     "pf_rank": 6,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "BROCKSTARxD",
+     "w": 6,
+     "l": 8,
+     "t": 0,
+     "pf": 1793.86,
+     "pa": 1899.6,
+     "g": 14,
+     "pct": 0.4286,
+     "ppg": 128.13,
+     "allplay": [
+      74,
+      80
+     ],
+     "allplay_pct": 0.4805,
+     "luck": -0.0519,
+     "tops": 0,
+     "streak": 3,
+     "name": "BrockSTARS",
+     "seed": 8,
+     "pf_rank": 9,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "LowFatSnack",
+     "w": 5,
+     "l": 9,
+     "t": 0,
+     "pf": 1799.04,
+     "pa": 1944.18,
+     "g": 14,
+     "pct": 0.3571,
+     "ppg": 128.5,
+     "allplay": [
+      63,
+      91
+     ],
+     "allplay_pct": 0.4091,
+     "luck": -0.052,
+     "tops": 1,
+     "streak": 3,
+     "name": "LowFatSnack",
+     "seed": 9,
+     "pf_rank": 8,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "jake188",
+     "w": 5,
+     "l": 9,
+     "t": 0,
+     "pf": 1710.22,
+     "pa": 1759.9,
+     "g": 14,
+     "pct": 0.3571,
+     "ppg": 122.16,
+     "allplay": [
+      63,
+      91
+     ],
+     "allplay_pct": 0.4091,
+     "luck": -0.052,
+     "tops": 0,
+     "streak": 1,
+     "name": "Trade Addict",
+     "seed": 10,
+     "pf_rank": 10,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "Jbird531",
+     "w": 5,
+     "l": 9,
+     "t": 0,
+     "pf": 1672.98,
+     "pa": 1821.48,
+     "g": 14,
+     "pct": 0.3571,
+     "ppg": 119.5,
+     "allplay": [
+      56,
+      98
+     ],
+     "allplay_pct": 0.3636,
+     "luck": -0.0065,
+     "tops": 0,
+     "streak": 3,
+     "name": "Pronoun police",
+     "seed": 11,
+     "pf_rank": 11,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "tony5469",
+     "w": 1,
+     "l": 13,
+     "t": 0,
+     "pf": 1378.4,
+     "pa": 1924.14,
+     "g": 14,
+     "pct": 0.0714,
+     "ppg": 98.46,
+     "allplay": [
+      19,
+      135
+     ],
+     "allplay_pct": 0.1234,
+     "luck": -0.052,
+     "tops": 0,
+     "streak": 1,
+     "name": "tony5469",
+     "seed": 12,
+     "pf_rank": 12,
+     "playoff": [
+      "Consolation"
+     ]
+    }
+   ],
+   "bracket": {
+    "Consolation": [
+     {
+      "week": 15,
+      "a": "TuanonStan",
+      "pa": 116.24,
+      "b": "jake188",
+      "pb": 137.74,
+      "winner": "jake188",
+      "aname": "Dark Brandon",
+      "bname": "Trade Addict"
+     },
+     {
+      "week": 15,
+      "a": "BROCKSTARxD",
+      "pa": 109.5,
+      "b": "LowFatSnack",
+      "pb": 119.52,
+      "winner": "LowFatSnack",
+      "aname": "BrockSTARS",
+      "bname": "LowFatSnack"
+     },
+     {
+      "week": 16,
+      "a": "Jbird531",
+      "pa": 161.34,
+      "b": "BROCKSTARxD",
+      "pb": 127.94,
+      "winner": "Jbird531",
+      "aname": "Pronoun police",
+      "bname": "BrockSTARS"
+     },
+     {
+      "week": 16,
+      "a": "TuanonStan",
+      "pa": 77.74,
+      "b": "tony5469",
+      "pb": 109.34,
+      "winner": "tony5469",
+      "aname": "Dark Brandon",
+      "bname": "tony5469"
+     },
+     {
+      "week": 16,
+      "a": "jake188",
+      "pa": 168.72,
+      "b": "LowFatSnack",
+      "pb": 126.86,
+      "winner": "jake188",
+      "aname": "Trade Addict",
+      "bname": "LowFatSnack"
+     },
+     {
+      "week": 17,
+      "a": "Jbird531",
+      "pa": 118.68,
+      "b": "tony5469",
+      "pb": 104.22,
+      "winner": "Jbird531",
+      "aname": "Pronoun police",
+      "bname": "tony5469"
+     },
+     {
+      "week": 17,
+      "a": "TuanonStan",
+      "pa": 101.32,
+      "b": "BROCKSTARxD",
+      "pb": 187.34,
+      "winner": "BROCKSTARxD",
+      "aname": "Dark Brandon",
+      "bname": "BrockSTARS"
+     }
+    ],
+    "Quarterfinal": [
+     {
+      "week": 15,
+      "a": "butterygoop",
+      "pa": 203.52,
+      "b": "Wallner",
+      "pb": 149.7,
+      "winner": "butterygoop",
+      "aname": "Black guys like tonay",
+      "bname": "Big Nix Energy"
+     },
+     {
+      "week": 15,
+      "a": "DMsourbeer",
+      "pa": 133.52,
+      "b": "JMiiTcHH6511",
+      "pb": 179.12,
+      "winner": "JMiiTcHH6511",
+      "aname": "DMsourbeer",
+      "bname": "Sorry4TheLoss"
+     }
+    ],
+    "Semifinal": [
+     {
+      "week": 16,
+      "a": "brettmn13",
+      "pa": 180.64,
+      "b": "JMiiTcHH6511",
+      "pb": 171.92,
+      "winner": "brettmn13",
+      "aname": "Babayka",
+      "bname": "Sorry4TheLoss"
+     },
+     {
+      "week": 16,
+      "a": "butterygoop",
+      "pa": 157.32,
+      "b": "Colt45Johnson",
+      "pb": 185.56,
+      "winner": "Colt45Johnson",
+      "aname": "Black guys like tonay",
+      "bname": "Gibble on my Njigba’s"
+     }
+    ],
+    "5th place": [
+     {
+      "week": 16,
+      "a": "Wallner",
+      "pa": 159.5,
+      "b": "DMsourbeer",
+      "pb": 183.06,
+      "winner": "DMsourbeer",
+      "aname": "Big Nix Energy",
+      "bname": "DMsourbeer"
+     }
+    ],
+    "Championship": [
+     {
+      "week": 17,
+      "a": "brettmn13",
+      "pa": 135.5,
+      "b": "Colt45Johnson",
+      "pb": 203.96,
+      "winner": "Colt45Johnson",
+      "aname": "Babayka",
+      "bname": "Gibble on my Njigba’s"
+     }
+    ],
+    "3rd place": [
+     {
+      "week": 17,
+      "a": "butterygoop",
+      "pa": 178.08,
+      "b": "JMiiTcHH6511",
+      "pb": 111.44,
+      "winner": "butterygoop",
+      "aname": "Black guys like tonay",
+      "bname": "Sorry4TheLoss"
+     }
+    ]
+   },
+   "awards": [
+    {
+     "key": "mvp",
+     "title": "MVP",
+     "h": "Wallner",
+     "name": "Big Nix Energy",
+     "player": "Lamar Jackson",
+     "pos": "QB",
+     "detail": "Lamar Jackson (QB) scored 424.38 in 17 starts for Big Nix Energy",
+     "value": 424.38
+    },
+    {
+     "key": "most_valuable",
+     "title": "Most valuable to his team",
+     "h": "tony5469",
+     "name": "tony5469",
+     "player": "Jared Goff",
+     "pos": "QB",
+     "detail": "Jared Goff (QB) was 24.0% of tony5469's starting points, 330.46 in 17 starts",
+     "value": 0.2397
+    },
+    {
+     "key": "record",
+     "title": "Best record",
+     "h": "brettmn13",
+     "name": "Babayka",
+     "detail": "11-3",
+     "value": 0.7857
+    },
+    {
+     "key": "points",
+     "title": "Most points",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "2072.6 points, 148.04 a game",
+     "value": 2072.6
+    },
+    {
+     "key": "fewest_points",
+     "title": "Fewest points",
+     "h": "tony5469",
+     "name": "tony5469",
+     "detail": "1378.4 points, 98.46 a game",
+     "value": 1378.4
+    },
+    {
+     "key": "toughest",
+     "title": "Toughest schedule",
+     "h": "LowFatSnack",
+     "name": "LowFatSnack",
+     "detail": "1944.18 points against",
+     "value": 1944.18
+    },
+    {
+     "key": "easiest",
+     "title": "Easiest schedule",
+     "h": "brettmn13",
+     "name": "Babayka",
+     "detail": "1695.7 points against",
+     "value": 1695.7
+    },
+    {
+     "key": "lucky",
+     "title": "Luckiest schedule",
+     "h": "brettmn13",
+     "name": "Babayka",
+     "detail": "11-3 with an all-play record of 95-59",
+     "value": 0.1688
+    },
+    {
+     "key": "unlucky",
+     "title": "Unluckiest schedule",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "8-6 with an all-play record of 113-41",
+     "value": -0.1624
+    },
+    {
+     "key": "tops",
+     "title": "Most weeks as top scorer",
+     "h": "brettmn13",
+     "name": "Babayka",
+     "detail": "3 weeks on top",
+     "value": 3
+    },
+    {
+     "key": "streak",
+     "title": "Longest winning streak",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "9 straight",
+     "value": 9
+    },
+    {
+     "key": "high",
+     "title": "Highest single week",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "detail": "217.56 in week 9 against Black guys like tonay",
+     "value": 217.56
+    },
+    {
+     "key": "low",
+     "title": "Lowest single week",
+     "h": "tony5469",
+     "name": "tony5469",
+     "detail": "58.78 in week 2 against Dark Brandon",
+     "value": 58.78
+    },
+    {
+     "key": "blowout",
+     "title": "Biggest blowout",
+     "h": "brettmn13",
+     "name": "Babayka",
+     "detail": "beat LowFatSnack by 91.3 in week 11",
+     "value": 91.3
+    },
+    {
+     "key": "closest",
+     "title": "Closest game",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "beat Sorry4TheLoss by 0.56 in week 6",
+     "value": 0.56
+    },
+    {
+     "key": "hard_luck",
+     "title": "Most points in a loss",
+     "h": "JMiiTcHH6511",
+     "name": "Sorry4TheLoss",
+     "detail": "171.92 and still lost to Babayka in week 16",
+     "value": 171.92
+    },
+    {
+     "key": "cheap_win",
+     "title": "Fewest points in a win",
+     "h": "jake188",
+     "name": "Trade Addict",
+     "detail": "won with 94.88 over Gibble on my Njigba’s in week 1",
+     "value": 94.88
+    }
+   ]
+  },
+  "2025": {
+   "season": 2025,
+   "current": false,
+   "format": {
+    "teams": 12,
+    "reg_weeks": 14,
+    "playoff_weeks": [
+     15,
+     16,
+     17
+    ],
+    "scoring": "half PPR",
+    "era": "sleeper",
+    "games": 98
+   },
+   "champion": "butterygoop",
+   "runner_up": "TuanonStan",
+   "third": "brettmn13",
+   "title_game": {
+    "week": 17,
+    "a": "TuanonStan",
+    "pa": 90.36,
+    "b": "butterygoop",
+    "pb": 141.64,
+    "winner": "butterygoop",
+    "aname": "Dark Brandon",
+    "bname": "Black guys like tonay"
+   },
+   "title_lineups": {
+    "TuanonStan": {
+     "name": "Dark Brandon",
+     "starters": [
+      {
+       "pos": "QB",
+       "n": "Matthew Stafford",
+       "pts": 15.76
+      },
+      {
+       "pos": "QB",
+       "n": "Jalen Hurts",
+       "pts": 8.9
+      },
+      {
+       "pos": "RB",
+       "n": "Samaje Perine",
+       "pts": 8.3
+      },
+      {
+       "pos": "RB",
+       "n": "Kenneth Walker III",
+       "pts": 6.7
+      },
+      {
+       "pos": "WR",
+       "n": "Michael Wilson",
+       "pts": 19.9
+      },
+      {
+       "pos": "WR",
+       "n": "Puka Nacua",
+       "pts": 15.7
+      },
+      {
+       "pos": "WR",
+       "n": "DJ Moore",
+       "pts": 1.7
+      },
+      {
+       "pos": "WR",
+       "n": "Jaylen Waddle",
+       "pts": 0.7
+      },
+      {
+       "pos": "TE",
+       "n": "Evan Engram",
+       "pts": 8.1
+      },
+      {
+       "pos": "TE",
+       "n": "Kyle Pitts Sr.",
+       "pts": 4.6
+      }
+     ],
+     "total": 90.36,
+     "best": {
+      "pos": "WR",
+      "n": "Michael Wilson",
+      "pts": 19.9
+     },
+     "worst": {
+      "pos": "WR",
+      "n": "Jaylen Waddle",
+      "pts": 0.7
+     }
+    },
+    "butterygoop": {
+     "name": "Black guys like tonay",
+     "starters": [
+      {
+       "pos": "QB",
+       "n": "Josh Allen",
+       "pts": 21.18
+      },
+      {
+       "pos": "QB",
+       "n": "C.J. Stroud",
+       "pts": 15.76
+      },
+      {
+       "pos": "RB",
+       "n": "Kyren Williams",
+       "pts": 16.0
+      },
+      {
+       "pos": "RB",
+       "n": "Javonte Williams",
+       "pts": 11.4
+      },
+      {
+       "pos": "RB",
+       "n": "Saquon Barkley",
+       "pts": 6.8
+      },
+      {
+       "pos": "WR",
+       "n": "A.J. Brown",
+       "pts": 11.8
+      },
+      {
+       "pos": "WR",
+       "n": "George Pickens",
+       "pts": 11.8
+      },
+      {
+       "pos": "WR",
+       "n": "CeeDee Lamb",
+       "pts": 9.6
+      },
+      {
+       "pos": "WR",
+       "n": "Nico Collins",
+       "pts": 8.7
+      },
+      {
+       "pos": "TE",
+       "n": "Trey McBride",
+       "pts": 28.6
+      }
+     ],
+     "total": 141.64,
+     "best": {
+      "pos": "TE",
+      "n": "Trey McBride",
+      "pts": 28.6
+     },
+     "worst": {
+      "pos": "RB",
+      "n": "Saquon Barkley",
+      "pts": 6.8
+     }
+    }
+   },
+   "standings": [
+    {
+     "h": "butterygoop",
+     "w": 12,
+     "l": 2,
+     "t": 0,
+     "pf": 2326.98,
+     "pa": 1739.28,
+     "g": 14,
+     "pct": 0.8571,
+     "ppg": 166.21,
+     "allplay": [
+      131,
+      23
+     ],
+     "allplay_pct": 0.8506,
+     "luck": 0.0065,
+     "tops": 4,
+     "streak": 6,
+     "name": "Black guys like tonay",
+     "seed": 1,
+     "pf_rank": 1,
+     "playoff": [
+      "Championship",
+      "Semifinal"
+     ],
+     "title": true
+    },
+    {
+     "h": "Colt45Johnson",
+     "w": 11,
+     "l": 3,
+     "t": 0,
+     "pf": 2188.32,
+     "pa": 1738.58,
+     "g": 14,
+     "pct": 0.7857,
+     "ppg": 156.31,
+     "allplay": [
+      108,
+      46
+     ],
+     "allplay_pct": 0.7013,
+     "luck": 0.0844,
+     "tops": 2,
+     "streak": 6,
+     "name": "Gibble on my Njigba’s",
+     "seed": 2,
+     "pf_rank": 2,
+     "playoff": [
+      "3rd place",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "DMsourbeer",
+     "w": 10,
+     "l": 4,
+     "t": 0,
+     "pf": 2151.66,
+     "pa": 1884.14,
+     "g": 14,
+     "pct": 0.7143,
+     "ppg": 153.69,
+     "allplay": [
+      113,
+      41
+     ],
+     "allplay_pct": 0.7338,
+     "luck": -0.0195,
+     "tops": 5,
+     "streak": 6,
+     "name": "DMsourbeer",
+     "seed": 3,
+     "pf_rank": 3,
+     "playoff": [
+      "5th place",
+      "Quarterfinal"
+     ]
+    },
+    {
+     "h": "BROCKSTARxD",
+     "w": 10,
+     "l": 4,
+     "t": 0,
+     "pf": 1938.74,
+     "pa": 1747.56,
+     "g": 14,
+     "pct": 0.7143,
+     "ppg": 138.48,
+     "allplay": [
+      93,
+      61
+     ],
+     "allplay_pct": 0.6039,
+     "luck": 0.1104,
+     "tops": 1,
+     "streak": 5,
+     "name": "BrockSTARS",
+     "seed": 4,
+     "pf_rank": 4,
+     "playoff": [
+      "5th place",
+      "Quarterfinal"
+     ]
+    },
+    {
+     "h": "TuanonStan",
+     "w": 9,
+     "l": 5,
+     "t": 0,
+     "pf": 1846.46,
+     "pa": 1839.46,
+     "g": 14,
+     "pct": 0.6429,
+     "ppg": 131.89,
+     "allplay": [
+      76,
+      78
+     ],
+     "allplay_pct": 0.4935,
+     "luck": 0.1494,
+     "tops": 0,
+     "streak": 3,
+     "name": "Dark Brandon",
+     "seed": 5,
+     "pf_rank": 6,
+     "playoff": [
+      "Championship",
+      "Quarterfinal",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "brettmn13",
+     "w": 7,
+     "l": 7,
+     "t": 0,
+     "pf": 1808.64,
+     "pa": 1910.84,
+     "g": 14,
+     "pct": 0.5,
+     "ppg": 129.19,
+     "allplay": [
+      66,
+      87
+     ],
+     "allplay_pct": 0.4314,
+     "luck": 0.0686,
+     "tops": 1,
+     "streak": 3,
+     "name": "Babayka",
+     "seed": 6,
+     "pf_rank": 8,
+     "playoff": [
+      "3rd place",
+      "Quarterfinal",
+      "Semifinal"
+     ]
+    },
+    {
+     "h": "Wallner",
+     "w": 6,
+     "l": 8,
+     "t": 0,
+     "pf": 1925.0,
+     "pa": 2003.12,
+     "g": 14,
+     "pct": 0.4286,
+     "ppg": 137.5,
+     "allplay": [
+      90,
+      63
+     ],
+     "allplay_pct": 0.5882,
+     "luck": -0.1596,
+     "tops": 0,
+     "streak": 3,
+     "name": "Big Nix Energy",
+     "seed": 7,
+     "pf_rank": 5,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "jake188",
+     "w": 6,
+     "l": 8,
+     "t": 0,
+     "pf": 1844.78,
+     "pa": 2029.66,
+     "g": 14,
+     "pct": 0.4286,
+     "ppg": 131.77,
+     "allplay": [
+      75,
+      79
+     ],
+     "allplay_pct": 0.487,
+     "luck": -0.0584,
+     "tops": 1,
+     "streak": 2,
+     "name": "Trade Addict",
+     "seed": 8,
+     "pf_rank": 7,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "Jbird531",
+     "w": 4,
+     "l": 10,
+     "t": 0,
+     "pf": 1736.02,
+     "pa": 1890.0,
+     "g": 14,
+     "pct": 0.2857,
+     "ppg": 124.0,
+     "allplay": [
+      59,
+      95
+     ],
+     "allplay_pct": 0.3831,
+     "luck": -0.0974,
+     "tops": 0,
+     "streak": 1,
+     "name": "Pronoun police",
+     "seed": 9,
+     "pf_rank": 9,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "JMiiTcHH6511",
+     "w": 4,
+     "l": 10,
+     "t": 0,
+     "pf": 1589.26,
+     "pa": 1859.48,
+     "g": 14,
+     "pct": 0.2857,
+     "ppg": 113.52,
+     "allplay": [
+      41,
+      113
+     ],
+     "allplay_pct": 0.2662,
+     "luck": 0.0195,
+     "tops": 0,
+     "streak": 1,
+     "name": "Sorry4TheLoss",
+     "seed": 10,
+     "pf_rank": 11,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "triccster",
+     "w": 3,
+     "l": 11,
+     "t": 0,
+     "pf": 1651.92,
+     "pa": 1883.34,
+     "g": 14,
+     "pct": 0.2143,
+     "ppg": 117.99,
+     "allplay": [
+      54,
+      100
+     ],
+     "allplay_pct": 0.3506,
+     "luck": -0.1363,
+     "tops": 0,
+     "streak": 2,
+     "name": "triccster",
+     "seed": 11,
+     "pf_rank": 10,
+     "playoff": [
+      "Consolation"
+     ]
+    },
+    {
+     "h": "LowFatSnack",
+     "w": 2,
+     "l": 12,
+     "t": 0,
+     "pf": 1315.04,
+     "pa": 1797.36,
+     "g": 14,
+     "pct": 0.1429,
+     "ppg": 93.93,
+     "allplay": [
+      17,
+      137
+     ],
+     "allplay_pct": 0.1104,
+     "luck": 0.0325,
+     "tops": 0,
+     "streak": 1,
+     "name": "LowFatSnack",
+     "seed": 12,
+     "pf_rank": 12,
+     "playoff": [
+      "Consolation"
+     ]
+    }
+   ],
+   "bracket": {
+    "Consolation": [
+     {
+      "week": 15,
+      "a": "Jbird531",
+      "pa": 125.1,
+      "b": "jake188",
+      "pb": 105.64,
+      "winner": "Jbird531",
+      "aname": "Pronoun police",
+      "bname": "Trade Addict"
+     },
+     {
+      "week": 15,
+      "a": "Wallner",
+      "pa": 147.48,
+      "b": "JMiiTcHH6511",
+      "pb": 90.94,
+      "winner": "Wallner",
+      "aname": "Big Nix Energy",
+      "bname": "Sorry4TheLoss"
+     },
+     {
+      "week": 16,
+      "a": "Jbird531",
+      "pa": 126.92,
+      "b": "Wallner",
+      "pb": 110.52,
+      "winner": "Jbird531",
+      "aname": "Pronoun police",
+      "bname": "Big Nix Energy"
+     },
+     {
+      "week": 16,
+      "a": "jake188",
+      "pa": 167.6,
+      "b": "LowFatSnack",
+      "pb": 65.22,
+      "winner": "jake188",
+      "aname": "Trade Addict",
+      "bname": "LowFatSnack"
+     },
+     {
+      "week": 16,
+      "a": "JMiiTcHH6511",
+      "pa": 91.0,
+      "b": "triccster",
+      "pb": 155.08,
+      "winner": "triccster",
+      "aname": "Sorry4TheLoss",
+      "bname": "triccster"
+     },
+     {
+      "week": 17,
+      "a": "jake188",
+      "pa": 136.32,
+      "b": "triccster",
+      "pb": 87.0,
+      "winner": "jake188",
+      "aname": "Trade Addict",
+      "bname": "triccster"
+     },
+     {
+      "week": 17,
+      "a": "LowFatSnack",
+      "pa": 78.14,
+      "b": "JMiiTcHH6511",
+      "pb": 83.42,
+      "winner": "JMiiTcHH6511",
+      "aname": "LowFatSnack",
+      "bname": "Sorry4TheLoss"
+     }
+    ],
+    "Quarterfinal": [
+     {
+      "week": 15,
+      "a": "TuanonStan",
+      "pa": 177.02,
+      "b": "BROCKSTARxD",
+      "pb": 139.34,
+      "winner": "TuanonStan",
+      "aname": "Dark Brandon",
+      "bname": "BrockSTARS"
+     },
+     {
+      "week": 15,
+      "a": "brettmn13",
+      "pa": 169.12,
+      "b": "DMsourbeer",
+      "pb": 168.2,
+      "winner": "brettmn13",
+      "aname": "Babayka",
+      "bname": "DMsourbeer"
+     }
+    ],
+    "Semifinal": [
+     {
+      "week": 16,
+      "a": "TuanonStan",
+      "pa": 206.38,
+      "b": "Colt45Johnson",
+      "pb": 174.52,
+      "winner": "TuanonStan",
+      "aname": "Dark Brandon",
+      "bname": "Gibble on my Njigba’s"
+     },
+     {
+      "week": 16,
+      "a": "brettmn13",
+      "pa": 106.44,
+      "b": "butterygoop",
+      "pb": 130.58,
+      "winner": "butterygoop",
+      "aname": "Babayka",
+      "bname": "Black guys like tonay"
+     }
+    ],
+    "5th place": [
+     {
+      "week": 16,
+      "a": "BROCKSTARxD",
+      "pa": 138.5,
+      "b": "DMsourbeer",
+      "pb": 129.62,
+      "winner": "BROCKSTARxD",
+      "aname": "BrockSTARS",
+      "bname": "DMsourbeer"
+     }
+    ],
+    "Championship": [
+     {
+      "week": 17,
+      "a": "TuanonStan",
+      "pa": 90.36,
+      "b": "butterygoop",
+      "pb": 141.64,
+      "winner": "butterygoop",
+      "aname": "Dark Brandon",
+      "bname": "Black guys like tonay"
+     }
+    ],
+    "3rd place": [
+     {
+      "week": 17,
+      "a": "brettmn13",
+      "pa": 140.28,
+      "b": "Colt45Johnson",
+      "pb": 126.78,
+      "winner": "brettmn13",
+      "aname": "Babayka",
+      "bname": "Gibble on my Njigba’s"
+     }
+    ]
+   },
+   "awards": [
+    {
+     "key": "mvp",
+     "title": "MVP",
+     "h": "BROCKSTARxD",
+     "name": "BrockSTARS",
+     "player": "Christian McCaffrey",
+     "pos": "RB",
+     "detail": "Christian McCaffrey (RB) scored 414.6 in 17 starts for BrockSTARS",
+     "value": 414.6
+    },
+    {
+     "key": "most_valuable",
+     "title": "Most valuable to his team",
+     "h": "BROCKSTARxD",
+     "name": "BrockSTARS",
+     "player": "Christian McCaffrey",
+     "pos": "RB",
+     "detail": "Christian McCaffrey (RB) was 21.4% of BrockSTARS's starting points, 414.6 in 17 starts",
+     "value": 0.2139
+    },
+    {
+     "key": "record",
+     "title": "Best record",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "12-2",
+     "value": 0.8571
+    },
+    {
+     "key": "points",
+     "title": "Most points",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "2326.98 points, 166.21 a game",
+     "value": 2326.98
+    },
+    {
+     "key": "fewest_points",
+     "title": "Fewest points",
+     "h": "LowFatSnack",
+     "name": "LowFatSnack",
+     "detail": "1315.04 points, 93.93 a game",
+     "value": 1315.04
+    },
+    {
+     "key": "toughest",
+     "title": "Toughest schedule",
+     "h": "jake188",
+     "name": "Trade Addict",
+     "detail": "2029.66 points against",
+     "value": 2029.66
+    },
+    {
+     "key": "easiest",
+     "title": "Easiest schedule",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "1738.58 points against",
+     "value": 1738.58
+    },
+    {
+     "key": "lucky",
+     "title": "Luckiest schedule",
+     "h": "TuanonStan",
+     "name": "Dark Brandon",
+     "detail": "9-5 with an all-play record of 76-78",
+     "value": 0.1494
+    },
+    {
+     "key": "unlucky",
+     "title": "Unluckiest schedule",
+     "h": "Wallner",
+     "name": "Big Nix Energy",
+     "detail": "6-8 with an all-play record of 90-63",
+     "value": -0.1596
+    },
+    {
+     "key": "tops",
+     "title": "Most weeks as top scorer",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "detail": "5 weeks on top",
+     "value": 5
+    },
+    {
+     "key": "streak",
+     "title": "Longest winning streak",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "6 straight",
+     "value": 6
+    },
+    {
+     "key": "high",
+     "title": "Highest single week",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "205.88 in week 11 against Dark Brandon",
+     "value": 205.88
+    },
+    {
+     "key": "low",
+     "title": "Lowest single week",
+     "h": "LowFatSnack",
+     "name": "LowFatSnack",
+     "detail": "43.9 in week 9 against Black guys like tonay",
+     "value": 43.9
+    },
+    {
+     "key": "blowout",
+     "title": "Biggest blowout",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "beat LowFatSnack by 115.48 in week 9",
+     "value": 115.48
+    },
+    {
+     "key": "closest",
+     "title": "Closest game",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "beat Babayka by 0.86 in week 9",
+     "value": 0.86
+    },
+    {
+     "key": "hard_luck",
+     "title": "Most points in a loss",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "174.52 and still lost to Dark Brandon in week 16",
+     "value": 174.52
+    },
+    {
+     "key": "cheap_win",
+     "title": "Fewest points in a win",
+     "h": "JMiiTcHH6511",
+     "name": "Sorry4TheLoss",
+     "detail": "won with 83.42 over LowFatSnack in week 17",
+     "value": 83.42
+    }
+   ]
+  },
+  "2026": {
+   "season": 2026,
+   "current": true,
+   "format": {
+    "teams": 12,
+    "reg_weeks": 10,
+    "playoff_weeks": [],
+    "scoring": "half PPR",
+    "era": "sleeper",
+    "games": 60
+   },
+   "champion": null,
+   "runner_up": null,
+   "third": null,
+   "title_game": null,
+   "title_lineups": null,
+   "standings": [
+    {
+     "h": "Colt45Johnson",
+     "w": 9,
+     "l": 1,
+     "t": 0,
+     "pf": 1744.74,
+     "pa": 1269.44,
+     "g": 10,
+     "pct": 0.9,
+     "ppg": 174.47,
+     "allplay": [
+      97,
+      13
+     ],
+     "allplay_pct": 0.8818,
+     "luck": 0.0182,
+     "tops": 4,
+     "streak": 8,
+     "name": "Gibble on my Njigba’s",
+     "seed": 1,
+     "pf_rank": 1,
+     "playoff": []
+    },
+    {
+     "h": "butterygoop",
+     "w": 9,
+     "l": 1,
+     "t": 0,
+     "pf": 1735.34,
+     "pa": 1176.62,
+     "g": 10,
+     "pct": 0.9,
+     "ppg": 173.53,
+     "allplay": [
+      98,
+      12
+     ],
+     "allplay_pct": 0.8909,
+     "luck": 0.0091,
+     "tops": 5,
+     "streak": 9,
+     "name": "Black guys like tonay",
+     "seed": 2,
+     "pf_rank": 2,
+     "playoff": []
+    },
+    {
+     "h": "TuanonStan",
+     "w": 7,
+     "l": 3,
+     "t": 0,
+     "pf": 1431.44,
+     "pa": 1368.38,
+     "g": 10,
+     "pct": 0.7,
+     "ppg": 143.14,
+     "allplay": [
+      69,
+      41
+     ],
+     "allplay_pct": 0.6273,
+     "luck": 0.0727,
+     "tops": 1,
+     "streak": 4,
+     "name": "Dark Brandon",
+     "seed": 3,
+     "pf_rank": 3,
+     "playoff": []
+    },
+    {
+     "h": "HillBillyWorm",
+     "w": 7,
+     "l": 3,
+     "t": 0,
+     "pf": 1398.04,
+     "pa": 1232.46,
+     "g": 10,
+     "pct": 0.7,
+     "ppg": 139.8,
+     "allplay": [
+      65,
+      45
+     ],
+     "allplay_pct": 0.5909,
+     "luck": 0.1091,
+     "tops": 0,
+     "streak": 4,
+     "name": "Let’s go Trump Ocean",
+     "seed": 4,
+     "pf_rank": 4,
+     "playoff": []
+    },
+    {
+     "h": "Wallner",
+     "w": 5,
+     "l": 5,
+     "t": 0,
+     "pf": 1348.54,
+     "pa": 1389.18,
+     "g": 10,
+     "pct": 0.5,
+     "ppg": 134.85,
+     "allplay": [
+      56,
+      54
+     ],
+     "allplay_pct": 0.5091,
+     "luck": -0.0091,
+     "tops": 0,
+     "streak": 3,
+     "name": "Big Nix Energy",
+     "seed": 5,
+     "pf_rank": 5,
+     "playoff": []
+    },
+    {
+     "h": "triccster",
+     "w": 5,
+     "l": 5,
+     "t": 0,
+     "pf": 1334.16,
+     "pa": 1427.88,
+     "g": 10,
+     "pct": 0.5,
+     "ppg": 133.42,
+     "allplay": [
+      60,
+      50
+     ],
+     "allplay_pct": 0.5455,
+     "luck": -0.0455,
+     "tops": 0,
+     "streak": 4,
+     "name": "triccster",
+     "seed": 6,
+     "pf_rank": 6,
+     "playoff": []
+    },
+    {
+     "h": "DMsourbeer",
+     "w": 5,
+     "l": 5,
+     "t": 0,
+     "pf": 1252.7,
+     "pa": 1265.84,
+     "g": 10,
+     "pct": 0.5,
+     "ppg": 125.27,
+     "allplay": [
+      42,
+      68
+     ],
+     "allplay_pct": 0.3818,
+     "luck": 0.1182,
+     "tops": 0,
+     "streak": 2,
+     "name": "DMsourbeer",
+     "seed": 7,
+     "pf_rank": 7,
+     "playoff": []
+    },
+    {
+     "h": "Thnu",
+     "w": 4,
+     "l": 6,
+     "t": 0,
+     "pf": 1133.14,
+     "pa": 1279.36,
+     "g": 10,
+     "pct": 0.4,
+     "ppg": 113.31,
+     "allplay": [
+      39,
+      71
+     ],
+     "allplay_pct": 0.3545,
+     "luck": 0.0455,
+     "tops": 0,
+     "streak": 3,
+     "name": "Thnu",
+     "seed": 8,
+     "pf_rank": 10,
+     "playoff": []
+    },
+    {
+     "h": "BROCKSTARxD",
+     "w": 3,
+     "l": 7,
+     "t": 0,
+     "pf": 1219.12,
+     "pa": 1361.98,
+     "g": 10,
+     "pct": 0.3,
+     "ppg": 121.91,
+     "allplay": [
+      45,
+      65
+     ],
+     "allplay_pct": 0.4091,
+     "luck": -0.1091,
+     "tops": 0,
+     "streak": 2,
+     "name": "BrockSTARS",
+     "seed": 9,
+     "pf_rank": 8,
+     "playoff": []
+    },
+    {
+     "h": "brettmn13",
+     "w": 3,
+     "l": 7,
+     "t": 0,
+     "pf": 1140.06,
+     "pa": 1355.7,
+     "g": 10,
+     "pct": 0.3,
+     "ppg": 114.01,
+     "allplay": [
+      38,
+      72
+     ],
+     "allplay_pct": 0.3455,
+     "luck": -0.0455,
+     "tops": 0,
+     "streak": 2,
+     "name": "Babayka",
+     "seed": 10,
+     "pf_rank": 9,
+     "playoff": []
+    },
+    {
+     "h": "YoungBuck04",
+     "w": 2,
+     "l": 8,
+     "t": 0,
+     "pf": 1093.68,
+     "pa": 1365.0,
+     "g": 10,
+     "pct": 0.2,
+     "ppg": 109.37,
+     "allplay": [
+      25,
+      85
+     ],
+     "allplay_pct": 0.2273,
+     "luck": -0.0273,
+     "tops": 0,
+     "streak": 1,
+     "name": "YoungBuck04",
+     "seed": 11,
+     "pf_rank": 11,
+     "playoff": []
+    },
+    {
+     "h": "Jbird531",
+     "w": 1,
+     "l": 9,
+     "t": 0,
+     "pf": 1042.64,
+     "pa": 1381.76,
+     "g": 10,
+     "pct": 0.1,
+     "ppg": 104.26,
+     "allplay": [
+      26,
+      84
+     ],
+     "allplay_pct": 0.2364,
+     "luck": -0.1364,
+     "tops": 0,
+     "streak": 1,
+     "name": "The dirty somalian",
+     "seed": 12,
+     "pf_rank": 12,
+     "playoff": []
+    }
+   ],
+   "bracket": {},
+   "awards": [
+    {
+     "key": "mvp",
+     "title": "MVP",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "player": "Jaxon Smith-Njigba",
+     "pos": "WR",
+     "detail": "Jaxon Smith-Njigba (WR) scored 263.16 in 10 starts for Gibble on my Njigba’s",
+     "value": 263.16
+    },
+    {
+     "key": "most_valuable",
+     "title": "Most valuable to his team",
+     "h": "Jbird531",
+     "name": "The dirty somalian",
+     "player": "Drake Maye",
+     "pos": "QB",
+     "detail": "Drake Maye (QB) was 18.0% of The dirty somalian's starting points, 187.2 in 10 starts",
+     "value": 0.1795
+    },
+    {
+     "key": "record",
+     "title": "Best record",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "9-1",
+     "value": 0.9
+    },
+    {
+     "key": "points",
+     "title": "Most points",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "1744.74 points, 174.47 a game",
+     "value": 1744.74
+    },
+    {
+     "key": "fewest_points",
+     "title": "Fewest points",
+     "h": "Jbird531",
+     "name": "The dirty somalian",
+     "detail": "1042.64 points, 104.26 a game",
+     "value": 1042.64
+    },
+    {
+     "key": "toughest",
+     "title": "Toughest schedule",
+     "h": "triccster",
+     "name": "triccster",
+     "detail": "1427.88 points against",
+     "value": 1427.88
+    },
+    {
+     "key": "easiest",
+     "title": "Easiest schedule",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "1176.62 points against",
+     "value": 1176.62
+    },
+    {
+     "key": "lucky",
+     "title": "Luckiest schedule",
+     "h": "DMsourbeer",
+     "name": "DMsourbeer",
+     "detail": "5-5 with an all-play record of 42-68",
+     "value": 0.1182
+    },
+    {
+     "key": "unlucky",
+     "title": "Unluckiest schedule",
+     "h": "Jbird531",
+     "name": "The dirty somalian",
+     "detail": "1-9 with an all-play record of 26-84",
+     "value": -0.1364
+    },
+    {
+     "key": "tops",
+     "title": "Most weeks as top scorer",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "5 weeks on top",
+     "value": 5
+    },
+    {
+     "key": "streak",
+     "title": "Longest winning streak",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "9 straight",
+     "value": 9
+    },
+    {
+     "key": "high",
+     "title": "Highest single week",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "225.68 in week 10 against Big Nix Energy",
+     "value": 225.68
+    },
+    {
+     "key": "low",
+     "title": "Lowest single week",
+     "h": "brettmn13",
+     "name": "Babayka",
+     "detail": "49.28 in week 9 against Gibble on my Njigba’s",
+     "value": 49.28
+    },
+    {
+     "key": "blowout",
+     "title": "Biggest blowout",
+     "h": "butterygoop",
+     "name": "Black guys like tonay",
+     "detail": "beat Big Nix Energy by 95.66 in week 4",
+     "value": 95.66
+    },
+    {
+     "key": "closest",
+     "title": "Closest game",
+     "h": "YoungBuck04",
+     "name": "YoungBuck04",
+     "detail": "beat BrockSTARS by 0.46 in week 4",
+     "value": 0.46
+    },
+    {
+     "key": "hard_luck",
+     "title": "Most points in a loss",
+     "h": "Colt45Johnson",
+     "name": "Gibble on my Njigba’s",
+     "detail": "173.44 and still lost to DMsourbeer in week 2",
+     "value": 173.44
+    },
+    {
+     "key": "cheap_win",
+     "title": "Fewest points in a win",
+     "h": "triccster",
+     "name": "triccster",
+     "detail": "won with 98.36 over Thnu in week 6",
+     "value": 98.36
+    }
+   ]
+  }
+ }
+}

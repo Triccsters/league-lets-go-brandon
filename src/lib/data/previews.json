@@ -1,304 +1,723 @@
 {
- "generated": "2026-11-16T14:19:36+00:00",
+ "generated": "2026-11-17T13:15:48+00:00",
  "season": 2026,
- "week": 10,
+ "week": 11,
  "playoff": false,
  "games": [
   {
-   "a": "BROCKSTARxD",
-   "b": "butterygoop",
-   "a_win": 15.5,
-   "rec": {
-    "BROCKSTARxD": [
-     2,
-     7
-    ],
-    "butterygoop": [
-     9,
-     0
-    ]
-   },
-   "avg": {
-    "BROCKSTARxD": 117.52,
-    "butterygoop": 176.87
-   },
-   "last3": {
-    "BROCKSTARxD": [
-     116.68,
-     74.3,
-     135.7
-    ],
-    "butterygoop": [
-     169.92,
-     136.16,
-     182.42
-    ]
-   },
-   "proj": {
-    "BROCKSTARxD": 122.69,
-    "butterygoop": 168.0
-   },
-   "h2h": {
-    "BROCKSTARxD": 1,
-    "butterygoop": 5,
-    "games": 6
-   },
-   "streak": [
-    "butterygoop",
-    3
-   ],
-   "last": {
-    "season": 2025,
-    "week": 6,
-    "label": null,
-    "score": {
-     "BROCKSTARxD": 116.24,
-     "butterygoop": 168.54
-    }
-   },
-   "flags": [
-    "{butterygoop} has won 3 straight in this series",
-    "{butterygoop} owns this series 5-1",
-    "Upset watch: {BROCKSTARxD} is the underdog"
-   ]
-  },
-  {
-   "a": "Wallner",
-   "b": "Colt45Johnson",
-   "a_win": 27.5,
-   "rec": {
-    "Wallner": [
-     5,
-     4
-    ],
-    "Colt45Johnson": [
-     8,
-     1
-    ]
-   },
-   "avg": {
-    "Wallner": 134.4,
-    "Colt45Johnson": 168.78
-   },
-   "last3": {
-    "Wallner": [
-     129.0,
-     132.88,
-     101.48
-    ],
-    "Colt45Johnson": [
-     197.26,
-     197.98,
-     143.24
-    ]
-   },
-   "proj": {
-    "Wallner": 134.22,
-    "Colt45Johnson": 160.89
-   },
-   "h2h": {
-    "Wallner": 1,
-    "Colt45Johnson": 3,
-    "games": 4
-   },
-   "streak": [
-    "Colt45Johnson",
-    2
-   ],
-   "last": {
-    "season": 2025,
-    "week": 10,
-    "label": null,
-    "score": {
-     "Wallner": 129.74,
-     "Colt45Johnson": 197.3
-    }
-   },
-   "flags": [
-    "Upset watch: {Wallner} is the underdog"
-   ]
-  },
-  {
-   "a": "HillBillyWorm",
+   "a": "DMsourbeer",
    "b": "Thnu",
-   "a_win": 64.5,
+   "a_win": 78.5,
    "rec": {
-    "HillBillyWorm": [
-     6,
-     3
+    "DMsourbeer": [
+     5,
+     5
     ],
     "Thnu": [
      4,
-     5
+     6
     ]
    },
    "avg": {
-    "HillBillyWorm": 141.0,
-    "Thnu": 116.98
+    "DMsourbeer": 125.27,
+    "Thnu": 113.31
    },
    "last3": {
-    "HillBillyWorm": [
-     107.42,
-     163.08,
-     153.74
+    "DMsourbeer": [
+     108.56,
+     111.56,
+     137.42
     ],
     "Thnu": [
-     110.2,
      140.6,
-     98.4
+     98.4,
+     80.34
     ]
    },
    "proj": {
-    "HillBillyWorm": 138.08,
-    "Thnu": 121.45
+    "DMsourbeer": 138.38,
+    "Thnu": 101.97
    },
    "h2h": {
-    "HillBillyWorm": 0,
+    "DMsourbeer": 0,
     "Thnu": 0,
     "games": 0
    },
    "streak": null,
    "last": null,
    "flags": [
-    "First ever meeting"
+    "First ever meeting",
+    "Upset watch: {Thnu} is the underdog"
+   ],
+   "nfl": [
+    {
+     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Geno Smith",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Mason Taylor",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Will Levis",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kenyon Sadiq",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ],
+      "Thnu": [
+       {
+        "n": "Tim Patrick",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows",
+     "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
+     "date": "2026-11-17",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Geno Smith",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Mason Taylor",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Will Levis",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kenyon Sadiq",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ],
+      "Thnu": [
+       {
+        "n": "Tim Patrick",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
+     "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
+     "date": "2026-11-11",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Mike Washington Jr.",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "Thnu": [
+       {
+        "n": "Brock Bowers",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Aaron Jones Sr.",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kyler Murray",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "QB Jordan Love, Packers frustrated after blowout loss at home to Vikings",
+     "url": "https://www.espn.com/nfl/story/_/id/50495671/qb-jordan-love-packers-frustrated-home-loss-vikings",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Jordan Love",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Pierre Strong Jr.",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "Thnu": [
+       {
+        "n": "Jayden Reed",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Christian Watson",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Skyy Moore",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Tucker Kraft",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
    ]
   },
   {
-   "a": "YoungBuck04",
-   "b": "triccster",
-   "a_win": 36.4,
+   "a": "Jbird531",
+   "b": "YoungBuck04",
+   "a_win": 41.7,
    "rec": {
+    "Jbird531": [
+     1,
+     9
+    ],
     "YoungBuck04": [
      2,
-     7
-    ],
-    "triccster": [
-     4,
-     5
+     8
     ]
    },
    "avg": {
-    "YoungBuck04": 103.98,
-    "triccster": 129.62
+    "Jbird531": 104.26,
+    "YoungBuck04": 109.37
    },
    "last3": {
-    "YoungBuck04": [
-     101.96,
-     97.74,
-     86.48
+    "Jbird531": [
+     95.52,
+     96.74,
+     64.44
     ],
-    "triccster": [
-     149.94,
-     153.74,
-     136.96
+    "YoungBuck04": [
+     97.74,
+     86.48,
+     157.82
     ]
    },
    "proj": {
-    "YoungBuck04": 112.46,
-    "triccster": 127.94
+    "Jbird531": 110.83,
+    "YoungBuck04": 120.46
    },
    "h2h": {
+    "Jbird531": 0,
     "YoungBuck04": 0,
-    "triccster": 0,
     "games": 0
    },
    "streak": null,
    "last": null,
    "flags": [
     "First ever meeting"
+   ],
+   "nfl": [
+    {
+     "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
+     "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "Jbird531": [
+       {
+        "n": "Cyrus Allen",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Justin Fields",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Emmett Johnson",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle injury",
+     "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury",
+     "date": "2026-11-15",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "Jbird531": [
+       {
+        "n": "Drake Maye",
+        "p": "QB",
+        "how": "named"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Eli Raridon",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Browns' Monken: Watson over Sanders QB decision based on 'full body of work'",
+     "url": "https://www.espn.com/nfl/story/_/id/50453932/browns-todd-monken-explains-call-start-deshaun-watson",
+     "date": "2026-11-11",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "Jbird531": [
+       {
+        "n": "Deshaun Watson",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Taylen Green",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Shedeur Sanders",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Dylan Sampson",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
+     "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
+     "date": "2026-11-11",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "Jbird531": [
+       {
+        "n": "Fernando Mendoza",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Michael Mayer",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Jordan Addison",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Malik Benson",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Jalen Nailor",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Justin Jefferson",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "T.J. Hockenson",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
    ]
   },
   {
-   "a": "Jbird531",
-   "b": "DMsourbeer",
-   "a_win": 36.8,
+   "a": "brettmn13",
+   "b": "triccster",
+   "a_win": 28.1,
    "rec": {
-    "Jbird531": [
-     1,
-     8
+    "brettmn13": [
+     3,
+     7
     ],
-    "DMsourbeer": [
-     4,
+    "triccster": [
+     5,
      5
     ]
    },
    "avg": {
-    "Jbird531": 108.69,
-    "DMsourbeer": 123.92
+    "brettmn13": 114.01,
+    "triccster": 133.42
    },
    "last3": {
-    "Jbird531": [
-     111.26,
-     95.52,
-     96.74
+    "brettmn13": [
+     110.74,
+     49.28,
+     113.66
     ],
-    "DMsourbeer": [
-     101.76,
-     108.56,
-     111.56
+    "triccster": [
+     153.74,
+     136.96,
+     167.6
     ]
    },
    "proj": {
-    "Jbird531": 114.37,
-    "DMsourbeer": 129.43
+    "brettmn13": 115.1,
+    "triccster": 141.83
    },
    "h2h": {
-    "Jbird531": 2,
-    "DMsourbeer": 2,
-    "games": 4
+    "brettmn13": 1,
+    "triccster": 0,
+    "games": 1
    },
    "streak": [
-    "DMsourbeer",
-    2
+    "brettmn13",
+    1
    ],
    "last": {
     "season": 2025,
     "week": 11,
     "label": null,
     "score": {
-     "Jbird531": 92.04,
-     "DMsourbeer": 120.5
+     "brettmn13": 97.8,
+     "triccster": 93.4
     }
    },
-   "flags": []
+   "flags": [
+    "Upset watch: {brettmn13} is the underdog"
+   ],
+   "nfl": [
+    {
+     "headline": "Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle injury",
+     "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury",
+     "date": "2026-11-15",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "brettmn13": [
+       {
+        "n": "Romeo Doubs",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Hunter Henry",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
+     "date": "2026-11-16",
+     "both": false,
+     "score": 20.0,
+     "touches": {
+      "triccster": [
+       {
+        "n": "Braelon Allen",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
+     "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
+     "date": "2026-11-16",
+     "both": false,
+     "score": 18.0,
+     "touches": {
+      "triccster": [
+       {
+        "n": "Garrett Nussmeier",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows",
+     "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
+     "date": "2026-11-17",
+     "both": false,
+     "score": 17.0,
+     "touches": {
+      "triccster": [
+       {
+        "n": "Braelon Allen",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
   },
   {
-   "a": "TuanonStan",
-   "b": "brettmn13",
-   "a_win": 67.4,
+   "a": "BROCKSTARxD",
+   "b": "HillBillyWorm",
+   "a_win": 37.8,
    "rec": {
-    "TuanonStan": [
-     6,
-     3
-    ],
-    "brettmn13": [
+    "BROCKSTARxD": [
      3,
-     6
+     7
+    ],
+    "HillBillyWorm": [
+     7,
+     3
     ]
    },
    "avg": {
-    "TuanonStan": 142.52,
-    "brettmn13": 114.04
+    "BROCKSTARxD": 121.91,
+    "HillBillyWorm": 139.8
    },
    "last3": {
-    "TuanonStan": [
-     156.34,
-     131.96,
-     138.02
+    "BROCKSTARxD": [
+     74.3,
+     135.7,
+     161.42
     ],
-    "brettmn13": [
-     135.14,
-     110.74,
-     49.28
+    "HillBillyWorm": [
+     163.08,
+     153.74,
+     129.08
     ]
    },
    "proj": {
-    "TuanonStan": 138.99,
-    "brettmn13": 118.86
+    "BROCKSTARxD": 124.97,
+    "HillBillyWorm": 139.3
    },
    "h2h": {
-    "TuanonStan": 2,
-    "brettmn13": 4,
+    "BROCKSTARxD": 0,
+    "HillBillyWorm": 0,
+    "games": 0
+   },
+   "streak": null,
+   "last": null,
+   "flags": [
+    "First ever meeting"
+   ],
+   "nfl": [
+    {
+     "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
+     "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "BROCKSTARxD": [
+       {
+        "n": "Josh Downs",
+        "p": "WR",
+        "how": "named"
+       },
+       {
+        "n": "Travis Kelce",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Xavier Worthy",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "HillBillyWorm": [
+       {
+        "n": "Jalen Royals",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week",
+     "url": "https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "HillBillyWorm": [
+       {
+        "n": "Sam Darnold",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Zach Charbonnet",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jadarian Price",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "BROCKSTARxD": [
+       {
+        "n": "Drew Lock",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Emanuel Wilson",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle injury",
+     "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury",
+     "date": "2026-11-15",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "BROCKSTARxD": [
+       {
+        "n": "Mack Hollins",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "HillBillyWorm": [
+       {
+        "n": "Corey Kiner",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Browns' Monken: Watson over Sanders QB decision based on 'full body of work'",
+     "url": "https://www.espn.com/nfl/story/_/id/50453932/browns-todd-monken-explains-call-start-deshaun-watson",
+     "date": "2026-11-11",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "BROCKSTARxD": [
+       {
+        "n": "KC Concepcion Jr.",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "HillBillyWorm": [
+       {
+        "n": "Jaleel McLaughlin",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jerry Jeudy",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "a": "TuanonStan",
+   "b": "Wallner",
+   "a_win": 34.2,
+   "rec": {
+    "TuanonStan": [
+     7,
+     3
+    ],
+    "Wallner": [
+     5,
+     5
+    ]
+   },
+   "avg": {
+    "TuanonStan": 143.14,
+    "Wallner": 134.85
+   },
+   "last3": {
+    "TuanonStan": [
+     131.96,
+     138.02,
+     148.76
+    ],
+    "Wallner": [
+     132.88,
+     101.48,
+     138.9
+    ]
+   },
+   "proj": {
+    "TuanonStan": 121.57,
+    "Wallner": 140.4
+   },
+   "h2h": {
+    "TuanonStan": 4,
+    "Wallner": 2,
     "games": 6
    },
    "streak": [
@@ -307,17 +726,270 @@
    ],
    "last": {
     "season": 2025,
-    "week": 12,
+    "week": 4,
     "label": null,
     "score": {
-     "TuanonStan": 168.58,
-     "brettmn13": 108.46
+     "TuanonStan": 152.58,
+     "Wallner": 144.82
     }
    },
-   "flags": []
+   "flags": [],
+   "nfl": [
+    {
+     "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
+     "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Brashard Smith",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kenneth Walker III",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "Wallner": [
+       {
+        "n": "Rashee Rice",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
+     "date": "2026-11-16",
+     "both": false,
+     "score": 20.0,
+     "touches": {
+      "Wallner": [
+       {
+        "n": "Garrett Wilson",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows",
+     "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
+     "date": "2026-11-17",
+     "both": false,
+     "score": 17.0,
+     "touches": {
+      "Wallner": [
+       {
+        "n": "Garrett Wilson",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week",
+     "url": "https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week",
+     "date": "2026-11-16",
+     "both": false,
+     "score": 17.0,
+     "touches": {
+      "Wallner": [
+       {
+        "n": "George Holani",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "a": "butterygoop",
+   "b": "Colt45Johnson",
+   "a_win": 57.2,
+   "rec": {
+    "butterygoop": [
+     9,
+     1
+    ],
+    "Colt45Johnson": [
+     9,
+     1
+    ]
+   },
+   "avg": {
+    "butterygoop": 173.53,
+    "Colt45Johnson": 174.47
+   },
+   "last3": {
+    "butterygoop": [
+     136.16,
+     182.42,
+     143.48
+    ],
+    "Colt45Johnson": [
+     197.98,
+     143.24,
+     225.68
+    ]
+   },
+   "proj": {
+    "butterygoop": 172.57,
+    "Colt45Johnson": 164.18
+   },
+   "h2h": {
+    "butterygoop": 2,
+    "Colt45Johnson": 3,
+    "games": 5
+   },
+   "streak": [
+    "butterygoop",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 7,
+    "label": null,
+    "score": {
+     "butterygoop": 156.56,
+     "Colt45Johnson": 136.78
+    }
+   },
+   "flags": [],
+   "nfl": [
+    {
+     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "Adonai Mitchell",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "Colt45Johnson": [
+       {
+        "n": "Isaiah Davis",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows",
+     "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
+     "date": "2026-11-17",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "Adonai Mitchell",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "Colt45Johnson": [
+       {
+        "n": "Isaiah Davis",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle injury",
+     "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury",
+     "date": "2026-11-15",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "A.J. Brown",
+        "p": "WR",
+        "how": "named"
+       },
+       {
+        "n": "Rhamondre Stevenson",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "Colt45Johnson": [
+       {
+        "n": "DeMario Douglas",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "TreVeyon Henderson",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
+     "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
+     "date": "2026-11-11",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "Colt45Johnson": [
+       {
+        "n": "Kirk Cousins",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Ashton Jeanty",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "DeeJay Dallas",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jauan Jennings",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "butterygoop": [
+       {
+        "n": "Dont'e Thornton Jr.",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
   }
  ],
  "league_note": "",
  "byline": "",
- "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small."
+ "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small.",
+ "nfl_read_at": "2026-11-17T13:16+00:00",
+ "nfl_note": "NFL headlines from ESPN that touch a player on either roster. A 'ripple' player was not in the headline; he plays on that NFL offence, so the story moves his value too."
 }

@@ -1,6 +1,6 @@
 {
  "season": 2026,
- "through_week": 9,
+ "through_week": 10,
  "stale": false,
  "projections": true,
  "positions": true,
@@ -124,13 +124,26 @@
       "WR": 41.4,
       "TE": 27.8
      }
+    },
+    {
+     "w": 10,
+     "proj": 174.46,
+     "act": 225.68,
+     "d": 51.22,
+     "unproj": [],
+     "pos": {
+      "QB": 68.58,
+      "RB": 94.2,
+      "WR": 46.5,
+      "TE": 16.4
+     }
     }
    ],
    "name": "Colt45Johnson",
-   "proj": 1418.9,
-   "act": 1519.06,
-   "d": 100.16,
-   "beat": 5,
+   "proj": 1593.36,
+   "act": 1744.74,
+   "d": 151.38,
+   "beat": 6,
    "missed": 4
   },
   {
@@ -256,13 +269,26 @@
       "WR": 72.3,
       "TE": 6.8
      }
+    },
+    {
+     "w": 10,
+     "proj": 104.36,
+     "act": 148.76,
+     "d": 44.4,
+     "unproj": [],
+     "pos": {
+      "QB": 20.76,
+      "RB": 36.2,
+      "WR": 75.4,
+      "TE": 16.4
+     }
     }
    ],
    "name": "TuanonStan",
-   "proj": 1244.46,
-   "act": 1282.68,
-   "d": 38.22,
-   "beat": 6,
+   "proj": 1348.82,
+   "act": 1431.44,
+   "d": 82.62,
+   "beat": 7,
    "missed": 3
   },
   {
@@ -385,14 +411,311 @@
       "WR": 76.6,
       "TE": 24.1
      }
+    },
+    {
+     "w": 10,
+     "proj": 177.48,
+     "act": 143.48,
+     "d": -34.0,
+     "unproj": [],
+     "pos": {
+      "QB": 44.78,
+      "RB": 20.0,
+      "WR": 67.5,
+      "TE": 11.2
+     }
     }
    ],
    "name": "butterygoop",
-   "proj": 1574.85,
-   "act": 1591.86,
-   "d": 17.01,
+   "proj": 1752.33,
+   "act": 1735.34,
+   "d": -16.99,
    "beat": 6,
-   "missed": 3
+   "missed": 4
+  },
+  {
+   "weeks": [
+    {
+     "w": 1,
+     "proj": 133.01,
+     "act": 134.34,
+     "d": 1.33,
+     "unproj": [],
+     "pos": {
+      "QB": 38.64,
+      "RB": 65.1,
+      "WR": 18.4,
+      "TE": 12.2
+     }
+    },
+    {
+     "w": 2,
+     "proj": 121.86,
+     "act": 110.46,
+     "d": -11.4,
+     "unproj": [],
+     "pos": {
+      "QB": 49.16,
+      "RB": 31.8,
+      "WR": 8.1,
+      "TE": 21.4
+     }
+    },
+    {
+     "w": 3,
+     "proj": 129.68,
+     "act": 136.16,
+     "d": 6.48,
+     "unproj": [],
+     "pos": {
+      "QB": 42.16,
+      "RB": 32.1,
+      "WR": 32.3,
+      "TE": 29.6
+     }
+    },
+    {
+     "w": 4,
+     "proj": 132.02,
+     "act": 117.92,
+     "d": -14.1,
+     "unproj": [],
+     "pos": {
+      "QB": 36.42,
+      "RB": 34.9,
+      "WR": 19.7,
+      "TE": 26.9
+     }
+    },
+    {
+     "w": 5,
+     "proj": 142.9,
+     "act": 128.68,
+     "d": -14.22,
+     "unproj": [],
+     "pos": {
+      "QB": 29.78,
+      "RB": 44.7,
+      "WR": 37.4,
+      "TE": 16.8
+     }
+    },
+    {
+     "w": 6,
+     "proj": 124.94,
+     "act": 98.36,
+     "d": -26.58,
+     "unproj": [],
+     "pos": {
+      "QB": 48.06,
+      "RB": 23.3,
+      "WR": 24.6,
+      "TE": 2.4
+     }
+    },
+    {
+     "w": 7,
+     "proj": 143.9,
+     "act": 149.94,
+     "d": 6.04,
+     "unproj": [],
+     "pos": {
+      "QB": 29.84,
+      "RB": 48.3,
+      "WR": 56.7,
+      "TE": 15.1
+     }
+    },
+    {
+     "w": 8,
+     "proj": 143.93,
+     "act": 153.74,
+     "d": 9.81,
+     "unproj": [],
+     "pos": {
+      "QB": 11.14,
+      "RB": 57.3,
+      "WR": 50.4,
+      "TE": 34.9
+     }
+    },
+    {
+     "w": 9,
+     "proj": 146.91,
+     "act": 136.96,
+     "d": -9.95,
+     "unproj": [],
+     "pos": {
+      "QB": 20.78,
+      "RB": 57.78,
+      "WR": 45.2,
+      "TE": 13.2
+     }
+    },
+    {
+     "w": 10,
+     "proj": 133.5,
+     "act": 167.6,
+     "d": 34.1,
+     "unproj": [],
+     "pos": {
+      "QB": 32.4,
+      "RB": 51.8,
+      "WR": 58.6,
+      "TE": 24.8
+     }
+    }
+   ],
+   "name": "triccster",
+   "proj": 1352.65,
+   "act": 1334.16,
+   "d": -18.49,
+   "beat": 5,
+   "missed": 5
+  },
+  {
+   "weeks": [
+    {
+     "w": 1,
+     "proj": 110.96,
+     "act": 146.92,
+     "d": 35.96,
+     "unproj": [],
+     "pos": {
+      "QB": 29.02,
+      "RB": 2.9,
+      "WR": 73.7,
+      "TE": 41.3
+     }
+    },
+    {
+     "w": 2,
+     "proj": 115.85,
+     "act": 72.98,
+     "d": -42.87,
+     "unproj": [],
+     "pos": {
+      "QB": 10.48,
+      "RB": 10.8,
+      "WR": 42.4,
+      "TE": 9.3
+     }
+    },
+    {
+     "w": 3,
+     "proj": 112.1,
+     "act": 95.08,
+     "d": -17.02,
+     "unproj": [],
+     "pos": {
+      "QB": 49.28,
+      "RB": 6.8,
+      "WR": 34.9,
+      "TE": 4.1
+     }
+    },
+    {
+     "w": 4,
+     "proj": 76.14,
+     "act": 116.08,
+     "d": 39.94,
+     "unproj": [
+      "Ladd McConkey",
+      "Keenan Allen",
+      "Marcus Mariota"
+     ],
+     "pos": {
+      "QB": 18.78,
+      "RB": 23.7,
+      "WR": 28.0,
+      "TE": 45.6
+     }
+    },
+    {
+     "w": 5,
+     "proj": 114.46,
+     "act": 106.58,
+     "d": -7.88,
+     "unproj": [],
+     "pos": {
+      "QB": 48.28,
+      "RB": 11.6,
+      "WR": 28.7,
+      "TE": 18.0
+     }
+    },
+    {
+     "w": 6,
+     "proj": 103.93,
+     "act": 112.04,
+     "d": 8.11,
+     "unproj": [],
+     "pos": {
+      "QB": 24.94,
+      "RB": 23.9,
+      "WR": 36.7,
+      "TE": 26.5
+     }
+    },
+    {
+     "w": 7,
+     "proj": 120.43,
+     "act": 101.96,
+     "d": -18.47,
+     "unproj": [],
+     "pos": {
+      "QB": 29.56,
+      "RB": 19.0,
+      "WR": 21.2,
+      "TE": 32.2
+     }
+    },
+    {
+     "w": 8,
+     "proj": 120.93,
+     "act": 97.74,
+     "d": -23.19,
+     "unproj": [],
+     "pos": {
+      "QB": 10.34,
+      "RB": 16.7,
+      "WR": 40.8,
+      "TE": 29.9
+     }
+    },
+    {
+     "w": 9,
+     "proj": 124.35,
+     "act": 86.48,
+     "d": -37.87,
+     "unproj": [],
+     "pos": {
+      "QB": 22.68,
+      "RB": 15.7,
+      "WR": 23.5,
+      "TE": 24.6
+     }
+    },
+    {
+     "w": 10,
+     "proj": 114.84,
+     "act": 157.82,
+     "d": 42.98,
+     "unproj": [],
+     "pos": {
+      "QB": 27.42,
+      "RB": 58.2,
+      "WR": 60.0,
+      "TE": 12.2
+     }
+    }
+   ],
+   "name": "YoungBuck04",
+   "proj": 1113.99,
+   "act": 1093.68,
+   "d": -20.31,
+   "beat": 4,
+   "missed": 6
   },
   {
    "weeks": [
@@ -521,14 +844,27 @@
       "WR": 52.0,
       "TE": 27.2
      }
+    },
+    {
+     "w": 10,
+     "proj": 104.43,
+     "act": 80.34,
+     "d": -24.09,
+     "unproj": [],
+     "pos": {
+      "QB": 20.14,
+      "RB": 43.9,
+      "WR": 8.1,
+      "TE": 8.2
+     }
     }
    ],
    "name": "Thnu",
-   "proj": 1061.72,
-   "act": 1052.8,
-   "d": -8.92,
+   "proj": 1166.15,
+   "act": 1133.14,
+   "d": -33.01,
    "beat": 5,
-   "missed": 4
+   "missed": 5
   },
   {
    "weeks": [
@@ -648,14 +984,453 @@
       "WR": 71.8,
       "TE": 5.2
      }
+    },
+    {
+     "w": 10,
+     "proj": 141.37,
+     "act": 129.08,
+     "d": -12.29,
+     "unproj": [],
+     "pos": {
+      "QB": 27.78,
+      "RB": 61.3,
+      "WR": 30.1,
+      "TE": 9.9
+     }
     }
    ],
    "name": "HillBillyWorm",
-   "proj": 1294.82,
-   "act": 1268.96,
-   "d": -25.86,
+   "proj": 1436.19,
+   "act": 1398.04,
+   "d": -38.15,
    "beat": 5,
-   "missed": 4
+   "missed": 5
+  },
+  {
+   "weeks": [
+    {
+     "w": 1,
+     "proj": 136.94,
+     "act": 109.94,
+     "d": -27.0,
+     "unproj": [],
+     "pos": {
+      "QB": 34.24,
+      "RB": 37.2,
+      "WR": 26.9,
+      "TE": 11.6
+     }
+    },
+    {
+     "w": 2,
+     "proj": 137.22,
+     "act": 135.98,
+     "d": -1.24,
+     "unproj": [],
+     "pos": {
+      "QB": 29.28,
+      "RB": 36.8,
+      "WR": 40.3,
+      "TE": 29.6
+     }
+    },
+    {
+     "w": 3,
+     "proj": 139.39,
+     "act": 129.36,
+     "d": -10.03,
+     "unproj": [],
+     "pos": {
+      "QB": 43.56,
+      "RB": 35.4,
+      "WR": 35.5,
+      "TE": 14.9
+     }
+    },
+    {
+     "w": 4,
+     "proj": 123.05,
+     "act": 115.62,
+     "d": -7.43,
+     "unproj": [],
+     "pos": {
+      "QB": 19.62,
+      "RB": 49.2,
+      "WR": 42.3,
+      "TE": 4.5
+     }
+    },
+    {
+     "w": 5,
+     "proj": 111.43,
+     "act": 110.36,
+     "d": -1.07,
+     "unproj": [],
+     "pos": {
+      "QB": 17.16,
+      "RB": 44.9,
+      "WR": 48.3,
+      "TE": 0.0
+     }
+    },
+    {
+     "w": 6,
+     "proj": 128.2,
+     "act": 129.76,
+     "d": 1.56,
+     "unproj": [],
+     "pos": {
+      "QB": 17.36,
+      "RB": 48.5,
+      "WR": 52.6,
+      "TE": 11.3
+     }
+    },
+    {
+     "w": 7,
+     "proj": 125.48,
+     "act": 116.68,
+     "d": -8.8,
+     "unproj": [],
+     "pos": {
+      "QB": 20.68,
+      "RB": 48.8,
+      "WR": 36.8,
+      "TE": 10.4
+     }
+    },
+    {
+     "w": 8,
+     "proj": 96.71,
+     "act": 74.3,
+     "d": -22.41,
+     "unproj": [],
+     "pos": {
+      "QB": -1.6,
+      "RB": 14.1,
+      "WR": 47.6,
+      "TE": 14.2
+     }
+    },
+    {
+     "w": 9,
+     "proj": 137.87,
+     "act": 135.7,
+     "d": -2.17,
+     "unproj": [],
+     "pos": {
+      "QB": 36.0,
+      "RB": 34.4,
+      "WR": 46.0,
+      "TE": 19.3
+     }
+    },
+    {
+     "w": 10,
+     "proj": 128.64,
+     "act": 161.42,
+     "d": 32.78,
+     "unproj": [],
+     "pos": {
+      "QB": 45.26,
+      "RB": 61.6,
+      "WR": 48.56,
+      "TE": 6.0
+     }
+    }
+   ],
+   "name": "BROCKSTARxD",
+   "proj": 1264.93,
+   "act": 1219.12,
+   "d": -45.81,
+   "beat": 2,
+   "missed": 8
+  },
+  {
+   "weeks": [
+    {
+     "w": 1,
+     "proj": 149.67,
+     "act": 149.7,
+     "d": 0.03,
+     "unproj": [],
+     "pos": {
+      "QB": 27.4,
+      "RB": 57.7,
+      "WR": 44.1,
+      "TE": 20.5
+     }
+    },
+    {
+     "w": 2,
+     "proj": 152.2,
+     "act": 142.32,
+     "d": -9.88,
+     "unproj": [],
+     "pos": {
+      "QB": 30.92,
+      "RB": 40.4,
+      "WR": 60.2,
+      "TE": 10.8
+     }
+    },
+    {
+     "w": 3,
+     "proj": 159.21,
+     "act": 150.78,
+     "d": -8.43,
+     "unproj": [],
+     "pos": {
+      "QB": 45.58,
+      "RB": 18.1,
+      "WR": 83.3,
+      "TE": 3.8
+     }
+    },
+    {
+     "w": 4,
+     "proj": 165.61,
+     "act": 113.74,
+     "d": -51.87,
+     "unproj": [],
+     "pos": {
+      "QB": 32.44,
+      "RB": 41.8,
+      "WR": 37.3,
+      "TE": 2.2
+     }
+    },
+    {
+     "w": 5,
+     "proj": 144.47,
+     "act": 170.86,
+     "d": 26.39,
+     "unproj": [],
+     "pos": {
+      "QB": 29.96,
+      "RB": 17.2,
+      "WR": 81.6,
+      "TE": 42.1
+     }
+    },
+    {
+     "w": 6,
+     "proj": 149.99,
+     "act": 118.88,
+     "d": -31.11,
+     "unproj": [],
+     "pos": {
+      "QB": 16.88,
+      "RB": 25.9,
+      "WR": 34.9,
+      "TE": 41.2
+     }
+    },
+    {
+     "w": 7,
+     "proj": 132.06,
+     "act": 129.0,
+     "d": -3.06,
+     "unproj": [],
+     "pos": {
+      "QB": 41.3,
+      "RB": 36.7,
+      "WR": 34.5,
+      "TE": 16.5
+     }
+    },
+    {
+     "w": 8,
+     "proj": 129.33,
+     "act": 132.88,
+     "d": 3.55,
+     "unproj": [],
+     "pos": {
+      "QB": 18.28,
+      "RB": 57.8,
+      "WR": 36.2,
+      "TE": 20.6
+     }
+    },
+    {
+     "w": 9,
+     "proj": 136.81,
+     "act": 101.48,
+     "d": -35.33,
+     "unproj": [],
+     "pos": {
+      "QB": 16.38,
+      "RB": 25.5,
+      "WR": 33.5,
+      "TE": 26.1
+     }
+    },
+    {
+     "w": 10,
+     "proj": 116.97,
+     "act": 138.9,
+     "d": 21.93,
+     "unproj": [
+      "Joe Fagnano"
+     ],
+     "pos": {
+      "QB": 0.0,
+      "RB": 41.0,
+      "WR": 57.9,
+      "TE": 40.0
+     }
+    }
+   ],
+   "name": "Wallner",
+   "proj": 1436.32,
+   "act": 1348.54,
+   "d": -87.78,
+   "beat": 4,
+   "missed": 6
+  },
+  {
+   "weeks": [
+    {
+     "w": 1,
+     "proj": 134.12,
+     "act": 132.16,
+     "d": -1.96,
+     "unproj": [],
+     "pos": {
+      "QB": 34.36,
+      "RB": 71.4,
+      "WR": 15.5,
+      "TE": 10.9
+     }
+    },
+    {
+     "w": 2,
+     "proj": 139.65,
+     "act": 109.16,
+     "d": -30.49,
+     "unproj": [],
+     "pos": {
+      "QB": 19.06,
+      "RB": 43.0,
+      "WR": 33.2,
+      "TE": 13.9
+     }
+    },
+    {
+     "w": 3,
+     "proj": 130.46,
+     "act": 117.46,
+     "d": -13.0,
+     "unproj": [],
+     "pos": {
+      "QB": 20.76,
+      "RB": 38.0,
+      "WR": 51.8,
+      "TE": 6.9
+     }
+    },
+    {
+     "w": 4,
+     "proj": 118.08,
+     "act": 141.16,
+     "d": 23.08,
+     "unproj": [
+      "Ja'Marr Chase"
+     ],
+     "pos": {
+      "QB": 41.46,
+      "RB": 29.3,
+      "WR": 54.2,
+      "TE": 16.2
+     }
+    },
+    {
+     "w": 5,
+     "proj": 124.49,
+     "act": 110.32,
+     "d": -14.17,
+     "unproj": [],
+     "pos": {
+      "QB": 43.62,
+      "RB": 51.1,
+      "WR": 9.8,
+      "TE": 5.8
+     }
+    },
+    {
+     "w": 6,
+     "proj": 120.92,
+     "act": 120.98,
+     "d": 0.06,
+     "unproj": [],
+     "pos": {
+      "QB": 29.48,
+      "RB": 54.8,
+      "WR": 34.8,
+      "TE": 1.9
+     }
+    },
+    {
+     "w": 7,
+     "proj": 125.32,
+     "act": 135.14,
+     "d": 9.82,
+     "unproj": [],
+     "pos": {
+      "QB": 32.44,
+      "RB": 78.0,
+      "WR": 17.9,
+      "TE": 6.8
+     }
+    },
+    {
+     "w": 8,
+     "proj": 128.86,
+     "act": 110.74,
+     "d": -18.12,
+     "unproj": [],
+     "pos": {
+      "QB": 26.34,
+      "RB": 68.3,
+      "WR": 10.2,
+      "TE": 5.9
+     }
+    },
+    {
+     "w": 9,
+     "proj": 123.21,
+     "act": 49.28,
+     "d": -73.93,
+     "unproj": [],
+     "pos": {
+      "QB": 18.38,
+      "RB": 17.0,
+      "WR": 10.0,
+      "TE": 3.9
+     }
+    },
+    {
+     "w": 10,
+     "proj": 83.71,
+     "act": 113.66,
+     "d": 29.95,
+     "unproj": [
+      "Malik Willis"
+     ],
+     "pos": {
+      "QB": 22.76,
+      "RB": 39.2,
+      "WR": 31.5,
+      "TE": 20.2
+     }
+    }
+   ],
+   "name": "brettmn13",
+   "proj": 1228.82,
+   "act": 1140.06,
+   "d": -88.76,
+   "beat": 4,
+   "missed": 6
   },
   {
    "weeks": [
@@ -781,655 +1556,27 @@
       "WR": 31.6,
       "TE": 27.0
      }
+    },
+    {
+     "w": 10,
+     "proj": 113.87,
+     "act": 64.44,
+     "d": -49.43,
+     "unproj": [],
+     "pos": {
+      "QB": 21.14,
+      "RB": 19.9,
+      "WR": 15.2,
+      "TE": 8.2
+     }
     }
    ],
    "name": "Jbird531",
-   "proj": 1021.13,
-   "act": 978.2,
-   "d": -42.93,
+   "proj": 1135.0,
+   "act": 1042.64,
+   "d": -92.36,
    "beat": 3,
-   "missed": 6
-  },
-  {
-   "weeks": [
-    {
-     "w": 1,
-     "proj": 133.01,
-     "act": 134.34,
-     "d": 1.33,
-     "unproj": [],
-     "pos": {
-      "QB": 38.64,
-      "RB": 65.1,
-      "WR": 18.4,
-      "TE": 12.2
-     }
-    },
-    {
-     "w": 2,
-     "proj": 121.86,
-     "act": 110.46,
-     "d": -11.4,
-     "unproj": [],
-     "pos": {
-      "QB": 49.16,
-      "RB": 31.8,
-      "WR": 8.1,
-      "TE": 21.4
-     }
-    },
-    {
-     "w": 3,
-     "proj": 129.68,
-     "act": 136.16,
-     "d": 6.48,
-     "unproj": [],
-     "pos": {
-      "QB": 42.16,
-      "RB": 32.1,
-      "WR": 32.3,
-      "TE": 29.6
-     }
-    },
-    {
-     "w": 4,
-     "proj": 132.02,
-     "act": 117.92,
-     "d": -14.1,
-     "unproj": [],
-     "pos": {
-      "QB": 36.42,
-      "RB": 34.9,
-      "WR": 19.7,
-      "TE": 26.9
-     }
-    },
-    {
-     "w": 5,
-     "proj": 142.9,
-     "act": 128.68,
-     "d": -14.22,
-     "unproj": [],
-     "pos": {
-      "QB": 29.78,
-      "RB": 44.7,
-      "WR": 37.4,
-      "TE": 16.8
-     }
-    },
-    {
-     "w": 6,
-     "proj": 124.94,
-     "act": 98.36,
-     "d": -26.58,
-     "unproj": [],
-     "pos": {
-      "QB": 48.06,
-      "RB": 23.3,
-      "WR": 24.6,
-      "TE": 2.4
-     }
-    },
-    {
-     "w": 7,
-     "proj": 143.9,
-     "act": 149.94,
-     "d": 6.04,
-     "unproj": [],
-     "pos": {
-      "QB": 29.84,
-      "RB": 48.3,
-      "WR": 56.7,
-      "TE": 15.1
-     }
-    },
-    {
-     "w": 8,
-     "proj": 143.93,
-     "act": 153.74,
-     "d": 9.81,
-     "unproj": [],
-     "pos": {
-      "QB": 11.14,
-      "RB": 57.3,
-      "WR": 50.4,
-      "TE": 34.9
-     }
-    },
-    {
-     "w": 9,
-     "proj": 146.91,
-     "act": 136.96,
-     "d": -9.95,
-     "unproj": [],
-     "pos": {
-      "QB": 20.78,
-      "RB": 57.78,
-      "WR": 45.2,
-      "TE": 13.2
-     }
-    }
-   ],
-   "name": "triccster",
-   "proj": 1219.15,
-   "act": 1166.56,
-   "d": -52.59,
-   "beat": 4,
-   "missed": 5
-  },
-  {
-   "weeks": [
-    {
-     "w": 1,
-     "proj": 110.96,
-     "act": 146.92,
-     "d": 35.96,
-     "unproj": [],
-     "pos": {
-      "QB": 29.02,
-      "RB": 2.9,
-      "WR": 73.7,
-      "TE": 41.3
-     }
-    },
-    {
-     "w": 2,
-     "proj": 115.85,
-     "act": 72.98,
-     "d": -42.87,
-     "unproj": [],
-     "pos": {
-      "QB": 10.48,
-      "RB": 10.8,
-      "WR": 42.4,
-      "TE": 9.3
-     }
-    },
-    {
-     "w": 3,
-     "proj": 112.1,
-     "act": 95.08,
-     "d": -17.02,
-     "unproj": [],
-     "pos": {
-      "QB": 49.28,
-      "RB": 6.8,
-      "WR": 34.9,
-      "TE": 4.1
-     }
-    },
-    {
-     "w": 4,
-     "proj": 76.14,
-     "act": 116.08,
-     "d": 39.94,
-     "unproj": [
-      "Ladd McConkey",
-      "Keenan Allen",
-      "Marcus Mariota"
-     ],
-     "pos": {
-      "QB": 18.78,
-      "RB": 23.7,
-      "WR": 28.0,
-      "TE": 45.6
-     }
-    },
-    {
-     "w": 5,
-     "proj": 114.46,
-     "act": 106.58,
-     "d": -7.88,
-     "unproj": [],
-     "pos": {
-      "QB": 48.28,
-      "RB": 11.6,
-      "WR": 28.7,
-      "TE": 18.0
-     }
-    },
-    {
-     "w": 6,
-     "proj": 103.93,
-     "act": 112.04,
-     "d": 8.11,
-     "unproj": [],
-     "pos": {
-      "QB": 24.94,
-      "RB": 23.9,
-      "WR": 36.7,
-      "TE": 26.5
-     }
-    },
-    {
-     "w": 7,
-     "proj": 120.43,
-     "act": 101.96,
-     "d": -18.47,
-     "unproj": [],
-     "pos": {
-      "QB": 29.56,
-      "RB": 19.0,
-      "WR": 21.2,
-      "TE": 32.2
-     }
-    },
-    {
-     "w": 8,
-     "proj": 120.93,
-     "act": 97.74,
-     "d": -23.19,
-     "unproj": [],
-     "pos": {
-      "QB": 10.34,
-      "RB": 16.7,
-      "WR": 40.8,
-      "TE": 29.9
-     }
-    },
-    {
-     "w": 9,
-     "proj": 124.35,
-     "act": 86.48,
-     "d": -37.87,
-     "unproj": [],
-     "pos": {
-      "QB": 22.68,
-      "RB": 15.7,
-      "WR": 23.5,
-      "TE": 24.6
-     }
-    }
-   ],
-   "name": "YoungBuck04",
-   "proj": 999.15,
-   "act": 935.86,
-   "d": -63.29,
-   "beat": 3,
-   "missed": 6
-  },
-  {
-   "weeks": [
-    {
-     "w": 1,
-     "proj": 136.94,
-     "act": 109.94,
-     "d": -27.0,
-     "unproj": [],
-     "pos": {
-      "QB": 34.24,
-      "RB": 37.2,
-      "WR": 26.9,
-      "TE": 11.6
-     }
-    },
-    {
-     "w": 2,
-     "proj": 137.22,
-     "act": 135.98,
-     "d": -1.24,
-     "unproj": [],
-     "pos": {
-      "QB": 29.28,
-      "RB": 36.8,
-      "WR": 40.3,
-      "TE": 29.6
-     }
-    },
-    {
-     "w": 3,
-     "proj": 139.39,
-     "act": 129.36,
-     "d": -10.03,
-     "unproj": [],
-     "pos": {
-      "QB": 43.56,
-      "RB": 35.4,
-      "WR": 35.5,
-      "TE": 14.9
-     }
-    },
-    {
-     "w": 4,
-     "proj": 123.05,
-     "act": 115.62,
-     "d": -7.43,
-     "unproj": [],
-     "pos": {
-      "QB": 19.62,
-      "RB": 49.2,
-      "WR": 42.3,
-      "TE": 4.5
-     }
-    },
-    {
-     "w": 5,
-     "proj": 111.43,
-     "act": 110.36,
-     "d": -1.07,
-     "unproj": [],
-     "pos": {
-      "QB": 17.16,
-      "RB": 44.9,
-      "WR": 48.3,
-      "TE": 0.0
-     }
-    },
-    {
-     "w": 6,
-     "proj": 128.2,
-     "act": 129.76,
-     "d": 1.56,
-     "unproj": [],
-     "pos": {
-      "QB": 17.36,
-      "RB": 48.5,
-      "WR": 52.6,
-      "TE": 11.3
-     }
-    },
-    {
-     "w": 7,
-     "proj": 125.48,
-     "act": 116.68,
-     "d": -8.8,
-     "unproj": [],
-     "pos": {
-      "QB": 20.68,
-      "RB": 48.8,
-      "WR": 36.8,
-      "TE": 10.4
-     }
-    },
-    {
-     "w": 8,
-     "proj": 96.71,
-     "act": 74.3,
-     "d": -22.41,
-     "unproj": [],
-     "pos": {
-      "QB": -1.6,
-      "RB": 14.1,
-      "WR": 47.6,
-      "TE": 14.2
-     }
-    },
-    {
-     "w": 9,
-     "proj": 137.87,
-     "act": 135.7,
-     "d": -2.17,
-     "unproj": [],
-     "pos": {
-      "QB": 36.0,
-      "RB": 34.4,
-      "WR": 46.0,
-      "TE": 19.3
-     }
-    }
-   ],
-   "name": "BROCKSTARxD",
-   "proj": 1136.29,
-   "act": 1057.7,
-   "d": -78.59,
-   "beat": 1,
-   "missed": 8
-  },
-  {
-   "weeks": [
-    {
-     "w": 1,
-     "proj": 149.67,
-     "act": 149.7,
-     "d": 0.03,
-     "unproj": [],
-     "pos": {
-      "QB": 27.4,
-      "RB": 57.7,
-      "WR": 44.1,
-      "TE": 20.5
-     }
-    },
-    {
-     "w": 2,
-     "proj": 152.2,
-     "act": 142.32,
-     "d": -9.88,
-     "unproj": [],
-     "pos": {
-      "QB": 30.92,
-      "RB": 40.4,
-      "WR": 60.2,
-      "TE": 10.8
-     }
-    },
-    {
-     "w": 3,
-     "proj": 159.21,
-     "act": 150.78,
-     "d": -8.43,
-     "unproj": [],
-     "pos": {
-      "QB": 45.58,
-      "RB": 18.1,
-      "WR": 83.3,
-      "TE": 3.8
-     }
-    },
-    {
-     "w": 4,
-     "proj": 165.61,
-     "act": 113.74,
-     "d": -51.87,
-     "unproj": [],
-     "pos": {
-      "QB": 32.44,
-      "RB": 41.8,
-      "WR": 37.3,
-      "TE": 2.2
-     }
-    },
-    {
-     "w": 5,
-     "proj": 144.47,
-     "act": 170.86,
-     "d": 26.39,
-     "unproj": [],
-     "pos": {
-      "QB": 29.96,
-      "RB": 17.2,
-      "WR": 81.6,
-      "TE": 42.1
-     }
-    },
-    {
-     "w": 6,
-     "proj": 149.99,
-     "act": 118.88,
-     "d": -31.11,
-     "unproj": [],
-     "pos": {
-      "QB": 16.88,
-      "RB": 25.9,
-      "WR": 34.9,
-      "TE": 41.2
-     }
-    },
-    {
-     "w": 7,
-     "proj": 132.06,
-     "act": 129.0,
-     "d": -3.06,
-     "unproj": [],
-     "pos": {
-      "QB": 41.3,
-      "RB": 36.7,
-      "WR": 34.5,
-      "TE": 16.5
-     }
-    },
-    {
-     "w": 8,
-     "proj": 129.33,
-     "act": 132.88,
-     "d": 3.55,
-     "unproj": [],
-     "pos": {
-      "QB": 18.28,
-      "RB": 57.8,
-      "WR": 36.2,
-      "TE": 20.6
-     }
-    },
-    {
-     "w": 9,
-     "proj": 136.81,
-     "act": 101.48,
-     "d": -35.33,
-     "unproj": [],
-     "pos": {
-      "QB": 16.38,
-      "RB": 25.5,
-      "WR": 33.5,
-      "TE": 26.1
-     }
-    }
-   ],
-   "name": "Wallner",
-   "proj": 1319.35,
-   "act": 1209.64,
-   "d": -109.71,
-   "beat": 3,
-   "missed": 6
-  },
-  {
-   "weeks": [
-    {
-     "w": 1,
-     "proj": 134.12,
-     "act": 132.16,
-     "d": -1.96,
-     "unproj": [],
-     "pos": {
-      "QB": 34.36,
-      "RB": 71.4,
-      "WR": 15.5,
-      "TE": 10.9
-     }
-    },
-    {
-     "w": 2,
-     "proj": 139.65,
-     "act": 109.16,
-     "d": -30.49,
-     "unproj": [],
-     "pos": {
-      "QB": 19.06,
-      "RB": 43.0,
-      "WR": 33.2,
-      "TE": 13.9
-     }
-    },
-    {
-     "w": 3,
-     "proj": 130.46,
-     "act": 117.46,
-     "d": -13.0,
-     "unproj": [],
-     "pos": {
-      "QB": 20.76,
-      "RB": 38.0,
-      "WR": 51.8,
-      "TE": 6.9
-     }
-    },
-    {
-     "w": 4,
-     "proj": 118.08,
-     "act": 141.16,
-     "d": 23.08,
-     "unproj": [
-      "Ja'Marr Chase"
-     ],
-     "pos": {
-      "QB": 41.46,
-      "RB": 29.3,
-      "WR": 54.2,
-      "TE": 16.2
-     }
-    },
-    {
-     "w": 5,
-     "proj": 124.49,
-     "act": 110.32,
-     "d": -14.17,
-     "unproj": [],
-     "pos": {
-      "QB": 43.62,
-      "RB": 51.1,
-      "WR": 9.8,
-      "TE": 5.8
-     }
-    },
-    {
-     "w": 6,
-     "proj": 120.92,
-     "act": 120.98,
-     "d": 0.06,
-     "unproj": [],
-     "pos": {
-      "QB": 29.48,
-      "RB": 54.8,
-      "WR": 34.8,
-      "TE": 1.9
-     }
-    },
-    {
-     "w": 7,
-     "proj": 125.32,
-     "act": 135.14,
-     "d": 9.82,
-     "unproj": [],
-     "pos": {
-      "QB": 32.44,
-      "RB": 78.0,
-      "WR": 17.9,
-      "TE": 6.8
-     }
-    },
-    {
-     "w": 8,
-     "proj": 128.86,
-     "act": 110.74,
-     "d": -18.12,
-     "unproj": [],
-     "pos": {
-      "QB": 26.34,
-      "RB": 68.3,
-      "WR": 10.2,
-      "TE": 5.9
-     }
-    },
-    {
-     "w": 9,
-     "proj": 123.21,
-     "act": 49.28,
-     "d": -73.93,
-     "unproj": [],
-     "pos": {
-      "QB": 18.38,
-      "RB": 17.0,
-      "WR": 10.0,
-      "TE": 3.9
-     }
-    }
-   ],
-   "name": "brettmn13",
-   "proj": 1145.11,
-   "act": 1026.4,
-   "d": -118.71,
-   "beat": 3,
-   "missed": 6
+   "missed": 7
   },
   {
    "weeks": [
@@ -1549,17 +1696,85 @@
       "WR": 26.7,
       "TE": 17.8
      }
+    },
+    {
+     "w": 10,
+     "proj": 131.2,
+     "act": 137.42,
+     "d": 6.22,
+     "unproj": [],
+     "pos": {
+      "QB": 47.22,
+      "RB": 30.5,
+      "WR": 47.3,
+      "TE": 12.4
+     }
     }
    ],
    "name": "DMsourbeer",
-   "proj": 1243.49,
-   "act": 1115.28,
-   "d": -128.21,
-   "beat": 3,
+   "proj": 1374.69,
+   "act": 1252.7,
+   "d": -121.99,
+   "beat": 4,
    "missed": 6
   }
  ],
  "surprises": [
+  {
+   "w": 10,
+   "h": "YoungBuck04",
+   "pos": "RB",
+   "kind": "breakout",
+   "pts": 58.2,
+   "avg": 14.57,
+   "league": 35.58,
+   "rank": 1,
+   "of": 12
+  },
+  {
+   "w": 10,
+   "h": "BROCKSTARxD",
+   "pos": "QB",
+   "kind": "breakout",
+   "pts": 45.26,
+   "avg": 24.03,
+   "league": 31.12,
+   "rank": 2,
+   "of": 12
+  },
+  {
+   "w": 10,
+   "h": "butterygoop",
+   "pos": "RB",
+   "kind": "collapse",
+   "pts": 20.0,
+   "avg": 45.44,
+   "league": 35.58,
+   "rank": 10,
+   "of": 12
+  },
+  {
+   "w": 10,
+   "h": "Jbird531",
+   "pos": "TE",
+   "kind": "collapse",
+   "pts": 8.2,
+   "avg": 30.03,
+   "league": 19.0,
+   "rank": 12,
+   "of": 12
+  },
+  {
+   "w": 10,
+   "h": "butterygoop",
+   "pos": "TE",
+   "kind": "collapse",
+   "pts": 11.2,
+   "avg": 28.54,
+   "league": 19.0,
+   "rank": 11,
+   "of": 12
+  },
   {
    "w": 9,
    "h": "brettmn13",
@@ -1717,150 +1932,150 @@
  ],
  "week_best": [
   {
-   "w": 9,
-   "h": "butterygoop",
-   "n": "C.J. Stroud",
-   "p": "QB",
-   "proj": 16.39,
-   "act": 36.36,
-   "d": 19.97
-  },
-  {
-   "w": 9,
-   "h": "DMsourbeer",
-   "n": "Jordan Love",
-   "p": "QB",
-   "proj": 16.64,
-   "act": 36.18,
-   "d": 19.54
-  },
-  {
-   "w": 9,
-   "h": "HillBillyWorm",
-   "n": "Matthew Golden",
-   "p": "WR",
-   "proj": 14.83,
-   "act": 32.4,
-   "d": 17.57
-  },
-  {
-   "w": 9,
+   "w": 10,
    "h": "TuanonStan",
-   "n": "Kenneth Walker III",
+   "n": "George Pickens",
+   "p": "WR",
+   "proj": 13.53,
+   "act": 43.5,
+   "d": 29.97
+  },
+  {
+   "w": 10,
+   "h": "BROCKSTARxD",
+   "n": "Christian McCaffrey",
    "p": "RB",
-   "proj": 21.53,
-   "act": 36.3,
-   "d": 14.77
+   "proj": 22.36,
+   "act": 46.3,
+   "d": 23.94
   },
   {
-   "w": 9,
-   "h": "Thnu",
-   "n": "Christian Watson",
-   "p": "WR",
-   "proj": 15.88,
-   "act": 30.1,
-   "d": 14.22
+   "w": 10,
+   "h": "Colt45Johnson",
+   "n": "Jahmyr Gibbs",
+   "p": "RB",
+   "proj": 24.45,
+   "act": 44.2,
+   "d": 19.75
   },
   {
-   "w": 9,
-   "h": "triccster",
-   "n": "Ja'Marr Chase",
-   "p": "WR",
-   "proj": 19.36,
-   "act": 31.5,
-   "d": 12.14
+   "w": 10,
+   "h": "Colt45Johnson",
+   "n": "Dak Prescott",
+   "p": "QB",
+   "proj": 17.87,
+   "act": 35.42,
+   "d": 17.55
   },
   {
-   "w": 9,
-   "h": "butterygoop",
-   "n": "CeeDee Lamb",
-   "p": "WR",
-   "proj": 21.36,
-   "act": 32.5,
-   "d": 11.14
+   "w": 10,
+   "h": "YoungBuck04",
+   "n": "Emmett Johnson",
+   "p": "RB",
+   "proj": 16.59,
+   "act": 34.1,
+   "d": 17.51
   },
   {
-   "w": 9,
-   "h": "TuanonStan",
-   "n": "Puka Nacua",
-   "p": "WR",
-   "proj": 23.46,
-   "act": 34.0,
-   "d": 10.54
+   "w": 10,
+   "h": "Wallner",
+   "n": "Isaiah Likely",
+   "p": "TE",
+   "proj": 14.51,
+   "act": 31.2,
+   "d": 16.69
+  },
+  {
+   "w": 10,
+   "h": "DMsourbeer",
+   "n": "Patrick Mahomes",
+   "p": "QB",
+   "proj": 19.56,
+   "act": 35.42,
+   "d": 15.86
+  },
+  {
+   "w": 10,
+   "h": "Colt45Johnson",
+   "n": "Chuba Hubbard",
+   "p": "RB",
+   "proj": 19.08,
+   "act": 34.2,
+   "d": 15.12
   }
  ],
  "week_worst": [
   {
-   "w": 9,
-   "h": "brettmn13",
-   "n": "D'Andre Swift",
-   "p": "RB",
-   "proj": 19.05,
-   "act": 3.1,
-   "d": -15.95
-  },
-  {
-   "w": 9,
-   "h": "brettmn13",
-   "n": "Josh Jacobs",
-   "p": "RB",
-   "proj": 14.86,
-   "act": -0.5,
-   "d": -15.36
-  },
-  {
-   "w": 9,
-   "h": "triccster",
-   "n": "Jared Goff",
+   "w": 10,
+   "h": "Jbird531",
+   "n": "Drake Maye",
    "p": "QB",
-   "proj": 19.44,
-   "act": 6.3,
-   "d": -13.14
+   "proj": 22.84,
+   "act": 3.02,
+   "d": -19.82
   },
   {
-   "w": 9,
-   "h": "YoungBuck04",
-   "n": "Ladd McConkey",
-   "p": "WR",
-   "proj": 12.98,
-   "act": 0,
-   "d": -12.98
-  },
-  {
-   "w": 9,
-   "h": "brettmn13",
-   "n": "Malik Willis",
-   "p": "QB",
-   "proj": 17.46,
-   "act": 4.82,
-   "d": -12.64
-  },
-  {
-   "w": 9,
-   "h": "Colt45Johnson",
-   "n": "Jahmyr Gibbs",
-   "p": "RB",
-   "proj": 25.44,
-   "act": 13.4,
-   "d": -12.04
-  },
-  {
-   "w": 9,
-   "h": "Colt45Johnson",
-   "n": "Jaxon Smith-Njigba",
-   "p": "WR",
-   "proj": 23.95,
-   "act": 12.1,
-   "d": -11.85
-  },
-  {
-   "w": 9,
+   "w": 10,
    "h": "Thnu",
-   "n": "Tucker Kraft",
+   "n": "Brock Bowers",
    "p": "TE",
-   "proj": 13.61,
-   "act": 2.4,
-   "d": -11.21
+   "proj": 17.99,
+   "act": 4.8,
+   "d": -13.19
+  },
+  {
+   "w": 10,
+   "h": "Jbird531",
+   "n": "Tyler Warren",
+   "p": "TE",
+   "proj": 15.49,
+   "act": 3.4,
+   "d": -12.09
+  },
+  {
+   "w": 10,
+   "h": "butterygoop",
+   "n": "Kyren Williams",
+   "p": "RB",
+   "proj": 16.91,
+   "act": 5.2,
+   "d": -11.71
+  },
+  {
+   "w": 10,
+   "h": "butterygoop",
+   "n": "Javonte Williams",
+   "p": "RB",
+   "proj": 17.35,
+   "act": 6.7,
+   "d": -10.65
+  },
+  {
+   "w": 10,
+   "h": "butterygoop",
+   "n": "Chris Olave",
+   "p": "WR",
+   "proj": 16.09,
+   "act": 6.0,
+   "d": -10.09
+  },
+  {
+   "w": 10,
+   "h": "Jbird531",
+   "n": "Germie Bernard",
+   "p": "WR",
+   "proj": 11.01,
+   "act": 1.0,
+   "d": -10.01
+  },
+  {
+   "w": 10,
+   "h": "Colt45Johnson",
+   "n": "Malik Nabers",
+   "p": "WR",
+   "proj": 16.36,
+   "act": 6.4,
+   "d": -9.96
   }
  ],
  "source": "Sleeper projections, re-scored with this league's scoring",
@@ -1896,14 +2111,14 @@
     "n": "Devin Singletary",
     "p": "RB",
     "h": "triccster",
-    "g": 3,
-    "avg": 7.1,
-    "proj": 7.5,
+    "g": 4,
+    "avg": 5.4,
+    "proj": 7.6,
     "hi": 14.5,
-    "lo": 0.9,
+    "lo": 0.3,
     "boom": 1,
-    "bust": 2,
-    "label": "Boom or bust"
+    "bust": 3,
+    "label": "Busting"
    },
    {
     "n": "Isaiah Williams",
@@ -1945,6 +2160,19 @@
     "label": "Busting"
    },
    {
+    "n": "Noah Fant",
+    "p": "TE",
+    "h": "Thnu",
+    "g": 7,
+    "avg": 4.3,
+    "proj": 5.9,
+    "hi": 21.3,
+    "lo": 0,
+    "boom": 1,
+    "bust": 5,
+    "label": "Busting"
+   },
+   {
     "n": "Emanuel Wilson",
     "p": "RB",
     "h": "BROCKSTARxD",
@@ -1956,32 +2184,6 @@
     "boom": 2,
     "bust": 3,
     "label": "Boom or bust"
-   },
-   {
-    "n": "Noah Fant",
-    "p": "TE",
-    "h": "Thnu",
-    "g": 6,
-    "avg": 5.0,
-    "proj": 6.1,
-    "hi": 21.3,
-    "lo": 0,
-    "boom": 1,
-    "bust": 4,
-    "label": "Busting"
-   },
-   {
-    "n": "Isaac TeSlaa",
-    "p": "WR",
-    "h": "TuanonStan",
-    "g": 6,
-    "avg": 4.5,
-    "proj": 4.9,
-    "hi": 13.5,
-    "lo": 0,
-    "boom": 1,
-    "bust": 4,
-    "label": "Busting"
    },
    {
     "n": "Dawson Knox",
@@ -2023,19 +2225,6 @@
     "label": "Mixed"
    },
    {
-    "n": "Dalton Kincaid",
-    "p": "TE",
-    "h": "Wallner",
-    "g": 8,
-    "avg": 12.4,
-    "proj": 13.0,
-    "hi": 26.0,
-    "lo": 2.2,
-    "boom": 3,
-    "bust": 3,
-    "label": "Boom or bust"
-   },
-   {
     "n": "Roman Wilson",
     "p": "WR",
     "h": "HillBillyWorm",
@@ -2049,14 +2238,27 @@
     "label": "Mixed"
    },
    {
-    "n": "Ja'Kobi Lane",
+    "n": "A.J. Brown",
     "p": "WR",
-    "h": "HillBillyWorm",
+    "h": "butterygoop",
     "g": 4,
-    "avg": 2.5,
-    "proj": 5.8,
-    "hi": 5.5,
-    "lo": 0,
+    "avg": 5.7,
+    "proj": 15.0,
+    "hi": 7.8,
+    "lo": 4.7,
+    "boom": 0,
+    "bust": 3,
+    "label": "Busting"
+   },
+   {
+    "n": "Kevin Coleman Jr.",
+    "p": "WR",
+    "h": "butterygoop",
+    "g": 4,
+    "avg": 4.0,
+    "proj": 5.0,
+    "hi": 12.0,
+    "lo": 1.3,
     "boom": 0,
     "bust": 3,
     "label": "Busting"
@@ -2088,19 +2290,6 @@
     "label": "Busting"
    },
    {
-    "n": "Kaleb Johnson",
-    "p": "RB",
-    "h": "brettmn13",
-    "g": 4,
-    "avg": 1.6,
-    "proj": 5.3,
-    "hi": 2.6,
-    "lo": -0.2,
-    "boom": 0,
-    "bust": 3,
-    "label": "Busting"
-   },
-   {
     "n": "Troy Franklin",
     "p": "WR",
     "h": "triccster",
@@ -2114,17 +2303,30 @@
     "label": "Busting"
    },
    {
-    "n": "Justin Jefferson",
+    "n": "Isaac TeSlaa",
     "p": "WR",
-    "h": "YoungBuck04",
+    "h": "TuanonStan",
     "g": 7,
-    "avg": 13.5,
-    "proj": 17.2,
-    "hi": 31.2,
-    "lo": 5.2,
+    "avg": 5.3,
+    "proj": 4.8,
+    "hi": 13.5,
+    "lo": 0,
     "boom": 1,
     "bust": 4,
     "label": "Busting"
+   },
+   {
+    "n": "Isaiah Likely",
+    "p": "TE",
+    "h": "Wallner",
+    "g": 9,
+    "avg": 20.2,
+    "proj": 13.9,
+    "hi": 37.9,
+    "lo": 4.2,
+    "boom": 4,
+    "bust": 2,
+    "label": "Mixed"
    },
    {
     "n": "Josh Jacobs",
@@ -2140,69 +2342,43 @@
     "label": "Boom or bust"
    },
    {
-    "n": "Kyle Pitts Sr.",
-    "p": "TE",
-    "h": "TuanonStan",
-    "g": 9,
-    "avg": 9.3,
-    "proj": 10.2,
-    "hi": 25.5,
-    "lo": 0,
-    "boom": 2,
-    "bust": 4,
-    "label": "Busting"
-   },
-   {
-    "n": "Chig Okonkwo",
-    "p": "TE",
-    "h": "TuanonStan",
-    "g": 6,
-    "avg": 9.1,
-    "proj": 9.5,
-    "hi": 17.4,
-    "lo": 3.2,
-    "boom": 1,
-    "bust": 3,
-    "label": "Busting"
-   },
-   {
-    "n": "Tyler Higbee",
-    "p": "TE",
+    "n": "Emmett Johnson",
+    "p": "RB",
     "h": "YoungBuck04",
     "g": 6,
-    "avg": 7.5,
-    "proj": 10.6,
-    "hi": 15.8,
-    "lo": 2.8,
-    "boom": 0,
-    "bust": 4,
-    "label": "Busting"
-   },
-   {
-    "n": "Tommy Tremble",
-    "p": "TE",
-    "h": "Thnu",
-    "g": 3,
-    "avg": 6.7,
-    "proj": 5.4,
-    "hi": 14.4,
-    "lo": 2.3,
-    "boom": 1,
-    "bust": 1,
+    "avg": 12.8,
+    "proj": 7.2,
+    "hi": 34.1,
+    "lo": 1.7,
+    "boom": 2,
+    "bust": 2,
     "label": "Boom or bust"
    },
    {
-    "n": "A.J. Brown",
+    "n": "Dalton Kincaid",
+    "p": "TE",
+    "h": "Wallner",
+    "g": 9,
+    "avg": 12.0,
+    "proj": 12.8,
+    "hi": 26.0,
+    "lo": 2.2,
+    "boom": 3,
+    "bust": 3,
+    "label": "Boom or bust"
+   },
+   {
+    "n": "Omar Cooper Jr.",
     "p": "WR",
-    "h": "butterygoop",
-    "g": 3,
-    "avg": 6.0,
-    "proj": 15.2,
-    "hi": 7.8,
-    "lo": 4.7,
-    "boom": 0,
+    "h": "Jbird531",
+    "g": 6,
+    "avg": 10.4,
+    "proj": 8.7,
+    "hi": 22.5,
+    "lo": 0,
+    "boom": 2,
     "bust": 2,
-    "label": "Busting"
+    "label": "Boom or bust"
    },
    {
     "n": "TreVeyon Henderson",
@@ -2231,30 +2407,17 @@
     "label": "Busting"
    },
    {
-    "n": "Kevin Coleman Jr.",
-    "p": "WR",
-    "h": "butterygoop",
+    "n": "David Njoku",
+    "p": "TE",
+    "h": "brettmn13",
     "g": 3,
-    "avg": 4.9,
-    "proj": 4.9,
-    "hi": 12.0,
-    "lo": 1.3,
-    "boom": 0,
-    "bust": 2,
-    "label": "Busting"
-   },
-   {
-    "n": "Tyjae Spears",
-    "p": "RB",
-    "h": "Jbird531",
-    "g": 6,
-    "avg": 4.2,
-    "proj": 8.1,
-    "hi": 8.8,
-    "lo": 0.5,
-    "boom": 0,
-    "bust": 4,
-    "label": "Busting"
+    "avg": 5.2,
+    "proj": 5.1,
+    "hi": 13.3,
+    "lo": 0,
+    "boom": 1,
+    "bust": 1,
+    "label": "Boom or bust"
    },
    {
     "n": "Kyle Williams",
@@ -2264,19 +2427,6 @@
     "avg": 3.8,
     "proj": 6.6,
     "hi": 11.3,
-    "lo": 0,
-    "boom": 0,
-    "bust": 2,
-    "label": "Busting"
-   },
-   {
-    "n": "Daniel Bellinger",
-    "p": "TE",
-    "h": "YoungBuck04",
-    "g": 3,
-    "avg": 3.4,
-    "proj": 5.1,
-    "hi": 8.1,
     "lo": 0,
     "boom": 0,
     "bust": 2,
@@ -2322,32 +2472,6 @@
     "label": "Busting"
    },
    {
-    "n": "Tai Felton",
-    "p": "WR",
-    "h": "HillBillyWorm",
-    "g": 3,
-    "avg": 2.4,
-    "proj": 4.8,
-    "hi": 4.7,
-    "lo": 0,
-    "boom": 0,
-    "bust": 2,
-    "label": "Busting"
-   },
-   {
-    "n": "Konata Mumpfield",
-    "p": "WR",
-    "h": "DMsourbeer",
-    "g": 3,
-    "avg": 2.2,
-    "proj": 4.8,
-    "hi": 4.0,
-    "lo": 0,
-    "boom": 0,
-    "bust": 2,
-    "label": "Busting"
-   },
-   {
     "n": "Elijah Arroyo",
     "p": "TE",
     "h": "triccster",
@@ -2361,26 +2485,65 @@
     "label": "Busting"
    },
    {
-    "n": "Isaiah Likely",
-    "p": "TE",
-    "h": "Wallner",
+    "n": "Ja'Marr Chase",
+    "p": "WR",
+    "h": "triccster",
     "g": 8,
-    "avg": 18.9,
-    "proj": 13.8,
-    "hi": 37.9,
-    "lo": 4.2,
-    "boom": 3,
-    "bust": 2,
+    "avg": 23.4,
+    "proj": 19.0,
+    "hi": 33.1,
+    "lo": 3.2,
+    "boom": 4,
+    "bust": 1,
+    "label": "Booming"
+   },
+   {
+    "n": "Justin Jefferson",
+    "p": "WR",
+    "h": "YoungBuck04",
+    "g": 8,
+    "avg": 13.8,
+    "proj": 17.4,
+    "hi": 31.2,
+    "lo": 5.2,
+    "boom": 1,
+    "bust": 4,
+    "label": "Busting"
+   },
+   {
+    "n": "Cam Skattebo",
+    "p": "RB",
+    "h": "triccster",
+    "g": 8,
+    "avg": 11.7,
+    "proj": 12.7,
+    "hi": 27.2,
+    "lo": 0,
+    "boom": 2,
+    "bust": 3,
     "label": "Mixed"
    },
    {
-    "n": "Gunnar Helm",
-    "p": "TE",
-    "h": "DMsourbeer",
+    "n": "Jalen Coker",
+    "p": "WR",
+    "h": "HillBillyWorm",
     "g": 8,
-    "avg": 5.7,
-    "proj": 7.9,
-    "hi": 17.1,
+    "avg": 10.5,
+    "proj": 13.8,
+    "hi": 33.8,
+    "lo": 0.3,
+    "boom": 1,
+    "bust": 4,
+    "label": "Busting"
+   },
+   {
+    "n": "Colby Parkinson",
+    "p": "TE",
+    "h": "Wallner",
+    "g": 8,
+    "avg": 6.1,
+    "proj": 7.4,
+    "hi": 16.6,
     "lo": 0,
     "boom": 1,
     "bust": 4,
@@ -2413,43 +2576,17 @@
     "label": "Busting"
    },
    {
-    "n": "Omar Cooper Jr.",
+    "n": "Tre Tucker",
     "p": "WR",
-    "h": "Jbird531",
-    "g": 5,
-    "avg": 12.5,
-    "proj": 8.7,
-    "hi": 22.5,
+    "h": "Wallner",
+    "g": 10,
+    "avg": 11.1,
+    "proj": 9.3,
+    "hi": 26.7,
     "lo": 0,
-    "boom": 2,
-    "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "Caleb Douglas",
-    "p": "WR",
-    "h": "Jbird531",
-    "g": 5,
-    "avg": 12.1,
-    "proj": 7.5,
-    "hi": 21.0,
-    "lo": 3.9,
-    "boom": 2,
-    "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "Adonai Mitchell",
-    "p": "WR",
-    "h": "butterygoop",
-    "g": 5,
-    "avg": 9.7,
-    "proj": 7.4,
-    "hi": 27.2,
-    "lo": 0,
-    "boom": 1,
-    "bust": 2,
-    "label": "Busting"
+    "boom": 3,
+    "bust": 3,
+    "label": "Boom or bust"
    },
    {
     "n": "Terry McLaurin",
@@ -2465,16 +2602,16 @@
     "label": "Busting"
    },
    {
-    "n": "Emmett Johnson",
-    "p": "RB",
-    "h": "YoungBuck04",
-    "g": 5,
-    "avg": 8.6,
-    "proj": 5.4,
-    "hi": 25.3,
-    "lo": 1.7,
-    "boom": 1,
-    "bust": 2,
+    "n": "Kyle Pitts Sr.",
+    "p": "TE",
+    "h": "TuanonStan",
+    "g": 10,
+    "avg": 9.2,
+    "proj": 10.3,
+    "hi": 25.5,
+    "lo": 0,
+    "boom": 2,
+    "bust": 4,
     "label": "Busting"
    },
    {
@@ -2491,6 +2628,19 @@
     "label": "Busting"
    },
    {
+    "n": "Kenyon Sadiq",
+    "p": "TE",
+    "h": "DMsourbeer",
+    "g": 10,
+    "avg": 6.6,
+    "proj": 7.4,
+    "hi": 27.0,
+    "lo": 0,
+    "boom": 1,
+    "bust": 5,
+    "label": "Busting"
+   },
+   {
     "n": "Darius Cooper",
     "p": "WR",
     "h": "brettmn13",
@@ -2504,82 +2654,95 @@
     "label": "Busting"
    },
    {
-    "n": "Ja'Marr Chase",
+    "n": "Ja'Kobi Lane",
     "p": "WR",
-    "h": "triccster",
+    "h": "HillBillyWorm",
+    "g": 5,
+    "avg": 3.8,
+    "proj": 5.7,
+    "hi": 9.1,
+    "lo": 0,
+    "boom": 0,
+    "bust": 3,
+    "label": "Busting"
+   },
+   {
+    "n": "Chris Brooks",
+    "p": "RB",
+    "h": "YoungBuck04",
+    "g": 5,
+    "avg": 2.7,
+    "proj": 6.1,
+    "hi": 4.5,
+    "lo": 1.3,
+    "boom": 0,
+    "bust": 3,
+    "label": "Busting"
+   },
+   {
+    "n": "Kaleb Johnson",
+    "p": "RB",
+    "h": "brettmn13",
+    "g": 5,
+    "avg": 2.1,
+    "proj": 5.6,
+    "hi": 4.2,
+    "lo": -0.2,
+    "boom": 0,
+    "bust": 3,
+    "label": "Busting"
+   },
+   {
+    "n": "Chig Okonkwo",
+    "p": "TE",
+    "h": "TuanonStan",
     "g": 7,
-    "avg": 22.0,
-    "proj": 18.9,
-    "hi": 31.5,
+    "avg": 9.0,
+    "proj": 9.7,
+    "hi": 17.4,
     "lo": 3.2,
-    "boom": 3,
-    "bust": 1,
-    "label": "Booming"
-   },
-   {
-    "n": "Jalen Coker",
-    "p": "WR",
-    "h": "HillBillyWorm",
-    "g": 7,
-    "avg": 12.0,
-    "proj": 13.9,
-    "hi": 33.8,
-    "lo": 1.9,
     "boom": 1,
     "bust": 3,
     "label": "Busting"
    },
    {
-    "n": "Cam Skattebo",
-    "p": "RB",
-    "h": "triccster",
-    "g": 7,
-    "avg": 9.5,
-    "proj": 12.7,
-    "hi": 19.1,
-    "lo": 0,
-    "boom": 1,
-    "bust": 3,
-    "label": "Busting"
-   },
-   {
-    "n": "Mason Taylor",
+    "n": "Tyler Higbee",
     "p": "TE",
-    "h": "DMsourbeer",
+    "h": "YoungBuck04",
     "g": 7,
-    "avg": 8.0,
-    "proj": 6.9,
-    "hi": 27.7,
-    "lo": 0,
-    "boom": 1,
-    "bust": 3,
+    "avg": 8.2,
+    "proj": 10.5,
+    "hi": 15.8,
+    "lo": 2.8,
+    "boom": 0,
+    "bust": 4,
     "label": "Busting"
    },
    {
-    "n": "Colby Parkinson",
-    "p": "TE",
-    "h": "Wallner",
-    "g": 7,
-    "avg": 6.4,
-    "proj": 7.2,
-    "hi": 16.6,
-    "lo": 0,
-    "boom": 1,
-    "bust": 3,
-    "label": "Busting"
-   },
-   {
-    "n": "Bijan Robinson",
+    "n": "Kaelon Black",
     "p": "RB",
-    "h": "HillBillyWorm",
-    "g": 9,
-    "avg": 19.6,
-    "proj": 22.4,
-    "hi": 35.3,
-    "lo": 7.3,
-    "boom": 2,
+    "h": "brettmn13",
+    "g": 7,
+    "avg": 5.8,
+    "proj": 5.8,
+    "hi": 13.6,
+    "lo": 1.3,
+    "boom": 1,
     "bust": 3,
-    "label": "Mixed"
+    "label": "Busting"
+   },
+   {
+    "n": "Tyjae Spears",
+    "p": "RB",
+    "h": "Jbird531",
+    "g": 7,
+    "avg": 4.1,
+    "proj": 7.8,
+    "hi": 8.8,
+    "lo": 0.5,
+    "boom": 0,
+    "bust": 4,
+    "label": "Busting"
    },
    {
     "n": "D'Andre Swift",
@@ -2595,27 +2758,14 @@
     "label": "Mixed"
    },
    {
-    "n": "Harold Fannin Jr.",
-    "p": "TE",
-    "h": "triccster",
-    "g": 9,
-    "avg": 13.2,
-    "proj": 12.7,
-    "hi": 27.6,
-    "lo": 1.9,
-    "boom": 2,
-    "bust": 3,
-    "label": "Mixed"
-   },
-   {
-    "n": "Tre Tucker",
+    "n": "Malik Nabers",
     "p": "WR",
-    "h": "Wallner",
+    "h": "Colt45Johnson",
     "g": 9,
-    "avg": 12.1,
-    "proj": 9.5,
-    "hi": 26.7,
-    "lo": 0,
+    "avg": 15.0,
+    "proj": 14.3,
+    "hi": 29.1,
+    "lo": 1.1,
     "boom": 3,
     "bust": 2,
     "label": "Mixed"
@@ -2634,6 +2784,32 @@
     "label": "Mixed"
    },
    {
+    "n": "Mike Gesicki",
+    "p": "TE",
+    "h": "DMsourbeer",
+    "g": 9,
+    "avg": 10.2,
+    "proj": 9.3,
+    "hi": 21.3,
+    "lo": 0,
+    "boom": 2,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Omarion Hampton",
+    "p": "RB",
+    "h": "Jbird531",
+    "g": 9,
+    "avg": 9.2,
+    "proj": 11.0,
+    "hi": 16.5,
+    "lo": 4.7,
+    "boom": 1,
+    "bust": 4,
+    "label": "Busting"
+   },
+   {
     "n": "Jaylen Waddle",
     "p": "WR",
     "h": "triccster",
@@ -2647,14 +2823,14 @@
     "label": "Busting"
    },
    {
-    "n": "Kenyon Sadiq",
-    "p": "TE",
-    "h": "DMsourbeer",
+    "n": "Wan'Dale Robinson",
+    "p": "WR",
+    "h": "HillBillyWorm",
     "g": 9,
-    "avg": 7.1,
-    "proj": 7.6,
-    "hi": 27.0,
-    "lo": 0,
+    "avg": 8.9,
+    "proj": 10.0,
+    "hi": 18.7,
+    "lo": 1.9,
     "boom": 1,
     "bust": 4,
     "label": "Busting"
@@ -2686,6 +2862,19 @@
     "label": "Busting"
    },
    {
+    "n": "Gunnar Helm",
+    "p": "TE",
+    "h": "DMsourbeer",
+    "g": 9,
+    "avg": 6.0,
+    "proj": 8.0,
+    "hi": 17.1,
+    "lo": 0,
+    "boom": 1,
+    "bust": 4,
+    "label": "Busting"
+   },
+   {
     "n": "Evan Engram",
     "p": "TE",
     "h": "TuanonStan",
@@ -2699,17 +2888,17 @@
     "label": "Busting"
    },
    {
-    "n": "Tee Higgins",
-    "p": "WR",
+    "n": "Bijan Robinson",
+    "p": "RB",
     "h": "HillBillyWorm",
-    "g": 8,
-    "avg": 20.0,
-    "proj": 15.2,
-    "hi": 37.5,
-    "lo": 4.2,
-    "boom": 3,
-    "bust": 1,
-    "label": "Booming"
+    "g": 10,
+    "avg": 19.4,
+    "proj": 22.2,
+    "hi": 35.3,
+    "lo": 7.3,
+    "boom": 2,
+    "bust": 3,
+    "label": "Mixed"
    },
    {
     "n": "DeVonta Smith",
@@ -2725,42 +2914,16 @@
     "label": "Booming"
    },
    {
-    "n": "Malik Nabers",
-    "p": "WR",
-    "h": "Colt45Johnson",
-    "g": 8,
-    "avg": 16.1,
-    "proj": 14.1,
-    "hi": 29.1,
-    "lo": 1.1,
-    "boom": 3,
-    "bust": 1,
-    "label": "Booming"
-   },
-   {
-    "n": "Zay Flowers",
-    "p": "WR",
-    "h": "DMsourbeer",
-    "g": 8,
-    "avg": 15.9,
-    "proj": 16.2,
-    "hi": 27.7,
-    "lo": 0,
+    "n": "Kyren Williams",
+    "p": "RB",
+    "h": "butterygoop",
+    "g": 10,
+    "avg": 16.2,
+    "proj": 17.3,
+    "hi": 36.7,
+    "lo": 5.2,
     "boom": 2,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Aaron Rodgers",
-    "p": "QB",
-    "h": "YoungBuck04",
-    "g": 8,
-    "avg": 15.1,
-    "proj": 15.2,
-    "hi": 24.0,
-    "lo": 3.0,
-    "boom": 2,
-    "bust": 2,
+    "bust": 3,
     "label": "Mixed"
    },
    {
@@ -2777,6 +2940,19 @@
     "label": "Mixed"
    },
    {
+    "n": "Harold Fannin Jr.",
+    "p": "TE",
+    "h": "triccster",
+    "g": 10,
+    "avg": 13.8,
+    "proj": 12.8,
+    "hi": 27.6,
+    "lo": 1.9,
+    "boom": 2,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
     "n": "Michael Wilson",
     "p": "WR",
     "h": "TuanonStan",
@@ -2790,53 +2966,40 @@
     "label": "Mixed"
    },
    {
-    "n": "Pat Freiermuth",
-    "p": "TE",
-    "h": "HillBillyWorm",
-    "g": 8,
-    "avg": 11.4,
-    "proj": 10.2,
-    "hi": 24.0,
-    "lo": 4.1,
-    "boom": 2,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Mike Gesicki",
-    "p": "TE",
-    "h": "DMsourbeer",
-    "g": 8,
-    "avg": 11.2,
-    "proj": 9.0,
-    "hi": 21.3,
-    "lo": 0,
-    "boom": 2,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Darren Waller",
-    "p": "TE",
-    "h": "butterygoop",
-    "g": 8,
-    "avg": 11.1,
-    "proj": 9.4,
-    "hi": 27.0,
-    "lo": 0,
-    "boom": 2,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "DJ Moore",
+    "n": "Caleb Douglas",
     "p": "WR",
-    "h": "TuanonStan",
+    "h": "Jbird531",
     "g": 6,
-    "avg": 9.8,
-    "proj": 12.8,
+    "avg": 11.8,
+    "proj": 7.8,
     "hi": 21.0,
-    "lo": -0.1,
+    "lo": 3.9,
+    "boom": 2,
+    "bust": 1,
+    "label": "Mixed"
+   },
+   {
+    "n": "Blake Corum",
+    "p": "RB",
+    "h": "butterygoop",
+    "g": 10,
+    "avg": 11.4,
+    "proj": 8.2,
+    "hi": 20.9,
+    "lo": 3.1,
+    "boom": 3,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Adonai Mitchell",
+    "p": "WR",
+    "h": "butterygoop",
+    "g": 6,
+    "avg": 9.6,
+    "proj": 7.5,
+    "hi": 27.2,
+    "lo": 0,
     "boom": 1,
     "bust": 2,
     "label": "Mixed"
@@ -2855,17 +3018,30 @@
     "label": "Mixed"
    },
    {
-    "n": "Wan'Dale Robinson",
-    "p": "WR",
-    "h": "HillBillyWorm",
-    "g": 8,
-    "avg": 9.5,
-    "proj": 9.9,
-    "hi": 18.7,
+    "n": "Mark Andrews",
+    "p": "TE",
+    "h": "brettmn13",
+    "g": 10,
+    "avg": 9.2,
+    "proj": 11.3,
+    "hi": 20.2,
     "lo": 1.9,
     "boom": 1,
-    "bust": 3,
-    "label": "Mixed"
+    "bust": 4,
+    "label": "Busting"
+   },
+   {
+    "n": "Tyler Allgeier",
+    "p": "RB",
+    "h": "Wallner",
+    "g": 10,
+    "avg": 9.2,
+    "proj": 9.4,
+    "hi": 36.1,
+    "lo": 1.4,
+    "boom": 1,
+    "bust": 4,
+    "label": "Busting"
    },
    {
     "n": "Jaylin Noel",
@@ -2894,17 +3070,17 @@
     "label": "Busting"
    },
    {
-    "n": "Omarion Hampton",
-    "p": "RB",
+    "n": "Germie Bernard",
+    "p": "WR",
     "h": "Jbird531",
     "g": 8,
-    "avg": 8.3,
-    "proj": 11.4,
-    "hi": 16.5,
-    "lo": 4.7,
-    "boom": 0,
-    "bust": 4,
-    "label": "Busting"
+    "avg": 8.1,
+    "proj": 8.0,
+    "hi": 25.7,
+    "lo": 0,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
    },
    {
     "n": "Baker Mayfield",
@@ -2920,6 +3096,45 @@
     "label": "Busting"
    },
    {
+    "n": "Mason Taylor",
+    "p": "TE",
+    "h": "DMsourbeer",
+    "g": 8,
+    "avg": 8.0,
+    "proj": 6.9,
+    "hi": 27.7,
+    "lo": 0,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Keon Coleman",
+    "p": "WR",
+    "h": "Jbird531",
+    "g": 8,
+    "avg": 7.7,
+    "proj": 7.7,
+    "hi": 23.6,
+    "lo": 1.1,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Tommy Tremble",
+    "p": "TE",
+    "h": "Thnu",
+    "g": 4,
+    "avg": 7.7,
+    "proj": 5.8,
+    "hi": 14.4,
+    "lo": 2.3,
+    "boom": 1,
+    "bust": 1,
+    "label": "Mixed"
+   },
+   {
     "n": "Kalif Raymond",
     "p": "WR",
     "h": "HillBillyWorm",
@@ -2933,55 +3148,81 @@
     "label": "Mixed"
    },
    {
-    "n": "MarShawn Lloyd",
+    "n": "Chris Rodriguez Jr.",
     "p": "RB",
-    "h": "brettmn13",
+    "h": "BROCKSTARxD",
     "g": 8,
     "avg": 6.2,
-    "proj": 9.0,
-    "hi": 16.7,
-    "lo": 1.0,
+    "proj": 6.1,
+    "hi": 12.8,
+    "lo": 0.5,
     "boom": 0,
     "bust": 4,
     "label": "Busting"
    },
    {
-    "n": "Jahan Dotson",
-    "p": "WR",
-    "h": "HillBillyWorm",
-    "g": 6,
-    "avg": 5.9,
-    "proj": 5.4,
-    "hi": 13.4,
-    "lo": 1.6,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Samaje Perine",
-    "p": "RB",
-    "h": "TuanonStan",
+    "n": "Eli Raridon",
+    "p": "TE",
+    "h": "YoungBuck04",
     "g": 8,
-    "avg": 5.6,
-    "proj": 6.2,
-    "hi": 15.8,
-    "lo": 0.7,
+    "avg": 5.9,
+    "proj": 6.4,
+    "hi": 16.1,
+    "lo": 2.0,
     "boom": 1,
     "bust": 3,
     "label": "Mixed"
    },
    {
-    "n": "Kaelon Black",
+    "n": "Daniel Bellinger",
+    "p": "TE",
+    "h": "YoungBuck04",
+    "g": 4,
+    "avg": 5.0,
+    "proj": 5.0,
+    "hi": 9.6,
+    "lo": 0,
+    "boom": 0,
+    "bust": 2,
+    "label": "Busting"
+   },
+   {
+    "n": "Rashid Shaheed",
+    "p": "WR",
+    "h": "DMsourbeer",
+    "g": 8,
+    "avg": 5.0,
+    "proj": 7.1,
+    "hi": 11.3,
+    "lo": 1.4,
+    "boom": 0,
+    "bust": 4,
+    "label": "Busting"
+   },
+   {
+    "n": "Corey Kiner",
     "p": "RB",
-    "h": "brettmn13",
-    "g": 6,
-    "avg": 4.5,
-    "proj": 5.9,
-    "hi": 9.9,
+    "h": "HillBillyWorm",
+    "g": 4,
+    "avg": 4.8,
+    "proj": 6.0,
+    "hi": 11.5,
     "lo": 1.3,
     "boom": 0,
-    "bust": 3,
+    "bust": 2,
+    "label": "Busting"
+   },
+   {
+    "n": "Konata Mumpfield",
+    "p": "WR",
+    "h": "DMsourbeer",
+    "g": 4,
+    "avg": 4.4,
+    "proj": 5.5,
+    "hi": 11.1,
+    "lo": 0,
+    "boom": 0,
+    "bust": 2,
     "label": "Busting"
    },
    {
@@ -2993,19 +3234,6 @@
     "proj": 5.4,
     "hi": 9.1,
     "lo": 2.1,
-    "boom": 0,
-    "bust": 2,
-    "label": "Busting"
-   },
-   {
-    "n": "Austin Ekeler",
-    "p": "RB",
-    "h": "HillBillyWorm",
-    "g": 4,
-    "avg": 4.0,
-    "proj": 6.4,
-    "hi": 5.6,
-    "lo": 2.4,
     "boom": 0,
     "bust": 2,
     "label": "Busting"
@@ -3037,14 +3265,14 @@
     "label": "Busting"
    },
    {
-    "n": "Chris Brooks",
-    "p": "RB",
-    "h": "YoungBuck04",
+    "n": "Tai Felton",
+    "p": "WR",
+    "h": "HillBillyWorm",
     "g": 4,
-    "avg": 3.1,
-    "proj": 6.2,
-    "hi": 4.5,
-    "lo": 1.4,
+    "avg": 3.4,
+    "proj": 5.2,
+    "hi": 6.3,
+    "lo": 0,
     "boom": 0,
     "bust": 2,
     "label": "Busting"
@@ -3063,42 +3291,42 @@
     "label": "Busting"
    },
    {
-    "n": "Sione Vaki",
+    "n": "Chuba Hubbard",
     "p": "RB",
-    "h": "butterygoop",
-    "g": 4,
-    "avg": 2.1,
-    "proj": 4.5,
-    "hi": 4.1,
-    "lo": 0.5,
-    "boom": 0,
-    "bust": 2,
-    "label": "Busting"
+    "h": "Colt45Johnson",
+    "g": 9,
+    "avg": 20.0,
+    "proj": 15.4,
+    "hi": 34.2,
+    "lo": 10.0,
+    "boom": 4,
+    "bust": 0,
+    "label": "Booming"
    },
    {
-    "n": "CeeDee Lamb",
-    "p": "WR",
-    "h": "butterygoop",
+    "n": "Patrick Mahomes",
+    "p": "QB",
+    "h": "DMsourbeer",
     "g": 9,
-    "avg": 22.3,
-    "proj": 18.9,
-    "hi": 41.3,
-    "lo": 2.9,
+    "avg": 19.8,
+    "proj": 18.3,
+    "hi": 35.4,
+    "lo": 6.0,
     "boom": 3,
     "bust": 1,
     "label": "Mixed"
    },
    {
-    "n": "Kyren Williams",
-    "p": "RB",
-    "h": "butterygoop",
+    "n": "Tee Higgins",
+    "p": "WR",
+    "h": "HillBillyWorm",
     "g": 9,
-    "avg": 17.5,
-    "proj": 17.3,
-    "hi": 36.7,
-    "lo": 9.1,
-    "boom": 2,
-    "bust": 2,
+    "avg": 19.0,
+    "proj": 15.4,
+    "hi": 37.5,
+    "lo": 4.2,
+    "boom": 3,
+    "bust": 1,
     "label": "Mixed"
    },
    {
@@ -3115,131 +3343,170 @@
     "label": "Mixed"
    },
    {
-    "n": "Jonathan Taylor",
+    "n": "George Pickens",
+    "p": "WR",
+    "h": "TuanonStan",
+    "g": 9,
+    "avg": 16.4,
+    "proj": 14.2,
+    "hi": 43.5,
+    "lo": 5.8,
+    "boom": 2,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Tony Pollard",
     "p": "RB",
+    "h": "Thnu",
+    "g": 9,
+    "avg": 15.5,
+    "proj": 11.4,
+    "hi": 36.5,
+    "lo": 4.4,
+    "boom": 3,
+    "bust": 1,
+    "label": "Mixed"
+   },
+   {
+    "n": "Zay Flowers",
+    "p": "WR",
+    "h": "DMsourbeer",
+    "g": 9,
+    "avg": 15.3,
+    "proj": 16.2,
+    "hi": 27.7,
+    "lo": 0,
+    "boom": 2,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Parker Washington",
+    "p": "WR",
     "h": "Wallner",
     "g": 9,
-    "avg": 16.6,
-    "proj": 19.0,
-    "hi": 29.2,
-    "lo": 5.7,
-    "boom": 1,
-    "bust": 3,
+    "avg": 15.2,
+    "proj": 14.4,
+    "hi": 30.4,
+    "lo": 2.0,
+    "boom": 2,
+    "bust": 2,
     "label": "Mixed"
    },
    {
-    "n": "Derrick Henry",
-    "p": "RB",
-    "h": "triccster",
+    "n": "Aaron Rodgers",
+    "p": "QB",
+    "h": "YoungBuck04",
     "g": 9,
-    "avg": 15.7,
-    "proj": 16.4,
-    "hi": 35.3,
-    "lo": 4.0,
-    "boom": 1,
-    "bust": 3,
+    "avg": 15.1,
+    "proj": 15.4,
+    "hi": 24.0,
+    "lo": 3.0,
+    "boom": 2,
+    "bust": 2,
     "label": "Mixed"
    },
    {
-    "n": "Blake Corum",
-    "p": "RB",
+    "n": "Pat Freiermuth",
+    "p": "TE",
+    "h": "HillBillyWorm",
+    "g": 9,
+    "avg": 11.6,
+    "proj": 10.2,
+    "hi": 24.0,
+    "lo": 4.1,
+    "boom": 2,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Darren Waller",
+    "p": "TE",
     "h": "butterygoop",
     "g": 9,
     "avg": 10.4,
-    "proj": 7.9,
-    "hi": 17.1,
-    "lo": 3.1,
+    "proj": 9.5,
+    "hi": 27.0,
+    "lo": 0,
     "boom": 2,
     "bust": 2,
     "label": "Mixed"
    },
    {
-    "n": "Tyler Allgeier",
-    "p": "RB",
-    "h": "Wallner",
-    "g": 9,
-    "avg": 10.1,
-    "proj": 9.4,
-    "hi": 36.1,
-    "lo": 3.6,
-    "boom": 1,
-    "bust": 3,
-    "label": "Mixed"
-   },
-   {
-    "n": "KC Concepcion Jr.",
+    "n": "Xavier Worthy",
     "p": "WR",
     "h": "BROCKSTARxD",
     "g": 9,
-    "avg": 9.7,
-    "proj": 9.6,
-    "hi": 23.2,
-    "lo": 1.5,
-    "boom": 2,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Josh Downs",
-    "p": "WR",
-    "h": "BROCKSTARxD",
-    "g": 9,
-    "avg": 8.3,
-    "proj": 11.0,
-    "hi": 14.2,
-    "lo": 3.8,
+    "avg": 7.4,
+    "proj": 9.7,
+    "hi": 14.3,
+    "lo": 0,
     "boom": 0,
     "bust": 4,
     "label": "Busting"
    },
    {
-    "n": "Mark Andrews",
+    "n": "Greg Dulcich",
     "p": "TE",
+    "h": "Jbird531",
+    "g": 9,
+    "avg": 7.2,
+    "proj": 8.7,
+    "hi": 16.1,
+    "lo": 0,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Samaje Perine",
+    "p": "RB",
+    "h": "TuanonStan",
+    "g": 9,
+    "avg": 6.5,
+    "proj": 6.2,
+    "hi": 15.8,
+    "lo": 0.7,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "MarShawn Lloyd",
+    "p": "RB",
     "h": "brettmn13",
     "g": 9,
-    "avg": 8.0,
-    "proj": 11.6,
-    "hi": 16.2,
-    "lo": 1.9,
+    "avg": 6.3,
+    "proj": 8.6,
+    "hi": 16.7,
+    "lo": 1.0,
     "boom": 0,
     "bust": 4,
     "label": "Busting"
    },
    {
-    "n": "Rashod Bateman",
+    "n": "Nico Collins",
     "p": "WR",
     "h": "butterygoop",
-    "g": 9,
-    "avg": 6.2,
-    "proj": 7.1,
-    "hi": 21.8,
-    "lo": 0,
-    "boom": 1,
-    "bust": 3,
+    "g": 7,
+    "avg": 16.6,
+    "proj": 17.2,
+    "hi": 30.8,
+    "lo": 2.6,
+    "boom": 2,
+    "bust": 1,
     "label": "Mixed"
    },
    {
-    "n": "Germie Bernard",
+    "n": "DJ Moore",
     "p": "WR",
-    "h": "Jbird531",
+    "h": "TuanonStan",
     "g": 7,
-    "avg": 9.1,
-    "proj": 7.6,
-    "hi": 25.7,
-    "lo": 0,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Keon Coleman",
-    "p": "WR",
-    "h": "Jbird531",
-    "g": 7,
-    "avg": 8.4,
-    "proj": 7.7,
-    "hi": 23.6,
-    "lo": 1.1,
+    "avg": 11.1,
+    "proj": 12.7,
+    "hi": 21.0,
+    "lo": -0.1,
     "boom": 1,
     "bust": 2,
     "label": "Mixed"
@@ -3258,69 +3525,121 @@
     "label": "Mixed"
    },
    {
-    "n": "Chris Rodriguez Jr.",
-    "p": "RB",
-    "h": "BROCKSTARxD",
+    "n": "Jahan Dotson",
+    "p": "WR",
+    "h": "HillBillyWorm",
     "g": 7,
-    "avg": 7.0,
-    "proj": 5.9,
-    "hi": 12.8,
-    "lo": 1.3,
-    "boom": 0,
-    "bust": 3,
-    "label": "Busting"
-   },
-   {
-    "n": "Eli Raridon",
-    "p": "TE",
-    "h": "YoungBuck04",
-    "g": 7,
-    "avg": 6.5,
-    "proj": 6.3,
-    "hi": 16.1,
-    "lo": 2.0,
+    "avg": 6.4,
+    "proj": 5.6,
+    "hi": 13.4,
+    "lo": 1.6,
     "boom": 1,
     "bust": 2,
     "label": "Mixed"
    },
    {
-    "n": "Rashid Shaheed",
+    "n": "Kayshon Boutte",
     "p": "WR",
-    "h": "DMsourbeer",
+    "h": "Colt45Johnson",
     "g": 7,
-    "avg": 5.5,
+    "avg": 4.4,
     "proj": 7.2,
-    "hi": 11.3,
-    "lo": 1.4,
-    "boom": 0,
-    "bust": 3,
-    "label": "Busting"
-   },
-   {
-    "n": "Brian Thomas Jr.",
-    "p": "WR",
-    "h": "HillBillyWorm",
-    "g": 7,
-    "avg": 4.7,
-    "proj": 7.6,
-    "hi": 9.7,
+    "hi": 6.8,
     "lo": 0,
     "boom": 0,
     "bust": 3,
     "label": "Busting"
    },
    {
-    "n": "Mike Washington Jr.",
-    "p": "RB",
-    "h": "DMsourbeer",
-    "g": 7,
-    "avg": 3.6,
-    "proj": 6.2,
-    "hi": 8.3,
-    "lo": -0.3,
-    "boom": 0,
+    "n": "CeeDee Lamb",
+    "p": "WR",
+    "h": "butterygoop",
+    "g": 10,
+    "avg": 22.1,
+    "proj": 19.0,
+    "hi": 41.3,
+    "lo": 2.9,
+    "boom": 3,
+    "bust": 1,
+    "label": "Mixed"
+   },
+   {
+    "n": "Drake Maye",
+    "p": "QB",
+    "h": "Jbird531",
+    "g": 10,
+    "avg": 18.7,
+    "proj": 19.7,
+    "hi": 39.5,
+    "lo": 3.0,
+    "boom": 1,
     "bust": 3,
-    "label": "Busting"
+    "label": "Mixed"
+   },
+   {
+    "n": "Christian Watson",
+    "p": "WR",
+    "h": "Thnu",
+    "g": 10,
+    "avg": 18.3,
+    "proj": 15.7,
+    "hi": 32.7,
+    "lo": 6.7,
+    "boom": 3,
+    "bust": 1,
+    "label": "Mixed"
+   },
+   {
+    "n": "Javonte Williams",
+    "p": "RB",
+    "h": "butterygoop",
+    "g": 10,
+    "avg": 16.4,
+    "proj": 17.3,
+    "hi": 31.3,
+    "lo": 5.7,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Jonathan Taylor",
+    "p": "RB",
+    "h": "Wallner",
+    "g": 10,
+    "avg": 16.1,
+    "proj": 18.8,
+    "hi": 29.2,
+    "lo": 5.7,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Derrick Henry",
+    "p": "RB",
+    "h": "triccster",
+    "g": 10,
+    "avg": 16.0,
+    "proj": 16.3,
+    "hi": 35.3,
+    "lo": 4.0,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Rhamondre Stevenson",
+    "p": "RB",
+    "h": "butterygoop",
+    "g": 10,
+    "avg": 11.3,
+    "proj": 13.2,
+    "hi": 22.5,
+    "lo": 1.5,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
    },
    {
     "n": "Jeremiyah Love",
@@ -3336,6 +3655,32 @@
     "label": "Busting"
    },
    {
+    "n": "KC Concepcion Jr.",
+    "p": "WR",
+    "h": "BROCKSTARxD",
+    "g": 10,
+    "avg": 9.9,
+    "proj": 9.7,
+    "hi": 23.2,
+    "lo": 1.5,
+    "boom": 2,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "DeMario Douglas",
+    "p": "WR",
+    "h": "Colt45Johnson",
+    "g": 10,
+    "avg": 9.7,
+    "proj": 7.4,
+    "hi": 22.5,
+    "lo": 1.4,
+    "boom": 2,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
     "n": "Pat Bryant",
     "p": "WR",
     "h": "Wallner",
@@ -3349,17 +3694,43 @@
     "label": "Mixed"
    },
    {
-    "n": "Jadarian Price",
-    "p": "RB",
-    "h": "HillBillyWorm",
-    "g": 5,
-    "avg": 5.9,
-    "proj": 9.1,
-    "hi": 11.8,
-    "lo": 0.2,
+    "n": "Daniel Jones",
+    "p": "QB",
+    "h": "Colt45Johnson",
+    "g": 10,
+    "avg": 9.4,
+    "proj": 13.3,
+    "hi": 15.8,
+    "lo": 4.6,
     "boom": 0,
-    "bust": 2,
+    "bust": 4,
     "label": "Busting"
+   },
+   {
+    "n": "Josh Downs",
+    "p": "WR",
+    "h": "BROCKSTARxD",
+    "g": 10,
+    "avg": 8.9,
+    "proj": 10.7,
+    "hi": 14.3,
+    "lo": 3.8,
+    "boom": 0,
+    "bust": 4,
+    "label": "Busting"
+   },
+   {
+    "n": "Rashod Bateman",
+    "p": "WR",
+    "h": "butterygoop",
+    "g": 10,
+    "avg": 6.3,
+    "proj": 7.0,
+    "hi": 21.8,
+    "lo": 0,
+    "boom": 1,
+    "bust": 3,
+    "label": "Mixed"
    },
    {
     "n": "Roschon Johnson",
@@ -3370,6 +3741,19 @@
     "proj": 6.3,
     "hi": 13.5,
     "lo": 0,
+    "boom": 0,
+    "bust": 2,
+    "label": "Busting"
+   },
+   {
+    "n": "Austin Ekeler",
+    "p": "RB",
+    "h": "HillBillyWorm",
+    "g": 5,
+    "avg": 5.1,
+    "proj": 6.8,
+    "hi": 9.2,
+    "lo": 2.4,
     "boom": 0,
     "bust": 2,
     "label": "Busting"
@@ -3401,6 +3785,19 @@
     "label": "Busting"
    },
    {
+    "n": "Sione Vaki",
+    "p": "RB",
+    "h": "butterygoop",
+    "g": 5,
+    "avg": 2.8,
+    "proj": 4.4,
+    "hi": 5.5,
+    "lo": 0.5,
+    "boom": 0,
+    "bust": 2,
+    "label": "Busting"
+   },
+   {
     "n": "Kenneth Walker III",
     "p": "RB",
     "h": "TuanonStan",
@@ -3414,68 +3811,16 @@
     "label": "Booming"
    },
    {
-    "n": "Chuba Hubbard",
-    "p": "RB",
-    "h": "Colt45Johnson",
-    "g": 8,
-    "avg": 18.2,
-    "proj": 14.9,
-    "hi": 25.9,
-    "lo": 10.0,
-    "boom": 3,
-    "bust": 0,
-    "label": "Booming"
-   },
-   {
-    "n": "Patrick Mahomes",
-    "p": "QB",
-    "h": "DMsourbeer",
-    "g": 8,
-    "avg": 17.9,
-    "proj": 18.1,
-    "hi": 29.0,
-    "lo": 6.0,
-    "boom": 2,
-    "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "Tony Pollard",
-    "p": "RB",
+    "n": "Brock Bowers",
+    "p": "TE",
     "h": "Thnu",
     "g": 8,
-    "avg": 14.4,
-    "proj": 11.4,
-    "hi": 36.5,
-    "lo": 4.4,
+    "avg": 21.6,
+    "proj": 19.2,
+    "hi": 32.6,
+    "lo": 4.8,
     "boom": 2,
     "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "Garrett Wilson",
-    "p": "WR",
-    "h": "Wallner",
-    "g": 8,
-    "avg": 14.2,
-    "proj": 16.1,
-    "hi": 26.7,
-    "lo": 4.6,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Parker Washington",
-    "p": "WR",
-    "h": "Wallner",
-    "g": 8,
-    "avg": 13.6,
-    "proj": 14.4,
-    "hi": 30.4,
-    "lo": 2.0,
-    "boom": 1,
-    "bust": 2,
     "label": "Mixed"
    },
    {
@@ -3487,32 +3832,6 @@
     "proj": 15.4,
     "hi": 26.0,
     "lo": 1.5,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Jameson Williams",
-    "p": "WR",
-    "h": "Colt45Johnson",
-    "g": 8,
-    "avg": 13.2,
-    "proj": 12.3,
-    "hi": 26.1,
-    "lo": 5.0,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "George Pickens",
-    "p": "WR",
-    "h": "TuanonStan",
-    "g": 8,
-    "avg": 13.0,
-    "proj": 14.3,
-    "hi": 28.0,
-    "lo": 5.8,
     "boom": 1,
     "bust": 2,
     "label": "Mixed"
@@ -3531,120 +3850,55 @@
     "label": "Mixed"
    },
    {
-    "n": "Cam Ward",
-    "p": "QB",
-    "h": "Thnu",
-    "g": 8,
-    "avg": 12.8,
-    "proj": 13.2,
-    "hi": 24.3,
-    "lo": 6.0,
-    "boom": 2,
-    "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "Quinshon Judkins",
+    "n": "Alvin Kamara",
     "p": "RB",
-    "h": "TuanonStan",
+    "h": "YoungBuck04",
     "g": 8,
-    "avg": 11.5,
-    "proj": 11.3,
-    "hi": 23.4,
-    "lo": 5.5,
+    "avg": 11.3,
+    "proj": 8.7,
+    "hi": 22.8,
+    "lo": 2.6,
     "boom": 2,
     "bust": 1,
     "label": "Mixed"
    },
    {
-    "n": "Juwan Johnson",
-    "p": "TE",
+    "n": "Quentin Johnston",
+    "p": "WR",
+    "h": "Jbird531",
+    "g": 8,
+    "avg": 5.9,
+    "proj": 8.6,
+    "hi": 13.3,
+    "lo": 1.6,
+    "boom": 0,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Brian Thomas Jr.",
+    "p": "WR",
     "h": "HillBillyWorm",
     "g": 8,
-    "avg": 11.5,
-    "proj": 12.7,
-    "hi": 26.3,
+    "avg": 4.8,
+    "proj": 7.2,
+    "hi": 9.7,
     "lo": 0,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "DK Metcalf",
-    "p": "WR",
-    "h": "brettmn13",
-    "g": 8,
-    "avg": 9.6,
-    "proj": 11.8,
-    "hi": 20.3,
-    "lo": 1.4,
     "boom": 0,
     "bust": 3,
     "label": "Mixed"
    },
    {
-    "n": "Xavier Worthy",
-    "p": "WR",
-    "h": "BROCKSTARxD",
+    "n": "Mike Washington Jr.",
+    "p": "RB",
+    "h": "DMsourbeer",
     "g": 8,
-    "avg": 8.3,
-    "proj": 9.9,
-    "hi": 14.3,
-    "lo": 4.0,
+    "avg": 3.6,
+    "proj": 6.1,
+    "hi": 8.3,
+    "lo": -0.3,
     "boom": 0,
     "bust": 3,
-    "label": "Mixed"
-   },
-   {
-    "n": "Greg Dulcich",
-    "p": "TE",
-    "h": "Jbird531",
-    "g": 8,
-    "avg": 8.1,
-    "proj": 8.6,
-    "hi": 16.1,
-    "lo": 0,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Drake Maye",
-    "p": "QB",
-    "h": "Jbird531",
-    "g": 9,
-    "avg": 20.5,
-    "proj": 19.4,
-    "hi": 39.5,
-    "lo": 3.8,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Kirk Cousins",
-    "p": "QB",
-    "h": "Colt45Johnson",
-    "g": 9,
-    "avg": 19.7,
-    "proj": 15.3,
-    "hi": 28.2,
-    "lo": 12.7,
-    "boom": 3,
-    "bust": 0,
-    "label": "Mixed"
-   },
-   {
-    "n": "Christian Watson",
-    "p": "WR",
-    "h": "Thnu",
-    "g": 9,
-    "avg": 19.5,
-    "proj": 15.7,
-    "hi": 32.7,
-    "lo": 7.7,
-    "boom": 3,
-    "bust": 0,
     "label": "Mixed"
    },
    {
@@ -3661,14 +3915,14 @@
     "label": "Steady"
    },
    {
-    "n": "Javonte Williams",
-    "p": "RB",
-    "h": "butterygoop",
+    "n": "Bryce Young",
+    "p": "QB",
+    "h": "brettmn13",
     "g": 9,
-    "avg": 17.5,
-    "proj": 17.3,
-    "hi": 31.3,
-    "lo": 5.7,
+    "avg": 17.6,
+    "proj": 17.2,
+    "hi": 32.4,
+    "lo": 6.4,
     "boom": 1,
     "bust": 2,
     "label": "Mixed"
@@ -3687,17 +3941,43 @@
     "label": "Mixed"
    },
    {
-    "n": "Nico Collins",
-    "p": "WR",
-    "h": "butterygoop",
-    "g": 6,
-    "avg": 15.3,
-    "proj": 17.5,
-    "hi": 30.8,
-    "lo": 2.6,
+    "n": "Drew Lock",
+    "p": "QB",
+    "h": "BROCKSTARxD",
+    "g": 3,
+    "avg": 15.9,
+    "proj": 15.2,
+    "hi": 21.4,
+    "lo": 12.6,
     "boom": 1,
-    "bust": 1,
-    "label": "Steady"
+    "bust": 0,
+    "label": "Mixed"
+   },
+   {
+    "n": "Tetairoa McMillan",
+    "p": "WR",
+    "h": "HillBillyWorm",
+    "g": 9,
+    "avg": 14.3,
+    "proj": 14.5,
+    "hi": 44.2,
+    "lo": 3.7,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Garrett Wilson",
+    "p": "WR",
+    "h": "Wallner",
+    "g": 9,
+    "avg": 14.3,
+    "proj": 15.9,
+    "hi": 26.7,
+    "lo": 4.6,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
    },
    {
     "n": "Bo Nix",
@@ -3713,66 +3993,144 @@
     "label": "Mixed"
    },
    {
-    "n": "Drake London",
+    "n": "Deebo Samuel Sr.",
     "p": "WR",
-    "h": "butterygoop",
+    "h": "Wallner",
+    "g": 6,
+    "avg": 14.1,
+    "proj": 10.3,
+    "hi": 25.9,
+    "lo": 1.5,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Cam Ward",
+    "p": "QB",
+    "h": "Thnu",
+    "g": 9,
+    "avg": 13.6,
+    "proj": 13.1,
+    "hi": 24.3,
+    "lo": 6.0,
+    "boom": 2,
+    "bust": 1,
+    "label": "Mixed"
+   },
+   {
+    "n": "Travis Kelce",
+    "p": "TE",
+    "h": "BROCKSTARxD",
     "g": 9,
     "avg": 13.5,
-    "proj": 15.9,
-    "hi": 28.4,
-    "lo": 1.8,
+    "proj": 14.2,
+    "hi": 29.6,
+    "lo": 4.5,
     "boom": 1,
     "bust": 2,
     "label": "Mixed"
    },
    {
-    "n": "Rhamondre Stevenson",
-    "p": "RB",
-    "h": "butterygoop",
-    "g": 9,
-    "avg": 12.4,
-    "proj": 13.3,
-    "hi": 22.5,
-    "lo": 2.6,
-    "boom": 1,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Michael Mayer",
-    "p": "TE",
-    "h": "Jbird531",
-    "g": 9,
-    "avg": 11.1,
-    "proj": 8.8,
-    "hi": 20.2,
-    "lo": 1.7,
-    "boom": 2,
-    "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "DeMario Douglas",
+    "n": "Jameson Williams",
     "p": "WR",
     "h": "Colt45Johnson",
     "g": 9,
-    "avg": 10.6,
-    "proj": 7.2,
-    "hi": 22.5,
-    "lo": 1.9,
+    "avg": 12.7,
+    "proj": 12.3,
+    "hi": 26.1,
+    "lo": 5.0,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Sam LaPorta",
+    "p": "TE",
+    "h": "butterygoop",
+    "g": 9,
+    "avg": 12.6,
+    "proj": 14.7,
+    "hi": 26.4,
+    "lo": 3.1,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Quinshon Judkins",
+    "p": "RB",
+    "h": "TuanonStan",
+    "g": 9,
+    "avg": 12.0,
+    "proj": 11.2,
+    "hi": 23.4,
+    "lo": 5.5,
     "boom": 2,
     "bust": 1,
     "label": "Mixed"
    },
    {
-    "n": "Daniel Jones",
+    "n": "J.J. McCarthy",
     "p": "QB",
-    "h": "Colt45Johnson",
+    "h": "Jbird531",
+    "g": 3,
+    "avg": 11.5,
+    "proj": 14.8,
+    "hi": 18.1,
+    "lo": 6.3,
+    "boom": 0,
+    "bust": 1,
+    "label": "Mixed"
+   },
+   {
+    "n": "Jordan Watkins",
+    "p": "WR",
+    "h": "Wallner",
+    "g": 3,
+    "avg": 11.4,
+    "proj": 6.4,
+    "hi": 18.6,
+    "lo": 6.9,
+    "boom": 1,
+    "bust": 0,
+    "label": "Mixed"
+   },
+   {
+    "n": "Juwan Johnson",
+    "p": "TE",
+    "h": "HillBillyWorm",
     "g": 9,
-    "avg": 9.7,
-    "proj": 13.3,
-    "hi": 15.8,
-    "lo": 4.6,
+    "avg": 10.9,
+    "proj": 12.4,
+    "hi": 26.3,
+    "lo": 0,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Devaughn Vele",
+    "p": "WR",
+    "h": "butterygoop",
+    "g": 9,
+    "avg": 10.3,
+    "proj": 9.6,
+    "hi": 19.9,
+    "lo": 3.4,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "DK Metcalf",
+    "p": "WR",
+    "h": "brettmn13",
+    "g": 9,
+    "avg": 10.3,
+    "proj": 11.9,
+    "hi": 20.3,
+    "lo": 1.4,
     "boom": 0,
     "bust": 3,
     "label": "Mixed"
@@ -3817,6 +4175,19 @@
     "label": "Mixed"
    },
    {
+    "n": "Darnell Washington",
+    "p": "TE",
+    "h": "DMsourbeer",
+    "g": 9,
+    "avg": 8.2,
+    "proj": 6.5,
+    "hi": 14.5,
+    "lo": 2.0,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
     "n": "Courtland Sutton",
     "p": "WR",
     "h": "BROCKSTARxD",
@@ -3843,6 +4214,19 @@
     "label": "Mixed"
    },
    {
+    "n": "Jadarian Price",
+    "p": "RB",
+    "h": "HillBillyWorm",
+    "g": 6,
+    "avg": 6.8,
+    "proj": 9.0,
+    "hi": 11.8,
+    "lo": 0.2,
+    "boom": 0,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
     "n": "Cade Otton",
     "p": "TE",
     "h": "Colt45Johnson",
@@ -3850,6 +4234,19 @@
     "avg": 6.1,
     "proj": 9.4,
     "hi": 10.3,
+    "lo": 0,
+    "boom": 0,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Oronde Gadsden",
+    "p": "TE",
+    "h": "YoungBuck04",
+    "g": 9,
+    "avg": 6.0,
+    "proj": 6.8,
+    "hi": 12.7,
     "lo": 0,
     "boom": 0,
     "bust": 3,
@@ -3869,29 +4266,29 @@
     "label": "Mixed"
    },
    {
-    "n": "Corey Kiner",
-    "p": "RB",
-    "h": "HillBillyWorm",
-    "g": 3,
-    "avg": 5.5,
-    "proj": 6.0,
-    "hi": 11.5,
-    "lo": 1.3,
+    "n": "Noah Gray",
+    "p": "TE",
+    "h": "DMsourbeer",
+    "g": 9,
+    "avg": 5.4,
+    "proj": 4.7,
+    "hi": 10.5,
+    "lo": 0,
     "boom": 0,
-    "bust": 1,
+    "bust": 3,
     "label": "Mixed"
    },
    {
-    "n": "Kayshon Boutte",
-    "p": "WR",
+    "n": "Keaton Mitchell",
+    "p": "RB",
     "h": "Colt45Johnson",
-    "g": 6,
-    "avg": 5.2,
-    "proj": 7.4,
-    "hi": 6.8,
-    "lo": 3.1,
+    "g": 9,
+    "avg": 5.4,
+    "proj": 6.7,
+    "hi": 13.7,
+    "lo": -0.6,
     "boom": 0,
-    "bust": 2,
+    "bust": 3,
     "label": "Mixed"
    },
    {
@@ -3908,16 +4305,16 @@
     "label": "Mixed"
    },
    {
-    "n": "Elic Ayomanor",
+    "n": "Demarcus Robinson",
     "p": "WR",
-    "h": "butterygoop",
-    "g": 6,
+    "h": "Thnu",
+    "g": 3,
     "avg": 3.9,
-    "proj": 6.2,
-    "hi": 7.4,
-    "lo": 1.3,
+    "proj": 7.6,
+    "hi": 6.4,
+    "lo": 0,
     "boom": 0,
-    "bust": 2,
+    "bust": 1,
     "label": "Mixed"
    },
    {
@@ -3947,16 +4344,81 @@
     "label": "Mixed"
    },
    {
-    "n": "Brock Bowers",
+    "n": "Kirk Cousins",
+    "p": "QB",
+    "h": "Colt45Johnson",
+    "g": 10,
+    "avg": 19.4,
+    "proj": 15.2,
+    "hi": 28.2,
+    "lo": 12.7,
+    "boom": 3,
+    "bust": 0,
+    "label": "Mixed"
+   },
+   {
+    "n": "Drake London",
+    "p": "WR",
+    "h": "butterygoop",
+    "g": 10,
+    "avg": 13.8,
+    "proj": 15.9,
+    "hi": 28.4,
+    "lo": 1.8,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Geno Smith",
+    "p": "QB",
+    "h": "DMsourbeer",
+    "g": 10,
+    "avg": 13.5,
+    "proj": 14.9,
+    "hi": 25.0,
+    "lo": 5.9,
+    "boom": 2,
+    "bust": 1,
+    "label": "Mixed"
+   },
+   {
+    "n": "Tucker Kraft",
     "p": "TE",
     "h": "Thnu",
-    "g": 7,
-    "avg": 24.0,
-    "proj": 19.3,
-    "hi": 32.6,
-    "lo": 13.0,
+    "g": 10,
+    "avg": 11.1,
+    "proj": 13.4,
+    "hi": 20.3,
+    "lo": 2.4,
+    "boom": 0,
+    "bust": 3,
+    "label": "Mixed"
+   },
+   {
+    "n": "Denzel Boston",
+    "p": "WR",
+    "h": "TuanonStan",
+    "g": 10,
+    "avg": 10.5,
+    "proj": 10.0,
+    "hi": 20.5,
+    "lo": 2.5,
+    "boom": 1,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Michael Mayer",
+    "p": "TE",
+    "h": "Jbird531",
+    "g": 10,
+    "avg": 10.5,
+    "proj": 8.7,
+    "hi": 20.2,
+    "lo": 1.7,
     "boom": 2,
-    "bust": 0,
+    "bust": 1,
     "label": "Mixed"
    },
    {
@@ -3999,32 +4461,6 @@
     "label": "Steady"
    },
    {
-    "n": "Alvin Kamara",
-    "p": "RB",
-    "h": "YoungBuck04",
-    "g": 7,
-    "avg": 10.5,
-    "proj": 9.0,
-    "hi": 22.8,
-    "lo": 2.6,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Rachaad White",
-    "p": "RB",
-    "h": "TuanonStan",
-    "g": 7,
-    "avg": 9.7,
-    "proj": 9.2,
-    "hi": 15.7,
-    "lo": 3.0,
-    "boom": 0,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
     "n": "Kendrick Bourne",
     "p": "WR",
     "h": "YoungBuck04",
@@ -4038,14 +4474,14 @@
     "label": "Steady"
    },
    {
-    "n": "Quentin Johnston",
+    "n": "Elic Ayomanor",
     "p": "WR",
-    "h": "Jbird531",
+    "h": "butterygoop",
     "g": 7,
-    "avg": 6.5,
-    "proj": 8.5,
-    "hi": 13.3,
-    "lo": 2.4,
+    "avg": 5.1,
+    "proj": 6.6,
+    "hi": 12.9,
+    "lo": 1.3,
     "boom": 0,
     "bust": 2,
     "label": "Mixed"
@@ -4064,110 +4500,6 @@
     "label": "Mixed"
    },
    {
-    "n": "Josh Allen",
-    "p": "QB",
-    "h": "butterygoop",
-    "g": 8,
-    "avg": 25.3,
-    "proj": 22.4,
-    "hi": 39.8,
-    "lo": 13.9,
-    "boom": 2,
-    "bust": 0,
-    "label": "Mixed"
-   },
-   {
-    "n": "C.J. Stroud",
-    "p": "QB",
-    "h": "butterygoop",
-    "g": 8,
-    "avg": 20.4,
-    "proj": 16.2,
-    "hi": 36.4,
-    "lo": 11.7,
-    "boom": 2,
-    "bust": 0,
-    "label": "Mixed"
-   },
-   {
-    "n": "Bryce Young",
-    "p": "QB",
-    "h": "brettmn13",
-    "g": 8,
-    "avg": 18.8,
-    "proj": 17.0,
-    "hi": 32.4,
-    "lo": 6.4,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Trevor Lawrence",
-    "p": "QB",
-    "h": "HillBillyWorm",
-    "g": 8,
-    "avg": 18.5,
-    "proj": 18.5,
-    "hi": 28.3,
-    "lo": 7.2,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Tyler Shough",
-    "p": "QB",
-    "h": "triccster",
-    "g": 8,
-    "avg": 18.0,
-    "proj": 16.3,
-    "hi": 27.0,
-    "lo": 1.8,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Jared Goff",
-    "p": "QB",
-    "h": "triccster",
-    "g": 8,
-    "avg": 17.9,
-    "proj": 18.4,
-    "hi": 27.9,
-    "lo": 6.3,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "George Kittle",
-    "p": "TE",
-    "h": "Colt45Johnson",
-    "g": 8,
-    "avg": 16.5,
-    "proj": 15.4,
-    "hi": 29.2,
-    "lo": 4.2,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Bhayshul Tuten",
-    "p": "RB",
-    "h": "HillBillyWorm",
-    "g": 8,
-    "avg": 15.9,
-    "proj": 12.2,
-    "hi": 29.9,
-    "lo": 8.9,
-    "boom": 2,
-    "bust": 0,
-    "label": "Mixed"
-   },
-   {
     "n": "Jonah Coleman",
     "p": "RB",
     "h": "triccster",
@@ -4181,196 +4513,40 @@
     "label": "Mixed"
    },
    {
-    "n": "Tetairoa McMillan",
+    "n": "Stefon Diggs",
     "p": "WR",
-    "h": "HillBillyWorm",
-    "g": 8,
-    "avg": 15.3,
-    "proj": 14.4,
-    "hi": 44.2,
-    "lo": 3.7,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Jacoby Brissett",
-    "p": "QB",
     "h": "YoungBuck04",
-    "g": 8,
-    "avg": 14.8,
-    "proj": 14.7,
-    "hi": 26.3,
-    "lo": 4.5,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Travis Kelce",
-    "p": "TE",
-    "h": "BROCKSTARxD",
-    "g": 8,
-    "avg": 14.5,
-    "proj": 14.0,
-    "hi": 29.6,
-    "lo": 4.5,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Sam LaPorta",
-    "p": "TE",
-    "h": "butterygoop",
     "g": 8,
     "avg": 13.8,
-    "proj": 14.8,
-    "hi": 26.4,
-    "lo": 3.3,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Devaughn Vele",
-    "p": "WR",
-    "h": "butterygoop",
-    "g": 8,
-    "avg": 11.2,
-    "proj": 9.9,
-    "hi": 19.9,
-    "lo": 3.7,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Dalton Schultz",
-    "p": "TE",
-    "h": "triccster",
-    "g": 8,
-    "avg": 11.1,
-    "proj": 11.5,
-    "hi": 32.0,
-    "lo": 3.9,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Brenton Strange",
-    "p": "TE",
-    "h": "HillBillyWorm",
-    "g": 8,
-    "avg": 10.7,
     "proj": 11.2,
-    "hi": 19.0,
-    "lo": 4.7,
-    "boom": 0,
-    "bust": 2,
+    "hi": 21.7,
+    "lo": 7.3,
+    "boom": 2,
+    "bust": 0,
     "label": "Mixed"
    },
    {
-    "n": "Keenan Allen",
-    "p": "WR",
-    "h": "YoungBuck04",
-    "g": 8,
-    "avg": 10.1,
-    "proj": 8.9,
-    "hi": 18.3,
-    "lo": 1.5,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Aaron Jones Sr.",
-    "p": "RB",
-    "h": "Thnu",
-    "g": 8,
-    "avg": 10.0,
-    "proj": 12.2,
-    "hi": 17.7,
-    "lo": 2.6,
-    "boom": 0,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Mack Hollins",
-    "p": "WR",
-    "h": "BROCKSTARxD",
-    "g": 4,
-    "avg": 9.8,
-    "proj": 8.4,
-    "hi": 14.7,
-    "lo": 3.8,
-    "boom": 0,
-    "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "Jakobi Meyers",
-    "p": "WR",
-    "h": "triccster",
-    "g": 8,
-    "avg": 9.4,
-    "proj": 9.0,
-    "hi": 19.4,
-    "lo": 3.8,
-    "boom": 1,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Darnell Washington",
+    "n": "Tyler Warren",
     "p": "TE",
-    "h": "DMsourbeer",
+    "h": "Jbird531",
     "g": 8,
-    "avg": 9.0,
-    "proj": 6.2,
-    "hi": 14.5,
-    "lo": 2.2,
+    "avg": 13.3,
+    "proj": 14.4,
+    "hi": 24.9,
+    "lo": 3.4,
     "boom": 1,
     "bust": 1,
     "label": "Steady"
    },
    {
-    "n": "Dylan Sampson",
+    "n": "Rachaad White",
     "p": "RB",
-    "h": "YoungBuck04",
-    "g": 4,
-    "avg": 7.8,
-    "proj": 6.9,
-    "hi": 12.9,
-    "lo": 0,
-    "boom": 0,
-    "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "Jordan Mason",
-    "p": "RB",
-    "h": "brettmn13",
-    "g": 4,
-    "avg": 6.7,
+    "h": "TuanonStan",
+    "g": 8,
+    "avg": 9.2,
     "proj": 9.4,
-    "hi": 11.9,
-    "lo": 2.0,
-    "boom": 0,
-    "bust": 1,
-    "label": "Mixed"
-   },
-   {
-    "n": "Oronde Gadsden",
-    "p": "TE",
-    "h": "YoungBuck04",
-    "g": 8,
-    "avg": 6.5,
-    "proj": 7.0,
-    "hi": 12.7,
-    "lo": 0,
+    "hi": 15.7,
+    "lo": 3.0,
     "boom": 0,
     "bust": 2,
     "label": "Mixed"
@@ -4389,79 +4565,144 @@
     "label": "Mixed"
    },
    {
-    "n": "Keaton Mitchell",
+    "n": "Jahmyr Gibbs",
     "p": "RB",
     "h": "Colt45Johnson",
-    "g": 8,
-    "avg": 6.1,
-    "proj": 6.7,
-    "hi": 13.7,
-    "lo": 0.4,
-    "boom": 0,
-    "bust": 2,
+    "g": 9,
+    "avg": 27.9,
+    "proj": 24.6,
+    "hi": 44.2,
+    "lo": 13.4,
+    "boom": 2,
+    "bust": 0,
     "label": "Mixed"
    },
    {
-    "n": "Noah Gray",
-    "p": "TE",
-    "h": "DMsourbeer",
-    "g": 8,
-    "avg": 5.9,
-    "proj": 4.7,
-    "hi": 10.5,
-    "lo": 0,
-    "boom": 0,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Jaxon Smith-Njigba",
-    "p": "WR",
+    "n": "Joe Burrow",
+    "p": "QB",
     "h": "Colt45Johnson",
     "g": 9,
-    "avg": 25.8,
-    "proj": 22.5,
+    "avg": 26.3,
+    "proj": 19.6,
     "hi": 42.5,
-    "lo": 12.1,
+    "lo": 15.2,
     "boom": 2,
     "bust": 0,
     "label": "Mixed"
    },
    {
-    "n": "Trey McBride",
-    "p": "TE",
+    "n": "Josh Allen",
+    "p": "QB",
     "h": "butterygoop",
     "g": 9,
-    "avg": 22.0,
-    "proj": 19.9,
-    "hi": 32.1,
-    "lo": 13.6,
+    "avg": 25.1,
+    "proj": 22.5,
+    "hi": 39.8,
+    "lo": 13.9,
     "boom": 2,
     "bust": 0,
     "label": "Mixed"
    },
    {
-    "n": "Matthew Golden",
-    "p": "WR",
+    "n": "C.J. Stroud",
+    "p": "QB",
+    "h": "butterygoop",
+    "g": 9,
+    "avg": 20.5,
+    "proj": 16.3,
+    "hi": 36.4,
+    "lo": 11.7,
+    "boom": 2,
+    "bust": 0,
+    "label": "Mixed"
+   },
+   {
+    "n": "Trevor Lawrence",
+    "p": "QB",
     "h": "HillBillyWorm",
     "g": 9,
-    "avg": 18.2,
-    "proj": 12.9,
-    "hi": 32.4,
-    "lo": 9.8,
+    "avg": 19.6,
+    "proj": 18.7,
+    "hi": 28.3,
+    "lo": 7.2,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Jared Goff",
+    "p": "QB",
+    "h": "triccster",
+    "g": 9,
+    "avg": 18.4,
+    "proj": 18.4,
+    "hi": 27.9,
+    "lo": 6.3,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Tyler Shough",
+    "p": "QB",
+    "h": "triccster",
+    "g": 9,
+    "avg": 17.1,
+    "proj": 16.3,
+    "hi": 27.0,
+    "lo": 1.8,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "George Kittle",
+    "p": "TE",
+    "h": "Colt45Johnson",
+    "g": 9,
+    "avg": 16.5,
+    "proj": 15.7,
+    "hi": 29.2,
+    "lo": 4.2,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Bhayshul Tuten",
+    "p": "RB",
+    "h": "HillBillyWorm",
+    "g": 9,
+    "avg": 16.4,
+    "proj": 12.3,
+    "hi": 29.9,
+    "lo": 8.9,
     "boom": 2,
     "bust": 0,
     "label": "Mixed"
    },
    {
-    "n": "Matthew Stafford",
-    "p": "QB",
-    "h": "TuanonStan",
+    "n": "Chris Olave",
+    "p": "WR",
+    "h": "butterygoop",
     "g": 9,
-    "avg": 16.8,
-    "proj": 17.2,
-    "hi": 28.0,
-    "lo": 5.1,
+    "avg": 16.4,
+    "proj": 16.7,
+    "hi": 28.2,
+    "lo": 6.0,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Jaylen Warren",
+    "p": "RB",
+    "h": "butterygoop",
+    "g": 9,
+    "avg": 16.3,
+    "proj": 15.8,
+    "hi": 36.8,
+    "lo": 8.1,
     "boom": 1,
     "bust": 1,
     "label": "Steady"
@@ -4480,66 +4721,157 @@
     "label": "Mixed"
    },
    {
-    "n": "Geno Smith",
+    "n": "Jacoby Brissett",
     "p": "QB",
-    "h": "DMsourbeer",
+    "h": "YoungBuck04",
     "g": 9,
-    "avg": 14.4,
-    "proj": 14.8,
-    "hi": 25.0,
-    "lo": 7.4,
-    "boom": 2,
-    "bust": 0,
-    "label": "Mixed"
-   },
-   {
-    "n": "Tucker Kraft",
-    "p": "TE",
-    "h": "Thnu",
-    "g": 9,
-    "avg": 11.9,
-    "proj": 13.4,
-    "hi": 20.3,
-    "lo": 2.4,
-    "boom": 0,
-    "bust": 2,
-    "label": "Mixed"
-   },
-   {
-    "n": "Denzel Boston",
-    "p": "WR",
-    "h": "TuanonStan",
-    "g": 9,
-    "avg": 11.4,
-    "proj": 9.9,
-    "hi": 20.5,
-    "lo": 2.5,
+    "avg": 14.6,
+    "proj": 14.6,
+    "hi": 26.3,
+    "lo": 4.5,
     "boom": 1,
     "bust": 1,
     "label": "Steady"
    },
    {
-    "n": "AJ Barner",
-    "p": "TE",
-    "h": "Colt45Johnson",
+    "n": "Chase Brown",
+    "p": "RB",
+    "h": "Wallner",
     "g": 9,
-    "avg": 8.3,
-    "proj": 10.0,
-    "hi": 16.0,
-    "lo": 2.7,
+    "avg": 14.2,
+    "proj": 16.1,
+    "hi": 28.3,
+    "lo": 6.0,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Dalton Schultz",
+    "p": "TE",
+    "h": "triccster",
+    "g": 9,
+    "avg": 10.8,
+    "proj": 11.3,
+    "hi": 32.0,
+    "lo": 3.9,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Brenton Strange",
+    "p": "TE",
+    "h": "HillBillyWorm",
+    "g": 9,
+    "avg": 10.6,
+    "proj": 11.2,
+    "hi": 19.0,
+    "lo": 4.7,
     "boom": 0,
     "bust": 2,
     "label": "Mixed"
    },
    {
-    "n": "Justice Hill",
+    "n": "Aaron Jones Sr.",
     "p": "RB",
-    "h": "DMsourbeer",
+    "h": "Thnu",
     "g": 9,
-    "avg": 6.8,
-    "proj": 6.3,
-    "hi": 18.2,
-    "lo": 3.3,
+    "avg": 10.3,
+    "proj": 11.8,
+    "hi": 17.7,
+    "lo": 2.6,
+    "boom": 0,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Keenan Allen",
+    "p": "WR",
+    "h": "YoungBuck04",
+    "g": 9,
+    "avg": 10.2,
+    "proj": 8.7,
+    "hi": 18.3,
+    "lo": 1.5,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Jakobi Meyers",
+    "p": "WR",
+    "h": "triccster",
+    "g": 9,
+    "avg": 9.1,
+    "proj": 9.1,
+    "hi": 19.4,
+    "lo": 3.8,
+    "boom": 1,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Jaxon Smith-Njigba",
+    "p": "WR",
+    "h": "Colt45Johnson",
+    "g": 10,
+    "avg": 26.3,
+    "proj": 22.5,
+    "hi": 42.5,
+    "lo": 12.1,
+    "boom": 2,
+    "bust": 0,
+    "label": "Mixed"
+   },
+   {
+    "n": "Trey McBride",
+    "p": "TE",
+    "h": "butterygoop",
+    "g": 10,
+    "avg": 20.9,
+    "proj": 19.6,
+    "hi": 32.1,
+    "lo": 11.2,
+    "boom": 2,
+    "bust": 0,
+    "label": "Mixed"
+   },
+   {
+    "n": "Dak Prescott",
+    "p": "QB",
+    "h": "Colt45Johnson",
+    "g": 10,
+    "avg": 20.7,
+    "proj": 18.7,
+    "hi": 35.4,
+    "lo": 13.0,
+    "boom": 2,
+    "bust": 0,
+    "label": "Mixed"
+   },
+   {
+    "n": "Matthew Golden",
+    "p": "WR",
+    "h": "HillBillyWorm",
+    "g": 10,
+    "avg": 17.6,
+    "proj": 13.2,
+    "hi": 32.4,
+    "lo": 9.8,
+    "boom": 2,
+    "bust": 0,
+    "label": "Mixed"
+   },
+   {
+    "n": "Matthew Stafford",
+    "p": "QB",
+    "h": "TuanonStan",
+    "g": 10,
+    "avg": 17.2,
+    "proj": 17.1,
+    "hi": 28.0,
+    "lo": 5.1,
     "boom": 1,
     "bust": 1,
     "label": "Steady"
@@ -4558,27 +4890,40 @@
     "label": "Mixed"
    },
    {
-    "n": "Ollie Gordon II",
-    "p": "RB",
-    "h": "brettmn13",
-    "g": 5,
-    "avg": 12.9,
-    "proj": 12.3,
-    "hi": 18.0,
-    "lo": 6.9,
-    "boom": 1,
+    "n": "Ryan Flournoy",
+    "p": "WR",
+    "h": "triccster",
+    "g": 10,
+    "avg": 10.3,
+    "proj": 8.4,
+    "hi": 19.1,
+    "lo": 4.2,
+    "boom": 2,
     "bust": 0,
     "label": "Mixed"
    },
    {
-    "n": "Deebo Samuel Sr.",
+    "n": "Hunter Henry",
+    "p": "TE",
+    "h": "triccster",
+    "g": 10,
+    "avg": 10.1,
+    "proj": 11.5,
+    "hi": 17.6,
+    "lo": 2.0,
+    "boom": 0,
+    "bust": 2,
+    "label": "Mixed"
+   },
+   {
+    "n": "Mack Hollins",
     "p": "WR",
-    "h": "Wallner",
+    "h": "BROCKSTARxD",
     "g": 5,
-    "avg": 11.7,
-    "proj": 10.2,
-    "hi": 18.0,
-    "lo": 1.5,
+    "avg": 9.8,
+    "proj": 8.4,
+    "hi": 14.7,
+    "lo": 3.8,
     "boom": 0,
     "bust": 1,
     "label": "Mixed"
@@ -4597,43 +4942,56 @@
     "label": "Mixed"
    },
    {
-    "n": "Rico Dowdle",
-    "p": "RB",
+    "n": "AJ Barner",
+    "p": "TE",
     "h": "Colt45Johnson",
-    "g": 5,
-    "avg": 8.7,
-    "proj": 9.4,
-    "hi": 14.6,
-    "lo": 4.1,
+    "g": 10,
+    "avg": 8.1,
+    "proj": 9.9,
+    "hi": 16.0,
+    "lo": 2.7,
     "boom": 0,
-    "bust": 1,
+    "bust": 2,
     "label": "Mixed"
    },
    {
-    "n": "Laquon Treadwell",
-    "p": "WR",
-    "h": "DMsourbeer",
+    "n": "Dylan Sampson",
+    "p": "RB",
+    "h": "YoungBuck04",
     "g": 5,
-    "avg": 3.2,
-    "proj": 5.1,
-    "hi": 5.4,
+    "avg": 7.8,
+    "proj": 7.1,
+    "hi": 12.9,
     "lo": 0,
     "boom": 0,
     "bust": 1,
     "label": "Mixed"
    },
    {
-    "n": "Jayden Daniels",
-    "p": "QB",
-    "h": "brettmn13",
-    "g": 6,
-    "avg": 18.9,
-    "proj": 17.8,
-    "hi": 32.3,
-    "lo": 13.6,
+    "n": "Justice Hill",
+    "p": "RB",
+    "h": "DMsourbeer",
+    "g": 10,
+    "avg": 7.0,
+    "proj": 6.4,
+    "hi": 18.2,
+    "lo": 3.3,
     "boom": 1,
-    "bust": 0,
+    "bust": 1,
     "label": "Steady"
+   },
+   {
+    "n": "Jordan Mason",
+    "p": "RB",
+    "h": "brettmn13",
+    "g": 5,
+    "avg": 6.6,
+    "proj": 9.4,
+    "hi": 11.9,
+    "lo": 2.0,
+    "boom": 0,
+    "bust": 1,
+    "label": "Mixed"
    },
    {
     "n": "Mike Evans",
@@ -4644,6 +5002,19 @@
     "proj": 13.7,
     "hi": 26.3,
     "lo": 8.4,
+    "boom": 1,
+    "bust": 0,
+    "label": "Steady"
+   },
+   {
+    "n": "Ollie Gordon II",
+    "p": "RB",
+    "h": "brettmn13",
+    "g": 6,
+    "avg": 13.3,
+    "proj": 12.4,
+    "hi": 18.0,
+    "lo": 6.9,
     "boom": 1,
     "bust": 0,
     "label": "Steady"
@@ -4675,16 +5046,16 @@
     "label": "Steady"
    },
    {
-    "n": "Rashee Rice",
+    "n": "Xavier Hutchinson",
     "p": "WR",
-    "h": "Wallner",
+    "h": "BROCKSTARxD",
     "g": 6,
-    "avg": 11.0,
-    "proj": 13.6,
-    "hi": 18.3,
-    "lo": 0,
-    "boom": 0,
-    "bust": 1,
+    "avg": 10.2,
+    "proj": 6.0,
+    "hi": 15.8,
+    "lo": 6.7,
+    "boom": 1,
+    "bust": 0,
     "label": "Steady"
    },
    {
@@ -4714,6 +5085,45 @@
     "label": "Steady"
    },
    {
+    "n": "Rico Dowdle",
+    "p": "RB",
+    "h": "Colt45Johnson",
+    "g": 6,
+    "avg": 8.2,
+    "proj": 9.4,
+    "hi": 14.6,
+    "lo": 4.1,
+    "boom": 0,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Ty Johnson",
+    "p": "RB",
+    "h": "YoungBuck04",
+    "g": 6,
+    "avg": 5.2,
+    "proj": 5.1,
+    "hi": 11.2,
+    "lo": 1.4,
+    "boom": 0,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
+    "n": "Laquon Treadwell",
+    "p": "WR",
+    "h": "DMsourbeer",
+    "g": 6,
+    "avg": 4.6,
+    "proj": 5.3,
+    "hi": 11.4,
+    "lo": 0,
+    "boom": 0,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
     "n": "Puka Nacua",
     "p": "WR",
     "h": "TuanonStan",
@@ -4727,42 +5137,29 @@
     "label": "Steady"
    },
    {
-    "n": "Tyler Warren",
-    "p": "TE",
-    "h": "Jbird531",
+    "n": "Jayden Daniels",
+    "p": "QB",
+    "h": "brettmn13",
     "g": 7,
-    "avg": 14.7,
-    "proj": 14.2,
-    "hi": 24.9,
-    "lo": 7.8,
+    "avg": 19.4,
+    "proj": 17.9,
+    "hi": 32.3,
+    "lo": 13.6,
     "boom": 1,
     "bust": 0,
     "label": "Steady"
    },
    {
-    "n": "Michael Penix Jr.",
-    "p": "QB",
-    "h": "triccster",
+    "n": "Rashee Rice",
+    "p": "WR",
+    "h": "Wallner",
     "g": 7,
-    "avg": 14.0,
-    "proj": 14.5,
-    "hi": 21.1,
-    "lo": 1.1,
+    "avg": 11.3,
+    "proj": 13.8,
+    "hi": 18.3,
+    "lo": 0,
     "boom": 0,
     "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Stefon Diggs",
-    "p": "WR",
-    "h": "YoungBuck04",
-    "g": 7,
-    "avg": 12.9,
-    "proj": 11.3,
-    "hi": 21.7,
-    "lo": 7.3,
-    "boom": 1,
-    "bust": 0,
     "label": "Steady"
    },
    {
@@ -4779,11 +5176,24 @@
     "label": "Steady"
    },
    {
+    "n": "Michael Penix Jr.",
+    "p": "QB",
+    "h": "triccster",
+    "g": 8,
+    "avg": 13.8,
+    "proj": 14.5,
+    "hi": 21.1,
+    "lo": 1.1,
+    "boom": 0,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
     "n": "Tre' Harris",
     "p": "WR",
     "h": "Jbird531",
-    "g": 7,
-    "avg": 6.7,
+    "g": 8,
+    "avg": 7.6,
     "proj": 7.1,
     "hi": 13.6,
     "lo": 3.6,
@@ -4792,27 +5202,14 @@
     "label": "Steady"
    },
    {
-    "n": "Jahmyr Gibbs",
+    "n": "Christian McCaffrey",
     "p": "RB",
-    "h": "Colt45Johnson",
-    "g": 8,
-    "avg": 25.9,
-    "proj": 24.6,
-    "hi": 41.4,
-    "lo": 13.4,
-    "boom": 1,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Joe Burrow",
-    "p": "QB",
-    "h": "Colt45Johnson",
-    "g": 8,
-    "avg": 25.4,
-    "proj": 19.3,
-    "hi": 42.5,
-    "lo": 15.2,
+    "h": "BROCKSTARxD",
+    "g": 9,
+    "avg": 23.6,
+    "proj": 20.3,
+    "hi": 46.3,
+    "lo": 13.8,
     "boom": 1,
     "bust": 0,
     "label": "Steady"
@@ -4821,8 +5218,8 @@
     "n": "Amon-Ra St. Brown",
     "p": "WR",
     "h": "DMsourbeer",
-    "g": 8,
-    "avg": 19.4,
+    "g": 9,
+    "avg": 20.2,
     "proj": 19.4,
     "hi": 35.2,
     "lo": 10.9,
@@ -4831,66 +5228,14 @@
     "label": "Steady"
    },
    {
-    "n": "Chris Olave",
-    "p": "WR",
-    "h": "butterygoop",
-    "g": 8,
-    "avg": 17.7,
-    "proj": 16.8,
-    "hi": 28.2,
-    "lo": 8.6,
-    "boom": 1,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Jaylen Warren",
-    "p": "RB",
-    "h": "butterygoop",
-    "g": 8,
-    "avg": 17.4,
-    "proj": 15.6,
-    "hi": 36.8,
-    "lo": 9.3,
-    "boom": 1,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Chase Brown",
-    "p": "RB",
-    "h": "Wallner",
-    "g": 8,
-    "avg": 12.4,
-    "proj": 16.5,
-    "hi": 19.1,
-    "lo": 6.0,
-    "boom": 0,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
     "n": "Justin Herbert",
     "p": "QB",
     "h": "HillBillyWorm",
-    "g": 8,
-    "avg": 10.6,
-    "proj": 14.7,
-    "hi": 14.3,
+    "g": 9,
+    "avg": 11.2,
+    "proj": 14.6,
+    "hi": 16.3,
     "lo": 6.9,
-    "boom": 0,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Khalil Shakir",
-    "p": "WR",
-    "h": "butterygoop",
-    "g": 8,
-    "avg": 9.4,
-    "proj": 9.9,
-    "hi": 13.4,
-    "lo": 1.6,
     "boom": 0,
     "bust": 1,
     "label": "Steady"
@@ -4899,76 +5244,11 @@
     "n": "Malik Washington",
     "p": "WR",
     "h": "BROCKSTARxD",
-    "g": 8,
-    "avg": 9.3,
-    "proj": 9.7,
+    "g": 9,
+    "avg": 9.8,
+    "proj": 9.6,
     "hi": 15.0,
     "lo": 4.1,
-    "boom": 0,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Jordan Love",
-    "p": "QB",
-    "h": "DMsourbeer",
-    "g": 9,
-    "avg": 20.7,
-    "proj": 17.4,
-    "hi": 36.2,
-    "lo": 12.8,
-    "boom": 1,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Dak Prescott",
-    "p": "QB",
-    "h": "Colt45Johnson",
-    "g": 9,
-    "avg": 19.0,
-    "proj": 18.8,
-    "hi": 29.8,
-    "lo": 13.0,
-    "boom": 1,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Ashton Jeanty",
-    "p": "RB",
-    "h": "brettmn13",
-    "g": 9,
-    "avg": 15.5,
-    "proj": 14.9,
-    "hi": 32.7,
-    "lo": 7.0,
-    "boom": 1,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Braelon Allen",
-    "p": "RB",
-    "h": "triccster",
-    "g": 9,
-    "avg": 11.4,
-    "proj": 11.0,
-    "hi": 23.3,
-    "lo": 4.0,
-    "boom": 0,
-    "bust": 1,
-    "label": "Steady"
-   },
-   {
-    "n": "Hunter Henry",
-    "p": "TE",
-    "h": "triccster",
-    "g": 9,
-    "avg": 10.7,
-    "proj": 11.4,
-    "hi": 17.6,
-    "lo": 2.0,
     "boom": 0,
     "bust": 1,
     "label": "Steady"
@@ -4987,16 +5267,16 @@
     "label": "Steady"
    },
    {
-    "n": "Ryan Flournoy",
+    "n": "Khalil Shakir",
     "p": "WR",
-    "h": "triccster",
+    "h": "butterygoop",
     "g": 9,
-    "avg": 9.3,
-    "proj": 8.3,
-    "hi": 17.0,
-    "lo": 4.2,
-    "boom": 1,
-    "bust": 0,
+    "avg": 9.2,
+    "proj": 9.9,
+    "hi": 13.4,
+    "lo": 1.6,
+    "boom": 0,
+    "bust": 1,
     "label": "Steady"
    },
    {
@@ -5013,12 +5293,51 @@
     "label": "Steady"
    },
    {
+    "n": "Jordan Love",
+    "p": "QB",
+    "h": "DMsourbeer",
+    "g": 10,
+    "avg": 19.8,
+    "proj": 17.4,
+    "hi": 36.2,
+    "lo": 11.8,
+    "boom": 1,
+    "bust": 0,
+    "label": "Steady"
+   },
+   {
+    "n": "Ashton Jeanty",
+    "p": "RB",
+    "h": "Colt45Johnson",
+    "g": 10,
+    "avg": 15.0,
+    "proj": 14.6,
+    "hi": 32.7,
+    "lo": 7.0,
+    "boom": 1,
+    "bust": 0,
+    "label": "Steady"
+   },
+   {
+    "n": "Braelon Allen",
+    "p": "RB",
+    "h": "triccster",
+    "g": 10,
+    "avg": 10.9,
+    "proj": 10.7,
+    "hi": 23.3,
+    "lo": 4.0,
+    "boom": 0,
+    "bust": 1,
+    "label": "Steady"
+   },
+   {
     "n": "Cooper Kupp",
     "p": "WR",
     "h": "triccster",
-    "g": 9,
-    "avg": 6.4,
-    "proj": 7.3,
+    "g": 10,
+    "avg": 6.8,
+    "proj": 7.2,
     "hi": 14.6,
     "lo": 2.3,
     "boom": 0,
@@ -5029,24 +5348,11 @@
     "n": "Brock Purdy",
     "p": "QB",
     "h": "BROCKSTARxD",
-    "g": 8,
-    "avg": 22.0,
-    "proj": 19.8,
-    "hi": 31.3,
-    "lo": 14.0,
-    "boom": 0,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Christian McCaffrey",
-    "p": "RB",
-    "h": "BROCKSTARxD",
-    "g": 8,
-    "avg": 20.7,
+    "g": 9,
+    "avg": 23.1,
     "proj": 20.1,
-    "hi": 29.7,
-    "lo": 13.8,
+    "hi": 31.7,
+    "lo": 14.0,
     "boom": 0,
     "bust": 0,
     "label": "Steady"
@@ -5055,9 +5361,9 @@
     "n": "James Cook III",
     "p": "RB",
     "h": "DMsourbeer",
-    "g": 8,
-    "avg": 18.1,
-    "proj": 16.7,
+    "g": 9,
+    "avg": 18.5,
+    "proj": 16.8,
     "hi": 24.3,
     "lo": 8.9,
     "boom": 0,
@@ -5081,10 +5387,10 @@
     "n": "Deshaun Watson",
     "p": "QB",
     "h": "Jbird531",
-    "g": 8,
-    "avg": 14.2,
-    "proj": 13.7,
-    "hi": 20.3,
+    "g": 9,
+    "avg": 15.0,
+    "proj": 13.8,
+    "hi": 21.4,
     "lo": 9.2,
     "boom": 0,
     "bust": 0,
@@ -5094,9 +5400,9 @@
     "n": "Breece Hall",
     "p": "RB",
     "h": "BROCKSTARxD",
-    "g": 4,
-    "avg": 13.6,
-    "proj": 14.0,
+    "g": 5,
+    "avg": 13.8,
+    "proj": 13.6,
     "hi": 19.8,
     "lo": 8.5,
     "boom": 0,
@@ -5133,24 +5439,11 @@
     "n": "Travis Etienne Jr.",
     "p": "RB",
     "h": "Wallner",
-    "g": 3,
-    "avg": 10.3,
-    "proj": 12.8,
+    "g": 4,
+    "avg": 9.3,
+    "proj": 11.7,
     "hi": 14.8,
-    "lo": 7.1,
-    "boom": 0,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Xavier Hutchinson",
-    "p": "WR",
-    "h": "BROCKSTARxD",
-    "g": 5,
-    "avg": 9.0,
-    "proj": 5.9,
-    "hi": 11.9,
-    "lo": 6.7,
+    "lo": 6.4,
     "boom": 0,
     "bust": 0,
     "label": "Steady"
@@ -5159,9 +5452,9 @@
     "n": "Woody Marks",
     "p": "RB",
     "h": "Thnu",
-    "g": 8,
-    "avg": 8.9,
-    "proj": 10.5,
+    "g": 9,
+    "avg": 8.7,
+    "proj": 10.7,
     "hi": 12.5,
     "lo": 5.0,
     "boom": 0,
@@ -5169,14 +5462,40 @@
     "label": "Steady"
    },
    {
-    "n": "Kimani Vidal",
+    "n": "Zach Charbonnet",
+    "p": "RB",
+    "h": "HillBillyWorm",
+    "g": 3,
+    "avg": 8.3,
+    "proj": 10.1,
+    "hi": 9.6,
+    "lo": 5.9,
+    "boom": 0,
+    "bust": 0,
+    "label": "Steady"
+   },
+   {
+    "n": "Seth McGowan",
     "p": "RB",
     "h": "Jbird531",
     "g": 4,
-    "avg": 7.3,
-    "proj": 6.8,
-    "hi": 12.6,
-    "lo": 4.6,
+    "avg": 7.6,
+    "proj": 5.7,
+    "hi": 13.7,
+    "lo": 2.7,
+    "boom": 0,
+    "bust": 0,
+    "label": "Steady"
+   },
+   {
+    "n": "Dohnte Meyers",
+    "p": "WR",
+    "h": "YoungBuck04",
+    "g": 4,
+    "avg": 7.0,
+    "proj": 4.9,
+    "hi": 10.0,
+    "lo": 3.2,
     "boom": 0,
     "bust": 0,
     "label": "Steady"
@@ -5185,11 +5504,50 @@
     "n": "Malachi Fields",
     "p": "WR",
     "h": "BROCKSTARxD",
-    "g": 8,
-    "avg": 6.7,
+    "g": 9,
+    "avg": 7.0,
     "proj": 6.0,
     "hi": 13.2,
     "lo": 3.9,
+    "boom": 0,
+    "bust": 0,
+    "label": "Steady"
+   },
+   {
+    "n": "Antonio Williams",
+    "p": "WR",
+    "h": "YoungBuck04",
+    "g": 8,
+    "avg": 7.0,
+    "proj": 7.5,
+    "hi": 12.2,
+    "lo": 3.5,
+    "boom": 0,
+    "bust": 0,
+    "label": "Steady"
+   },
+   {
+    "n": "Savion Williams",
+    "p": "WR",
+    "h": "Jbird531",
+    "g": 3,
+    "avg": 6.9,
+    "proj": 5.2,
+    "hi": 12.8,
+    "lo": 3.3,
+    "boom": 0,
+    "bust": 0,
+    "label": "Steady"
+   },
+   {
+    "n": "Kimani Vidal",
+    "p": "RB",
+    "h": "Jbird531",
+    "g": 5,
+    "avg": 6.5,
+    "proj": 6.8,
+    "hi": 12.6,
+    "lo": 3.4,
     "boom": 0,
     "bust": 0,
     "label": "Steady"
@@ -5203,58 +5561,6 @@
     "proj": 5.8,
     "hi": 7.6,
     "lo": 4.2,
-    "boom": 0,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Antonio Williams",
-    "p": "WR",
-    "h": "YoungBuck04",
-    "g": 7,
-    "avg": 6.3,
-    "proj": 7.5,
-    "hi": 10.4,
-    "lo": 3.5,
-    "boom": 0,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Dohnte Meyers",
-    "p": "WR",
-    "h": "YoungBuck04",
-    "g": 3,
-    "avg": 6.0,
-    "proj": 4.6,
-    "hi": 8.3,
-    "lo": 3.2,
-    "boom": 0,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Ty Johnson",
-    "p": "RB",
-    "h": "YoungBuck04",
-    "g": 5,
-    "avg": 6.0,
-    "proj": 5.1,
-    "hi": 11.2,
-    "lo": 3.2,
-    "boom": 0,
-    "bust": 0,
-    "label": "Steady"
-   },
-   {
-    "n": "Seth McGowan",
-    "p": "RB",
-    "h": "Jbird531",
-    "g": 3,
-    "avg": 5.6,
-    "proj": 5.3,
-    "hi": 11.2,
-    "lo": 2.7,
     "boom": 0,
     "bust": 0,
     "label": "Steady"
@@ -5275,76 +5581,76 @@
   ],
   "teams": [
    {
-    "h": "butterygoop",
-    "starts": 89,
-    "boom": 14,
-    "bust": 9
-   },
-   {
-    "h": "TuanonStan",
-    "starts": 87,
-    "boom": 16,
-    "bust": 15
-   },
-   {
     "h": "Colt45Johnson",
-    "starts": 90,
-    "boom": 13,
+    "starts": 100,
+    "boom": 17,
+    "bust": 14
+   },
+   {
+    "h": "butterygoop",
+    "starts": 99,
+    "boom": 15,
     "bust": 13
    },
    {
-    "h": "HillBillyWorm",
-    "starts": 90,
-    "boom": 14,
-    "bust": 21
+    "h": "TuanonStan",
+    "starts": 97,
+    "boom": 17,
+    "bust": 16
    },
    {
-    "h": "Thnu",
-    "starts": 81,
-    "boom": 10,
-    "bust": 18
+    "h": "HillBillyWorm",
+    "starts": 100,
+    "boom": 14,
+    "bust": 23
    },
    {
     "h": "triccster",
-    "starts": 90,
-    "boom": 10,
-    "bust": 21
+    "starts": 100,
+    "boom": 13,
+    "bust": 22
    },
    {
-    "h": "DMsourbeer",
-    "starts": 90,
+    "h": "Thnu",
+    "starts": 89,
     "boom": 11,
-    "bust": 23
-   },
-   {
-    "h": "Jbird531",
-    "starts": 86,
-    "boom": 11,
-    "bust": 24
-   },
-   {
-    "h": "Wallner",
-    "starts": 90,
-    "boom": 11,
-    "bust": 24
+    "bust": 22
    },
    {
     "h": "YoungBuck04",
-    "starts": 87,
-    "boom": 9,
+    "starts": 97,
+    "boom": 12,
     "bust": 23
    },
    {
+    "h": "Wallner",
+    "starts": 99,
+    "boom": 14,
+    "bust": 26
+   },
+   {
     "h": "brettmn13",
-    "starts": 87,
-    "boom": 9,
+    "starts": 95,
+    "boom": 12,
     "bust": 25
    },
    {
+    "h": "DMsourbeer",
+    "starts": 100,
+    "boom": 12,
+    "bust": 25
+   },
+   {
+    "h": "Jbird531",
+    "starts": 96,
+    "boom": 12,
+    "bust": 29
+   },
+   {
     "h": "BROCKSTARxD",
-    "starts": 89,
-    "boom": 5,
-    "bust": 22
+    "starts": 99,
+    "boom": 6,
+    "bust": 24
    }
   ],
   "rule": "Boom: beat his projection by half again and by 8 or more. Bust: under half his projection. Weeks projected under 4 don't count."
