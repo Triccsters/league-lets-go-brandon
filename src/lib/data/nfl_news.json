@@ -1,7 +1,7 @@
 {
- "read_at": "2026-11-17T21:29+00:00",
+ "read_at": "2026-11-18T13:16+00:00",
  "days": 7,
- "count": 126,
+ "count": 122,
  "items": [
   {
    "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
@@ -105,118 +105,6 @@
     "Thnu",
     "Wallner",
     "butterygoop",
-    "triccster"
-   ],
-   "score": 20.0
-  },
-  {
-   "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
-   "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
-   "date": "2026-11-16",
-   "kind": "news",
-   "teams": [
-    "KC"
-   ],
-   "named": [
-    {
-     "n": "Patrick Mahomes",
-     "p": "QB",
-     "t": "KC",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Josh Downs",
-     "p": "WR",
-     "t": "KC",
-     "h": "BROCKSTARxD"
-    }
-   ],
-   "lead": [
-    "Patrick Mahomes",
-    "Josh Downs"
-   ],
-   "ripple": [
-    {
-     "n": "Cyrus Allen",
-     "p": "WR",
-     "t": "KC",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Justin Fields",
-     "p": "QB",
-     "t": "KC",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Brashard Smith",
-     "p": "RB",
-     "t": "KC",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Kenneth Walker III",
-     "p": "RB",
-     "t": "KC",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Travis Kelce",
-     "p": "TE",
-     "t": "KC",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Xavier Worthy",
-     "p": "WR",
-     "t": "KC",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Rashee Rice",
-     "p": "WR",
-     "t": "KC",
-     "h": "Wallner"
-    },
-    {
-     "n": "Tyquan Thornton",
-     "p": "WR",
-     "t": "KC",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Noah Gray",
-     "p": "TE",
-     "t": "KC",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Jalen Royals",
-     "p": "WR",
-     "t": "KC",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Emmett Johnson",
-     "p": "RB",
-     "t": "KC",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Garrett Nussmeier",
-     "p": "QB",
-     "t": "KC",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "DMsourbeer",
-    "HillBillyWorm",
-    "Jbird531",
-    "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
     "triccster"
    ],
    "score": 18.0
@@ -704,6 +592,289 @@
    "score": 17.0
   },
   {
+   "headline": "Source: Cardinals' Gardner Minshew has surgery to repair right UCL",
+   "url": "https://www.espn.com/nfl/story/_/id/50517561/source-cardinals-qb-gardner-minshew-surgery-repair-right-ucl",
+   "date": "2026-11-18",
+   "kind": "news",
+   "teams": [
+    "ARI"
+   ],
+   "named": [
+    {
+     "n": "Gardner Minshew II",
+     "p": "QB",
+     "t": "ARI",
+     "h": "butterygoop"
+    }
+   ],
+   "lead": [
+    "Gardner Minshew II"
+   ],
+   "ripple": [
+    {
+     "n": "Trey Benson",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Michael Wilson",
+     "p": "WR",
+     "t": "ARI",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Trey McBride",
+     "p": "TE",
+     "t": "ARI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Zonovan Knight",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Tyler Allgeier",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Carson Beck",
+     "p": "QB",
+     "t": "ARI",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Jeremiyah Love",
+     "p": "RB",
+     "t": "ARI",
+     "h": "Thnu"
+    },
+    {
+     "n": "Kendrick Bourne",
+     "p": "WR",
+     "t": "ARI",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "James Conner",
+     "p": "RB",
+     "t": "ARI",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "DMsourbeer",
+    "Jbird531",
+    "Thnu",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "butterygoop"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers",
+   "url": "https://www.espn.com/nfl/story/_/id/50515291/bears-caleb-williams-moved-4-interception-game-frustration-lingers",
+   "date": "2026-11-18",
+   "kind": "news",
+   "teams": [
+    "CHI"
+   ],
+   "named": [
+    {
+     "n": "Caleb Williams",
+     "p": "QB",
+     "t": "CHI",
+     "h": "HillBillyWorm"
+    }
+   ],
+   "lead": [
+    "Caleb Williams"
+   ],
+   "ripple": [
+    {
+     "n": "Kyle Monangai",
+     "p": "RB",
+     "t": "CHI",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Colston Loveland",
+     "p": "TE",
+     "t": "CHI",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Luther Burden III",
+     "p": "WR",
+     "t": "CHI",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "D'Andre Swift",
+     "p": "RB",
+     "t": "CHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Case Keenum",
+     "p": "QB",
+     "t": "CHI",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Tyson Bagent",
+     "p": "QB",
+     "t": "CHI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Cole Kmet",
+     "p": "TE",
+     "t": "CHI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Kalif Raymond",
+     "p": "WR",
+     "t": "CHI",
+     "h": "HillBillyWorm"
+    },
+    {
+     "n": "Rome Odunze",
+     "p": "WR",
+     "t": "CHI",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Roschon Johnson",
+     "p": "RB",
+     "t": "CHI",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Zavion Thomas",
+     "p": "WR",
+     "t": "CHI",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "BROCKSTARxD",
+    "Colt45Johnson",
+    "HillBillyWorm",
+    "Jbird531",
+    "TuanonStan",
+    "YoungBuck04",
+    "brettmn13",
+    "butterygoop"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Titans put WR Wan'Dale Robinson on IR due to ankle injury",
+   "url": "https://www.espn.com/nfl/story/_/id/50513594/titans-put-wr-wandale-robinson-ankle-ir",
+   "date": "2026-11-18",
+   "kind": "news",
+   "teams": [
+    "TEN"
+   ],
+   "named": [
+    {
+     "n": "Wan'Dale Robinson",
+     "p": "WR",
+     "t": "TEN",
+     "h": "HillBillyWorm"
+    }
+   ],
+   "lead": [
+    "Wan'Dale Robinson"
+   ],
+   "ripple": [
+    {
+     "n": "Tyjae Spears",
+     "p": "RB",
+     "t": "TEN",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Chimere Dike",
+     "p": "WR",
+     "t": "TEN",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Calvin Ridley",
+     "p": "WR",
+     "t": "TEN",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Elic Ayomanor",
+     "p": "WR",
+     "t": "TEN",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Gunnar Helm",
+     "p": "TE",
+     "t": "TEN",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Cam Ward",
+     "p": "QB",
+     "t": "TEN",
+     "h": "Thnu"
+    },
+    {
+     "n": "Nicholas Singleton",
+     "p": "RB",
+     "t": "TEN",
+     "h": "Thnu"
+    },
+    {
+     "n": "Jaren Kanak",
+     "p": "TE",
+     "t": "TEN",
+     "h": "Thnu"
+    },
+    {
+     "n": "Tony Pollard",
+     "p": "RB",
+     "t": "TEN",
+     "h": "Thnu"
+    },
+    {
+     "n": "Carnell Tate",
+     "p": "WR",
+     "t": "TEN",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Daniel Bellinger",
+     "p": "TE",
+     "t": "TEN",
+     "h": "YoungBuck04"
+    }
+   ],
+   "managers": [
+    "DMsourbeer",
+    "HillBillyWorm",
+    "Jbird531",
+    "Thnu",
+    "TuanonStan",
+    "YoungBuck04",
+    "butterygoop"
+   ],
+   "score": 16.0
+  },
+  {
    "headline": "Falcons WR Drake London cleared after being checked for concussion",
    "url": "https://www.espn.com/nfl/story/_/id/50503127/falcons-drake-london-cleared-being-checked-concussion",
    "date": "2026-11-16",
@@ -888,102 +1059,103 @@
    "score": 16.0
   },
   {
-   "headline": "QB Jordan Love, Packers frustrated after blowout loss at home to Vikings",
-   "url": "https://www.espn.com/nfl/story/_/id/50495671/qb-jordan-love-packers-frustrated-home-loss-vikings",
+   "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
+   "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
    "date": "2026-11-16",
    "kind": "news",
    "teams": [
-    "GB"
+    "KC"
    ],
    "named": [
     {
-     "n": "Jordan Love",
+     "n": "Patrick Mahomes",
      "p": "QB",
-     "t": "GB",
+     "t": "KC",
      "h": "DMsourbeer"
+    },
+    {
+     "n": "Josh Downs",
+     "p": "WR",
+     "t": "KC",
+     "h": "BROCKSTARxD"
     }
    ],
    "lead": [
-    "Jordan Love"
+    "Patrick Mahomes",
+    "Josh Downs"
    ],
    "ripple": [
     {
-     "n": "Savion Williams",
+     "n": "Cyrus Allen",
      "p": "WR",
-     "t": "GB",
+     "t": "KC",
      "h": "Jbird531"
     },
     {
-     "n": "MarShawn Lloyd",
-     "p": "RB",
-     "t": "GB",
-     "h": "brettmn13"
+     "n": "Justin Fields",
+     "p": "QB",
+     "t": "KC",
+     "h": "Jbird531"
     },
     {
-     "n": "Kaleb Johnson",
+     "n": "Brashard Smith",
      "p": "RB",
-     "t": "GB",
-     "h": "brettmn13"
+     "t": "KC",
+     "h": "TuanonStan"
     },
     {
-     "n": "Josh Jacobs",
+     "n": "Kenneth Walker III",
      "p": "RB",
-     "t": "GB",
-     "h": "brettmn13"
+     "t": "KC",
+     "h": "TuanonStan"
     },
     {
-     "n": "Jonnu Smith",
+     "n": "Travis Kelce",
      "p": "TE",
-     "t": "GB",
+     "t": "KC",
      "h": "BROCKSTARxD"
     },
     {
-     "n": "Pierre Strong Jr.",
-     "p": "RB",
-     "t": "GB",
+     "n": "Xavier Worthy",
+     "p": "WR",
+     "t": "KC",
+     "h": "BROCKSTARxD"
+    },
+    {
+     "n": "Rashee Rice",
+     "p": "WR",
+     "t": "KC",
+     "h": "Wallner"
+    },
+    {
+     "n": "Tyquan Thornton",
+     "p": "WR",
+     "t": "KC",
      "h": "DMsourbeer"
     },
     {
-     "n": "Matthew Golden",
+     "n": "Noah Gray",
+     "p": "TE",
+     "t": "KC",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Jalen Royals",
      "p": "WR",
-     "t": "GB",
+     "t": "KC",
      "h": "HillBillyWorm"
     },
     {
-     "n": "Jayden Reed",
-     "p": "WR",
-     "t": "GB",
-     "h": "Thnu"
-    },
-    {
-     "n": "Christian Watson",
-     "p": "WR",
-     "t": "GB",
-     "h": "Thnu"
-    },
-    {
-     "n": "Skyy Moore",
-     "p": "WR",
-     "t": "GB",
-     "h": "Thnu"
-    },
-    {
-     "n": "Tucker Kraft",
-     "p": "TE",
-     "t": "GB",
-     "h": "Thnu"
-    },
-    {
-     "n": "Tyrod Taylor",
-     "p": "QB",
-     "t": "GB",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Chris Brooks",
+     "n": "Emmett Johnson",
      "p": "RB",
-     "t": "GB",
+     "t": "KC",
      "h": "YoungBuck04"
+    },
+    {
+     "n": "Garrett Nussmeier",
+     "p": "QB",
+     "t": "KC",
+     "h": "triccster"
     }
    ],
    "managers": [
@@ -991,9 +1163,10 @@
     "DMsourbeer",
     "HillBillyWorm",
     "Jbird531",
-    "Thnu",
+    "TuanonStan",
+    "Wallner",
     "YoungBuck04",
-    "brettmn13"
+    "triccster"
    ],
    "score": 16.0
   },
@@ -1064,99 +1237,6 @@
      "p": "RB",
      "t": "LV",
      "h": "Colt45Johnson"
-    },
-    {
-     "n": "Malik Benson",
-     "p": "WR",
-     "t": "LV",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Jalen Nailor",
-     "p": "WR",
-     "t": "LV",
-     "h": "YoungBuck04"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "Thnu",
-    "Wallner",
-    "YoungBuck04",
-    "butterygoop"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Raiders' Fernando Mendoza vows to learn from first NFL start, a loss to Seahawks",
-   "url": "https://www.espn.com/nfl/story/_/id/50498040/raiders-fernando-mendoza-vows-learn-first-nfl-start",
-   "date": "2026-11-16",
-   "kind": "news",
-   "teams": [
-    "LV"
-   ],
-   "named": [
-    {
-     "n": "Fernando Mendoza",
-     "p": "QB",
-     "t": "LV",
-     "h": "Jbird531"
-    }
-   ],
-   "lead": [
-    "Fernando Mendoza"
-   ],
-   "ripple": [
-    {
-     "n": "Michael Mayer",
-     "p": "TE",
-     "t": "LV",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Cody White",
-     "p": "WR",
-     "t": "LV",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Dont'e Thornton Jr.",
-     "p": "WR",
-     "t": "LV",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Jack Bech",
-     "p": "WR",
-     "t": "LV",
-     "h": "Wallner"
-    },
-    {
-     "n": "Tre Tucker",
-     "p": "WR",
-     "t": "LV",
-     "h": "Wallner"
-    },
-    {
-     "n": "Mike Washington Jr.",
-     "p": "RB",
-     "t": "LV",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Ashton Jeanty",
-     "p": "RB",
-     "t": "LV",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Brock Bowers",
-     "p": "TE",
-     "t": "LV",
-     "h": "Thnu"
     },
     {
      "n": "Malik Benson",
@@ -1294,215 +1374,106 @@
    "score": 16.0
   },
   {
-   "headline": "Kirk Cousins emotional after win in Vikings return, reflects on 'tough 3 years'",
-   "url": "https://www.espn.com/nfl/story/_/id/50495965/kirk-cousins-emotional-getting-win-return-vikings",
-   "date": "2026-11-16",
+   "headline": "Sources: Patriots fear Drake Maye has broken ankle, could miss rest of season",
+   "url": "https://www.espn.com/nfl/story/_/id/50500352/patriots-qb-drake-maye-leg-miss-extended-sources-say",
+   "date": "2026-11-17",
    "kind": "news",
    "teams": [
-    "MIN"
+    "DET",
+    "NE"
    ],
    "named": [
     {
-     "n": "Kirk Cousins",
+     "n": "Drake Maye",
      "p": "QB",
-     "t": "MIN",
-     "h": "Colt45Johnson"
-    }
-   ],
-   "lead": [
-    "Kirk Cousins"
-   ],
-   "ripple": [
-    {
-     "n": "Jordan Addison",
-     "p": "WR",
-     "t": "MIN",
+     "t": "NE",
      "h": "Jbird531"
     },
     {
-     "n": "Myles Price",
+     "n": "A.J. Brown",
      "p": "WR",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Carson Wentz",
-     "p": "QB",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Jordan Mason",
-     "p": "RB",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Odell Beckham Jr.",
-     "p": "WR",
-     "t": "MIN",
-     "h": "BROCKSTARxD"
-    },
-    {
-     "n": "Tai Felton",
-     "p": "WR",
-     "t": "MIN",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "Demond Claiborne",
-     "p": "RB",
-     "t": "MIN",
-     "h": "HillBillyWorm"
-    },
-    {
-     "n": "DeeJay Dallas",
-     "p": "RB",
-     "t": "MIN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jauan Jennings",
-     "p": "WR",
-     "t": "MIN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Aaron Jones Sr.",
-     "p": "RB",
-     "t": "MIN",
-     "h": "Thnu"
-    },
-    {
-     "n": "Kyler Murray",
-     "p": "QB",
-     "t": "MIN",
-     "h": "Thnu"
-    },
-    {
-     "n": "Justin Jefferson",
-     "p": "WR",
-     "t": "MIN",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "T.J. Hockenson",
-     "p": "TE",
-     "t": "MIN",
-     "h": "YoungBuck04"
-    }
-   ],
-   "managers": [
-    "BROCKSTARxD",
-    "Colt45Johnson",
-    "HillBillyWorm",
-    "Jbird531",
-    "Thnu",
-    "YoungBuck04",
-    "brettmn13"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Texans lose RB Woody Marks to concussion in loss to Browns",
-   "url": "https://www.espn.com/nfl/story/_/id/50493317/texans-lose-rb-woody-marks-concussion-browns",
-   "date": "2026-11-15",
-   "kind": "news",
-   "teams": [
-    "HOU"
-   ],
-   "named": [
-    {
-     "n": "Woody Marks",
-     "p": "RB",
-     "t": "HOU",
-     "h": "Thnu"
+     "t": "NE",
+     "h": "butterygoop"
     }
    ],
    "lead": [
-    "Woody Marks"
+    "Drake Maye"
    ],
    "ripple": [
     {
-     "n": "Tank Dell",
+     "n": "Kyle Williams",
      "p": "WR",
-     "t": "HOU",
-     "h": "Jbird531"
+     "t": "NE",
+     "h": "TuanonStan"
     },
     {
-     "n": "Marvin Harrison Jr.",
+     "n": "Romeo Doubs",
      "p": "WR",
-     "t": "HOU",
+     "t": "NE",
      "h": "brettmn13"
     },
     {
-     "n": "Xavier Hutchinson",
+     "n": "Mack Hollins",
      "p": "WR",
-     "t": "HOU",
+     "t": "NE",
      "h": "BROCKSTARxD"
     },
     {
-     "n": "Nico Collins",
-     "p": "WR",
-     "t": "HOU",
-     "h": "butterygoop"
-    },
-    {
-     "n": "C.J. Stroud",
-     "p": "QB",
-     "t": "HOU",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Cade Stover",
-     "p": "TE",
-     "t": "HOU",
-     "h": "Wallner"
-    },
-    {
-     "n": "David Montgomery",
+     "n": "Rhamondre Stevenson",
      "p": "RB",
-     "t": "HOU",
-     "h": "DMsourbeer"
+     "t": "NE",
+     "h": "butterygoop"
     },
     {
-     "n": "Jayden Higgins",
-     "p": "WR",
-     "t": "HOU",
+     "n": "Corey Kiner",
+     "p": "RB",
+     "t": "NE",
      "h": "HillBillyWorm"
     },
     {
-     "n": "Kayshon Boutte",
+     "n": "DeMario Douglas",
      "p": "WR",
-     "t": "HOU",
+     "t": "NE",
      "h": "Colt45Johnson"
     },
     {
-     "n": "Jaylin Noel",
+     "n": "TreVeyon Henderson",
+     "p": "RB",
+     "t": "NE",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Efton Chism III",
      "p": "WR",
-     "t": "HOU",
+     "t": "NE",
      "h": "Thnu"
     },
     {
-     "n": "Dalton Schultz",
+     "n": "Eli Raridon",
      "p": "TE",
-     "t": "HOU",
+     "t": "NE",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Hunter Henry",
+     "p": "TE",
+     "t": "NE",
      "h": "triccster"
     }
    ],
    "managers": [
     "BROCKSTARxD",
     "Colt45Johnson",
-    "DMsourbeer",
     "HillBillyWorm",
     "Jbird531",
     "Thnu",
-    "Wallner",
+    "TuanonStan",
+    "YoungBuck04",
     "brettmn13",
     "butterygoop",
     "triccster"
    ],
-   "score": 16.0
+   "score": 15.0
   }
  ],
  "source": "ESPN NFL news, headlines and links only",
