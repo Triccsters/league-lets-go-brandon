@@ -1371,6 +1371,208 @@
      ]
     }
    ]
+  },
+  {
+   "id": "position-groups",
+   "style": "article",
+   "place": "after-lead",
+   "label": "Position groups",
+   "title": "What each spot has actually produced",
+   "dek": "Two different questions, and with twenty bench spots they are a long way apart. From the lineup is what a manager has banked at that spot over ten weeks, with the two flexes and the superflex counting toward whichever position filled them. On paper is every point the roster as it sits today has scored this season, including points scored for a previous owner. Both are scored this league's way, so the tight end numbers run high.",
+   "blocks": [
+    {
+     "type": "table",
+     "cols": [
+      "Spot",
+      "Most from the lineup",
+      "Least from the lineup",
+      "Best room on paper (started)"
+     ],
+     "rows": [
+      [
+       "QB",
+       "Colt45Johnson 463, butterygoop 396, DMsourbeer 385",
+       "Wallner 259, Thnu 168",
+       "Colt45Johnson 730 (463)"
+      ],
+      [
+       "RB",
+       "Colt45Johnson 503, brettmn13 490, triccster 447",
+       "YoungBuck04 189, Jbird531 168",
+       "Colt45Johnson 722 (503)"
+      ],
+      [
+       "WR",
+       "TuanonStan 696, butterygoop 642, Colt45Johnson 600",
+       "Jbird531 271, brettmn13 269",
+       "HillBillyWorm 851 (538)"
+      ],
+      [
+       "TE",
+       "Jbird531 279, butterygoop 268, Thnu 251",
+       "HillBillyWorm 115, brettmn13 92",
+       "butterygoop 453 (268)"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Colt45Johnson is first at quarterback and first at running back on both measures, 730 on paper and 463 from the lineup at one, 722 and 503 at the other. Nobody else in this league tops a position on both counts. The 9-1 and the 225.68 are the roster, not a hot streak."
+    },
+    {
+     "type": "p",
+     "text": "The receiver picture flips completely between the two columns. On paper the top three sit inside 30 points, HillBillyWorm 851, Colt45Johnson 825, butterygoop 821. From the lineup it reads TuanonStan 696, butterygoop 642, Colt45Johnson 600, and HillBillyWorm falls to fourth on 538. Some 313 points of the best receiver room in the league have never been started."
+    },
+    {
+     "type": "p",
+     "text": "brettmn13 is last at both receiver and tight end from the lineup, 269 and 92, and second in the entire league at running back on 490. That is not a bare roster, it is a roster with one position carrying the whole thing."
+    },
+    {
+     "type": "note",
+     "text": "Through week 10, from Sleeper box scores. From the lineup counts only players actually started that week. On paper counts every point the current roster has scored this season, whoever owned the player at the time."
+    }
+   ]
+  },
+  {
+   "id": "bye-crunch",
+   "style": "article",
+   "place": "after-lead",
+   "label": "The bye crunch",
+   "title": "Six teams are off, and it lands very unevenly",
+   "dek": "Atlanta, Cleveland, Green Bay, the Rams, New England and Seattle. Roster depth makes a headcount meaningless here, so this is every rostered player on a bye team ranked by what he has scored this season.",
+   "blocks": [
+    {
+     "type": "table",
+     "cols": [
+      "Manager",
+      "Off",
+      "Season points off",
+      "The ones that matter"
+     ],
+     "rows": [
+      [
+       "TuanonStan",
+       "10",
+       "576",
+       "Puka Nacua 173, Matthew Stafford 172, Quinshon Judkins 108, Kyle Pitts 92"
+      ],
+      [
+       "HillBillyWorm",
+       "10",
+       "461",
+       "Bijan Robinson 194, Matthew Golden 160"
+      ],
+      [
+       "Thnu",
+       "6",
+       "428",
+       "Christian Watson 183, Tucker Kraft 111, Davante Adams 102"
+      ],
+      [
+       "Colt45Johnson",
+       "6",
+       "341",
+       "Jaxon Smith-Njigba 263"
+      ],
+      [
+       "Jbird531",
+       "4",
+       "301",
+       "Drake Maye 187, Deshaun Watson 114"
+      ],
+      [
+       "butterygoop",
+       "6",
+       "261",
+       "Drake London 133, Kyren Williams 88"
+      ],
+      [
+       "triccster",
+       "7",
+       "234",
+       "Harold Fannin Jr. 138, Hunter Henry 59"
+      ],
+      [
+       "DMsourbeer",
+       "5",
+       "219",
+       "Jordan Love 198"
+      ],
+      [
+       "BROCKSTARxD",
+       "6",
+       "158",
+       "KC Concepcion Jr. 96, Emanuel Wilson 62"
+      ],
+      [
+       "YoungBuck04",
+       "6",
+       "109",
+       "Tyler Higbee 58"
+      ],
+      [
+       "brettmn13",
+       "4",
+       "101",
+       "Romeo Doubs 46, Josh Jacobs 43"
+      ],
+      [
+       "Wallner",
+       "3",
+       "12",
+       "Colby Parkinson 12"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The two 7-3 teams are the two worst hit. TuanonStan loses the most in the league, 576 points across ten players, and it falls in the week he plays Wallner, the team directly behind him and the least affected side in the league by a distance: three players and 12 points."
+    },
+    {
+     "type": "p",
+     "text": "The one-seed game is not clean either. Colt45Johnson loses 341, nearly all of it Jaxon Smith-Njigba on his own, and butterygoop loses 261, mostly Drake London and Kyren Williams. Both carry that into Sunday. Thnu takes the heaviest toll per player anywhere: six off and 428 points between them."
+    },
+    {
+     "type": "note",
+     "text": "Read live from the Sleeper rosters on Wednesday morning."
+    }
+   ]
+  },
+  {
+   "id": "on-ir",
+   "style": "notes",
+   "place": "after-lead",
+   "label": "On IR",
+   "title": "Who is unavailable, and who has a slot open",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "New to the newsletter this week and running every issue from here. Ten of the twelve are carrying someone in an IR slot."
+    },
+    {
+     "type": "list",
+     "items": [
+      "DMsourbeer — De'Von Achane and Isiah Pacheco, which is most of a backfield and goes a long way to explaining his running back number above",
+      "Wallner — Terry McLaurin",
+      "Thnu — Davante Adams, Jayden Reed",
+      "HillBillyWorm — Jayden Higgins, RJ Harvey",
+      "brettmn13 — David Njoku, Romeo Doubs",
+      "YoungBuck04 — James Conner, Malik Davis",
+      "BROCKSTARxD — Terrance Ferguson, Tyrell Shavers",
+      "Colt45Johnson — Jake Tonges, Trey Lance",
+      "triccster — Ricky Pearsall",
+      "Jbird531 — Jalen McMillan"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "TuanonStan and butterygoop are the only two with an empty IR slot, which is its own kind of luck over ten weeks."
+    },
+    {
+     "type": "note",
+     "text": "No return dates are attached to any of these, so this is a list of who is unavailable rather than a list of who is close."
+    }
+   ]
   }
  ],
  "power": {
