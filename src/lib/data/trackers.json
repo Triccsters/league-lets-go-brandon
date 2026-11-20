@@ -441,43 +441,43 @@
       ],
       [
        "@@HillBillyWorm",
-       "99.1%",
+       "99.0%",
        "Lock",
        0.0
       ],
       [
        "@@TuanonStan",
-       "95.8%",
+       "95.7%",
        "Lock",
-       "+34.6"
+       "+34.5"
       ],
       [
        "@@Wallner",
-       "80.5%",
+       "80.4%",
        "Likely",
-       "+56.9"
+       "+56.8"
       ],
       [
        "@@triccster",
-       "59.2%",
+       "59.3%",
        "Bubble",
-       "+14.5"
+       "+14.6"
       ],
       [
        "@@DMsourbeer",
-       "56.1%",
+       "56.0%",
        "Bubble",
-       "+37.9"
+       "+37.8"
       ],
       [
        "@@Thnu",
-       "5.7%",
+       "5.6%",
        "Long shot",
        0.0
       ],
       [
        "@@BROCKSTARxD",
-       "3.2%",
+       "3.4%",
        "Long shot",
        0.0
       ],
@@ -938,7 +938,7 @@
        "@@Colt45Johnson",
        "Kirk Cousins",
        "QB MIN",
-       17.6
+       17.5
       ],
       [
        "@@brettmn13",
@@ -962,7 +962,7 @@
        "@@triccster",
        "Derrick Henry",
        "RB BAL",
-       10.4
+       10.3
       ],
       [
        "@@butterygoop",
@@ -1078,12 +1078,12 @@
        8,
        "@@YoungBuck04",
        21.5,
-       "Antonio Williams, Tyler Higbee, Keenan Allen"
+       "Antonio Williams, Tyler Higbee, Oronde Gadsden"
       ],
       [
        9,
        "@@BROCKSTARxD",
-       19.9,
+       20.0,
        "Xavier Hutchinson, Xavier Worthy, Malachi Fields"
       ],
       [
@@ -1101,7 +1101,7 @@
       [
        12,
        "@@Thnu",
-       10.0,
+       9.9,
        "Noah Fant, Darnell Mooney, Demarcus Robinson"
       ]
      ]
@@ -1323,35 +1323,35 @@
        "@@TuanonStan",
        4,
        35.3,
-       "Quinshon Judkins, Denzel Boston, Kyle Pitts Sr., Matthew Stafford"
+       "Matthew Stafford, Kyle Pitts Sr., Denzel Boston, Quinshon Judkins"
       ],
       [
        11,
        "@@Thnu",
        3,
        34.0,
-       "Christian Watson, Tucker Kraft, Davante Adams"
+       "Tucker Kraft, Christian Watson, Davante Adams"
       ],
       [
        11,
        "@@HillBillyWorm",
        2,
        26.8,
-       "Matthew Golden, Bijan Robinson"
+       "Bijan Robinson, Matthew Golden"
       ],
       [
        11,
        "@@brettmn13",
        2,
        13.2,
-       "Josh Jacobs, Romeo Doubs"
+       "Romeo Doubs, Josh Jacobs"
       ],
       [
        14,
        "@@butterygoop",
        3,
        42.1,
-       "Javonte Williams, CeeDee Lamb, Trey McBride"
+       "CeeDee Lamb, Javonte Williams, Trey McBride"
       ]
      ]
     }
@@ -1455,7 +1455,7 @@
        "@@Thnu",
        12,
        11,
-       26.7,
+       26.8,
        "Rebuild"
       ]
      ]
@@ -1579,19 +1579,19 @@
        "@@Colt45Johnson",
        7,
        3,
-       "Joe Burrow 22.6, Kirk Cousins 17.6, Dak Prescott 13.9"
+       "Joe Burrow 22.6, Kirk Cousins 17.5, Dak Prescott 13.9"
       ],
       [
        "@@DMsourbeer",
        6,
        3,
-       "Patrick Mahomes 19.2, Jordan Love 13.8, Geno Smith 11.7"
+       "Patrick Mahomes 19.3, Jordan Love 13.8, Geno Smith 11.7"
       ],
       [
        "@@Wallner",
        8,
        2,
-       "Bo Nix 17.2, Joe Milton 13.6, Joe Fagnano 0.0"
+       "Bo Nix 17.3, Joe Milton 13.6, Joe Fagnano 0.0"
       ],
       [
        "@@brettmn13",
@@ -1603,31 +1603,31 @@
        "@@Jbird531",
        6,
        2,
-       "J.J. McCarthy 14.4, Deshaun Watson 10.9, Fernando Mendoza 10.0"
+       "J.J. McCarthy 14.3, Deshaun Watson 10.9, Fernando Mendoza 10.0"
       ],
       [
        "@@BROCKSTARxD",
        6,
        2,
-       "Brock Purdy 18.8, Baker Mayfield 11.6, Cade Klubnik 0.0"
+       "Brock Purdy 18.8, Baker Mayfield 15.1, Cade Klubnik 0.0"
       ],
       [
        "@@butterygoop",
        5,
        2,
-       "Josh Allen 23.5, C.J. Stroud 19.1, Tyson Bagent 0.0"
+       "Josh Allen 23.4, C.J. Stroud 19.1, Tyson Bagent 0.0"
       ],
       [
        "@@triccster",
        5,
        2,
-       "Jared Goff 18.3, Tyler Shough 15.8, Michael Penix Jr. 10.6"
+       "Jared Goff 18.4, Tyler Shough 15.7, Michael Penix Jr. 10.6"
       ],
       [
        "@@YoungBuck04",
        6,
        1,
-       "Aaron Rodgers 15.0, Jacoby Brissett 8.9, Mac Jones 0.0"
+       "Aaron Rodgers 15.1, Jacoby Brissett 8.9, Mac Jones 0.0"
       ],
       [
        "@@Thnu",
@@ -1695,14 +1695,14 @@
        "Rico Dowdle",
        28,
        2,
-       8.0
+       8.1
       ],
       [
        "@@Colt45Johnson",
        "Chuba Hubbard",
        27,
        2,
-       16.1
+       16.2
       ],
       [
        "@@HillBillyWorm",
@@ -1716,7 +1716,7 @@
        "Kenny Gainwell",
        27,
        3,
-       5.9
+       6.0
       ],
       [
        "@@HillBillyWorm",
@@ -1730,7 +1730,7 @@
        "Derrick Henry",
        32,
        4,
-       10.4
+       10.3
       ],
       [
        "@@triccster",
@@ -1744,7 +1744,7 @@
        "Jonathan Taylor",
        27,
        5,
-       11.6
+       11.5
       ],
       [
        "@@Wallner",
@@ -1754,11 +1754,11 @@
        9.8
       ],
       [
-       "@@TuanonStan",
-       "Samaje Perine",
-       31,
+       "@@DMsourbeer",
+       "David Montgomery",
+       29,
        6,
-       7.3
+       11.1
       ]
      ]
     },
